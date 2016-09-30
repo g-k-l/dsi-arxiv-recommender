@@ -33,19 +33,19 @@ from datetime import date, timedelta
 # cur = conn.cursor()
 # cur.execute("CREATE TABLE test (...)")
 #
-start_date = datetime(1992,1,1)
+start_date = date(1992,1,1)
 # start_date = date(2016,9,20)
 end_date = date(2016,9,24)
 output_dir = '../tmp'
 current_date = start_date
-td = timedelta(days=1)
+td = timedelta(days=180)
 
 while current_date+td != end_date:
     try:
         get_xml = "oai-harvest --from %s --until %s -d %s http://export.arxiv.org/oai2"%(str(current_date), str(current_date+td), output_dir)
         os.system(get_xml)
-        move_to_s3 = "aws s3 mv ../tmp s3://arxiv_meta_data_raw --recursive"
+        move_to_s3 = "aws s3 mv ../tmp s3://arxivmetadata --recursive"
         os.system(move_to_s3)
-        current_date+=td*10
+        current_date+=td
     except:
         print 'An error occured. Last iteration current_date: {}'.format(current_date)
