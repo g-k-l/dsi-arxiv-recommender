@@ -39,14 +39,26 @@ Goals: DATABASE. PROPOSAL.
 - Ultimately: Combine the raw text and metadata within a single DB entry
 Completed:
 - Submitted Final Project Proposal
-- 
+- XML getter is running on aws_remote. It will take about 6 hours to grab ~1.1 million files.
+- Started a PSQL database. Now we just need to populate it.
+
+9/30/2016:
+Goals:
+- Final Assessment!
+- Parse metadata XML and store into PSQL. 
+- Write a script to process the source files
+Completed:
+
+
+Update: 
+~8:40 AM: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
 
 
 Notes:
 - arXiv changed its identifer scheme on March 2007. See https://arxiv.org/help/arxiv_identifier 
 - Since SciExplorer is built on post-2007 papers, its parser only handles the new scheme.
 - Therefore we will need to write a parser for the old scheme.
-
+- http://s3tools.org/usage
 
 AWS PostgreSQL DB:
 psql --host=arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com --port=5432 --username=root --password --dbname=arxivpsql
