@@ -44,7 +44,7 @@ while current_date+td != end_date:
     try:
         get_xml = "oai-harvest --from %s --until %s -d %s http://export.arxiv.org/oai2"%(str(current_date), str(current_date+td), output_dir)
         os.system(get_xml)
-        move_to_s3 = "aws s3 mv ../tmp s3://arxiv_meta_data_raw --recursive"
+        move_to_s3 = "aws s3 mv ../tmp s3://arxivmetadata --recursive"
         os.system(move_to_s3)
         current_date+=td
     except:
