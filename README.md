@@ -15,6 +15,7 @@ Sometime in between: lecture on presentation
 10/21 Friday: Day off
 10/24-10/28: Interview prep. Course review. Graduation.
 
+Tips:
 The data-modeling-analysis-presentation loop should be completed ASAP.
 No live demo allowed on presentation.
 Always do what you set out to do for the day.
@@ -48,17 +49,32 @@ Goals:
 - Parse metadata XML and store into PSQL.
 - Write a script to process the source files
 Completed:
+- Completed the script to parse and insert data into Postgres.
+- Currently inserting rows into Postgres (one at a time since I couldn't get multithreading to work)
+
+10/1/2016:
+Goals:
+- Begin collecting the arXiv source files
+- Write a script that unpacks and organizes the arXiv source files
+- Write a script that streams data from Postgres for Doc2Ve
+- Do a Doc2Vec test run with a subset of the metadata (~100000) (Possibly impossible)
+Completed:
+-
+-
+-
 
 
 Update:
-~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
-
+- ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
+- ~12:20 AM 10/1/2016: Currently inserted 10000 rows into Postgres.
+- ~9:20 AM 10/1/2016: The row count is now ~590,000
 
 Notes:
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
 - Since SciExplorer is built on post-2007 papers, its parser only handles the new scheme.
 - Therefore we will need to write a parser for the old scheme.
 - http://s3tools.org/usage
+- It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
 
 AWS PostgreSQL DB:
 psql --host=arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com --port=5432 --username=root --password --dbname=arxivpsql
