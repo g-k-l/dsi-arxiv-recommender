@@ -34,7 +34,7 @@ OUTPUT:
 def get_title(root):
     tag = '{http://purl.org/dc/elements/1.1/}title'
     title = root.find(tag)
-    if title: # Make sure title is not None
+    if title is not None:
         return title.text
 
 def get_authors(root):

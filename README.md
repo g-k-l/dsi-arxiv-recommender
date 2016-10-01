@@ -68,11 +68,15 @@ Update:
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
 - ~12:20 AM 10/1/2016: Currently inserted 10000 rows into Postgres.
 - ~9:20 AM 10/1/2016: The row count is now ~590,000
+- ~1:00 PM 10/1/2016: Discovered that titles are missing for all entries. Fixing. Note all other columns have been properly populated. Also running a model on 5000 abstracts as a test. This took ~10 secs on a 4 core EC2 instance.
+- ~1:10 PM 10/1/2016: Found the bug in xml_parser.py. When getting title using a root from an elementtree i.e. title = root.find('...'). Even though title.text contains the title string, bool(title) returns False. Hence the get\_title function always returns None, causing me grief. Fix: use if title is not None instead.
+
 
 Notes:
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
 - Since SciExplorer is built on post-2007 papers, its parser only handles the new scheme.
 - Therefore we will need to write a parser for the old scheme.
+- Turns out it is not necessary to write a new parser.
 - http://s3tools.org/usage
 - It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
 
