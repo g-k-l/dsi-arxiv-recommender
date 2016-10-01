@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Double-Copy Constructions and Unitarity Cuts</dc:title>
+ <dc:creator>Bern, Zvi</dc:creator>
+ <dc:creator>Davies, Scott</dc:creator>
+ <dc:creator>Nohle, Josh</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  The duality between color and kinematics enables the construction of
+multiloop gravity integrands directly from corresponding gauge-theory
+integrands. This has led to new nontrivial insights into the structure of
+gravity theories, including the discovery of enhanced ultraviolet
+cancellations. To continue to gain deeper understandings and probe these new
+properties, it is crucial to further improve techniques for constructing
+multiloop gravity integrands. In this paper, we show by example how one can
+alleviate difficulties encountered at the multiloop level by relaxing the
+color-kinematics duality conditions to hold manifestly only on unitarity cuts
+instead of globally on loop integrands. As an example, we use a minimal ansatz
+to construct an integrand for the two-loop four-point nonsupersymmetric pure
+Yang-Mills amplitude in $D$ dimensions that is compatible with these relaxed
+color-kinematics duality constraints. We then immediately obtain a
+corresponding gravity integrand through the double-copy procedure. Comments on
+ultraviolet divergences are also included.
+</dc:description>
+ <dc:description>Comment: 26 pages, 11 figures, ancillary file, RevTeX</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03448</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 105015 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.105015</dc:identifier>
+ </oai_dc:dc>
+

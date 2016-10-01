@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bounds on probability of state transfer with respect to readout time and
+  edge weight</dc:title>
+ <dc:creator>Gordon, Whitney</dc:creator>
+ <dc:creator>Kirkland, Steve</dc:creator>
+ <dc:creator>Li, Chi-Kwong</dc:creator>
+ <dc:creator>Plosker, Sarah</dc:creator>
+ <dc:creator>Zhang, Xiaohong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>05C50, 15A18, 15A60, 81Q10</dc:subject>
+ <dc:description>  We analyse the sensitivity of a spin chain modelled by an undirected weighted
+connected graph exhibiting perfect state transfer to small perturbations in
+readout time and edge weight in order to obtain physically relevant bounds on
+the probability of state transfer. At the heart of our analysis is the concept
+of the numerical range of a matrix; our analysis of edge weight errors
+additionally makes use of the spectral and Frobenius norms.
+</dc:description>
+ <dc:description>Comment: 8 pages; fixed numerous typos (in particular, in proofs of
+  Proposition III.2 and Theorem III.3</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05550</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.022309</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Heat-charge mixed noise and thermoelectric efficiency fluctuations</dc:title>
+ <dc:creator>Cr&#233;pieux, A.</dc:creator>
+ <dc:creator>Michelini, F.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  The close relationship between the noise and the thermoelectric conversion is
+studied in a quantum dot using a quantum approach based on the non-equilibrium
+Green function technique. We show that both the figure of merit and the
+efficiency can be written in term of noise and we highlight the central role
+played by the correlator between the charge current and the heat current that
+we call the mixed noise. After giving the expression of this quantity as an
+integral over energy, we calculate it, first in the linear response regime,
+next in the limit of small transmission through the barriers (Schottky regime)
+and finally in the intermediate regime. We discuss the notion of efficiency
+fluctuations and we also see here that the mixed noise comes into play.
+</dc:description>
+ <dc:description>Comment: Proceeding of the UPON 2015 conference</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-06-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01056</dc:identifier>
+ <dc:identifier>Journal of Statistical Mechanics: Theory and Experiment, May 2016,
+  054015 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/05/054015</dc:identifier>
+ </oai_dc:dc>
+

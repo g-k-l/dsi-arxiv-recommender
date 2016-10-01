@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The longitudinal and transverse distributions of the pion wavefunction
+  from the present experimental data on the pion-photon transition form factor</dc:title>
+ <dc:creator>Zhong, Tao</dc:creator>
+ <dc:creator>Wu, Xing-Gang</dc:creator>
+ <dc:creator>Huang, Tao</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  It is noted that the low-energy behavior of the pion-photon transition form
+factor $F_{\pi\gamma}(Q^2)$ is sensitive to the transverse distribution of the
+pion wavefunction, and its high-energy behavior is sensitive to the
+longitudinal one. Thus a careful study on $F_{\pi\gamma}(Q^2)$ can provide
+helpful information on the pion wavefunction precisely. In this paper, we
+present a combined analysis of the data on $F_{\pi\gamma}(Q^2)$ reported by the
+CELLO, the CLEO, the BABAR and the BELLE collaborations. It is performed by
+using the method of least squares. By using the combined measurements of BELLE
+and CLEO Collaborations, the pion wavefunction longitudinal and transverse
+behavior can be fixed to a certain degree, i.e. we obtain $\beta \in
+[0.691,0.757] \rm GeV$ and $B \in [0.00,0.235]$ for $P_{\chi^2} \geq 90\%$,
+where $\beta$ and $B$ are two parameters of a convenient pion wavefunction
+model whose distribution amplitude can mimic the various longitudinal behavior
+under proper choice of parameters. We observe that the CELLO, CLEO and BELLE
+data are consistent with each other, all of which prefers the asymptotic-like
+distribution amplitude; while the BABAR data prefers a more broad distribution
+amplitude, such as the CZ-like one.
+</dc:description>
+ <dc:description>Comment: 7 pages, 10 figures</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06924</dc:identifier>
+ <dc:identifier>Eur.Phys.J. C76 (2016) no.7, 390</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-016-4236-0</dc:identifier>
+ </oai_dc:dc>
+

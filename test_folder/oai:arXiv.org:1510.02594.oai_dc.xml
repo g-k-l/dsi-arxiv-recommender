@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A randomness test for functional panels</dc:title>
+ <dc:creator>Kokoszka, Piotr</dc:creator>
+ <dc:creator>Reimherr, Matthew</dc:creator>
+ <dc:creator>W&#246;lfing, Nikolas</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  Functional panels are collections of functional time series, and arise often
+in the study of high frequency multivariate data. We develop a portmanteau
+style test to determine if the cross-sections of such a panel are independent
+and identically distributed. Our framework allows the number of functional
+projections and/or the number of time series to grow with the sample size. A
+large sample justification is based on a new central limit theorem for random
+vectors of increasing dimension. With a proper normalization, the limit is
+standard normal, potentially making this result easily applicable in other FDA
+context in which projections on a subspace of increasing dimension are used.
+The test is shown to have correct size and excellent power using simulated
+panels whose random structure mimics the realistic dependence encountered in
+real panel data. It is expected to find application in climatology, finance,
+ecology, economics, and geophysics. We apply it to Southern Pacific sea surface
+temperature data, precipitation patterns in the South-West United States, and
+temperature curves in Germany.
+</dc:description>
+ <dc:description>Comment: Supplemental material from the authors' homepage or upon request</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02594</dc:identifier>
+ </oai_dc:dc>
+

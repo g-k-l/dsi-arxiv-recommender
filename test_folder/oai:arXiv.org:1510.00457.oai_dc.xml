@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Deficiency, commensurators and 4-dimensional infrasolvmanifolds</dc:title>
+ <dc:creator>Hillman, J. A.</dc:creator>
+ <dc:subject>Mathematics - Group Theory</dc:subject>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:subject>20F99</dc:subject>
+ <dc:description>  We show that if $\pi$ is the fundamental group of a 4-dimensional
+infrasolvmanifold then $-2\leq{def(\pi)}\leq0$, and give examples realizing
+each of these values. We also determine the abstract commensurators of such
+groups. Finally we show that if $G$ is a finitely generated group the kernel of
+the natural homomorphism from $G$ to its abstract commensurator $Comm(G)$ is
+locally nilpotent by locally finite, and is finite if $\mathrm{def}(G)&gt;1$.
+</dc:description>
+ <dc:description>Comment: Introduction and \S3.6 expanded; minor corrections. Estimates for
+  torsion-free nilpotent groups (\S3.6) added in v3</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-05-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00457</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Realization of a binary-outcome projection measurement of a three-level
+  superconducting quantum system</dc:title>
+ <dc:creator>Jerger, Markus</dc:creator>
+ <dc:creator>Macha, Pascal</dc:creator>
+ <dc:creator>Hamann, Andr&#233;s Rosario</dc:creator>
+ <dc:creator>Reshitnyk, Yarema</dc:creator>
+ <dc:creator>Juliusson, Kristinn</dc:creator>
+ <dc:creator>Fedorov, Arkady</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Binary-outcome measurements allow to determine whether a multi-level quantum
+system is in a certain state while preserving quantum coherence between all
+orthogonal states. In this paper, we explore different regimes of the
+dispersive readout of a three-level superconducting quantum system coupled to a
+microwave cavity in order to implement binary-outcome measurements. By
+designing identical cavity frequency shifts for the first and second excited
+states of the system, we realize strong projective binary-outcome measurements
+onto its ground state with a fidelity of $94.3\%$. Complemented with standard
+microwave control and low-noise parametric amplification, this scheme enables
+the quantum non-demolition detection of leakage errors and can be used to
+create sets of compatible measurements to reveal the contextual nature of
+superconducting circuits.
+</dc:description>
+ <dc:description>Comment: 9 pages, 4 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-08-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08214</dc:identifier>
+ <dc:identifier>Phys. Rev. Applied 6, 014014 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevApplied.6.014014</dc:identifier>
+ </oai_dc:dc>
+

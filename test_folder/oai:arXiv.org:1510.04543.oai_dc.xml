@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal design of auxetic hexachiral metamaterials with local resonators</dc:title>
+ <dc:creator>Bacigalupo, Andrea</dc:creator>
+ <dc:creator>Lepidi, Marco</dc:creator>
+ <dc:creator>Gnecco, Giorgio</dc:creator>
+ <dc:creator>Gambarotta, Luigi</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  A parametric beam lattice model is formulated to analyse the propagation
+properties of elastic in-plane waves in an auxetic material based on a
+hexachiral topology of the periodic cell, equipped with inertial local
+resonators. The Floquet-Bloch boundary conditions are imposed on a reduced
+order linear model in the only dynamically active degrees-offreedom. Since the
+resonators can be designed to open and shift band gaps, an optimal design,
+focused on the largest possible gap in the low-frequency range, is achieved by
+solving a maximization problem in the bounded space of the significant
+geometrical and mechanical parameters. A local optimized solution, for a the
+lowest pair of consecutive dispersion curves, is found by employing the
+globally convergent version of the Method of Moving asymptotes, combined with
+Monte Carlo and quasi-Monte Carlo multi-start techniques.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04543</dc:identifier>
+ <dc:identifier>doi:10.1088/0964-1726/25/5/054009</dc:identifier>
+ </oai_dc:dc>
+

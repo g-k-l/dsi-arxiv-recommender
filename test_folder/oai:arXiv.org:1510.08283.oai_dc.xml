@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sobolev spaces with respect to weighted Gaussian measures in infinite
+  dimensions</dc:title>
+ <dc:creator>Ferrari, Simone</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  Let $X$ be a separable Banach space endowed with a non degenerate Gaussian
+measure $\mu$ and let $w$ be a positive function on $X$ such that $w\in
+W^{1,s}(X,\mu)$ and $\log w\in W^{1,t}(X,\mu)$ for some $s&gt;1$ and $t&gt;s'$. We
+introduce and study weighted Sobolev functions and their traces on
+hypersurfaces of the form $\{x\in X\,|\, G(x) = 0\}$, where $w$ is the chosen
+weight and $G$ is a suitable version of Gaussian Sobolev function.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08283</dc:identifier>
+ </oai_dc:dc>
+

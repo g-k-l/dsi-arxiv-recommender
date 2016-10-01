@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Migration of helium-pair in metals</dc:title>
+ <dc:creator>Cao, J. L.</dc:creator>
+ <dc:creator>Geng, W. T.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Understanding helium accumulation in plasma-facing or structural materials in
+a fusion reactor starts from uncovering the details of the migration of single
+and paired He interstitials. We have carried out a first-principles density
+functional theory investigation into the migration of both a single
+interstitial He atom and an interstitial He-pair in bcc (Fe, Mo and W) and fcc
+(Cu, Pd and Pt) metals. By identifying the most stable configurations of an
+interstitial He-pair in each metal and decomposing its motion into rotational,
+translational, and rotational-translational routines, we are able to determine
+its migration barrier and trajectory. Our first-principles calculations reveal
+that the migration trajectories and barriers are determined predominantly by
+the relatively stable He-pair configurations which depend mainly on the
+stability of a single He in different interstices. Contrary to atomistic
+studies reported in literature, the migration barrier in bcc Fe, Mo, and W is
+0.07, 0.07, and 0.08 eV respectively, always slightly higher than for a single
+interstitial He (0.06 eV for all three). Configurations of a He-pair in fcc
+metals are much more complicated, due to the stability closeness of different
+interstitial sites for a single He atom. In both Cu and Pd, the migration of a
+He-pair proceeds by moving one He at a time from one tetrahedral site to
+neighboring octahedral site; whereas in Pt the two He move simultaneously
+because the bridge interstitial site presents an extremely low barrier. The
+migration barrier for a He-pair is 0.05, 0.15, and 0.04 eV for Cu, Pd, and Pt,
+slightly lower than (in Cu), or similar to (in Pd and Pt) a single He, which is
+0.08, 0.15, and 0.03 eV, respectively. The associative motions of a He-pair are
+ensured by the strong He-He interactions in metals which are chemical
+bonding-like and can be described very well with Morse potentials.
+</dc:description>
+ <dc:description>Comment: 34 pages, 12 figures</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02586</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jnucmat.2016.05.030</dc:identifier>
+ </oai_dc:dc>
+

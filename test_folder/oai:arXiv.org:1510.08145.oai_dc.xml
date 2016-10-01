@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nature of Many-Body Localization and Transitions by Density Matrix
+  Renormaliztion Group and Exact Diagonalization Studies</dc:title>
+ <dc:creator>Lim, S. P.</dc:creator>
+ <dc:creator>Sheng, D. N.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  A many-body localized (MBL) state is a new state of matter emerging in a
+disordered interacting system at high energy densities through a disorder
+driven dynamic phase transition. The nature of the phase transition and the
+evolution of the MBL phase near the transition are the focus of intense
+theoretical studies with open issues in the field. We develop an entanglement
+density matrix renormalization group (En-DMRG) algorithm to accurately target
+the entanglement patterns of highly excited states for MBL systems. By studying
+the one dimensional Heisenberg spin chain in a random field, we demonstrate the
+high accuracy of the method in obtaining statistical results of quantum states
+in the MBL phase. Based on large system simulations by En-DMRG for excited
+states, we demonstrate some interesting features in the entanglement entropy
+distribution function, which is characterized by two peaks; one at zero and
+another one at the quantized entropy $S=ln2$ with an exponential decay tail on
+the $S&gt;ln2$ side. Combining En-DMRG with exact diagonalization simulations, we
+demonstrate that the transition from the MBL phase to the delocalized ergodic
+phase is driven by rare events where the locally entangled spin pairs develop
+long-range power-law correlations. The corresponding phase diagram contains an
+intermediate regime, which has power-law spin-z correlations resulting from
+contributions of the rare events. We discuss the physical picture for the
+numerical observations in the intermediate regime, where various distribution
+functions are distinctly different from results deep in the ergodic and MBL
+phases for finite-size systems. Our results may provide new insights for
+understanding the phase transition in such systems.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures, revision and added more discussions</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-11-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08145</dc:identifier>
+ <dc:identifier>Phys. Rev. B 94, 045111 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.94.045111</dc:identifier>
+ </oai_dc:dc>
+

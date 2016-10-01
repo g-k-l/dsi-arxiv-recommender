@@ -1,0 +1,62 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Depth-Resolved Composition and Electronic Structure of Buried Layers and
+  Interfaces in a LaNiO$_3$/SrTiO$_3$ Superlattice from Soft- and Hard- X-ray
+  Standing-Wave Angle-Resolved Photoemission</dc:title>
+ <dc:creator>Eiteneer, D.</dc:creator>
+ <dc:creator>P&#225;lsson, G. K.</dc:creator>
+ <dc:creator>Nem&#353;&#225;k, S.</dc:creator>
+ <dc:creator>Gray, A. X.</dc:creator>
+ <dc:creator>Kaiser, A. M.</dc:creator>
+ <dc:creator>Son, J.</dc:creator>
+ <dc:creator>LeBeau, J.</dc:creator>
+ <dc:creator>Conti, G.</dc:creator>
+ <dc:creator>Greer, A. A.</dc:creator>
+ <dc:creator>Keqi, A.</dc:creator>
+ <dc:creator>Rattanachata, A.</dc:creator>
+ <dc:creator>Saw, A. Y.</dc:creator>
+ <dc:creator>Bostwick, A.</dc:creator>
+ <dc:creator>Rotenberg, E.</dc:creator>
+ <dc:creator>Gullikson, E. M.</dc:creator>
+ <dc:creator>Ueda, S.</dc:creator>
+ <dc:creator>Kobayashi, K.</dc:creator>
+ <dc:creator>Janotti, A.</dc:creator>
+ <dc:creator>Van de Walle, C. G.</dc:creator>
+ <dc:creator>Blanca-Romero, A.</dc:creator>
+ <dc:creator>Pentcheva, R.</dc:creator>
+ <dc:creator>Schneider, C. M.</dc:creator>
+ <dc:creator>Stemmer, S.</dc:creator>
+ <dc:creator>Fadley, C. S.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  LaNiO$_3$ (LNO) is an intriguing member of the rare-earth nickelates in
+exhibiting a metal-insulator transition for a critical film thickness of about
+4 unit cells [Son et al., Appl. Phys. Lett. 96, 062114 (2010)]; however, such
+thin films also show a transition to a metallic state in superlattices with
+SrTiO$_3$ (STO) [Son et al., Appl. Phys. Lett. 97, 202109 (2010)]. In order to
+better understand this transition, we have studied a strained LNO/STO
+superlattice with 10 repeats of [4 unit-cell LNO/3 unit-cell STO] grown on an
+(LaAlO$_3$)$_{0.3}$(Sr$_2$AlTaO$_6$)$_{0.7}$ substrate using soft x-ray
+standing-wave-excited angle-resolved photoemission (SWARPES), together with
+soft- and hard- x-ray photoemission measurements of core levels and
+densities-of-states valence spectra. The experimental results are compared with
+state-of-the-art density functional theory (DFT) calculations of band
+structures and densities of states. Using core-level rocking curves and x-ray
+optical modeling to assess the position of the standing wave, SWARPES
+measurements are carried out for various incidence angles and used to determine
+interface-specific changes in momentum-resolved electronic structure. We
+further show that the momentum-resolved behavior of the Ni 3d eg and t2g states
+near the Fermi level, as well as those at the bottom of the valence bands, is
+very similar to recently published SWARPES results for a related
+La$_{0.7}$Sr$_{0.3}$MnO$_3$/SrTiO$_3$ superlattice that was studied using the
+same technique (Gray et al., Europhysics Letters 104, 17004 (2013)), which
+further validates this experimental approach and our conclusions. Our
+conclusions are also supported in several ways by comparison to DFT
+calculations for the parent materials and the superlattice, including
+layer-resolved density-of-states results.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-05-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06600</dc:identifier>
+ <dc:identifier>doi:10.1016/j.elspec.2016.04.008</dc:identifier>
+ </oai_dc:dc>
+

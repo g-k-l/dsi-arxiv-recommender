@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>CMB all-scale blackbody distortions induced by linearizing temperature</dc:title>
+ <dc:creator>Notari, Alessio</dc:creator>
+ <dc:creator>Quartin, Miguel</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Cosmic Microwave Background (CMB) experiments, such as WMAP and Planck,
+measure intensity anisotropies and build maps using a linearized formula for
+relating them to the temperature blackbody fluctuations. However, this
+procedure also generates a signal in the maps in the form of y-type distortions
+which is degenerate with the thermal Sunyaev Zel'dovich (tSZ) effect. These are
+small effects that arise at second-order in the temperature fluctuations not
+from primordial physics but from such a limitation of the map-making procedure.
+They constitute a contaminant for measurements of: our peculiar velocity, the
+tSZ and primordial y-distortions. They can nevertheless be well-modeled and
+accounted for. We show that the distortions arise from a leakage of the CMB
+dipole into the y-channel which couples to all multipoles, mostly affecting the
+range $\ell$ &lt; ~400. This should be visible in Planck's y-maps with an
+estimated signal-to-noise ratio of about 12. We note however that such
+frequency-dependent terms carry no new information on the nature of the CMB
+dipole. This implies that the real significance of Planck's Doppler coupling
+measurements is actually lower than reported by the collaboration. Finally, we
+quantify the level of contamination in tSZ and primordial y-type distortions
+and show that it is above the sensitivity of proposed next generation CMB
+experiments.
+</dc:description>
+ <dc:description>Comment: v3: Some corrections and clarifications, including revised S/N of the
+  effect and a new figure. Matches published version. 8 pages, 4 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-08-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08793</dc:identifier>
+ <dc:identifier>Phys. Rev. D 94, 043006 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.94.043006</dc:identifier>
+ </oai_dc:dc>
+

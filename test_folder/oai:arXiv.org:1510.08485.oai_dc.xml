@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Wireless Physical-Layer Identification: Modeling and Validation</dc:title>
+ <dc:creator>Wang, Wenhao</dc:creator>
+ <dc:creator>Sun, Zhi</dc:creator>
+ <dc:creator>Ren, Kui</dc:creator>
+ <dc:creator>Zhu, Bocheng</dc:creator>
+ <dc:creator>Piao, Sixu</dc:creator>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  The wireless physical-layer identification (WPLI) techniques utilize the
+unique features of the physical waveforms of wireless signals to identify and
+classify authorized devices. As the inherent physical layer features are
+difficult to forge, WPLI is deemed as a promising technique for wireless
+security solutions. However, as of today it still remains unclear whether
+existing WPLI techniques can be applied under real-world requirements and
+constraints. In this paper, through both theoretical modeling and experiment
+validation, the reliability and differentiability of WPLI techniques are
+rigorously evaluated, especially under the constraints of state-of-art wireless
+devices, real operation environments, as well as wireless protocols and
+regulations. Specifically, a theoretical model is first established to
+systematically describe the complete procedure of WPLI. More importantly, the
+proposed model is then implemented to thoroughly characterize various WPLI
+techniques that utilize the spectrum features coming from the non-linear
+RF-front-end, under the influences from different transmitters, receivers, and
+wireless channels. Subsequently, the limitations of existing WPLI techniques
+are revealed and evaluated in details using both the developed theoretical
+model and in-lab experiments. The real-world requirements and constraints are
+characterized along each step in WPLI, including i) the signal processing at
+the transmitter (device to be identified), ii) the various physical layer
+features that originate from circuits, antenna, and environments, iii) the
+signal propagation in various wireless channels, iv) the signal reception and
+processing at the receiver (the identifier), and v) the fingerprint extraction
+and classification at the receiver.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08485</dc:identifier>
+ </oai_dc:dc>
+

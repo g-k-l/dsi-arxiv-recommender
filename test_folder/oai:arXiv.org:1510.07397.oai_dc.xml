@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Electromagnetic Decays of $B^{\pm}_c(2S)$</dc:title>
+ <dc:creator>Wang, Tianhong</dc:creator>
+ <dc:creator>Jiang, Yue</dc:creator>
+ <dc:creator>Ju, Wan-Li</dc:creator>
+ <dc:creator>Yuan, Han</dc:creator>
+ <dc:creator>Wang, Guo-Li</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  We calculate the electromagnetic (EM) decay widths of the $B^{\pm}_c(2S)$
+meson, which is observed recently by the ATLAS Collaboration. The main EM decay
+channels of this particle are $1{^3S_1}\gamma$ and $1{P}\gamma$, which, in
+literature, are estimated to have the branching ratio of about $1/10$. In this
+work, we get the partial decay widths: $\Gamma(2{^1S_0}\rightarrow
+1{^3S_1}\gamma)=0.192$ keV, $\Gamma(2{^1S_0}\rightarrow 1{P_1}\gamma) = 2.24$
+keV and $\Gamma(2{^1S_0}\rightarrow 1{P_1^\prime}\gamma) = 11.4$ keV. In the
+calculation, the instantaneous approximated Bethe-Salpeter method is used. For
+the $P$-wave $B_c$ mesons, the wave functions are given by mixing the $^3P_1$
+and $^1P_1$ states. Within the Mandelstam formalism, the decay amplitude is
+given, which includes the relativistic corrections.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures, 3 tables</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07397</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP03(2016)209</dc:identifier>
+ </oai_dc:dc>
+

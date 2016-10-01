@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the void explanation of the Cold Spot</dc:title>
+ <dc:creator>Marcos-Caballero, A.</dc:creator>
+ <dc:creator>Fern&#225;ndez-Cobos, R.</dc:creator>
+ <dc:creator>Mart&#237;nez-Gonz&#225;lez, E.</dc:creator>
+ <dc:creator>Vielva, P.</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  The integrated Sachs-Wolfe (ISW) contribution induced on the cosmic microwave
+background by the presence of a supervoid as the one detected by Szapudi et al.
+(2015) is reviewed in this letter in order to check whether it could explain
+the Cold Spot (CS) anomaly. Two different models, previously used for the same
+purpose, are considered to describe the matter density profile of the void: a
+top hat function and a compensated profile produced by a Gaussian potential.
+The analysis shows that, even enabling ellipticity changes or different values
+for the dark-energy equation of state parameter $\omega$, the ISW contribution
+due to the presence of the void does not reproduce the properties of the CS.
+Finally, the probability of alignment between the void and the CS is also
+questioned as an argument in favor of a physical connection between these two
+phenomena.
+</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09076</dc:identifier>
+ <dc:identifier>doi:10.1093/mnrasl/slw063</dc:identifier>
+ </oai_dc:dc>
+

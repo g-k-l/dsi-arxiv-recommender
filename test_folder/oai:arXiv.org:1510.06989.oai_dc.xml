@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bayesian updating and model class selection with Subset Simulation</dc:title>
+ <dc:creator>DiazDelaO, F. A.</dc:creator>
+ <dc:creator>Garbuno-Inigo, A.</dc:creator>
+ <dc:creator>Au, S. K.</dc:creator>
+ <dc:creator>Yoshida, I.</dc:creator>
+ <dc:subject>Statistics - Computation</dc:subject>
+ <dc:description>  Identifying the parameters of a model and rating competitive models based on
+measured data has been among the most important but challenging topics in
+modern science and engineering, with great potential of application in
+structural system identification, updating and development of high fidelity
+models. These problems in principle can be tackled using a Bayesian
+probabilistic approach, where the parameters to be identified are treated as
+uncertain and their inference information are given in terms of their posterior
+(i.e., given data) probability distribution. For complex models encountered in
+applications, efficient computational tools robust to the number of uncertain
+parameters in the problem are required for computing the posterior statistics,
+which can generally be formulated as a multi-dimensional integral over the
+space of the uncertain parameters. Subset Simulation (SuS) has been developed
+for solving reliability problems involving complex systems and it is found to
+be robust to the number of uncertain parameters. An analogy has been recently
+established between a Bayesian updating problem and a reliability problem,
+which opens up the possibility of efficient solution by SuS. The formulation,
+called BUS (Bayesian Updating with Structural reliability methods), is based on
+conventional rejection principle. Its theoretical correctness and efficiency
+requires the prudent choice of a multiplier, which has remained an open
+question. Motivated by the choice of the multiplier and its philosophical role,
+this paper presents a study of BUS. The work leads to a revised formulation
+that resolves the issues regarding the multiplier so that SuS can be
+implemented without knowing the multiplier. Examples are presented to
+illustrate the theory and applications.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-08-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06989</dc:identifier>
+ </oai_dc:dc>
+

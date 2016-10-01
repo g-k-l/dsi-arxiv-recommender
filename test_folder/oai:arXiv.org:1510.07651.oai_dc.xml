@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Zero Hausdorff dimension spectrum for the almost Mathieu operator</dc:title>
+ <dc:creator>Last, Yoram</dc:creator>
+ <dc:creator>Shamis, Mira</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:description>  We study the almost Mathieu operator at critical coupling. We prove that
+there exists a dense $G_\delta$ set of frequencies for which the spectrum is of
+zero Hausdorff dimension.
+</dc:description>
+ <dc:description>Comment: v1: 24 pp. v2: 25 pp, corrected the statement of Theorem 3 and added
+  explanations in the proof of Theorem 2</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-01-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07651</dc:identifier>
+ <dc:identifier>doi:10.1007/s00220-016-2620-0</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On form factors of boundary changing operators</dc:title>
+ <dc:creator>Bajnok, Zoltan</dc:creator>
+ <dc:creator>Hollo, Laszlo</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We develop a form factor bootstrap program to determine the matrix elements
+of local, boundary condition changing operators. We propose axioms for these
+form factors and determine their solutions in the free boson and Lee-Yang
+models. The sudden change in the boundary condition, caused by an operator
+insertion, can be interpreted as a local quench and the form factors provide
+the overlap of any state before the quench with any outgoing state after the
+quench.
+</dc:description>
+ <dc:description>Comment: 34 pages, v3: comparison to relevant works of Lesage and Saleur are
+  added</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-06-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08232</dc:identifier>
+ <dc:identifier>Nucl.Phys. B905 (2016) 96-131</dc:identifier>
+ <dc:identifier>doi:10.1016/j.nuclphysb.2016.02.007</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin Correlations and Topological Entanglement Entropy in a Non-Abelian
+  Spin-1 Spin Liquid</dc:title>
+ <dc:creator>Wildeboer, Julia</dc:creator>
+ <dc:creator>Bonesteel, N. E.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We analyze the properties of a non-Abelian spin-1 chiral spin liquid state
+proposed by Greiter and Thomale [PRL 102, 207203 (2009)] using variational
+Monte Carlo. In this state the bosonic $\nu = 1$ Moore-Read Pfaffian wave
+function is used to describe a gas of bosonic spin flips on a square lattice
+with one flux quantum per plaquette. For toroidal geometries there is a
+three-dimensional space of these states corresponding to the topological
+degeneracy of the bosonic Moore-Read state on the torus. We show that spin
+correlations for different states in this space become indistinguishable for
+large system size. We also calculate the Renyi entanglement entropy for
+different system partitions to extract the topological entanglement entropy and
+provide evidence that the topological order of the lattice spin-liquid state is
+the same as that of the continuum Moore-Read state from which it is
+constructed.
+</dc:description>
+ <dc:description>Comment: 4 pages and 2 pages supplemental material, submitted to PRL</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2015-12-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08817</dc:identifier>
+ <dc:identifier>Phys. Rev. B 94, 045125 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.94.045125</dc:identifier>
+ </oai_dc:dc>
+

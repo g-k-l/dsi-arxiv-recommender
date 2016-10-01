@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Surface Densities of Disk Brown Dwarfs in JWST Surveys</dc:title>
+ <dc:creator>Ryan Jr., R. E.</dc:creator>
+ <dc:creator>Reid, I. N.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present predictions for the surface density of ultracool dwarfs (with
+spectral types M8-T8) for a host of deep fields that are likely to be observed
+with the James Webb Space Telescope. Based on simple thin and thick/thin disk
+(exponential) models, we show the typical distance modulus is mu~9.8 mag, which
+at high Galactic latitude is 5log(2 z_scl)-5. Since this is a property of the
+density distribution of an exponential disk, it is independent of spectral type
+or stellar sample. Using the published estimates of the ultracool dwarf
+luminosity function, we show that their number counts typically peak around
+J~24 mag with a total surface density of Sigma ~ 0.3 arcmin^-2, but with a
+strong dependence on galactic coordinate and spectral type. Owing to the
+exponential shape of the disk, the ultracool dwarfs are very rare at faint
+magnitudes (J&gt;~27 mag), with typical densities of Sigma~0.005 arcmin^-2 (or
+~20% of the total contribution within the field). Therefore in the very narrow
+and deep fields, we predict there are only a few ultracool dwarfs, and hence
+these stars are likely not a severe contaminant in searches for high-redshift
+galaxies. Furthermore the ultracool dwarfs are expected to be considerably
+brighter than the high-redshift galaxies, so samples near the faint-end of the
+high-redshift galaxy population will be the purest. We present the star-count
+formalism in a simplified way so that observers may easily predict the number
+of stars for their conditions (field, depth, wavelength, etc.).
+</dc:description>
+ <dc:description>Comment: 13 figures, 7 tables, 9 pages. Electronic tables of number counts and
+  distance moduli available upon request (they will be eventually reachable
+  through ADS). Accepted to AJ</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05019</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-6256/151/4/92</dc:identifier>
+ </oai_dc:dc>
+

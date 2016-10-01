@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Conditional Risk Minimization for Stochastic Processes</dc:title>
+ <dc:creator>Zimin, Alexander</dc:creator>
+ <dc:creator>Lampert, Christoph H.</dc:creator>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  We study the task of learning from non-i.i.d. data. In particular, we aim at
+learning predictors that minimize the conditional risk for a stochastic
+process, i.e. the expected loss of the predictor on the next point conditioned
+on the set of training samples observed so far. For non-i.i.d. data, the
+training set contains information about the upcoming samples, so learning with
+respect to the conditional distribution can be expected to yield better
+predictors than one obtains from the classical setting of minimizing the
+marginal risk. Our main contribution is a practical estimator for the
+conditional risk based on the theory of non-parametric time-series prediction,
+and a finite sample concentration bound that establishes uniform convergence of
+the estimator to the true conditional risk under certain regularity assumptions
+on the process.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-03-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02706</dc:identifier>
+ </oai_dc:dc>
+

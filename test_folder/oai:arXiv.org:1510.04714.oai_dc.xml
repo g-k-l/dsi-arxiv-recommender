@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Realizing the physics of motile cilia synchronization with driven
+  colloids</dc:title>
+ <dc:creator>Bruot, Nicolas</dc:creator>
+ <dc:creator>Cicuta, Pietro</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:subject>Quantitative Biology - Quantitative Methods</dc:subject>
+ <dc:description>  Cilia and flagella in biological systems often show large scale cooperative
+behaviors such as the synchronization of their beats in "metachronal waves".
+These are beautiful examples of emergent dynamics in biology, and are essential
+for life, allowing diverse processes from the motility of eukaryotic
+microorganisms, to nutrient transport and clearance of pathogens from mammalian
+airways. How these collective states arise is not fully understood, but it is
+clear that individual cilia interact mechanically,and that a strong and long
+ranged component of the coupling is mediated by the viscous fluid. We review
+here the work by ourselves and others aimed at understanding the behavior of
+hydrodynamically coupled systems, and particularly a set of results that have
+been obtained both experimentally and theoretically by studying actively driven
+colloidal systems. In these controlled scenarios, it is possible to selectively
+test aspects of the living motile cilia, such as the geometrical arrangement,
+the effects of the driving profile and the distance to no-slip boundaries. We
+outline and give examples of how it is possible to link model systems to
+observations on living systems, which can be made on microorganisms, on cell
+cultures or on tissue sections. This area of research has clear clinical
+application in the long term, as severe pathologies are associated with
+compromised cilia function in humans.
+</dc:description>
+ <dc:description>Comment: 31 pages, to appear in Annual Review of Condensed Matter Physics</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04714</dc:identifier>
+ <dc:identifier>doi:10.1146/annurev-conmatphys-031115-011451</dc:identifier>
+ </oai_dc:dc>
+

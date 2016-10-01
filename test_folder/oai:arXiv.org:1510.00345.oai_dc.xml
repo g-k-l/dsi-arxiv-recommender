@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Detecting high-$z$ galaxies in the Near Infrared Background</dc:title>
+ <dc:creator>Yue, Bin</dc:creator>
+ <dc:creator>Ferrara, Andrea</dc:creator>
+ <dc:creator>Helgason, K&#225;ri</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Emission from high-$z$ galaxies must unquestionably contribute to the
+near-infrared background (NIRB). However, this contribution has so far proven
+difficult to isolate even after subtracting the resolved galaxies to deep
+levels. Remaining NIRB fluctuations are dominated by unresolved low-$z$
+galaxies on small angular scales, and by an unidentified component with unclear
+origin on large scales ($\approx 1000''$). In this paper, by analyzing mock
+maps generated from semi-numerical simulations and empirically determined
+$L_{\rm UV} - M_{\rm h}$ relations, we find that fluctuations associated with
+galaxies at $5 &lt; z &lt; 10$ amount to several percent of the unresolved NIRB flux
+fluctuations. We investigate the properties of this component for different
+survey areas and limiting magnitudes. In all cases, we show that this signal
+can be efficiently, and most easily at small angular scales, isolated by
+cross-correlating the source-subtracted NIRB with Lyman Break Galaxies (LBGs)
+detected in the same field by {\tt HST} surveys. This result provides a fresh
+insight into the properties of reionization sources.
+</dc:description>
+ <dc:description>Comment: MNRAS in press, 8 pages, 7 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00345</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw511</dc:identifier>
+ </oai_dc:dc>
+

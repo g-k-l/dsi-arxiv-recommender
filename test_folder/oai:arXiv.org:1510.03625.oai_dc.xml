@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamical Gelfand-Zetlin algebra and equivariant cohomology of
+  Grassmannians</dc:title>
+ <dc:creator>Rimanyi, R.</dc:creator>
+ <dc:creator>Varchenko, A.</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:description>  We consider the rational dynamical quantum group $E_y(gl_2)$ and introduce an
+$E_y(gl_2)$-module structure on $\oplus_{k=0}^n
+H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$, where
+$H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$ is the equivariant cohomology algebra
+$H^*_{GL_n\times\C^\times}(T^*Gr(k,n))$ of the cotangent bundle of the
+Grassmannian $\Gr(k,n)$ with coefficients extended by a suitable ring of
+rational functions in an additional variable $\lambda$. We consider the
+dynamical Gelfand-Zetlin algebra which is a commutative algebra of difference
+operators in $\lambda$. We show that the action of the Gelfand-Zetlin algebra
+on $H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$ is the natural action of the
+algebra $H^*_{GL_n\times\C^\times}(T^*Gr(k,n))\otimes \C[\delta^{\pm1}]$ on
+$H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$, where $\delta :
+\zeta(\lambda)\to\zeta(\lambda+y)$ is the shift operator.
+  The $E_y(gl_2)$-module structure on $\oplus_{k=0}^n
+H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$ is introduced with the help of
+dynamical stable envelope maps which are dynamical analogs of the stable
+envelope maps introduced by Maulik and Okounkov. The dynamical stable envelope
+maps are defined in terms of the rational dynamical weight functions introduced
+in [FTV] to construct q-hypergeometric solutions of rational qKZB equations.
+The cohomology classes in $H^*_{GL_n\times\C^\times}(T^*Gr(k,n))'$ induced by
+the weight functions are dynamical variants of Chern-Schwartz-MacPherson
+classes of Schubert cells.
+</dc:description>
+ <dc:description>Comment: Latex, 27 pages, v2, v3, and v4: misprints are corrected</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03625</dc:identifier>
+ </oai_dc:dc>
+

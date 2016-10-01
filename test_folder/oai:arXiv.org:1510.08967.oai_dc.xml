@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>3-D IR imaging with uncooled GaN photodiodes using nondegenerate
+  two-photon absorption</dc:title>
+ <dc:creator>Pattanaik, Himansu S.</dc:creator>
+ <dc:creator>Reichert, Matthew</dc:creator>
+ <dc:creator>Hagan, David J.</dc:creator>
+ <dc:creator>Van Stryland, Eric W.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We utilize the recently demonstrated orders of magnitude enhancement of
+extremely nondegenerate two-photon absorption in direct-gap semiconductor
+photodiodes to perform scanned imaging of 3D structures using IR femtosecond
+illumination pulses (1.6 um and 4.93 um) gated on the GaN detector by sub-gap,
+femtosecond pulses. While transverse resolution is limited by the usual imaging
+criteria, the longitudinal or depth resolution can be less than a wavelength,
+dependent on the pulsewidths in this nonlinear interaction within the detector
+element. The imaging system can accommodate a wide range of wavelengths in the
+mid-IR and near-IR without the need to modify the detection and imaging
+systems.
+</dc:description>
+ <dc:description>Comment: 9 pages, 6 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2015-11-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08967</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.001196</dc:identifier>
+ </oai_dc:dc>
+

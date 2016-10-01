@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Masses and luminosities for 342 stars from the PennState-Toru\'n Centre
+  for Astronomy Planet Search</dc:title>
+ <dc:creator>Adamczyk, M.</dc:creator>
+ <dc:creator>Deka-Szymankiewicz, B.</dc:creator>
+ <dc:creator>Niedzielski, A.</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We present revised basic stellar astrophysical parameters: masses,
+luminosities, ages and radii for 342 stars from PennState-Toru\'n Centre for
+Astronomy Planet Search. Atmospheric parameters for 327 stars are available
+from Zieli\'nski (2012), for the remaining 15 objects we present also
+spectroscopic atmospheric parameters: effective temperatures, surface gravities
+and iron abundances. Spectroscopic atmospheric parameters were obtained with a
+standard spectroscopic analysis procedure, using ARES (Sousa, 2007) and MOOG
+(Sneden, 1973) or TGVIT (Takeda, 2005) codes. To refine stellar masses, ages
+and luminosities we applied a Bayesian method based on Jorgensen (2005)
+formalism, modified by da Silva (2006). The revised stellar masses for 342
+stars and their uncertainties are generally lower than those presented in
+Zieli\'nski (2012). Atmospheric parameters for 13 objects are determined here
+for the first time.
+</dc:description>
+ <dc:description>Comment: 11 pages, 5 figures. Acceped by A&amp;A</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07495</dc:identifier>
+ <dc:identifier>A&amp;A 587, A119 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1051/0004-6361/201526628</dc:identifier>
+ </oai_dc:dc>
+

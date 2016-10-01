@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>RBF DQ Method for Solving Nonlinear Differential Equations of Lane Emden
+  type</dc:title>
+ <dc:creator>Parand, Kourosh</dc:creator>
+ <dc:creator>Hashemi, Soleiman</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  The Lane-Emden type equations are employed in the modelling of several
+phenomena in the areas of mathematical physics and astrophysics . In this paper
+a new numerical method is applied to investigate some well-known classes of
+Lane-Emden type equations which are nonlinear ordinary differential equations
+on the semi-infinite domain. We will apply a mesh-less method based on radial
+basis function differential quadrature method. In RBFs-DQ the derivative value
+of function with respect to a point is directly approximated by a linear
+combination of all functional values in the global domain . The main aim of
+this method is the determination of weight coefficients. Here we concentrate on
+Gaussian(GS) as a radial function for approximating the solution of the
+mentioned equation. The comparison of the results with the other numerical
+methods shows the efficiency and accuracy of this method.
+</dc:description>
+ <dc:description>Comment: 9 figures, 29 pages. arXiv admin note: substantial text overlap with
+  arXiv:1509.04326</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06619</dc:identifier>
+ <dc:identifier>doi:10.1016/j.asej.2016.03.010</dc:identifier>
+ </oai_dc:dc>
+

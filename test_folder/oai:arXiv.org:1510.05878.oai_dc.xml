@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Cometary Science with the James Webb Space Telescope</dc:title>
+ <dc:creator>Kelley, Michael S. P.</dc:creator>
+ <dc:creator>Woodward, Charles E.</dc:creator>
+ <dc:creator>Bodewits, Dennis</dc:creator>
+ <dc:creator>Farnham, Tony L.</dc:creator>
+ <dc:creator>Gudipati, Murthy S.</dc:creator>
+ <dc:creator>Harker, David E.</dc:creator>
+ <dc:creator>Hines, Dean C.</dc:creator>
+ <dc:creator>Knight, Matthew M.</dc:creator>
+ <dc:creator>Kolokolova, Ludmilla</dc:creator>
+ <dc:creator>Li, Aigen</dc:creator>
+ <dc:creator>de Pater, Imke</dc:creator>
+ <dc:creator>Protopapa, Silvia</dc:creator>
+ <dc:creator>Russell, Ray W.</dc:creator>
+ <dc:creator>Sitko, Michael L.</dc:creator>
+ <dc:creator>Wooden, Diane H.</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  The James Webb Space Telescope (JWST), as the largest space-based
+astronomical observatory with near- and mid-infrared instrumentation, will
+elucidate many mysterious aspects of comets. We summarize four cometary science
+themes especially suited for this telescope and its instrumentation: the
+drivers of cometary activity, comet nucleus heterogeneity, water ice in comae
+and on surfaces, and activity in faint comets and main-belt asteroids. With
+JWST, we can expect the most distant detections of gas, especially CO2, in what
+we now consider to be only moderately bright comets. For nearby comets, coma
+dust properties can be studied with their driving gases, measured
+simultaneously with the same instrument or contemporaneously with another.
+Studies of water ice and gas in the distant Solar System will help us test our
+understanding of cometary interiors and coma evolution. The question of
+cometary activity in main-belt comets will be further explored with the
+possibility of a direct detection of coma gas. We explore the technical
+approaches to these science cases and provide simple tools for estimating comet
+dust and gas brightness. Finally, we consider the effects of the observatory's
+non-sidereal tracking limits, and provide a list of potential comet targets
+during the first 5 years of the mission.
+</dc:description>
+ <dc:description>Comment: Accepted for publication in Publications of the Astronomical Society
+  of the Pacific. 28 pages, 5 tables, 4 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05878</dc:identifier>
+ <dc:identifier>doi:10.1088/1538-3873/128/959/018009</dc:identifier>
+ </oai_dc:dc>
+

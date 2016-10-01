@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Testing quantum transport without decoherence</dc:title>
+ <dc:creator>Flores-Olmedo, E.</dc:creator>
+ <dc:creator>Mart&#237;nez-Arg&#252;ello, A. M.</dc:creator>
+ <dc:creator>Mart&#237;nez-Mares, M.</dc:creator>
+ <dc:creator>B&#225;ez, G.</dc:creator>
+ <dc:creator>Franco-Villafa&#241;e, J. A.</dc:creator>
+ <dc:creator>M&#233;ndez-S&#225;nchez, R. A.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:description>  The coherent electronic transport phenomena through quantum devices is
+difficult to observe due to thermal smearing and dephasing, the latter induced
+by inelastic scattering by phonons or impurities. In other wave systems, the
+temperature and dephasing may not destroy the coherence and can then be used to
+observe the underlying wave behaviour of the coherent quantum phenomena. Here,
+we observe coherent transmission of mechanical waves through a two-dimensional
+elastic Sinai billiard with two waveguides. The flexural-wave transmission
+performed by non-contact means, shows the transmission quantization when a new
+mode becomes open. In contrast with the quantum counterpart, these measurements
+agree with the theoretical predictions of the simplest model at zero
+temperature highlighting the universal character of the transmission
+fluctuations.
+</dc:description>
+ <dc:description>Comment: This paper has 4 pages and 4, which show consistent Electronic
+  transport phenomena</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02176</dc:identifier>
+ <dc:identifier>Scientific Reports 6, 25157 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep25157</dc:identifier>
+ </oai_dc:dc>
+

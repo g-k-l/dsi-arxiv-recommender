@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Scaling of alloy interfacial properties under compositional strain</dc:title>
+ <dc:creator>Huang, Zhi-Feng</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  Complex morphologies and microstructures that emerge during materials growth
+and solidification are often determined by both equilibrium and kinetic
+properties of the interface and their crystalline anisotropies. However limited
+knowledge is available for the alloying and particularly the compositionally
+generated elastic effects on these interface characteristics. Here we
+systematically investigate such compositional effects on the interfacial
+properties of an alloy model system based on the phase-field-crystal analysis,
+including the solid-liquid interfacial free energy, kinetic coefficient, and
+lattice pinning strength. Scaling relations for these interfacial quantities
+over various ranges of material parameters are identified and predicted. Our
+results indicate the important effects of couplings among mesoscopic and
+microscopic length scales of alloy structure and concentration, and also the
+influence of compressive and tensile interface stresses induced by composition
+variations. The approach developed here provides an efficient way to
+systematically identify these key material properties beyond the traditional
+atomistic and continuum methods.
+</dc:description>
+ <dc:description>Comment: 13 pages, 14 figures; Phys. Rev. E, in press</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-02-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08180</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 022803 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.022803</dc:identifier>
+ </oai_dc:dc>
+

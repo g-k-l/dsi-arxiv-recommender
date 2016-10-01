@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-Abelian Binding Energies from the Lightcone Bootstrap</dc:title>
+ <dc:creator>Li, Daliang</dc:creator>
+ <dc:creator>Meltzer, David</dc:creator>
+ <dc:creator>Poland, David</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We analytically study the lightcone limit of the conformal bootstrap for
+4-point functions containing scalars charged under global symmetries. We show
+the existence of large spin double-twist operators in various representations
+of the global symmetry group. We then compute their anomalous dimensions in
+terms of the central charge $C_T$, current central charge $C_J$, and the OPE
+coefficients of low dimension scalars. In AdS, these results correspond to the
+binding energy of two-particle states arising from the exchange of gravitons,
+gauge bosons, and light scalar fields. Using unitarity and crossing symmetry,
+we show that gravity is universal and attractive among different types of
+two-particle states, while the gauge binding energy can have either sign as
+determined by the representation of the two-particle state, with universal
+ratios fixed by the symmetry group. We apply our results to 4D $\mathcal{N}=1$
+SQCD and the 3D O(N) vector models. We also show that in a unitary CFT, if the
+current central charge $C_J$ stays finite when the global symmetry group
+becomes infinitely large, such as the $N\rightarrow\infty$ limit of the O(N)
+vector model, then the theory must contain an infinite number of higher spin
+currents.
+</dc:description>
+ <dc:description>Comment: Added comments on the weak gravity conjecture</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-02-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07044</dc:identifier>
+ <dc:identifier>JHEP 1602 (2016) 149</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)149</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,50 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lorentz boosted frame simulation of Laser wakefield acceleration in
+  quasi-3D geometry</dc:title>
+ <dc:creator>Yu, Peicheng</dc:creator>
+ <dc:creator>Xu, Xinlu</dc:creator>
+ <dc:creator>Davidson, Asher</dc:creator>
+ <dc:creator>Tableman, Adam</dc:creator>
+ <dc:creator>Dalichaouch, Thamine</dc:creator>
+ <dc:creator>Meyers, Michael D.</dc:creator>
+ <dc:creator>Tsung, Frank S.</dc:creator>
+ <dc:creator>Decyk, Viktor K.</dc:creator>
+ <dc:creator>Fiuza, Frederico</dc:creator>
+ <dc:creator>Vieira, Jorge</dc:creator>
+ <dc:creator>Fonseca, Ricardo A.</dc:creator>
+ <dc:creator>Lu, Wei</dc:creator>
+ <dc:creator>Silva, Luis O.</dc:creator>
+ <dc:creator>Mori, Warren B.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  When modeling laser wakefield acceleration (LWFA) using the particle-in-cell
+(PIC) algorithm in a Lorentz boosted frame, the plasma is drifting
+relativistically at $\beta_b c$ towards the laser, which can lead to a
+computational speedup of $\sim \gamma_b^2=(1-\beta_b^2)^{-1}$. Meanwhile, when
+LWFA is modeled in the quasi-3D geometry in which the electromagnetic fields
+and current are decomposed into a limited number of azimuthal harmonics,
+speedups are achieved by modeling three dimensional problems with the
+computation load on the order of two dimensional $r-z$ simulations. Here, we
+describe how to combine the speed ups from the Lorentz boosted frame and
+quasi-3D algorithms. The key to the combination is the use of a hybrid Yee-FFT
+solver in the quasi-3D geometry that can be used to effectively eliminate the
+Numerical Cerenkov Instability (NCI) that inevitably arises in a Lorentz
+boosted frame due to the unphysical coupling of Langmuir modes and EM modes of
+the relativistically drifting plasma in these simulations. In addition, based
+on the space-time distribution of the LWFA data in the lab and boosted frame,
+we propose to use a moving window to follow the drifting plasma to further
+reduce the computational load. We describe the details of how the NCI is
+eliminated for the quasi-3D geometry, the setups for simulations which combine
+the Lorentz boosted frame and quasi-3D geometry, the use of a moving window,
+and compare the results from these simulations against their corresponding lab
+frame cases. Good agreement is obtained, particularly when there is no
+self-trapping, which demonstrates it is possible to combine the Lorentz boosted
+frame and the quasi-3D algorithms when modeling LWFA to achieve unprecedented
+speedups.
+</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07110</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jcp.2016.04.014</dc:identifier>
+ </oai_dc:dc>
+

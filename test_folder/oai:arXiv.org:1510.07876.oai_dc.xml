@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-equilibrium steady states of stochastic processes with intermittent
+  resetting</dc:title>
+ <dc:creator>Eule, Stephan</dc:creator>
+ <dc:creator>Metzger, Jakob</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  Stochastic processes that are randomly reset to an initial condition serve as
+a showcase to investigate non-equilibrium steady states. However, all existing
+results have been restricted to the special case of memoryless resetting
+protocols. Here, we obtain the general solution for the distribution of
+processes in which waiting times between reset events are drawn from an
+arbitrary distribution. This allows for the investigation of a broader class of
+much more realistic processes. As an example, our results are applied to the
+analysis of the efficiency of constrained random search processes.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07876</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/3/033006</dc:identifier>
+ </oai_dc:dc>
+

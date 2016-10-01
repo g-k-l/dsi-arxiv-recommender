@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Critical velocity of a finite-temperature Bose gas</dc:title>
+ <dc:creator>Stagg, G. W.</dc:creator>
+ <dc:creator>Pattinson, R. W.</dc:creator>
+ <dc:creator>Barenghi, C. F.</dc:creator>
+ <dc:creator>Parker, N. G.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We use classical field simulations of the homogeneous Bose gas to study the
+breakdown of superflow due to vortex nucleation past a cylindrical obstacle at
+finite temperature. Thermal fluctuations modify the vortex nucleation from the
+obstacle, turning anti-parallel vortex lines (which would be nucleated at zero
+temperature) into wiggly lines, vortex rings and even vortex tangles. We find
+that the critical velocity for vortex nucleation decreases with increasing
+temperature, and scales with the speed of sound of the condensate, becoming
+zero at the critical temperature for condensation.
+</dc:description>
+ <dc:description>Comment: 7 pages, 3 figures</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-01-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01895</dc:identifier>
+ <dc:identifier>Physical Review A 93, 023640 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.023640</dc:identifier>
+ </oai_dc:dc>
+

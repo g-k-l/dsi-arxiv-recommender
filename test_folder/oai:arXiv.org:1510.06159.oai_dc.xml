@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Temporal Behavior of Rabi Oscillation in Nanomechanical QED System with
+  a Nonlinear Resonator</dc:title>
+ <dc:creator>Xiao, X.</dc:creator>
+ <dc:creator>Zhao, M. Y.</dc:creator>
+ <dc:creator>Yu, S. M.</dc:creator>
+ <dc:creator>Gao, Y. B.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  In nanomechanical QED system, consisting of a charge qubit and a nonlinear
+nanomechanical resonator, we study the temporal behavior of Rabi oscillation in
+the nonlinear Jaynes-Cummings model. Using microscopic master equation
+approach, we solve time evolution of the density operator describing this
+model. Also, the probability of excited state of charge qubit is calculated.
+These analytic calculations show how nonlinearity parameter and decay rates of
+two different excited states of the qubit-resonator system affect
+time-oscillating and decaying of Rabi oscillation.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures, Revtex4</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06159</dc:identifier>
+ <dc:identifier>Commun. Theor. Phys. 65 (2016) 273</dc:identifier>
+ <dc:identifier>doi:10.1088/0253-6102/65/3/273</dc:identifier>
+ </oai_dc:dc>
+

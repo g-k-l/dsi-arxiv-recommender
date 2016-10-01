@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Combinatorial characterization of the weight monoids of smooth affine
+  spherical varieties</dc:title>
+ <dc:creator>Pezzini, Guido</dc:creator>
+ <dc:creator>Van Steirteghem, Bart</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>14M27 (Primary), 20G05 (Secondary)</dc:subject>
+ <dc:description>  Let G be a connected complex reductive group. A well known theorem of I.
+Losev's says that a smooth affine spherical G-variety X is uniquely determined
+by its weight monoid, which is the set of irreducible representations of G that
+occur in the coordinate ring of X. In this paper, we use the combinatorial
+theory of spherical varieties and a smoothness criterion of R. Camus to
+characterize the weight monoids of smooth affine spherical varieties.
+</dc:description>
+ <dc:description>Comment: v1: 33 pages. v2: 36 pages, improved exposition, updated references
+  and citations</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04266</dc:identifier>
+ </oai_dc:dc>
+

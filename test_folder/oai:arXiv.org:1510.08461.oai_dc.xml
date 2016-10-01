@@ -1,0 +1,49 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Do the Most Massive Black Holes at $z=2$ Grow via Major Mergers?</dc:title>
+ <dc:creator>Mechtley, M.</dc:creator>
+ <dc:creator>Jahnke, K.</dc:creator>
+ <dc:creator>Windhorst, R. A.</dc:creator>
+ <dc:creator>Andrae, R.</dc:creator>
+ <dc:creator>Cisternas, M.</dc:creator>
+ <dc:creator>Cohen, S. H.</dc:creator>
+ <dc:creator>Hewlett, T.</dc:creator>
+ <dc:creator>Koekemoer, A. M.</dc:creator>
+ <dc:creator>Schramm, M.</dc:creator>
+ <dc:creator>Schulze, A.</dc:creator>
+ <dc:creator>Silverman, J. D.</dc:creator>
+ <dc:creator>Villforth, C.</dc:creator>
+ <dc:creator>van der Wel, A.</dc:creator>
+ <dc:creator>Wisotzki, L.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  The most frequently proposed model for the origin of quasars holds that the
+high accretion rates seen in luminous active galactic nuclei are primarily
+triggered during major mergers between gas-rich galaxies. While plausible for
+decades, this model has only begun to be tested with statistical rigor in the
+past few years. Here we report on a Hubble Space Telescope study to test this
+hypothesis for $z=2$ quasars with high super-massive black hole masses
+($M_\mathrm{BH}=10^9-10^{10}~M_\odot{}$), which dominate cosmic black hole
+growth at this redshift. We compare Wide Field Camera 3 $F160W$ (rest-frame
+$V$-band) imaging of 19 point source-subtracted quasar hosts to a matched
+sample of 84 inactive galaxies, testing whether the quasar hosts have greater
+evidence for strong gravitational interactions. Using an expert ranking
+procedure, we find that the quasar hosts are uniformly distributed within the
+merger sequence of inactive galaxies, with no preference for quasars in
+high-distortion hosts. Using a merger/non-merger cutoff approach, we recover
+distortion fractions of $f_\mathrm{m,qso}=0.39\pm{}0.11$ for quasar hosts and
+$f_\mathrm{m,gal}=0.30\pm{}0.05$ for inactive galaxies (distribution modes, 68%
+confidence intervals), with both measurements subjected to the same
+observational conditions and limitations. The slight enhancement in distorted
+fraction for quasar hosts over inactive galaxies is not significant, with a
+probability that the quasar fraction is higher of
+$P(f_\mathrm{m,qso}&gt;f_\mathrm{m,gal}) = 0.78$ ($0.78\,\sigma{}$), in line with
+results for lower mass and lower $z$ AGN. We find no evidence that major
+mergers are the primary triggering mechanism for the massive quasars that
+dominate accretion at the peak of cosmic quasar activity.
+</dc:description>
+ <dc:description>Comment: 30 pages, accepted for publication to ApJ</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-07-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08461</dc:identifier>
+ </oai_dc:dc>
+

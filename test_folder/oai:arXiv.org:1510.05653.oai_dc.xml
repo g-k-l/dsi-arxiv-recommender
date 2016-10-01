@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comparing Experiments to the Fault-Tolerance Threshold</dc:title>
+ <dc:creator>Kueng, Richard</dc:creator>
+ <dc:creator>Long, David M.</dc:creator>
+ <dc:creator>Doherty, Andrew C.</dc:creator>
+ <dc:creator>Flammia, Steven T.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Achieving error rates that meet or exceed the fault-tolerance threshold is a
+central goal for quantum computing experiments, and measuring these error rates
+using randomized benchmarking is now routine. However, direct comparison
+between measured error rates and thresholds is complicated by the fact that
+benchmarking estimates average error rates while thresholds reflect worst-case
+behavior when a gate is used as part of a large computation. These two measures
+of error can differ by orders of magnitude in the regime of interest. Here we
+facilitate comparison between the experimentally accessible average error rates
+and the worst-case quantities that arise in current threshold theorems by
+deriving relations between the two for a variety of physical noise sources. Our
+results indicate that it is coherent errors that lead to an enormous mismatch
+between average and worst case, and we quantify how well these errors must be
+controlled to ensure fair comparison between average error probabilities and
+fault-tolerance thresholds.
+</dc:description>
+ <dc:description>Comment: 5 pages, 2 figures, 13 page appendix</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-07-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05653</dc:identifier>
+ </oai_dc:dc>
+

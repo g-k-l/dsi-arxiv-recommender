@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Donaldson-Thomas theory of $[\mathbb{C}^2/\mathbb{Z}_{n+1}]\times
+  \mathbb{P}^1$</dc:title>
+ <dc:creator>Zhou, Zijun</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We study the relative orbifold Donaldson-Thomas theory of
+$[\mathbb{C}^2/\mathbb{Z}_{n+1}]\times \mathbb{P}^1$. We establish a
+correspondence between the DT theory relative to 3 fibers to quantum
+multiplication by divisors in the Hilbert scheme of points on
+$[\mathbb{C}^2/\mathbb{Z}_{n+1}]$. This determines the whole theory if a
+further nondegeneracy condition is assumed. The result can also be viewed as a
+crepant resolution correspondence to the DT theory of $\mathcal{A}_n\times
+\mathbb{P}^1$.
+</dc:description>
+ <dc:description>Comment: 43 pages, 1 figure. Section 5 added</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-05-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00871</dc:identifier>
+ </oai_dc:dc>
+

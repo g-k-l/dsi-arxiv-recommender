@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Charmonium Production with QGP and Hadron Gas Effects at SPS and FAIR</dc:title>
+ <dc:creator>Chen, Baoyi</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  The production of charmonium in heavy-ion collisions is investigated based on
+Boltzmann-type transport model for charmonium evolution and langevin equation
+for charm quark evolution. Charmonium suppression and regeneration in both
+quark-gluon plasma (QGP) and hadron phase are considered. Charm quarks are far
+from thermalization, and regeneration of charmonium in QGP and hadron gas is
+neglectable at SPS and FAIR. At peripheral collisions, charmonium suppression
+with hadron gas explains the experimental data well. But at central collisions,
+additional suppression from deconfined matter (QGP) is necessary for the data.
+This means there should be QGP produced at central collisions, and no QGP
+produced at peripheral collisions at SPS energy. Predictions are also made at
+FAIR $\sqrt{s_{NN}}=7.7$ GeV Au+Au collisions.
+</dc:description>
+ <dc:description>Comment: 6 pages, 7 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-11-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07902</dc:identifier>
+ <dc:identifier>Phys. Rev. C 93, 044917 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevC.93.044917</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>CP Violating Two-Higgs-Doublet Model: Constraints and LHC Predictions</dc:title>
+ <dc:creator>Keus, Venus</dc:creator>
+ <dc:creator>King, Stephen F.</dc:creator>
+ <dc:creator>Moretti, Stefano</dc:creator>
+ <dc:creator>Yagyu, Kei</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  Two-Higgs-Doublet Models (2HDMs) are amongst the simplest extensions of the
+Standard Model. Such models allow for tree-level CP Violation (CPV) in the
+Higgs sector. We analyse a class of CPV 2HDM (of Type-I) in which only one of
+the two Higgs doublets couples to quarks and leptons, avoiding dangerous
+Flavour Changing Neutral Currents. We provide an up to date and comprehensive
+analysis of the constraints and Large Hadron Collider (LHC) predictions of such
+a model. Of immediate interest to the LHC Run 2 is the golden channel where all
+three neutral Higgs bosons are observed to decay into gauge boson pairs, $WW$
+and $ZZ$, providing a smoking gun signature of the CPV 2HDM.
+</dc:description>
+ <dc:description>Comment: The version appearing in JHEP</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04028</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP04(2016)048</dc:identifier>
+ </oai_dc:dc>
+

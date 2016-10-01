@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comparing models of the periodic variations in spin-down and beam-width
+  for PSR B1828-11</dc:title>
+ <dc:creator>Ashton, G.</dc:creator>
+ <dc:creator>Jones, D. I.</dc:creator>
+ <dc:creator>Prix, R.</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We build a framework using tools from Bayesian data analysis to evaluate
+models explaining the periodic variations in spin-down and beam-width of PSR
+B1828-11. The available data consists of the time averaged spin-down rate,
+which displays a distinctive double-peaked modulation, and measurements of the
+beam-width. Two concepts exist in the literature that are capable of explaining
+these variations; we formulate predictive models from these and quantitatively
+compare them. The first concept is phenomenological and stipulates that the
+magnetosphere undergoes periodic switching between two meta-stable states as
+first suggested by Lyne et al. The second concept, precession, was first
+considered as a candidate for the modulation of B1828-11 by Stairs et al.. We
+quantitatively compare models built from these concepts using a Bayesian
+odds-ratio. Because the phenomenological switching model itself was informed by
+this data in the first place, it is difficult to specify appropriate
+parameter-space priors that can be trusted for an unbiased model comparison.
+Therefore we first perform a parameter estimation using the spin-down data, and
+then use the resulting posterior distributions as priors for model comparison
+on the beam-width data. We find that a precession model with a simple circular
+Gaussian beam geometry fails to appropriately describe the data, while allowing
+for a more general beam geometry provides a good fit to the data. The resulting
+odds between the precession model (with a general beam geometry) and the
+switching model are estimated as $10^{2.7 \pm 0.5}$ in favour of the precession
+model.
+</dc:description>
+ <dc:description>Comment: 20 pages, 15 figures; removed incorrect factor of (2\pi) from
+  equation (15), allowed for arbitrary braking index, and revised prior ranges;
+  overall conclusions unchanged</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03579</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw334</dc:identifier>
+ </oai_dc:dc>
+

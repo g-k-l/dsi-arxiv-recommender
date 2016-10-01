@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Still Simpler Way of Introducing the Interior-Point Method for Linear
+  Programming</dc:title>
+ <dc:creator>Mehlhorn, Kurt</dc:creator>
+ <dc:creator>Saxena, Sanjeev</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  Linear programming is now included in algorithm undergraduate and
+postgraduate courses for computer science majors. We give a self-contained
+treatment of an interior-point method which is particularly tailored to the
+typical mathematical background of CS students. In particular, only limited
+knowledge of linear algebra and calculus is assumed.
+</dc:description>
+ <dc:description>Comment: Updates and replaces arXiv:1412.0652</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-06-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03339</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cosrev.2016.07.001</dc:identifier>
+ </oai_dc:dc>
+

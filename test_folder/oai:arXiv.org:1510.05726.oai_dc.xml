@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Metasurface Spatial Processor for Electromagnetic Remote Control</dc:title>
+ <dc:creator>Achouri, Karim</dc:creator>
+ <dc:creator>Lavigne, Guillaume</dc:creator>
+ <dc:creator>Salem, Mohamed Ahmed</dc:creator>
+ <dc:creator>Caloz, Christophe</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We introduce the concept of metasurface spatial processor, whose transmission
+is remotely and coherently controlled by the superposition of an incident wave
+and a control wave through the metasurface. The conceptual operation of this
+device is analogous to both that of a transistor and a Mach-Zehnder
+interferometer, while offering much more diversity in terms of electromagnetic
+transformations. We demonstrate two metasurfaces, that perform the operation of
+electromagnetic switching and amplification.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05726</dc:identifier>
+ <dc:identifier>doi:10.1109/TAP.2016.2537369</dc:identifier>
+ </oai_dc:dc>
+

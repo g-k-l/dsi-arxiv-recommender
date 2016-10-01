@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Four and one more: The formation history and total mass of globular
+  clusters in the Fornax dSph</dc:title>
+ <dc:creator>de Boer, T. J. L.</dc:creator>
+ <dc:creator>Fraser, M.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We have determined the detailed star formation history and total mass of the
+globular clusters in the Fornax dwarf spheroidal using archival HST WFPC2 data.
+Colour magnitude diagrams are constructed in the F555W and F814W bands and
+corrected for the effect of Fornax field star contamination, after which we use
+the routine Talos to derive the quantitative star formation history as a
+function of age and metallicity. The star formation history of the Fornax
+globular clusters shows that Fornax 1, 2, 3 and 5 are all dominated by ancient
+(&gt;10 Gyr) populations. Cluster Fornax 1,2 and 3 display metallicities as low as
+[Fe/H]=-2.5 while Fornax 5 is slightly more metal-rich at [Fe/H]=-1.8,
+consistent with resolved and unresolved metallicity tracers. Conversely, Fornax
+4 is dominated by a more metal-rich~([Fe/H]=-1.2) and younger population at 10
+Gyr, inconsistent with the other clusters. A lack of stellar populations
+overlapping with the main body of Fornax argues against the nucleus cluster
+scenario for Fornax 4. The combined stellar mass in globular clusters as
+derived from the SFH is (9.57$\pm$0.93)$\times$10$^{5}$ M$_{\odot}$ which
+corresponds to 2.5$\pm$0.2 percent of the total stellar mass in Fornax. The
+mass of the four most metal-poor clusters can be further compared to the
+metal-poor Fornax field to yield a mass fraction of 19.6$\pm$3.1 percent.
+Therefore, the SFH results provide separate supporting evidence for the
+unusually high mass fraction of the GCs compared to the Fornax field
+population.
+</dc:description>
+ <dc:description>Comment: 11 pages, 11 figures. Accepted in A&amp;A</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05642</dc:identifier>
+ <dc:identifier>A&amp;A 590, A35 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1051/0004-6361/201527580</dc:identifier>
+ </oai_dc:dc>
+

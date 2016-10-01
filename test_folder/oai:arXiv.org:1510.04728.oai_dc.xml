@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Row Reduction Applied to Decoding of Rank Metric and Subspace Codes</dc:title>
+ <dc:creator>Puchinger, Sven</dc:creator>
+ <dc:creator>Nielsen, Johan Rosenkilde n&#233;</dc:creator>
+ <dc:creator>Li, Wenhui</dc:creator>
+ <dc:creator>Sidorenko, Vladimir</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  We show that decoding of $\ell$-Interleaved Gabidulin codes, as well as
+list-$\ell$ decoding of Mahdavifar--Vardy codes can be performed by row
+reducing skew polynomial matrices. Inspired by row reduction of $\F[x]$
+matrices, we develop a general and flexible approach of transforming matrices
+over skew polynomial rings into a certain reduced form. We apply this to solve
+generalised shift register problems over skew polynomial rings which occur in
+decoding $\ell$-Interleaved Gabidulin codes. We obtain an algorithm with
+complexity $O(\ell \mu^2)$ where $\mu$ measures the size of the input problem
+and is proportional to the code length $n$ in the case of decoding. Further, we
+show how to perform the interpolation step of list-$\ell$-decoding
+Mahdavifar--Vardy codes in complexity $O(\ell n^2)$, where $n$ is the number of
+interpolation constraints.
+</dc:description>
+ <dc:description>Comment: Accepted for Designs, Codes and Cryptography</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-07-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04728</dc:identifier>
+ </oai_dc:dc>
+

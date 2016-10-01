@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Toda field theories and integral curves of standard differential systems</dc:title>
+ <dc:creator>Nie, Zhaohu</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:description>  This paper establishes three relations between the Toda field theory
+associated to a simple Lie algebra and the integral curves of the standard
+differential system on the corresponding complete flag variety. The motivation
+comes from the viewpoint on the Toda field theories as Darboux integrable
+differential systems as developed in \cite{AFV}. First, we establish an
+isomorphism concerning regular functions on the jet space and on the unipotent
+subgroup in the setting of a simple Lie group. Using this result, we then show
+that in the sense of differential systems, after restricting one independent
+variable to a constant the Toda field theory becomes the system for integral
+curves of the standard differential system on a complete flag variety. Finally,
+we establish that, in terms of differential invariants, the Toda field theory
+is the quotient of the product of two such systems by a natural group action.
+</dc:description>
+ <dc:description>Comment: 17 pages. Minor revision. Final version in Journal of Lie Theory</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-08-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04808</dc:identifier>
+ </oai_dc:dc>
+

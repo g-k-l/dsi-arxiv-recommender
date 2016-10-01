@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A new recipe for $\Lambda$CDM</dc:title>
+ <dc:creator>Sahni, Varun</dc:creator>
+ <dc:creator>Sen, Anjan A</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  It is well known that a canonical scalar field is able to describe either
+dark matter or dark energy but not both. We demonstrate that a non-canonical
+scalar field can describe both dark matter and dark energy within a unified
+setting. We consider the simplest extension of the canonical Lagrangian ${\cal
+L} \propto X^\alpha - V(\phi)$ where $\alpha \geq 1$ and $V$ is a sufficiently
+flat potential. In this case the kinetic term in the Lagrangian behaves just
+like a perfect fluid, whereas the potential term mimicks the cosmological
+constant. For very large values, $\alpha \gg 1$, the equation of state of the
+kinetic term drops to zero and the expansion rate of the universe mimicks
+$\Lambda$CDM. The velocity of sound in this model, and the associated
+gravitational clustering, is sensitive to the value of $\alpha$. For very large
+values of $\alpha$ the clustering properties of our model resemble those of
+cold dark matter (CDM). But for smaller values of $\alpha$, gravitational
+clustering on small scales is suppressed, and our model has properties
+resembling those of warm dark matter (WDM). Therefore our non-canonical model
+has an interesting new property: while the background universe expands like
+$\Lambda$CDM, its clustering properties can resemble those of either cold or
+warm dark matter.
+</dc:description>
+ <dc:description>Comment: 16 pages, 4 figures. Additional new results, main conclusions
+  strengthened</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09010</dc:identifier>
+ </oai_dc:dc>
+

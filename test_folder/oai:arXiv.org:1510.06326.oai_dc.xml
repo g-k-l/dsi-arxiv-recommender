@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A diffusion-based approach to obtaining the borders of urban areas</dc:title>
+ <dc:creator>Comin, Cesar Henrique</dc:creator>
+ <dc:creator>Silva, Filipi Nascimento</dc:creator>
+ <dc:creator>Costa, Luciano da Fontoura</dc:creator>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  The access to an ever increasing amount of information in the modern world
+gave rise to the development of many quantitative indicators about urban
+regions in the globe. Therefore, there is a growing need for a precise
+definition of how to delimit urban regions, so as to allow proper respective
+characterization and modeling. Here we present a straightforward methodology to
+automatically detect urban region borders around a single seed point. The
+method is based on a diffusion process having street crossings and terminations
+as source points. We exemplify the potential of the methodology by
+characterizing the geometry and topology of 21 urban regions obtained from 8
+distinct countries. The geometry is studied by employing the lacunarity
+measurement, which is associated to the regularity of holes contained in a
+pattern. The topology is analyzed by associating the betweenness centrality of
+the streets with their respective class, such as motorway or residential,
+obtained from a database.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-07-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06326</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/05/053205</dc:identifier>
+ </oai_dc:dc>
+

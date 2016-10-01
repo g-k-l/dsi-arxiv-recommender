@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Weyl-Type Theorem for Geometrized Newtonian Gravity</dc:title>
+ <dc:creator>Curiel, Erik</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  I state and prove, in the context of a space having only the metrical and
+affine structure imposed by the geometrized version of Newtonian gravitational
+theory, a theorem analagous to that of Weyl's for a Lorentz manifold. The
+theorem says that a projective structure and a suitably defined compatible
+conformal structure jointly suffice for fixing the metric structure of a
+Newtonian spacetime model up to constant factors, and for fixing its affine
+structure as well. The theorem allows one to give a natural, physically
+compelling interpretation of the spatiotemporal geometry of a geometrized
+Newtonian gravity spacetime manifold, in close analogy with the way Weyl's
+Theorem allows one to do in general relativity.
+</dc:description>
+ <dc:description>Comment: withdrawn due to an error in the proof of the main intended result,
+  which is not true in its present form</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-03-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02089</dc:identifier>
+ </oai_dc:dc>
+

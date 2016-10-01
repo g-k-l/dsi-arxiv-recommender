@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Theory of heterogeneous viscoelasticity</dc:title>
+ <dc:creator>Schirmacher, Walter</dc:creator>
+ <dc:creator>Ruocco, Giancarlo</dc:creator>
+ <dc:creator>Mazzone, Valerio</dc:creator>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  We review a new theory of viscoelasticity of a glass-forming viscous liquid
+near and below the glass transition. In our model we assume that each point in
+the material has a specific viscosity, which varies randomly in space according
+to a fluctuating activation free energy. We include a Maxwellian elastic term
+and assume that the corresponding shear modulus fluctuates as well with the
+same distribution as that of the activation barriers. The model is solved in
+coherent-potential approximation (CPA), for which a derivation is given. The
+theory predicts an Arrhenius-type temperature dependence of the viscosity in
+the vanishing-frequency limit, independent of the distribution of the
+activation barriers. The theory implies that this activation energy is
+generally different from that of a diffusing particle with the same
+barrier-height distribution. If the distribution of activation barriers is
+assumed to have Gaussian form, the finite-frequency version of the theory
+describes well the typical low-temperature alpha relaxation peak of glasses.
+Beta relaxation can be included by adding another Gaussian with center at much
+lower energies than that responsible for the alpha relaxation. At high
+frequencies our theory reduces to the description of an elastic medium with
+spatially fluctuating elastic moduli (heterogeneous elasticity theory), which
+explains the occurrence of the boson-peak-related vibrational anomalies of
+glasses.
+</dc:description>
+ <dc:description>Comment: 9 pages, 5 figures. Manuscript presented at the XIV International
+  Workshop on Complex Systems, Paganella, Italy, March 2015, to be published in
+  the Philosophical Magazine</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05868</dc:identifier>
+ <dc:identifier>doi:10.1080/14786435.2015.1119907</dc:identifier>
+ </oai_dc:dc>
+

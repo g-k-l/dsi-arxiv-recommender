@@ -1,0 +1,50 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the LSP3 estimates of surface gravity for LAMOST-Kepler stars with
+  asteroseismic measurements</dc:title>
+ <dc:creator>Ren, Juan-Juan</dc:creator>
+ <dc:creator>Liu, Xiao-Wei</dc:creator>
+ <dc:creator>Xiang, Mao-Sheng</dc:creator>
+ <dc:creator>Huang, Yang</dc:creator>
+ <dc:creator>Hekker, Saskia</dc:creator>
+ <dc:creator>Wang, Chun</dc:creator>
+ <dc:creator>Yuan, Hai-Bo</dc:creator>
+ <dc:creator>Rebassa-Mansergas, Alberto</dc:creator>
+ <dc:creator>Chen, Bing-Qiu</dc:creator>
+ <dc:creator>Sun, Ning-Chen</dc:creator>
+ <dc:creator>Zhang, Hua-Wei</dc:creator>
+ <dc:creator>Huo, Zhi-Ying</dc:creator>
+ <dc:creator>Zhang, Wei</dc:creator>
+ <dc:creator>Zhang, Yong</dc:creator>
+ <dc:creator>Hou, Yong-Hui</dc:creator>
+ <dc:creator>Wang, Yue-Fei</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  Asteroseismology allows for deriving precise values of surface gravity of
+stars. The accurate asteroseismic determinations now available for large number
+of stars in the Kepler fields can be used to check and calibrate surface
+gravities that are currently being obtained spectroscopically for a huge
+numbers of stars targeted by large-scale spectroscopic surveys, such as the
+on-going Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST)
+Galactic survey. The LAMOST spectral surveys have obtained a large number of
+stellar spectra in the Kepler fields. Stellar atmospheric parameters of those
+stars have been determined with the LAMOST Stellar Parameter Pipeline at Peking
+University (LSP3), by template matching with the MILES empirical spectral
+library. In the current work, we compare surface gravities yielded by LSP3 with
+those of two asteroseismic samples - the largest sample from Huber et al.
+(2014) and the most accurate sample from Hekker et al. (2012, 2013). We find
+that LSP3 surface gravities are in good agreement with asteroseismic values of
+Hekker et al. (2012, 2013), with a dispersion of about 0.2 dex. Except for a
+few cases, asteroseismic surface gravities of Huber et al. (2014) and LSP3
+spectroscopic values agree for a wide range of surface gravities. However, some
+patterns of differences can be identified upon close inspection. Potential ways
+to further improve the LSP3 spectroscopic estimation of stellar atmospheric
+parameters in the near future are briefly discussed. The effects of effective
+temperature and metallicity on asteroseismic determinations of surface
+gravities for giant stars are also discussed.
+</dc:description>
+ <dc:description>Comment: Accepted for Publication in RAA</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08677</dc:identifier>
+ <dc:identifier>doi:10.1088/1674-4527/16/3/045</dc:identifier>
+ </oai_dc:dc>
+

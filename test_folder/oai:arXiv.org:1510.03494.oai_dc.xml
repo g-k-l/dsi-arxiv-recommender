@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Comparison of cosmological models using standard rulers and candles</dc:title>
+ <dc:creator>Li, Xiaolei</dc:creator>
+ <dc:creator>Cao, Shuo</dc:creator>
+ <dc:creator>Zheng, Xiaogang</dc:creator>
+ <dc:creator>Li, Song</dc:creator>
+ <dc:creator>Biesiada, Marek</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  In this paper, we used standard rulers and standard candles (separately and
+jointly) to explore five popular dark energy models under assumption of spatial
+flatness of the Universe. As standard rulers, we used a data set comprising 118
+galactic-scale strong lensing systems (individual standard rulers if properly
+calibrated for the mass density profile) combined with BAO diagnostics
+(statistical standard ruler). Supernovae Ia served asstandard candles. Unlike
+in the most of previous statistical studies involving strong lensing systems,
+we relaxed the assumption of singular isothermal sphere (SIS) in favor of its
+generalization: the power-law mass density profile. Therefore, along with
+cosmological model parameters we fitted the power law index and its first
+derivative with respect to the redshift (thus allowing for mass density profile
+evolution). It turned out that the best fitted $\gamma$ parameters are in
+agreement with each other irrespective of the cosmological model considered.
+This demonstrates that galactic strong lensing systems may provide a
+complementary probe to test the properties of dark energy. Fits for
+cosmological model parameters which we obtained are in agreement with
+alternative studies performed by the others. Because standard rulers and
+standard candles have different parameter degeneracies, combination of standard
+rulers and standard candles gives much more restrictive results for
+cosmological parameters. At last, we attempted at model selection based on
+information theoretic criteria (AIC and BIC). Our results support the claim,
+that cosmological constant model is still the best one and there is no (at
+least statistical) reason to prefer any other more complex model.
+</dc:description>
+ <dc:description>Comment: 5 figures, 3 tables, accepted for publication in RAA</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2015-12-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03494</dc:identifier>
+ <dc:identifier>doi:10.1088/1674-4527/16/5/084</dc:identifier>
+ </oai_dc:dc>
+

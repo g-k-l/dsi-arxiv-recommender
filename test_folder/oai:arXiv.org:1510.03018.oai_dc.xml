@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The characteristic cycle and the singular support of a constructible
+  sheaf</dc:title>
+ <dc:creator>Saito, Takeshi</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:description>  We define the characteristic cycle of an etale sheaf as a cycle on the
+cotangent bundle of a smooth variety in positive characteristic using the
+singular support recently defined by Beilinson. We prove a formula a la Milnor
+for the total dimension of the space of vanishing cycles and an index formula
+computing the Euler-Poincare characteristic, generalizing the
+Grothendieck-Ogg-Shafarevich formula to higher dimension.
+  An essential ingredient of the construction and the proof is a partial
+generalization to higher dimension of the semi-continuity of the Swan conductor
+due to Deligne-Laumon. We prove the index formula by establishing certain
+functorial properties of characteristic cycles.
+</dc:description>
+ <dc:description>Comment: 79 pages. Beilinson's proof of the integrality of characteristic
+  cycles is included in v3. Proofs of the pull-back formula and the index
+  formula are replaced in v4 by those based on Radon transform, due to
+  Beilinson</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2016-06-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03018</dc:identifier>
+ <dc:identifier>doi:10.1007/s00222-016-0675-3</dc:identifier>
+ </oai_dc:dc>
+

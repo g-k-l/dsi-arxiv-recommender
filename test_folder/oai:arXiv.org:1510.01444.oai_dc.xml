@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stochastic subGradient Methods with Linear Convergence for Polyhedral
+  Convex Optimization</dc:title>
+ <dc:creator>Yang, Tianbao</dc:creator>
+ <dc:creator>Lin, Qihang</dc:creator>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  In this paper, we show that simple {Stochastic} subGradient Decent methods
+with multiple Restarting, named {\bf RSGD}, can achieve a \textit{linear
+convergence rate} for a class of non-smooth and non-strongly convex
+optimization problems where the epigraph of the objective function is a
+polyhedron, to which we refer as {\bf polyhedral convex optimization}. Its
+applications in machine learning include $\ell_1$ constrained or regularized
+piecewise linear loss minimization and submodular function minimization. To the
+best of our knowledge, this is the first result on the linear convergence rate
+of stochastic subgradient methods for non-smooth and non-strongly convex
+optimization problems.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the author due to that it has been
+  merged into arXiv manuscript arXiv:1512.03107</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01444</dc:identifier>
+ </oai_dc:dc>
+

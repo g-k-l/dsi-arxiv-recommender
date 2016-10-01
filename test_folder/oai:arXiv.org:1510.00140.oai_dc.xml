@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Complexity of the Game Domination Problem</dc:title>
+ <dc:creator>Bre&#353;ar, Bo&#353;tjan</dc:creator>
+ <dc:creator>Dorbec, Paul</dc:creator>
+ <dc:creator>Klav&#382;ar, Sandi</dc:creator>
+ <dc:creator>Ko&#353;mrlj, Ga&#353;per</dc:creator>
+ <dc:creator>Renault, Gabriel</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:subject>05C57, 68Q15, 05C69</dc:subject>
+ <dc:description>  The game domination number is a graph invariant that arises from a game,
+which is related to graph domination in a similar way as the game chromatic
+number is related to graph coloring. In this paper we show that verifying
+whether the game domination number of a graph is bounded by a given integer is
+PSPACE-complete. This contrasts the situation of the game coloring problem
+whose complexity is still unknown.
+</dc:description>
+ <dc:description>Comment: 14 pages, 3 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-06-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00140</dc:identifier>
+ </oai_dc:dc>
+

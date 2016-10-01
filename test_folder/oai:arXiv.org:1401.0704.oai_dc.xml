@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A combinatorial approach to products of Pisot substitutions</dc:title>
+ <dc:creator>Berth&#233;, Val&#233;rie</dc:creator>
+ <dc:creator>Bourdon, J&#233;r&#233;mie</dc:creator>
+ <dc:creator>Jolivet, Timo</dc:creator>
+ <dc:creator>Siegel, Anne</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  We define a generic algorithmic framework to prove pure discrete spectrum for
+the substitutive symbolic dynamical systems associated with some infinite
+families of Pisot substitutions. We focus on the families obtained as finite
+products of the three-letter substitutions associated with the multidimensional
+continued fraction algorithms of Brun and Jacobi-Perron.
+  Our tools consist in a reformulation of some combinatorial criteria
+(coincidence conditions), in terms of properties of discrete plane generation
+using multidimensional (dual) substitutions. We also deduce some topological
+and dynamical properties of the Rauzy fractals, of the underlying symbolic
+dynamical systems, as well as some number-theoretical properties of the
+associated Pisot numbers.
+</dc:description>
+ <dc:description>Comment: 32 pages, v2 with many corrections and improvements</dc:description>
+ <dc:date>2014-01-03</dc:date>
+ <dc:date>2014-06-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1401.0704</dc:identifier>
+ <dc:identifier>Ergod. Th. Dynam. Sys. 36 (2015) 1757-1794</dc:identifier>
+ <dc:identifier>doi:10.1017/etds.2014.141</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Renyi information from entropic effects in one higher dimension</dc:title>
+ <dc:creator>Maghrebi, Mohammad F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Computing entanglement entropy and its cousins is often challenging even in
+the simplest continuum and lattice models, partly because such entropies depend
+nontrivially on all geometric characteristics of the entangling region. Quantum
+information measures between two or more regions are even more complicated, but
+contain more, and universal, information. In this paper, we focus on R\'{e}nyi
+entropy and information of the order $n=2$. For a free field theory, we show
+that these quantities are mapped to the change of the thermodynamic free energy
+by introducing boundaries subject to Dirichlet and Neumann boundary conditions
+in one higher dimension. This mapping allows us to exploit the powerful tools
+available in the context of thermal Casimir effect, specifically a multipole
+expansion suited for computing the R\'{e}nyi information between
+arbitrarily-shaped regions. In particular, we compute the R\'{e}nyi information
+between two disk-shaped regions at an arbitrary separation distance. We provide
+an alternative representation of the R\'{e}nyi information as a sum over
+closed-loop polymers, which establishes a connection to purely entropic
+effects, and proves useful in deriving information inequalities. Finally, we
+discuss extensions of our results beyond free field theories.
+</dc:description>
+ <dc:description>Comment: 30 pages, 12 figures. A number of new results on mutual information
+  between regions of various shapes at arbitrary separations added</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-04-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00018</dc:identifier>
+ <dc:identifier>J. Stat. Mech. (2016) 043102</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/04/043102</dc:identifier>
+ </oai_dc:dc>
+

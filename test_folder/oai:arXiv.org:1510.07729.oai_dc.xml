@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Some Open Book and Contact Structures on Moment-Angle Manifolds</dc:title>
+ <dc:creator>Barreto, Yadira</dc:creator>
+ <dc:creator>de Medrano, Santiago L&#243;pez</dc:creator>
+ <dc:creator>Verjovsky, Alberto</dc:creator>
+ <dc:subject>Mathematics - Algebraic Topology</dc:subject>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:description>  We construct open book structures on all moment-angle manifolds and describe
+the topology of their leaves and bindings under certain restric- tions. II. We
+also show, using a recent deep result about contact forms due to Borman,
+Eliashberg and Murphy [6], that every odd-dimensional moment-angle manifold
+admits a contact structure. This contrasts with the fact that, except for a
+few, well-determined cases, even-dimensional ones do not admit symplectic
+structures. We obtain the same results for large families of more general
+intersections of quadrics.
+</dc:description>
+ <dc:description>Comment: arXiv admin note: text overlap with arXiv:1303.2671</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-03-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07729</dc:identifier>
+ </oai_dc:dc>
+

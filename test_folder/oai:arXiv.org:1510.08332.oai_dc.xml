@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A theory on power in networks</dc:title>
+ <dc:creator>Franceschet, Massimo</dc:creator>
+ <dc:creator>Bozzo, Enrico</dc:creator>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  The eigenvector centrality equation $\lambda x = A \, x$ is a successful
+compromise between simplicity and expressivity. It claims that central actors
+are those connected with central others. For at least 70 years, this equation
+has been explored in disparate contexts, including econometrics, sociometry,
+bibliometrics, Web information retrieval, and network science. We propose an
+equally elegant counterpart: the power equation $x = A x^{\div}$, where
+$x^{\div}$ is the vector whose entries are the reciprocal of those of $x$. It
+asserts that power is in the hands of those connected with powerless others. It
+is meaningful, for instance, in bargaining situations, where it is advantageous
+to be connected to those who have few options. We tell the parallel, mostly
+unexplored story of this intriguing equation.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08332</dc:identifier>
+ </oai_dc:dc>
+

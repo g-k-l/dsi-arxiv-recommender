@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A study of surface semi-geostrophic turbulence: freely decaying dynamics</dc:title>
+ <dc:creator>Ragone, Francesco</dc:creator>
+ <dc:creator>Badin, Gualtiero</dc:creator>
+ <dc:subject>Physics - Atmospheric and Oceanic Physics</dc:subject>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  In this study we give a characterization of semi-geostrophic turbulence by
+performing freely decaying simulations for the case of constant uniform
+potential vorticity, a set of equations known as surface semi-geostrophic
+approximation. The equations are formulated as conservation laws for potential
+temperature and potential vorticity, with a nonlinear Monge-Amp\'{e}re type
+inversion equation for the streamfunction, expressed in a transformed
+coordinate system that follows the geostrophic flow. We perform model studies
+of turbulent surface semi-geostrophic flows in a doubly-periodic domain in the
+horizontal limited in the vertical by two rigid lids, allowing for variations
+of potential temperature at one of the boundaries, and we compare them with the
+corresponding surface quasi-geostrophic case. Results show that, while surface
+quasi-geostrophic dynamics is dominated by a symmetric population of
+cyclones-anticyclones, surface semi-geostrophic dynamics features a more
+prominent role of fronts and filaments. The resulting distribution of potential
+temperature is strongly skewed and peaked at non-zero values at and close to
+the active boundary, while symmetry is restored in the interior of the domain,
+where small-scale frontal structures do not penetrate. In surface
+semi-geostrophic turbulence energy spectra are less steep than in the surface
+quasi-geostrophic case, with more energy concentrated at small scales for
+increasing Rossby number. Energy connected to frontal structures, lateral
+strain rate and vertical velocities are largest close to the active boundary.
+These results show that the semi-geostrophic model could be of interest for
+studying the lateral mixing of properties in geophysical flows.
+</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-01-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07485</dc:identifier>
+ <dc:identifier>2016, Journal of Fluid Mechanics, 792, 740-774</dc:identifier>
+ <dc:identifier>doi:10.1017/jfm.2016.116</dc:identifier>
+ </oai_dc:dc>
+

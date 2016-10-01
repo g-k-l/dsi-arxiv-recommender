@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Coulomb interaction in Helium-3: Interplay of strong short-range and
+  weak long-range potentials</dc:title>
+ <dc:creator>Kirscher, J.</dc:creator>
+ <dc:creator>Gazit, D.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  Quantum chromodynamics and the electroweak theory at low energies are
+prominent instances of the combination of a short-range and a long-range
+interaction. For the description of light nuclei, the large nucleon-nucleon
+scattering lengths produced by the strong interaction, and the reduction of the
+weak interaction to the Coulomb potential, play a crucial role. Helium-3 is the
+first bound nucleus comprised of more than one proton in which this combination
+of forces can be studied.
+  We demonstrate a proper renormalization of Helium-3 using the pionless
+effective field theory as the formal representation of the nuclear regime as
+strongly interacting fermions. The theory is found consistent at leading and
+next-to-leading order without isospin-symmetry-breaking 3-nucleon interactions
+and a non-perturbative treatment of the Coulomb interaction. The conclusion
+highlights the significance of the regularization method since a comparison to
+previous work is contradictory if the difference in those methods is not
+considered.
+  With a perturbative Coulomb interaction, as suggested by dimensional
+analysis, we find the Helium-3 system properly renormalized, too.
+  For both treatments, renormalization-scheme independence of the effective
+field theory is demonstrated by regulating the potential and a variation of the
+associated cutoff.
+</dc:description>
+ <dc:description>Comment: accepted version; additional figure; additional discussion of renorm.
+  and limit cycle</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00118</dc:identifier>
+ <dc:identifier>Phys. Lett. B755 2016 253-260</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.02.011</dc:identifier>
+ </oai_dc:dc>
+

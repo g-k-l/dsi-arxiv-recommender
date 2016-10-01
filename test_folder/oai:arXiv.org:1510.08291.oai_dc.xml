@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Linear Shape Deformation Models with Local Support Using Graph-based
+  Structured Matrix Factorisation</dc:title>
+ <dc:creator>Bernard, Florian</dc:creator>
+ <dc:creator>Gemmar, Peter</dc:creator>
+ <dc:creator>Hertel, Frank</dc:creator>
+ <dc:creator>Goncalves, Jorge</dc:creator>
+ <dc:creator>Thunberg, Johan</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:description>  Representing 3D shape deformations by linear models in high-dimensional space
+has many applications in computer vision and medical imaging, such as
+shape-based interpolation or segmentation. Commonly, using Principal Components
+Analysis a low-dimensional (affine) subspace of the high-dimensional shape
+space is determined. However, the resulting factors (the most dominant
+eigenvectors of the covariance matrix) have global support, i.e. changing the
+coefficient of a single factor deforms the entire shape. In this paper, a
+method to obtain deformation factors with local support is presented. The
+benefits of such models include better flexibility and interpretability as well
+as the possibility of interactively deforming shapes locally. For that, based
+on a well-grounded theoretical motivation, we formulate a matrix factorisation
+problem employing sparsity and graph-based regularisation terms. We demonstrate
+that for brain shapes our method outperforms the state of the art in local
+support models with respect to generalisation ability and sparse shape
+reconstruction, whereas for human body shapes our method gives more realistic
+deformations.
+</dc:description>
+ <dc:description>Comment: Please cite CVPR 2016 version</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08291</dc:identifier>
+ </oai_dc:dc>
+

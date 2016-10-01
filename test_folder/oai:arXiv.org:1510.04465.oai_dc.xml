@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A possible link between high rotation measure and CSS-GPS sources</dc:title>
+ <dc:creator>Pasetto, Alice</dc:creator>
+ <dc:creator>Kraus, Alex</dc:creator>
+ <dc:creator>Mack, Karl-Heinz</dc:creator>
+ <dc:creator>Bruni, Gabriele</dc:creator>
+ <dc:creator>Carrasco-Gonzalez, Carlos</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We report here the study, in the radio band, of a sample of candidates of
+high Rotation Measure (RM). The point-like objects (at kpc scale) were selected
+by choosing unpolarised sources from the NVSS which show significant linear
+polarisation at 10.45 GHz. Assuming in-band depolarisation, this feature
+suggests the presence of a very dense medium surrounding them in a combination
+of a strong magnetic field. Further single-dish observations were performed
+with the 100-m Effelsberg telescope to characterise the SEDs of the sample and
+to well determine their RM in the 11 to 2 cm wavelength range. Besides, a
+wideband (L, S, C and X band ) full polarisation observational campaign was
+performed at the JVLA facility. It allows us to analyse the in-band RM for the
+most extreme objects. Some Effelsberg results and analysis, and preliminary
+JVLA results are presented. The observations reveal that sources with young,
+newly growing, radio components at high frequency (i.e. GPS and HFP sources)
+are characterised by a really dense and/or a magnetised medium that strongly
+rotates the polarisation angle at the different frequencies, leading to a
+high-RM.
+</dc:description>
+ <dc:description>Comment: Paper accepted to by published on Astronomische Nachrichten Journal.
+  arXiv admin note: text overlap with arXiv:1510.01136</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04465</dc:identifier>
+ <dc:identifier>doi:10.1002/asna.201512271</dc:identifier>
+ </oai_dc:dc>
+

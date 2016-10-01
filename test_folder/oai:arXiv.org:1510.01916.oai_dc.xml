@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Large scale CMB anomalies from thawing cosmic strings</dc:title>
+ <dc:creator>Ringeval, Christophe</dc:creator>
+ <dc:creator>Yamauchi, Daisuke</dc:creator>
+ <dc:creator>Yokoyama, Jun'ichi</dc:creator>
+ <dc:creator>Bouchet, Francois R.</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Cosmic strings formed during inflation are expected to be either diluted over
+super-Hubble distances, i.e., invisible today, or to have crossed our past
+light cone very recently. We discuss the latter situation in which a few
+strings imprint their signature in the Cosmic Microwave Background (CMB)
+Anisotropies after recombination. Being almost frozen in the Hubble flow, these
+strings are quasi static and evade almost all of the previously derived
+constraints on their tension while being able to source large scale
+anisotropies in the CMB sky. Using a local variance estimator on thousand of
+numerically simulated Nambu-Goto all sky maps, we compute the expected signal
+and show that it can mimic a dipole modulation at large angular scales while
+being negligible at small angles. Interestingly, such a scenario generically
+produces one cold spot from the thawing of a cosmic string loop. Mixed with
+anisotropies of inflationary origin, we find that a few strings of tension GU =
+O(1) x 10^(-6) match the amplitude of the dipole modulation reported in the
+Planck satellite measurements and could be at the origin of other large scale
+anomalies.
+</dc:description>
+ <dc:description>Comment: 23 pages, 11 figures, uses jcappub. References added, matches
+  published version</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01916</dc:identifier>
+ <dc:identifier>JCAP 1602: 033, 2016</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/02/033</dc:identifier>
+ </oai_dc:dc>
+

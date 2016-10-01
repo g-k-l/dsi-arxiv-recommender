@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Junction conditions in quadratic gravity: thin shells and double layers</dc:title>
+ <dc:creator>Reina, Borja</dc:creator>
+ <dc:creator>Senovilla, Jos&#233; M. M.</dc:creator>
+ <dc:creator>Vera, Ra&#252;l</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  The junction conditions for the most general gravitational theory with a
+Lagrangian containing terms quadratic in the curvature are derived. We include
+the cases with a possible concentration of matter on the joining hypersurface
+-termed as thin shells, domain walls or braneworlds in the literature- as well
+as the proper matching conditions where only finite jumps of the
+energy-momentum tensor are allowed. In the latter case we prove that the
+matching conditions are more demanding than in General Relativity. In the
+former case, we show that generically the shells/domain walls are of a new kind
+because they possess, in addition to the standard energy-momentum tensor, a
+double layer energy-momentum contribution which actually induces an external
+energy flux vector and an external scalar pressure/tension on the shell. We
+prove that all these contributions are necessary to make the entire
+energy-momentum tensor divergence-free, and we present the field equations
+satisfied by these energy-momentum quantities. The consequences of all these
+results are briefly analyzed.
+</dc:description>
+ <dc:description>Comment: 43 pages, 1 figure</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05515</dc:identifier>
+ <dc:identifier>doi:10.1088/0264-9381/33/10/105008</dc:identifier>
+ </oai_dc:dc>
+

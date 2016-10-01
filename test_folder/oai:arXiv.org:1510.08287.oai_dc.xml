@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Winding angle distributions for two-dimensional collapsing polymers</dc:title>
+ <dc:creator>Narros, Arturo</dc:creator>
+ <dc:creator>Owczarek, Aleksander L</dc:creator>
+ <dc:creator>Prellberg, Thomas</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  We provide numerical support for a long-standing prediction of universal
+scaling of winding angle distributions. Simulations of interacting
+self-avoiding walks show that the winding angle distribution for $N$-step walks
+is compatible with the theoretical prediction of a Gaussian with a variance
+growing asymptotically as $C\log N$, with $C=2$ in the swollen phase
+(previously verified), and $C=24/7$ at the $\theta$-point. At low temperatures
+weaker evidence demonstrates compatibility with the same scaling and a value of
+$C=4$ in the collapsed phase, also as theoretically predicted.
+</dc:description>
+ <dc:description>Comment: 9 pages, 5 figures, (this version: email address corrected)</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2015-11-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08287</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/686/1/012007</dc:identifier>
+ </oai_dc:dc>
+

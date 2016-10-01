@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Design of Self-Organising Networks</dc:title>
+ <dc:creator>Silk, H.</dc:creator>
+ <dc:creator>Homer, M.</dc:creator>
+ <dc:creator>Gross, T.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:description>  A key problem in the study and design of complex systems is the apparent
+disconnection between the microscopic and the macroscopic. It is not
+straightforward to identify the local interactions that give rise to an
+observed global phenomenon, nor is it simple to design a system that will
+exhibit some desired global property using only local knowledge. Here we
+propose a methodology that allows for the identification of local interactions
+that give rise to a desired global property of a network, the degree
+distribution. Given a set of observable processes acting on a network, we
+determine the conditions that must satisfied to generate a desired steady-state
+degree distribution. We thereby provide a simple example for a class of tasks
+where a system can be designed to self-organize to a given state.
+</dc:description>
+ <dc:description>Comment: 15 pages, 5 figures; corrected typos, further descriptions added to
+  all sections, subsections added to sec.3 for easier navigation</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-06-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05045</dc:identifier>
+ </oai_dc:dc>
+

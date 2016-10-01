@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Range and critical generations of a random walk on Galton-Watson trees</dc:title>
+ <dc:creator>Andreoletti, Pierre</dc:creator>
+ <dc:creator>Chen, Xinxin</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  In this paper we consider a random walk in random environment on a tree and
+focus on the boundary case for the underlying branching potential. We study the
+range $R\_n$ of this walk up to time $n$ and obtain its correct asymptotic in
+probability which is of order $n/\log n$. Thisresult is a consequence of the
+asymptotical behavior of the number of visited sites at generations of order
+$(\log n)^2$,which turn out to be the most visited generations. Our proof which
+involves a quenched analysisgives a description of the typical environments
+responsible for the behavior of $R\_n$.
+</dc:description>
+ <dc:description>Comment: 53 pages</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-06-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01121</dc:identifier>
+ </oai_dc:dc>
+

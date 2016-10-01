@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exciton-polariton X-waves in a microcavity</dc:title>
+ <dc:creator>Voronych, Oksana</dc:creator>
+ <dc:creator>Buraczewski, Adam</dc:creator>
+ <dc:creator>Matuszewski, Micha&#322;</dc:creator>
+ <dc:creator>Stobi&#324;ska, Magdalena</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the possibility of creating X-waves, or localized wave
+packets, in resonantly excited exciton-polariton superfluids. We demonstrate
+the existence of X-wave traveling solutions in the coupled exciton-photon
+system past the inflection point, where the effective mass of lower polaritons
+is negative in the direction perpendicular to the wavevector of the pumping
+beam. Contrary to the case of bright solitons, X-waves do not require
+nonlinearity for sustaining their shape. Nevertheless, we show that
+nonlinearity is important for their dynamics, as it allows for their
+spontaneous formation from an initial Gaussian wave packet. Unique properties
+of exciton-polaritons may lead to applications of their X-waves in
+long-distance signal propagation inside novel integrated optoelectronic
+circuits based on excitons.
+</dc:description>
+ <dc:description>Comment: 5 pages, 6 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05429</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 245310 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.245310</dc:identifier>
+ </oai_dc:dc>
+

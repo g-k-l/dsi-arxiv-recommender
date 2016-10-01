@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Counterexamples in theory of fractal dimension for fractal structures</dc:title>
+ <dc:creator>Nowak, Magdalena</dc:creator>
+ <dc:creator>Fern&#225;ndez-Mart&#237;nez, Manuel</dc:creator>
+ <dc:creator>S&#225;nchez-Granero, Miguel Angel</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:description>  Fractal dimension constitutes the main tool to test for fractal patterns in
+Euclidean contexts. For this purpose, it is always used the box dimension,
+since it is easy to calculate, though the Hausdorff dimension, which is the
+oldest and also the most accurate fractal dimension, presents the best
+analytical properties. Additionally, fractal structures provide an appropriate
+topological context where new models of fractal dimension for a fractal
+structure could be developed in order to generalize the classical models of
+fractal dimension. In this paper, we provide some counterexamples regarding
+these new models of fractal dimension in order to show the reader how they
+behave mathematically with respect to the classical models, and also to point
+out which features of such models can be exploited to powerful effect in
+applications.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03402</dc:identifier>
+ </oai_dc:dc>
+

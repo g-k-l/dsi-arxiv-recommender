@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Beyond graph energy: norms of graphs and matrices</dc:title>
+ <dc:creator>Nikiforov, Vladimir</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>05C50</dc:subject>
+ <dc:description>  In 1978 Gutman introduced the energy of a graph as the sum of the absolute
+values of graph eigenvalues, and ever since then graph energy has been
+intensively studied.
+  Since graph energy is the trace norm of the adjacency matrix, matrix norms
+provide a natural background for its study. Thus, this paper surveys research
+on matrix norms that aims to expand and advance the study of graph energy.
+  The focus is exclusively on the Ky Fan and the Schatten norms, both
+generalizing and enriching the trace norm. As it turns out, the study of
+extremal properties of these norms leads to numerous analytic problems with
+deep roots in combinatorics.
+  The survey brings to the fore the exceptional role of Hadamard matrices,
+conference matrices, and conference graphs in matrix norms. In addition, a vast
+new matrix class is studied, a relaxation of symmetric Hadamard matrices.
+  The survey presents solutions to just a fraction of a larger body of similar
+problems bonding analysis to combinatorics. Thus, open problems and questions
+are raised to outline topics for further investigation.
+</dc:description>
+ <dc:description>Comment: 54 pages. V2 fixes many typos, and gives some new material</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02850</dc:identifier>
+ </oai_dc:dc>
+

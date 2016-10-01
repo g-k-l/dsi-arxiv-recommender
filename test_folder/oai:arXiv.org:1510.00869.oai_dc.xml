@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Improving traffic flow at a 2-to-1 lane reduction with wirelessly
+  connected, adaptive cruise control vehicles</dc:title>
+ <dc:creator>Davis, L. C.</dc:creator>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  Wirelessly connected vehicles that exchange information about traffic
+conditions can reduce delays caused by congestion. At a 2-to-1 lane reduction,
+the improvement in flow past a bottleneck due to traffic with a random mixture
+of 40% connected vehicles is found to be 52%. Control is based on
+connected-vehicle-reported velocities near the bottleneck. In response to
+indications of congestion the connected vehicles, which are also adaptive
+cruise control vehicles, reduce their speed in slowdown regions. Early lane
+changes of manually driven vehicles from the terminated lane to the continuous
+lane are induced by the slowing connected vehicles. Self-organized congestion
+at the bottleneck is thus delayed or eliminated, depending upon the incoming
+flow magnitude. For the large majority of vehicles, travel times past the
+bottleneck are substantially reduced. Control is responsible for delaying the
+onset of congestion as the incoming flow increases. Adaptive cruise control
+increases the flow out of the congested state at the bottleneck. The nature of
+the congested state, when it occurs, appears to be similar under a variety of
+conditions. Typically 80-100 vehicles are approximately equally distributed
+between the lanes in the 500-m region prior to the end of the terminated lane.
+Without the adaptive cruise control capability, connected vehicles can delay
+the onset of congestion but do not increase the asymptotic flow past the
+bottleneck. Calculations are done using the Kerner-Klenov stochastic
+discrete-time model for manual vehicles. The dynamics of the connected vehicles
+is given by a conventional adaptive cruise control algorithm plus commanded
+deceleration. Because time in the model for manual vehicles is discrete
+(one-second intervals), it is assumed that the acceleration of any vehicle
+immediately in front of a connected vehicle is constant during the time
+interval.
+</dc:description>
+ <dc:description>Comment: 29 pages, 15 figures</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00869</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physa.2016.01.093</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A linear time quantum algorithm for 3SAT</dc:title>
+ <dc:creator>Walters, Zachary B.</dc:creator>
+ <dc:subject>Physics - General Physics</dc:subject>
+ <dc:description>  A quantum algorithm for the NP complete problem of satisfying boolean
+formulas with three variables per clause (3SAT) is presented. Departing from
+traditional models of quantum computation, this algorithm makes extensive use
+of irreversible operations to incoherently transfer population from states
+which do not solve some problem of interest to states which do. Provided that a
+solution exists, the algorithm yields exponential decay of nonsolution
+probability, at a rate controlled by the user.
+</dc:description>
+ <dc:date>2015-09-28</dc:date>
+ <dc:date>2016-05-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00409</dc:identifier>
+ </oai_dc:dc>
+

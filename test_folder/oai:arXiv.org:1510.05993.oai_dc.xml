@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>R\'enyi Entropy for the $\sun1$ WZW model on the torus</dc:title>
+ <dc:creator>Schnitzer, Howard J.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  The $\sun1$ WZW model is constructed on a n-sheeted branched torus, which
+allows the investigation of the R\'enyi entropy for a single interval at finite
+temperature. The small and large interval limits, as well as the low
+temperature expansion are presented for this theory.
+</dc:description>
+ <dc:description>Comment: v4. Typos corrected, remark added</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-05-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05993</dc:identifier>
+ </oai_dc:dc>
+

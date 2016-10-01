@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Magneto-thermally Activated Spin-state Transition in La0.95Ca0.05CoO3:
+  Magnetically-tunable Dipolar Glass and Giant Magneto-electricity</dc:title>
+ <dc:creator>Pandey, Suchita</dc:creator>
+ <dc:creator>Kumar, Jitender</dc:creator>
+ <dc:creator>Awasthi, A. M.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Magneto-dielectric spectra of La0.95Ca0.05CoO3 covering the crossover of spin
+states reveals strong coupling of its spin and dipolar degrees of freedom.
+Signature of spin-state transition at 30K clearly manifests in magnetization,
+supported by Co L_3,2-edge XAS data on the doped-specimen as consistent with
+its suppressed T_SST vs. ~150K for pure LaCoO3. Dispersive activation-step
+{\Delta}{\epsilon}'(T_{\omega})~O(10^2) and relaxation-peak
+{\epsilon}"(T_{\omega}) reflect the allied influence of coexistent spin-states
+on the dielectric character. Dipolar relaxation in the LS regime below T_SST is
+partly segmental (VFT kinetics) featuring magnetic-field tunability, whereas in
+the LS/IS-spin disordered state above 30K, it is uncorrelated (Arrhenic
+kinetics) and almost impervious to the H-field. Kinetics-switchover defines the
+dipolar-glass transition temperature Tg(H), below which the
+magneto-thermally-activated cooperative relaxations freeze-out by the VFT
+temperature T_0(H). Applied H-field facilitates thermally-activated SST and
+accelerates the dipolar relaxations; a critical 5T field collapsing the entire
+kinetics into a single Arrhenic behavior. Magneto-electricity (ME) spanning
+sizable thermo-spectral range registers diverse signatures here in the kinetic,
+spectral, and field behaviors, in contrast to the static/perturbative ME
+observed close to the spin-ordering in typical multiferroics. Intrinsic
+magneto-dielectricity (50%) along with vanishing magneto-loss is obtained at
+(27K/50kHz)_9T. Sub-linear deviant field-hysteretic split seen in
+{\epsilon}'(H)|_&gt;4T suggests the emergence of robust dipoles organized into
+nano-clusters, realized by the internally-generated high magneto-electric
+field. An elaborate {\omega}-T multi-dispersions diagram maps the rich variety
+of phase/response patterns, revealing the highly-interacting magnetic and
+electric moments in the system.
+</dc:description>
+ <dc:description>Comment: 28 pages, 10 figures, 2 tables, 38 numbered references</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-02-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04052</dc:identifier>
+ <dc:identifier>Phys. Chem. Chem. Phys. 18, 6569 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1039/C5CP06932G</dc:identifier>
+ </oai_dc:dc>
+

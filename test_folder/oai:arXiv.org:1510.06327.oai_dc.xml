@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The continuous transition of Hamiltonian vector fields through manifolds
+  of constant curvature</dc:title>
+ <dc:creator>Diacu, Florin</dc:creator>
+ <dc:creator>Ibrahim, Slim</dc:creator>
+ <dc:creator>Sniatycki, Jedrzej</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  We ask whether Hamiltonian vector fields defined on spaces of constant
+Gaussian curvature $\kappa$ (spheres, for $\kappa&gt;0$, and hyperbolic spheres,
+for $\kappa&lt;0$), pass continuously through the value $\kappa=0$ if the
+potential functions $U_\kappa, \kappa\in\mathbb R$, that define them satisfy
+the property $\lim_{\kappa\to 0}U_\kappa=U_0$, where $U_0$ corresponds to the
+Euclidean case. We prove that the answer to this question is positive, both in
+the 2- and 3-dimensional cases, which are of physical interest, and then apply
+our conclusions to the gravitational $N$-body problem.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06327</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4953371</dc:identifier>
+ </oai_dc:dc>
+

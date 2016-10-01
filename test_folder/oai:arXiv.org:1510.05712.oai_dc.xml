@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>SCAN+rVV10: A promising van der Waals density functional</dc:title>
+ <dc:creator>Peng, Haowei</dc:creator>
+ <dc:creator>Yang, Zeng-Hui</dc:creator>
+ <dc:creator>Sun, Jianwei</dc:creator>
+ <dc:creator>Perdew, John P.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Physics - Atomic and Molecular Clusters</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  The newly developed "strongly constrained and appropriately normed" (SCAN)
+meta-generalized-gradient approximation (meta-GGA) can generally improve over
+the non-empirical Perdew-Burke-Ernzerhof (PBE) GGA not only for strong chemical
+bonding, but also for the intermediate-range van der Waals (vdW) interaction.
+However, the long-range vdW interaction is still missing. To remedy this, we
+propose here pairing SCAN with the non-local correlation part from the rVV10
+vdW density functional, with only two empirical parameters. The resulting
+SCAN+rVV10 yields excellent geometric and energetic results not only for
+molecular systems, but also for solids and layered-structure materials, as well
+as the adsorption of benzene on coinage metal surfaces. Especially, SCAN+rVV10
+outperforms all current methods with comparable computational efficiencies,
+accurately reproducing the three most fundamental parameters---the inter-layer
+binding energies, inter-, and intra-layer lattice constants---for 28
+layered-structure materials. Hence, we have achieved with SCAN+rVV10 a
+promising vdW density functional for general geometries, with minimal
+empiricism.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05712</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An improved upper bound for the Erd\H{o}s-Szekeres conjecture</dc:title>
+ <dc:creator>Mojarrad, Hossein Nassajian</dc:creator>
+ <dc:creator>Vlachos, Georgios</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  Let $ES(n)$ denote the minimum natural number such that every set of $ES(n)$
+points in general position in the plane contains $n$ points in convex position.
+In 1935, Erd\H{o}s and Szekeres proved that $ES(n) \le {2n-4 \choose n-2}+1$.
+In 1961, they obtained the lower bound $2^{n-2}+1 \le ES(n)$, which they
+conjectured to be optimal. In this paper, we prove that $$ES(n) \le {2n-5
+\choose n-2}-{2n-8 \choose n-3}+2 \approx \frac{7}{16} {2n-4 \choose n-2}.$$
+</dc:description>
+ <dc:description>Comment: 15 pages, 10 figures. Accepted to Discrete &amp; Computational Geometry
+  (DCG). This second version is a result of the merger of the first version
+  (arXiv:1510.06255v1) and the paper (arXiv:1505.07549)</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-05-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06255</dc:identifier>
+ </oai_dc:dc>
+

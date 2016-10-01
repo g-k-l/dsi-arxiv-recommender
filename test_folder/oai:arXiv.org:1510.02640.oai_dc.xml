@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reducible Quantum Electrodynamics. II. The charged states of the vacuum</dc:title>
+ <dc:creator>Naudts, Jan</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  An explicit construction is given of field operators satisfying the free
+Dirac equation. The quantum expectation of these field operators forms a spinor
+which satisfies the original Dirac equation. The current operators are defined
+as pair correlation functions. Explicit expressions in terms of creation and
+annihilation operators are obtained. A small example shows that all relevant
+quantities are mathematically well-defined.
+</dc:description>
+ <dc:description>Comment: 17 pages A4 wide column; small corrections, one reference added</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-05-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02640</dc:identifier>
+ </oai_dc:dc>
+

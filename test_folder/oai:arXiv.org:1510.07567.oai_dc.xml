@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spatial and Temporal Stability of Airglow Measured in the Meinel Band
+  Window at 1191.3 nm</dc:title>
+ <dc:creator>Nguyen, Hien T.</dc:creator>
+ <dc:creator>Zemcov, Michael</dc:creator>
+ <dc:creator>Battle, John</dc:creator>
+ <dc:creator>Bock, James J.</dc:creator>
+ <dc:creator>Hristov, Viktor</dc:creator>
+ <dc:creator>Korngut, Philip</dc:creator>
+ <dc:creator>Meek, Andrew</dc:creator>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:description>  We report on the temporal and spatial fluctuations in the atmospheric
+brightness in the narrow band between Meinel emission lines at 1191.3 nm using
+an R=320 near-infrared instrument. We present the instrument design and
+implementation, followed by a detailed analysis of data taken over the course
+of a night from Table Mountain Observatory. The absolute sky brightness at this
+wavelength is found to be 5330 +/- 30 nW m^-2 sr^-1, consistent with previous
+measurements of the inter-band airglow at these wavelengths. This amplitude is
+larger than simple models of the continuum component of the airglow emission at
+these wavelengths, confirming that an extra emissive or scattering component is
+required to explain the observations. We perform a detailed investigation of
+the noise properties of the data and find no evidence for a noise component
+associated with temporal instability in the inter-line continuum. This result
+demonstrates that in several hours of ~100s integrations the noise performance
+of the instrument does not appear to significantly degrade from expectations,
+giving a proof of concept that near-IR line intensity mapping may be feasible
+from ground-based sites.
+</dc:description>
+ <dc:description>Comment: 15 figures, submitted to PASP</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07567</dc:identifier>
+ <dc:identifier>doi:10.1088/1538-3873/128/967/094504</dc:identifier>
+ </oai_dc:dc>
+

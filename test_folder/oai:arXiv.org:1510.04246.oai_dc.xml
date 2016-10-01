@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Accelerating the Uzawa Algorithm</dc:title>
+ <dc:creator>Ho, Nguyenho</dc:creator>
+ <dc:creator>Olson, Sarah D.</dc:creator>
+ <dc:creator>Walker, Homer F.</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  The Uzawa algorithm is an iterative method for the solution of saddle-point
+problems, which arise in many applications, including fluid dynamics. Viewing
+the Uzawa algorithm as a fixed- point iteration, we explore the use of Anderson
+acceleration (also known as Anderson mixing) to improve the convergence. We
+compare the performance of the preconditioned Uzawa algorithm with and without
+acceleration on several steady Stokes and Oseen problems for incompressible
+flows. For perspective, we include in our comparison several other iterative
+methods that have appeared in the literature. The results indicate that the
+accelerated preconditioned Uzawa algorithm converges significantly faster than
+the algorithm without acceleration and is competitive with the other methods
+considered.
+</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-05-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04246</dc:identifier>
+ </oai_dc:dc>
+

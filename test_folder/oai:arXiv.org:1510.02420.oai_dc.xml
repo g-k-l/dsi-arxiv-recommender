@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Modified Newton-Raphson GRAPE methods for optimal control of spin
+  systems</dc:title>
+ <dc:creator>Goodwin, D. L.</dc:creator>
+ <dc:creator>Kuprov, Ilya</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quadratic convergence throughout the active space is achieved for the
+gradient ascent pulse engineering (GRAPE) family of quantum optimal control
+algorithms. We demonstrate in this communication that the Hessian of the GRAPE
+fidelity functional is unusually cheap, having the same asymptotic complexity
+scaling as the functional itself. This leads to the possibility of using very
+efficient numerical optimization techniques. In particular, the Newton-Raphson
+method with a rational function optimization (RFO) regularized Hessian is shown
+in this work to require fewer system trajectory evaluations than any other
+algorithm in the GRAPE family. This communication describes algebraic and
+numerical implementation aspects (matrix exponential recycling, Hessian
+regularization, etc.) for the RFO Newton-Raphson version of GRAPE and reports
+benchmarks for common spin state control problems in magnetic resonance
+spectroscopy.
+</dc:description>
+ <dc:description>Comment: submitted for publication</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02420</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4949534</dc:identifier>
+ </oai_dc:dc>
+

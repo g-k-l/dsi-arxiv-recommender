@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Vortex line in the unitary Fermi gas</dc:title>
+ <dc:creator>Madeira, Lucas</dc:creator>
+ <dc:creator>Vitiello, Silvio A.</dc:creator>
+ <dc:creator>Gandolfi, Stefano</dc:creator>
+ <dc:creator>Schmidt, Kevin E.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We report diffusion Monte Carlo results for the ground state of unpolarized
+spin-1/2 fermions in a cylindrical container and properties of the system with
+a vortex-line excitation. The density profile of the system with a vortex line
+presents a non-zero density at the core. We calculate the ground-state energy
+per particle, the superfluid pairing gap, and the excitation energy per
+particle. These simulations can be extended to calculate the properties of
+vortex excitations in other strongly interacting systems, such as superfluid
+neutron matter using realistic nuclear Hamiltonians.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-05-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07952</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 043604 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.043604</dc:identifier>
+ </oai_dc:dc>
+

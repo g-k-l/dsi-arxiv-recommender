@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Clustering and Turbophoresis in a Shear Flow without Walls</dc:title>
+ <dc:creator>De Lillo, Filippo</dc:creator>
+ <dc:creator>Cencini, Massimo</dc:creator>
+ <dc:creator>Musacchio, Stefano</dc:creator>
+ <dc:creator>Boffetta, Guido</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:description>  We investigate the spatial distribution of inertial particles suspended in
+the bulk of a turbulent inhomogeneous flow. By means of direct numerical
+simulations of particle trajectories transported by the turbulent Kolmogorov
+flow, we study large and small scale mechanisms inducing inhomogeneities in the
+distribution of heavy particles. We discuss turbophoresis both for large and
+weak inertia, providing heuristic arguments for the functional form of the
+particle density profile. In particular, we argue and numerically confirm that
+the turbophoretic effect is maximal for particles of intermediate inertia. Our
+results indicate that small-scale fractal clustering and turbophoresis peak in
+different ranges in the particles' Stokes number and the separation of the two
+peaks increases with the flow's Reynolds number.
+</dc:description>
+ <dc:description>Comment: 13 pages, 5 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-02-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09024</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4943274</dc:identifier>
+ </oai_dc:dc>
+

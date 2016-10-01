@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Finite Element Approximations for Elliptic SPDEs with Additive Gaussian
+  Noises</dc:title>
+ <dc:creator>Cao, Yanzhao</dc:creator>
+ <dc:creator>Hong, Jialin</dc:creator>
+ <dc:creator>Liu, Zhihui</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  We analyze the error estimates of finite element approximations for a
+Dirichlet boundary problem with a white or colored Gaussian noise. The
+covariance operator of the proposed noise need not to be commutative with
+Dirichlet Laplacian. Through the convergence analysis for a sequence of
+approximate solutions of stochastic partial differential equations (SPDEs) with
+the noise replaced by its spectral projections, we obtain covariance operator
+dependent sufficient and necessary conditions for the well-posedness of the
+continuous problem. These SPDEs with projected noises are then used to
+construct finite element approximations. We establish a general framework of
+rigorous error estimates for finite element approximations. Based on this
+framework and with the help of Weyl's law, we derive optimal error estimates
+for finite element approximations of elliptic SPDEs driven by power-law noises
+including white noises. In particular, we obtain 1.5 order convergence for one
+dimensional white noise driven SPDE which improves the existing 1 order
+results, and remove a usual infinitesimal factor for higher dimensional
+problems.
+</dc:description>
+ <dc:description>Comment: 11 pages; replacement of arXiv:1510.01873. Numerical Analysis,
+  Probability</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01873</dc:identifier>
+ </oai_dc:dc>
+

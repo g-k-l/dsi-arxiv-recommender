@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Globalization of supercuspidal representations over function fields and
+  applications</dc:title>
+ <dc:creator>Gan, Wee Teck</dc:creator>
+ <dc:creator>Lomel&#237;, Luis</dc:creator>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:description>  Let H be a connected reductive group defined over a non-archimedean local
+field F of characteristic p&gt;0. Using Poincar\'e series, we globalize
+supercuspidal representations of H(F) in such a way that we have control over
+ramification at all other places, and such that the notion of distinction with
+respect to a unipotent subgroup (indeed more general subgroups) is preserved.
+In combination with the work of Vincent Lafforgue on the global Langlands
+correspondence, we present some applications, such as the stability of
+Langlands-Shahidi \gamma-factors and the local Langlands correspondence for
+classical groups.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00131</dc:identifier>
+ </oai_dc:dc>
+

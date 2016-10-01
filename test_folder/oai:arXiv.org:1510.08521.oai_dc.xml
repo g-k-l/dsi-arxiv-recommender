@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Caustic Structures and Detectability of Circumbinary Planets in
+  Microlensing</dc:title>
+ <dc:creator>Luhn, Jacob K.</dc:creator>
+ <dc:creator>Penny, Matthew T.</dc:creator>
+ <dc:creator>Gaudi, B. Scott</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  Recent discoveries of circumbinary planets in Kepler data show that there is
+a viable channel of planet formation around binary main sequence stars.
+Motivated by these discoveries, we have investigated the caustic structures and
+detectability of circumbinary planets in microlensing events. We have produced
+a suite of animations of caustics as a function of the projected separation and
+angle of the binary host to efficiently explore caustic structures over the
+entire circumbinary parameter space. Aided by these animations, we have derived
+a semi-empirical analytic expression for the location of planetary caustics,
+which are displaced in circumbinary lenses relative to those of planets with a
+single host. We have used this expression to show that the dominant source of
+caustic motion will be due to the planet's orbital motion and not that of the
+binary star. Finally, we estimate the fraction of circumbinary microlensing
+events that are recognizable as such to be significant (5-50 percent) for
+binary projected separations in the range 0.1-0.5 in units of Einstein radii.
+</dc:description>
+ <dc:description>Comment: 15 pages, 1 table, 18 figures. Accepted for publication in ApJ</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-06-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08521</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/827/1/61</dc:identifier>
+ </oai_dc:dc>
+

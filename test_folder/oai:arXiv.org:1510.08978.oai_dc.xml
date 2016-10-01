@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Geometry-induced memory effects in isolated quantum systems:
+  Observations and applications</dc:title>
+ <dc:creator>Lai, Chen-Yen</dc:creator>
+ <dc:creator>Chien, Chih-Chun</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Memory effects can lead to history-dependent behavior of a system, and they
+are ubiquitous in our daily life and have broad applications. Here we explore
+possibilities of generating memory effects in simple isolated quantum systems.
+By utilizing geometrical effects from a class of lattices supporting flat-bands
+consisting of localized states, memory effects could be observed in ultracold
+atoms in optical lattices. As the optical lattice continuously transforms from
+a triangular lattice into a kagome lattice with a flat band, history-dependent
+density distributions manifest quantum memory effects even in noninteracting
+systems, including fermionic as well as bosonic systems in the proper ranges of
+temperatures. Rapid growth in ultracold technology predicts a bright future for
+quantum memory-effect systems, and here two prototypical applications of
+geometry-induced quantum memory effects are proposed: An accelerometer
+recording the mechanical change rate in a coupled system and a rate-controlled
+memvalve where the rate of ramping the lattice potential acts as a control of
+the remnant density in the lattice.
+</dc:description>
+ <dc:description>Comment: 13 pages, 11 figures, update figures and references. We provided one
+  more application - quantum memory effects atomic memory (QMEAM)</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-01-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08978</dc:identifier>
+ <dc:identifier>Phys. Rev. Applied 5, 034001 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevApplied.5.034001</dc:identifier>
+ </oai_dc:dc>
+

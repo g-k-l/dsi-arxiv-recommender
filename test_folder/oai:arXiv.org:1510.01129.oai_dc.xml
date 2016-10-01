@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Ray mapping approach for the efficient design of continuous freeform
+  surfaces</dc:title>
+ <dc:creator>B&#246;sel, Christoph</dc:creator>
+ <dc:creator>Gross, Herbert</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  The efficient design of continuous freeform surfaces, which transform a given
+source into an arbitrary target intensity, remains a challenging problem. A
+popular approach are ray-mapping methods, where first a ray mapping between the
+intensities is calculated and in a subsequent step the surface is constructed.
+The challenging part hereby is the to find an integrable mapping ensuring a
+continuous surface. Based on the law of reflection/refraction and the
+well-known integrability condition, we derive a general condition for the
+surface and ray mapping for a collimated input beam. It is shown that in a
+small-angle approximation a proper mapping can be calculated via optimal mass
+transport. We show that the surface can be constructed by solving a linear
+advection equation with appropriate boundary conditions. The results imply that
+the optimal mass transport mapping is approximately integrable over a wide
+range of distances between the freeform and the target plane and offer an
+efficient way to construct the surface by solving standard integrals. The
+efficiency is demonstrated by applying it to two challenging design examples.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures; Changes in version 2: title of the manuscript;
+  added references in the introduction; improved examples in Fig.4;
+  improvements of formulations in the abstract, introduction and conclusion</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-02-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01129</dc:identifier>
+ <dc:identifier>Opt. Express 24(13), 14271-14282 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.014271</dc:identifier>
+ </oai_dc:dc>
+

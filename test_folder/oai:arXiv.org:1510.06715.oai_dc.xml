@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electron spin control of optically levitated nanodiamonds in vacuum</dc:title>
+ <dc:creator>Hoang, Thai M.</dc:creator>
+ <dc:creator>Ahn, Jonghoon</dc:creator>
+ <dc:creator>Bang, Jaehoon</dc:creator>
+ <dc:creator>Li, Tongcang</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Electron spins of diamond nitrogen-vacancy (NV) centers are important quantum
+resources for nanoscale sensing and quantum information. Combining NV spins
+with levitated optomechanical resonators will provide a hybrid quantum system
+for novel applications. Here we optically levitate a nanodiamond and
+demonstrate electron spin control of its built-in NV centers in low vacuum. We
+observe that the strength of electron spin resonance (ESR) is enhanced when the
+air pressure is reduced. To better understand this system, we investigate the
+effects of trap power and measure the absolute internal temperature of
+levitated nanodiamonds with ESR after calibration of the strain effect. We also
+observe that oxygen and helium gases have different effects on both the
+photoluminescence and the ESR contrast of nanodiamond NV centers, indicating
+potential applications of NV centers in oxygen gas sensing. Our results pave
+the way towards a levitated spin-optomechanical system for studying macroscopic
+quantum mechanics.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-05-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06715</dc:identifier>
+ <dc:identifier>Nature Communications 7, 12250 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/ncomms12250</dc:identifier>
+ </oai_dc:dc>
+

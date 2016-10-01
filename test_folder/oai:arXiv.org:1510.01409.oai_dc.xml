@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Multi-bump solutions for Choquard equation with deepening potential well</dc:title>
+ <dc:creator>Alves, Claudianor O.</dc:creator>
+ <dc:creator>N&#243;brega, Al&#226;nnio B.</dc:creator>
+ <dc:creator>Yang, Minbo</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35J20, 35J20, 35J65</dc:subject>
+ <dc:description>  We study the existence of multi-bump solutions to Choquard equation $$
+\begin{array}{ll} -\Delta u + (\lambda
+a(x)+1)u=\displaystyle\big(\frac{1}{|x|^{\mu}}\ast |u|^p\big)|u|^{p-2}u \mbox{
+in } \,\,\, \R^3, \end{array} $$ where $\mu \in (0,3), p\in(2, 6-\mu)$,
+$\lambda$ is a positive parameter and the nonnegative function $a(x)$ has a
+potential well $ \Omega:=int (a^{-1}(0))$ consisting of $k$ disjoint bounded
+components $ \Omega:=\cup_{j=1}^{k}\Omega_j$. We prove that if the parameter
+$\lambda$ is large enough then the equation has at least $2^{k}-1$ multi-bump
+solutions.
+</dc:description>
+ <dc:description>Comment: 26pages</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-04-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01409</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coherently combining short data segments for all-sky semi-coherent
+  continuous gravitational wave searches</dc:title>
+ <dc:creator>Goetz, Evan</dc:creator>
+ <dc:creator>Riles, Keith</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:description>  We present a method for coherently combining short data segments from
+gravitational-wave detectors to improve the sensitivity of semi-coherent
+searches for continuous gravitational waves. All-sky searches for continuous
+gravitational waves from unknown sources are computationally limited. The
+semi-coherent approach reduces the computational cost by dividing the entire
+observation timespan into short segments to be analyzed coherently, then
+combined together incoherently. Semi-coherent analyses that attempt to improve
+sensitivity by coherently combining data from multiple detectors face a
+computational challenge in accounting for uncertainties in signal parameters.
+In this article, we lay out a technique to meet this challenge using summed
+Fourier transform coefficients. Applying this technique to one all-sky search
+algorithm called TwoSpect, we confirm that the sensitivity of all-sky,
+semi-coherent searches can be improved by coherently combining the short data
+segments. For misaligned detectors, however, this improvement requires careful
+attention when marginalizing over unknown polarization parameters. In addition,
+care must be taken in correcting for differential detector velocity due to the
+Earth's rotation for high signal frequencies and widely separated detectors.
+</dc:description>
+ <dc:description>Comment: 15 pages, 3 figures, 1 table</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06820</dc:identifier>
+ <dc:identifier>doi:10.1088/0264-9381/33/8/085007</dc:identifier>
+ </oai_dc:dc>
+

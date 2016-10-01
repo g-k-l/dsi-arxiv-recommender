@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Capacitance-Power-Hysteresis Trilemma in Nanoporous Supercapacitors</dc:title>
+ <dc:creator>Lee, Alpha A</dc:creator>
+ <dc:creator>Vella, Dominic</dc:creator>
+ <dc:creator>Goriely, Alain</dc:creator>
+ <dc:creator>Kondrat, Svyatoslav</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  Nanoporous supercapacitors are an important player in the field of energy
+storage that fill the gap between dielectric capacitors and batteries. The key
+challenge in the development of supercapacitors is the perceived trade-off
+between capacitance and power delivery. Current efforts to boost the
+capacitance of nanoporous supercapacitors focus on reducing the pore size so
+that they can only accommodate a single layer of ions. However, this tight
+packing compromises the charging dynamics and hence power density. We show via
+an analytical theory and Monte Carlo simulations that charging is sensitively
+dependent on the affinity of ions to the pores, and that high capacitances can
+be obtained for ionophobic pores of widths significantly larger than the ion
+diameter. Our theory also predicts that charging can be hysteretic with a
+significant energy loss per cycle for intermediate ionophilicities. We use
+these observations to explore the parameter regimes in which a
+capacitance-power-hysteresis trilemma may be avoided.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-06-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05595</dc:identifier>
+ <dc:identifier>Phys. Rev. X 6, 021034 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevX.6.021034</dc:identifier>
+ </oai_dc:dc>
+

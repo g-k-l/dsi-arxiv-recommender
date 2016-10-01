@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sweeping out 3-manifold of positive Ricci curvature by short 1-cycles
+  via estimates of min-max surfaces</dc:title>
+ <dc:creator>Liokumovich, Yevgeny</dc:creator>
+ <dc:creator>Zhou, Xin</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>53A10, 53C23</dc:subject>
+ <dc:description>  We prove that given a three manifold with an arbitrary metric $(M^3, g)$ of
+positive Ricci curvature, there exists a sweepout of $M$ by surfaces of genus
+$\leq 3$ and areas bounded by $C vol(M^3, g)^{2/3}$. We use this result to
+construct a sweepout of $M$ by 1-cycles of length at most $C vol(M^3,
+g)^{1/3}$.
+  The sweepout of surfaces is generated from a min-max minimal surface. If
+further assuming a positive scalar curvature lower bound, we can get a diameter
+upper bound for the min-max surface.
+</dc:description>
+ <dc:description>Comment: 19 pages, 2 figures; Theorem 1.2 replaced with (weaker) Corollary
+  1.2; the proof of Proposition 4.3 corrected following referee's suggestion</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:date>2016-05-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02896</dc:identifier>
+ </oai_dc:dc>
+

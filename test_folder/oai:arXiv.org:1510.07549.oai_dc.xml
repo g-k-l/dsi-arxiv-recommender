@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Limit lamination theorems for H-surfaces</dc:title>
+ <dc:creator>Meeks III, William H.</dc:creator>
+ <dc:creator>Tinaglia, Giuseppe</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>53A10</dc:subject>
+ <dc:description>  In this paper we prove some general results on constant mean curvature
+lamination limits of certain sequences of compact surfaces $M_n$ embedded in
+$\mathbb R^3$ with constant mean curvature $H_n$ and fixed finite genus, when
+the boundaries of these surfaces tend to infinity. Two of these theorems
+generalize to the non-zero constant mean curvature case, similar structure
+theorems by Colding and Minicozzi in~[6,8] for limits of sequences of minimal
+surfaces of fixed finite genus.
+</dc:description>
+ <dc:description>Comment: Details added at referee's request. To appear in Crelle</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07549</dc:identifier>
+ </oai_dc:dc>
+

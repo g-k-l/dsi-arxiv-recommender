@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Default Bayesian analysis with global-local shrinkage priors</dc:title>
+ <dc:creator>Bhadra, Anindya</dc:creator>
+ <dc:creator>Datta, Jyotishka</dc:creator>
+ <dc:creator>Polson, Nicholas G.</dc:creator>
+ <dc:creator>Willard, Brandon T.</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:subject>62C10, 62F15</dc:subject>
+ <dc:description>  We provide a framework for assessing the default nature of a prior
+distribution using the property of regular variation, which we study for
+global-local shrinkage priors. In particular, we demonstrate the horseshoe
+priors, originally designed to handle sparsity, also possess regular variation
+and thus are appropriate for default Bayesian analysis. To illustrate our
+methodology, we solve a problem of non-informative priors due to Efron (1973),
+who showed standard flat non-informative priors in high-dimensional normal
+means model can be highly informative for nonlinear parameters of interest. We
+consider four such problems and show global-local shrinkage priors such as the
+horseshoe and horseshoe+ perform as Efron (1973) requires in each case. We find
+the reason for this lies in the ability of the global-local shrinkage priors to
+separate a low-dimensional signal embedded in high-dimensional noise, even for
+nonlinear functions.
+</dc:description>
+ <dc:description>Comment: 28 pages, 7 figures, 6 tables</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03516</dc:identifier>
+ </oai_dc:dc>
+

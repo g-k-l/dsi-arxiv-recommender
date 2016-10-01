@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Complexity of Inner Product Similarity Join</dc:title>
+ <dc:creator>Ahle, Thomas D.</dc:creator>
+ <dc:creator>Pagh, Rasmus</dc:creator>
+ <dc:creator>Razenshteyn, Ilya</dc:creator>
+ <dc:creator>Silvestri, Francesco</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>Computer Science - Databases</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  A number of tasks in classification, information retrieval, recommendation
+systems, and record linkage reduce to the core problem of inner product
+similarity join (IPS join): identifying pairs of vectors in a collection that
+have a sufficiently large inner product. IPS join is well understood when
+vectors are normalized and some approximation of inner products is allowed.
+However, the general case where vectors may have any length appears much more
+challenging. Recently, new upper bounds based on asymmetric locality-sensitive
+hashing (ALSH) and asymmetric embeddings have emerged, but little has been
+known on the lower bound side. In this paper we initiate a systematic study of
+inner product similarity join, showing new lower and upper bounds. Our main
+results are:
+  * Approximation hardness of IPS join in subquadratic time, assuming the
+strong exponential time hypothesis.
+  * New upper and lower bounds for (A)LSH-based algorithms. In particular, we
+show that asymmetry can be avoided by relaxing the LSH definition to only
+consider the collision probability of distinct elements.
+  * A new indexing method for IPS based on linear sketches, implying that our
+hardness results are not far from being tight.
+  Our technical contributions include new asymmetric embeddings that may be of
+independent interest. At the conceptual level we strive to provide greater
+clarity, for example by distinguishing among signed and unsigned variants of
+IPS join and shedding new light on the effect of asymmetry.
+</dc:description>
+ <dc:description>Comment: in Proc. 35th ACM Symposium on Principles of Database Systems, 2016</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-04-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02824</dc:identifier>
+ <dc:identifier>doi:10.1145/2902251.2902285</dc:identifier>
+ </oai_dc:dc>
+

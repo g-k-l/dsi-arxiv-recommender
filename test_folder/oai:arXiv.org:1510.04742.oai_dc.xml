@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Supernova Driving. II. Compressive Ratio in Molecular-Cloud Turbulence</dc:title>
+ <dc:creator>Pan, Liubin</dc:creator>
+ <dc:creator>Padoan, Paolo</dc:creator>
+ <dc:creator>Haugbolle, Troels</dc:creator>
+ <dc:creator>Nordlund, Aake</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  The compressibility of molecular cloud (MC) turbulence plays a crucial role
+in star formation models, because it controls the amplitude and distribution of
+density fluctuations. The relation between the compressive ratio (the ratio of
+powers in compressive and solenoidal motions) and the statistics of turbulence
+has been previously studied systematically only in idealized simulations with
+random external forces. In this work, we analyze a simulation of large-scale
+turbulence (250 pc) driven by supernova (SN) explosions that has been shown to
+yield realistic MC properties. We demonstrate that SN driving results in MC
+turbulence with a broad lognormal distribution of the compressive ratio, with a
+mean value $\approx 0.3$, lower than the equilibrium value of $\approx 0.5$
+found in the inertial range of isothermal simulations with random solenoidal
+driving. We also find that the compressibility of the turbulence is not
+noticeably affected by gravity, nor are the mean cloud radial (expansion or
+contraction) and solid-body rotation velocities. Furthermore, the clouds follow
+a general relation between the rms density and the rms Mach number similar to
+that of supersonic isothermal turbulence, though with a large scatter, and
+their average gas density PDF is described well by a lognormal distribution,
+with the addition of a high-density power-law tail when self-gravity is
+included.
+</dc:description>
+ <dc:description>Comment: Accepted by ApJ</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-05-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04742</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/825/1/30</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,287 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The prototype detection unit of the KM3NeT detector</dc:title>
+ <dc:creator>KM3NeT Collaboration</dc:creator>
+ <dc:creator>Adri&#225;n-Mart&#237;nez, S.</dc:creator>
+ <dc:creator>Ageron, M.</dc:creator>
+ <dc:creator>Aharonian, F.</dc:creator>
+ <dc:creator>Aiello, S.</dc:creator>
+ <dc:creator>Albert, A.</dc:creator>
+ <dc:creator>Ameli, F.</dc:creator>
+ <dc:creator>Anassontzis, E. G.</dc:creator>
+ <dc:creator>Androulakis, G. C.</dc:creator>
+ <dc:creator>Anghinolfi, M.</dc:creator>
+ <dc:creator>Anton, G.</dc:creator>
+ <dc:creator>Anvar, S.</dc:creator>
+ <dc:creator>Ardid, M.</dc:creator>
+ <dc:creator>Avgitas, T.</dc:creator>
+ <dc:creator>Balasi, K.</dc:creator>
+ <dc:creator>Band, H.</dc:creator>
+ <dc:creator>Barbarino, G.</dc:creator>
+ <dc:creator>Barbarito, E.</dc:creator>
+ <dc:creator>Barbato, F.</dc:creator>
+ <dc:creator>Baret, B.</dc:creator>
+ <dc:creator>Baron, S.</dc:creator>
+ <dc:creator>Barrios, J.</dc:creator>
+ <dc:creator>Belias, A.</dc:creator>
+ <dc:creator>Berbee, E.</dc:creator>
+ <dc:creator>Berg, A. M. van den</dc:creator>
+ <dc:creator>Berkien, A.</dc:creator>
+ <dc:creator>Bertin, V.</dc:creator>
+ <dc:creator>Beurthey, S.</dc:creator>
+ <dc:creator>van Beveren, V.</dc:creator>
+ <dc:creator>Beverini, N.</dc:creator>
+ <dc:creator>Biagi, S.</dc:creator>
+ <dc:creator>Biagioni, A.</dc:creator>
+ <dc:creator>Bianucci, S.</dc:creator>
+ <dc:creator>Billault, M.</dc:creator>
+ <dc:creator>Birbas, A.</dc:creator>
+ <dc:creator>Rookhuizen, H. Boer</dc:creator>
+ <dc:creator>Bormuth, R.</dc:creator>
+ <dc:creator>Bouch&#233;, V.</dc:creator>
+ <dc:creator>Bouhadef, B.</dc:creator>
+ <dc:creator>Bourlis, G.</dc:creator>
+ <dc:creator>Boutonnet, C.</dc:creator>
+ <dc:creator>Bouwhuis, M.</dc:creator>
+ <dc:creator>Bozza, C.</dc:creator>
+ <dc:creator>Bruijn, R.</dc:creator>
+ <dc:creator>Brunner, J.</dc:creator>
+ <dc:creator>Cacopardo, G.</dc:creator>
+ <dc:creator>Caillat, L.</dc:creator>
+ <dc:creator>Calamai, M.</dc:creator>
+ <dc:creator>Calvo, D.</dc:creator>
+ <dc:creator>Capone, A.</dc:creator>
+ <dc:creator>Caramete, L.</dc:creator>
+ <dc:creator>Caruso, F.</dc:creator>
+ <dc:creator>Cecchini, S.</dc:creator>
+ <dc:creator>Ceres, A.</dc:creator>
+ <dc:creator>Cereseto, R.</dc:creator>
+ <dc:creator>Champion, C.</dc:creator>
+ <dc:creator>Ch&#226;teau, F.</dc:creator>
+ <dc:creator>Chiarusi, T.</dc:creator>
+ <dc:creator>Christopoulou, B.</dc:creator>
+ <dc:creator>Circella, M.</dc:creator>
+ <dc:creator>Classen, L.</dc:creator>
+ <dc:creator>Cocimano, R.</dc:creator>
+ <dc:creator>Coleiro, A.</dc:creator>
+ <dc:creator>Colonges, S.</dc:creator>
+ <dc:creator>Coniglione, R.</dc:creator>
+ <dc:creator>Cosquer, A.</dc:creator>
+ <dc:creator>Costa, M.</dc:creator>
+ <dc:creator>Coyle, P.</dc:creator>
+ <dc:creator>Creusot, A.</dc:creator>
+ <dc:creator>Cuttone, G.</dc:creator>
+ <dc:creator>D'Amato, C.</dc:creator>
+ <dc:creator>D'Amico, A.</dc:creator>
+ <dc:creator>De Bonis, G.</dc:creator>
+ <dc:creator>De Rosa, G.</dc:creator>
+ <dc:creator>Deniskina, N.</dc:creator>
+ <dc:creator>Destelle, J. -J.</dc:creator>
+ <dc:creator>Distefano, C.</dc:creator>
+ <dc:creator>Di Capua, F.</dc:creator>
+ <dc:creator>Donzaud, C.</dc:creator>
+ <dc:creator>Dornic, D.</dc:creator>
+ <dc:creator>Dorosti-Hasankiadeh, Q.</dc:creator>
+ <dc:creator>Drakopoulou, E.</dc:creator>
+ <dc:creator>Drouhin, D.</dc:creator>
+ <dc:creator>Drury, L.</dc:creator>
+ <dc:creator>Durand, D.</dc:creator>
+ <dc:creator>Eberl, T.</dc:creator>
+ <dc:creator>Elsaesser, D.</dc:creator>
+ <dc:creator>Enzenh&#246;fer, A.</dc:creator>
+ <dc:creator>Fermani, P.</dc:creator>
+ <dc:creator>Fusco, L. A.</dc:creator>
+ <dc:creator>Gajanana, D.</dc:creator>
+ <dc:creator>Gal, T.</dc:creator>
+ <dc:creator>Galat&#224;, S.</dc:creator>
+ <dc:creator>Garufi, F.</dc:creator>
+ <dc:creator>Gebyehu, M.</dc:creator>
+ <dc:creator>Giordano, V.</dc:creator>
+ <dc:creator>Gizani, N.</dc:creator>
+ <dc:creator>GraciaRuiz, R.</dc:creator>
+ <dc:creator>Graf, K.</dc:creator>
+ <dc:creator>Grasso, R.</dc:creator>
+ <dc:creator>Grella, G.</dc:creator>
+ <dc:creator>Grmek, A.</dc:creator>
+ <dc:creator>Habel, R.</dc:creator>
+ <dc:creator>van Haren, H.</dc:creator>
+ <dc:creator>Heid, T.</dc:creator>
+ <dc:creator>Heijboer, A.</dc:creator>
+ <dc:creator>Heine, E.</dc:creator>
+ <dc:creator>Henry, S.</dc:creator>
+ <dc:creator>Hern&#225;ndez-Rey, J. J.</dc:creator>
+ <dc:creator>Herold, B.</dc:creator>
+ <dc:creator>Hevinga, M. A.</dc:creator>
+ <dc:creator>van der Hoek, M.</dc:creator>
+ <dc:creator>Hofest&#228;dt, J.</dc:creator>
+ <dc:creator>Hogenbirk, J.</dc:creator>
+ <dc:creator>Hugon, C.</dc:creator>
+ <dc:creator>H&#246;&#223;l, J.</dc:creator>
+ <dc:creator>Imbesi, M.</dc:creator>
+ <dc:creator>James, C. W.</dc:creator>
+ <dc:creator>Jansweijer, P.</dc:creator>
+ <dc:creator>Jochum, J.</dc:creator>
+ <dc:creator>de Jong, M.</dc:creator>
+ <dc:creator>Jongen, M.</dc:creator>
+ <dc:creator>Kadler, M.</dc:creator>
+ <dc:creator>Kalekin, O.</dc:creator>
+ <dc:creator>Kappes, A.</dc:creator>
+ <dc:creator>Kappos, E.</dc:creator>
+ <dc:creator>Katz, U.</dc:creator>
+ <dc:creator>Kavatsyuk, O.</dc:creator>
+ <dc:creator>Keller, P.</dc:creator>
+ <dc:creator>Kieft, G.</dc:creator>
+ <dc:creator>Koffeman, E.</dc:creator>
+ <dc:creator>Kok, H.</dc:creator>
+ <dc:creator>Kooijman, P.</dc:creator>
+ <dc:creator>Koopstra, J.</dc:creator>
+ <dc:creator>Korporaal, A.</dc:creator>
+ <dc:creator>Kouchner, A.</dc:creator>
+ <dc:creator>Kreykenbohm, I.</dc:creator>
+ <dc:creator>Kulikovskiy, V.</dc:creator>
+ <dc:creator>Lahmann, R.</dc:creator>
+ <dc:creator>Lamare, P.</dc:creator>
+ <dc:creator>Larosa, G.</dc:creator>
+ <dc:creator>Lattuada, D.</dc:creator>
+ <dc:creator>Provost, H. Le</dc:creator>
+ <dc:creator>Leism&#252;ller, K. P.</dc:creator>
+ <dc:creator>Leisos, A.</dc:creator>
+ <dc:creator>Lenis, D.</dc:creator>
+ <dc:creator>Leonora, E.</dc:creator>
+ <dc:creator>LindseyClark, M.</dc:creator>
+ <dc:creator>Alvarez, C. D. Llorens</dc:creator>
+ <dc:creator>L&#246;hner, H.</dc:creator>
+ <dc:creator>Lonardo, A.</dc:creator>
+ <dc:creator>Loucatos, S.</dc:creator>
+ <dc:creator>Louis, F.</dc:creator>
+ <dc:creator>Maccioni, E.</dc:creator>
+ <dc:creator>Mannheim, K.</dc:creator>
+ <dc:creator>Manolopoulos, K.</dc:creator>
+ <dc:creator>Margiotta, A.</dc:creator>
+ <dc:creator>Mari&#351;, O.</dc:creator>
+ <dc:creator>Markou, C.</dc:creator>
+ <dc:creator>Mart&#237;nez-Mora, J. A.</dc:creator>
+ <dc:creator>Martini, A.</dc:creator>
+ <dc:creator>Masullo, R.</dc:creator>
+ <dc:creator>Melis, K. W.</dc:creator>
+ <dc:creator>Michael, T.</dc:creator>
+ <dc:creator>Migliozzi, P.</dc:creator>
+ <dc:creator>Migneco, E.</dc:creator>
+ <dc:creator>Miraglia, A.</dc:creator>
+ <dc:creator>Mollo, C. M.</dc:creator>
+ <dc:creator>Mongelli, M.</dc:creator>
+ <dc:creator>Morganti, M.</dc:creator>
+ <dc:creator>Mos, S.</dc:creator>
+ <dc:creator>Moudden, Y.</dc:creator>
+ <dc:creator>Musico, P.</dc:creator>
+ <dc:creator>Musumeci, M.</dc:creator>
+ <dc:creator>Nicolaou, C.</dc:creator>
+ <dc:creator>Nicolau, C. A.</dc:creator>
+ <dc:creator>Orlando, A.</dc:creator>
+ <dc:creator>Orzelli, A.</dc:creator>
+ <dc:creator>Papaikonomou, A.</dc:creator>
+ <dc:creator>Papaleo, R.</dc:creator>
+ <dc:creator>P&#259;v&#259;la&#351;, G. E.</dc:creator>
+ <dc:creator>Peek, H.</dc:creator>
+ <dc:creator>Pellegrino, C.</dc:creator>
+ <dc:creator>Pellegriti, M. G.</dc:creator>
+ <dc:creator>Perrina, C.</dc:creator>
+ <dc:creator>Piattelli, P.</dc:creator>
+ <dc:creator>Pikounis, K.</dc:creator>
+ <dc:creator>Popa, V.</dc:creator>
+ <dc:creator>Pradier, Th.</dc:creator>
+ <dc:creator>Priede, M.</dc:creator>
+ <dc:creator>P&#252;hlhofer, G.</dc:creator>
+ <dc:creator>Pulvirenti, S.</dc:creator>
+ <dc:creator>Racca, C.</dc:creator>
+ <dc:creator>Raffaelli, F.</dc:creator>
+ <dc:creator>Randazzo, N.</dc:creator>
+ <dc:creator>Rapidis, P. A.</dc:creator>
+ <dc:creator>Razis, P.</dc:creator>
+ <dc:creator>Real, D.</dc:creator>
+ <dc:creator>Resvanis, L.</dc:creator>
+ <dc:creator>Reubelt, J.</dc:creator>
+ <dc:creator>Riccobene, G.</dc:creator>
+ <dc:creator>Rovelli, A.</dc:creator>
+ <dc:creator>Salda&#241;a, M.</dc:creator>
+ <dc:creator>Samtleben, D. F. E.</dc:creator>
+ <dc:creator>Sanguineti, M.</dc:creator>
+ <dc:creator>Santangelo, A.</dc:creator>
+ <dc:creator>Sapienza, P.</dc:creator>
+ <dc:creator>Schmelling, J.</dc:creator>
+ <dc:creator>Schnabel, J.</dc:creator>
+ <dc:creator>Sciacca, V.</dc:creator>
+ <dc:creator>Sedita, M.</dc:creator>
+ <dc:creator>Seitz, T.</dc:creator>
+ <dc:creator>Sgura, I.</dc:creator>
+ <dc:creator>Simeone, F.</dc:creator>
+ <dc:creator>Sipala, V.</dc:creator>
+ <dc:creator>Spitaleri, A.</dc:creator>
+ <dc:creator>Spurio, M.</dc:creator>
+ <dc:creator>Stavropoulos, G.</dc:creator>
+ <dc:creator>Steijger, J.</dc:creator>
+ <dc:creator>Stolarczyk, T.</dc:creator>
+ <dc:creator>Stransky, D.</dc:creator>
+ <dc:creator>Taiuti, M.</dc:creator>
+ <dc:creator>Terreni, G.</dc:creator>
+ <dc:creator>T&#233;zier, D.</dc:creator>
+ <dc:creator>Th&#233;raube, S.</dc:creator>
+ <dc:creator>Thompson, L. F.</dc:creator>
+ <dc:creator>Timmer, P.</dc:creator>
+ <dc:creator>Trasatti, L.</dc:creator>
+ <dc:creator>Trovato, A.</dc:creator>
+ <dc:creator>Tselengidou, M.</dc:creator>
+ <dc:creator>Tsirigotis, A.</dc:creator>
+ <dc:creator>Tzamarias, S.</dc:creator>
+ <dc:creator>Tzamariudaki, E.</dc:creator>
+ <dc:creator>Vallage, B.</dc:creator>
+ <dc:creator>Van Elewyck, V.</dc:creator>
+ <dc:creator>Vermeulen, J.</dc:creator>
+ <dc:creator>Vernin, P.</dc:creator>
+ <dc:creator>Vicini, P.</dc:creator>
+ <dc:creator>Viola, S.</dc:creator>
+ <dc:creator>Vivolo, D.</dc:creator>
+ <dc:creator>Werneke, P.</dc:creator>
+ <dc:creator>Wiggers, L.</dc:creator>
+ <dc:creator>Wilms, J.</dc:creator>
+ <dc:creator>de Wolf, E.</dc:creator>
+ <dc:creator>van Wooning, R. H. L.</dc:creator>
+ <dc:creator>Zonca, E.</dc:creator>
+ <dc:creator>Zornoza, J. D.</dc:creator>
+ <dc:creator>Z&#250;&#241;iga, J.</dc:creator>
+ <dc:creator>Zwart, A.</dc:creator>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  A prototype detection unit of the KM3NeT deep-sea neutrino telescope has been
+installed at 3500m depth 80km offshore the Italian coast. KM3NeT in its final
+configuration will contain several hundreds of detection units. Each detection
+unit is a mechanical structure anchored to the sea floor, held vertical by a
+submerged buoy and supporting optical modules for the detection of Cherenkov
+light emitted by charged secondary particles emerging from neutrino
+interactions. This prototype string implements three optical modules with 31
+photomultiplier tubes each. These optical modules were developed by the KM3NeT
+Collaboration to enhance the detection capability of neutrino interactions. The
+prototype detection unit was operated since its deployment in May 2014 until
+its decommissioning in July 2015. Reconstruction of the particle trajectories
+from the data requires a nanosecond accuracy in the time calibration. A
+procedure for relative time calibration of the photomultiplier tubes contained
+in each optical module is described. This procedure is based on the measured
+coincidences produced in the sea by the 40K background light and can easily be
+expanded to a detector with several thousands of optical modules. The time
+offsets between the different optical modules are obtained using LED
+nanobeacons mounted inside them. A set of data corresponding to 600 hours of
+livetime was analysed. The results show good agreement with Monte Carlo
+simulations of the expected optical background and the signal from atmospheric
+muons. An almost background-free sample of muons was selected by filtering the
+time correlated signals on all the three optical modules. The zenith angle of
+the selected muons was reconstructed with a precision of about 3{\deg}.
+</dc:description>
+ <dc:description>Comment: Accepted for publication by EPJ C</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2015-12-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01561</dc:identifier>
+ <dc:identifier>Eur. Phys. J. C (2016) 76:54</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-015-3868-9</dc:identifier>
+ </oai_dc:dc>
+

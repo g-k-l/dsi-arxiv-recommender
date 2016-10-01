@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement and modeling of polarized specular neutron reflectivity in
+  large magnetic fields</dc:title>
+ <dc:creator>Maranville, Brian B.</dc:creator>
+ <dc:creator>Kirby, Brian J.</dc:creator>
+ <dc:creator>Grutter, Alexander J.</dc:creator>
+ <dc:creator>Kienzle, Paul A.</dc:creator>
+ <dc:creator>Liu, Yaohua</dc:creator>
+ <dc:creator>Majkrzak, Charles F.</dc:creator>
+ <dc:creator>Dennis, Cindi L.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  The presence of a large applied magnetic field removes the degeneracy of the
+vacuum energy states for spin-up and spin-down neutrons. For polarized neutron
+reflectometry, this must be included in the reference potential energy of the
+Schr\"odinger equation that is used to calculate the expected scattering from a
+magnetic layered structure. For samples with magnetization that is purely
+parallel or antiparallel to the applied field which defines the quantization
+axis, there is no mixing of the spin states (no spin-flip scattering) and so
+this additional potential is constant throughout the scattering region. When
+there is non-collinear magnetization in the sample however, there will be
+significant scattering from one spin state into the other and the reference
+potentials will differ between the incoming and outgoing wavefunctions,
+changing the angle and intensities of the scattering. The theory of the
+scattering and recommended experimental practices for this type of measurement
+are presented, as well as an example measurement.
+</dc:description>
+ <dc:description>Comment: Accepted in Journal of Applied Crystallography</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07912</dc:identifier>
+ </oai_dc:dc>
+

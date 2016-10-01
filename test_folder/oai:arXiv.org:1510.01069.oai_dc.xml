@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On a trilinear singular integral form with determinantal kernel</dc:title>
+ <dc:creator>Gressman, Philip</dc:creator>
+ <dc:creator>He, Danqing</dc:creator>
+ <dc:creator>Kova&#269;, Vjekoslav</dc:creator>
+ <dc:creator>Street, Brian</dc:creator>
+ <dc:creator>Thiele, Christoph</dc:creator>
+ <dc:creator>Yung, Po-Lam</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:subject>42B20</dc:subject>
+ <dc:description>  We study a trilinear singular integral form acting on two-dimensional
+functions and possessing invariances under arbitrary matrix dilations and
+linear modulations. One part of the motivation for introducing it lies in its
+large symmetry groups acting on the Fourier side. Another part of the
+motivation is that this form stands between the bilinear Hilbert transforms and
+the first Calder\'on commutator, in the sense that it can be reduced to a
+superposition of the former, while it also successfully encodes the latter. As
+the main result we determine the exact range of exponents in which the ${L}^p$
+estimates hold for the considered form.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01069</dc:identifier>
+ <dc:identifier>Proc. Amer. Math. Soc. 144 (2016), no. 8, 3465-3477</dc:identifier>
+ <dc:identifier>doi:10.1090/proc/13007</dc:identifier>
+ </oai_dc:dc>
+

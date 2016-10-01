@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Many Body Localization Transition in the strong disorder limit :
+  entanglement entropy from the statistics of rare extensive resonances</dc:title>
+ <dc:creator>Monthus, Cecile</dc:creator>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:description>  The space of one-dimensional disordered interacting quantum models displaying
+a Many-Body-Localization Transition seems sufficiently rich to produce critical
+points with level statistics interpolating continuously between the Poisson
+statistics of the Localized phase and the Wigner-Dyson statistics of the
+Delocalized Phase. In this paper, we consider the strong disorder limit of the
+MBL transition, where the critical level statistics is close to the Poisson
+statistics. We analyse a one-dimensional quantum spin model, in order to
+determine the statistical properties of the rare extensive resonances that are
+needed to destabilize the MBL phase. At criticality, we find that the
+entanglement entropy can grow with an exponent $0&lt;\alpha &lt; 1$ anywhere between
+the area law $\alpha=0$ and the volume law $\alpha=1$, as a function of the
+resonances properties, while the entanglement spectrum follows the strong
+multifractality statistics. In the MBL phase near criticality, we obtain the
+simple value $\nu=1$ for the correlation length exponent. Independently of the
+strong disorder limit, we explain why for the Many-Body-Localization transition
+concerning individual eigenstates, the correlation length exponent $\nu$ is not
+constrained by the usual Harris inequality $\nu \geq 2/d$, so that there is no
+theoretical inconsistency with the best numerical measure $\nu = 0.8 (3)$
+obtained by D. J. Luitz, N. Laflorencie and F. Alet, Phys. Rev. B 91, 081103
+(2015).
+</dc:description>
+ <dc:description>Comment: v3= 22 pages with NEW SECTION V on the multifractality of the
+  entanglement spectrum</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03711</dc:identifier>
+ <dc:identifier>Entropy 2016, 18, 122</dc:identifier>
+ <dc:identifier>doi:10.3390/e18040122</dc:identifier>
+ </oai_dc:dc>
+

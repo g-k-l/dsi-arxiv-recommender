@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Delaunay-type singular solutions for the fractional Yamabe Problem</dc:title>
+ <dc:creator>DelaTorre, A.</dc:creator>
+ <dc:creator>del Pino, M.</dc:creator>
+ <dc:creator>Gonzalez, M. d. M.</dc:creator>
+ <dc:creator>Wei, Juncheng</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>35B33</dc:subject>
+ <dc:description>  We construct Delaunay-type solutions for the fractional Yamabe problem with
+an isolated singularity $(-\Delta)^\gamma w = c_{n, \gamma}
+w^{\frac{n+2\gamma}{n-2\gamma}}, w&gt;0 \ \mbox{in} \ \mathbb{R}^n \backslash
+\{0\}$ We follow a variational approach, in which the key is the computation of
+the fractional Laplacian in polar coordinates.
+</dc:description>
+ <dc:description>Comment: 21 pages</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-07-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08504</dc:identifier>
+ </oai_dc:dc>
+

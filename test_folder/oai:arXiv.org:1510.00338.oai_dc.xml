@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Adding virtual measurements by signal injection</dc:title>
+ <dc:creator>Combes, Pascal</dc:creator>
+ <dc:creator>Jebai, Al Kassem</dc:creator>
+ <dc:creator>Malrait, Fran&#231;ois</dc:creator>
+ <dc:creator>Martin, Philippe</dc:creator>
+ <dc:creator>Rouchon, Pierre</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  We propose a method to "create" a new measurement output by exciting the
+system with a high-frequency oscillation. This new "virtual" measurement may be
+useful to facilitate the design of a suitable control law. The approach is
+especially interesting when the observability from the actual output
+degenerates at a steady-state regime of interest. The proposed method is based
+on second-order averaging and is illustrated by simulations on a simple
+third-order system.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00338</dc:identifier>
+ </oai_dc:dc>
+

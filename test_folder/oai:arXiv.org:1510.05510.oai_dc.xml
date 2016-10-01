@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mathematical Foundations of Realtime Equity Trading. Liquidity Deficit
+  and Market Dynamics. Automated Trading Machines</dc:title>
+ <dc:creator>Malyshkin, Vladislav Gennadievich</dc:creator>
+ <dc:creator>Bakhramov, Ray</dc:creator>
+ <dc:subject>Quantitative Finance - Computational Finance</dc:subject>
+ <dc:description>  We postulates, and then show experimentally, that liquidity deficit is the
+driving force of the markets. In the first part of the paper a kinematic of
+liquidity deficit is developed. The calculus-like approach, which is based on
+Radon--Nikodym derivatives and their generalization, allows us to calculate
+important characteristics of observable market dynamics. In the second part of
+the paper this calculus is used in an attempt to build a dynamic equation in
+the form: future price tend to the value maximizing the number of shares traded
+per unit time. To build a practical automated trading machine P&amp;L dynamics
+instead of price dynamics is considered. This allows a trading automate
+resilient to catastrophic P&amp;L drains to be built. The results are very
+promising, yet when all the fees and trading commissions are taken into
+account, are close to breakeven. In the end of the paper important criteria for
+automated trading systems are presented. We list the system types that can and
+cannot make money on the market. These criteria can be successfully applied not
+only by automated trading machines, but also by a human trader.
+</dc:description>
+ <dc:description>Comment: Grammar fixes. Better described numerical calculations in appendix. A
+  link to source code of general basis polynomial library required for
+  Radon-Nikodym numerical calculation added. More literature references.
+  Volatility trading section added. Relation between matrix averages and
+  quantum mechanics density matrix added</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05510</dc:identifier>
+ </oai_dc:dc>
+

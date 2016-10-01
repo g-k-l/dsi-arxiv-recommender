@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The primitive spectrum of basic classical Lie superalgebras</dc:title>
+ <dc:creator>Coulembier, Kevin</dc:creator>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>Mathematics - Rings and Algebras</dc:subject>
+ <dc:subject>16S30, 16D60, 17B10</dc:subject>
+ <dc:description>  We prove Conjecture 5.7 in [arXiv:1409.2532], describing all inclusions
+between primitive ideals for the general linear superalgebra in terms of the
+Ext1-quiver of simple highest weight modules. For arbitrary basic classical Lie
+superalgebras, we formulate two types of Kazhdan-Lusztig quasi-orders on the
+dual of the Cartan subalgebra, where one corresponds to the above conjecture.
+Both orders can be seen as generalisations of the left Kazhdan-Lusztig order on
+Hecke algebras and are related to categorical braid group actions. We prove
+that the primitive spectrum is always described by one of the orders, obtaining
+for the first time a description of the inclusions. We also prove that the two
+orders are identical if category O admits `enough' abstract Kazhdan-Lusztig
+theories. In particular, they are identical for the general linear
+superalgebra, concluding the proof of the conjecture.
+</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-01-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00787</dc:identifier>
+ <dc:identifier>doi:10.1007/s00220-016-2667-y</dc:identifier>
+ </oai_dc:dc>
+

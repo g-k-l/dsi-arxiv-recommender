@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Geometry of Rectifiable Sets with Carleson and Poincar\'e-type
+  Conditions</dc:title>
+ <dc:creator>Merhej, Jessica</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  A central question in geometric measure theory is whether geometric
+properties of a set translate into analytical ones. In 1960, E. R. Reifenberg
+proved that if an $n$-dimensional subset $M$ of $\mathbb{R}^{n+k}$ is well
+approximated by $n$-planes at every point and at every scale, then $M$ is a
+locally bi-H\"older image of an $n$-plane. Since then, Reifenberg's theorem has
+been refined in several ways in order to ensure that $M$ is a bi-Lipschitz
+image of an $n$-plane. In this paper, we show that a Carleson condition on the
+oscillation of the unit normal of an $n$-Ahlfors regular rectifiable subset $M$
+of $\mathbb{R}^{n+1}$ satisfying a Poincar\'e-type inequality is sufficient to
+prove that $M$ is contained inside a bi-Lipschitz image of an $n$-dimensional
+affine subspace of $\mathbb{R}^{n+1}$. We also show that this Poincar\'e-type
+inequality encodes geometrical information about $M$, namely it implies that
+$M$ is quasiconvex.
+</dc:description>
+ <dc:description>Comment: Throughout the paper, the parameters that the constants depend on are
+  clearer. Theorem 4.8 is added in Section 4, and Remarks 5.9 and 5.10 added in
+  Section 5</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-05-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05056</dc:identifier>
+ </oai_dc:dc>
+

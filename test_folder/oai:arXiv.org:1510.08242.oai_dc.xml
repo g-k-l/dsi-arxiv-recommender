@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fluctuations of flow harmonics in Pb+Pb collisions at
+  $\sqrt{s_{NN}}=2.76$~TeV from the Glauber model</dc:title>
+ <dc:creator>Rybczynski, Maciej</dc:creator>
+ <dc:creator>Broniowski, Wojciech</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  In the framework of the Glauber model as implemented in GLISSANDO 2, we study
+the fluctuations of flow harmonics in Pb+Pb collisions at the LHC
+centre-of-mass energy of 2.76 TeV. The model with wounded nucleons and the
+admixture of binary collisions leads to reasonable agreement for the
+ellipticity and triangularity fluctuations with the experimental data from the
+ATLAS, ALICE, and CMS collaborations, verifying the assumption that the initial
+eccentricity is approximately proportional to the harmonic flow of charged
+particles. While the agreement, in particular at the level of event-by-event
+distributions of eccentricities/flow coefficients in not perfect, it leads to a
+fair (at the level of a few percent for all centralities except the most
+peripheral collisions) description of the scaled standard deviation and the F
+measure which involve the four-particle cumulants. We also discuss the case of
+quadrangular flow. Computer scripts that generate our results from the
+GLISSANDO 2 simulations are provided.
+</dc:description>
+ <dc:description>Comment: 12 pages, 6 figures, misprint in Eq. (4) corrected</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2015-11-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08242</dc:identifier>
+ <dc:identifier>doi:10.5506/APhysPolB.47.1033</dc:identifier>
+ </oai_dc:dc>
+

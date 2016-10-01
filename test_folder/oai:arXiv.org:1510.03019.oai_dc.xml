@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Shifting Bloom Filter Framework for Set Queries</dc:title>
+ <dc:creator>Yang, Tong</dc:creator>
+ <dc:creator>Liu, Alex X.</dc:creator>
+ <dc:creator>Shahzad, Muhammad</dc:creator>
+ <dc:creator>Zhong, Yuankun</dc:creator>
+ <dc:creator>Fu, Qiaobin</dc:creator>
+ <dc:creator>Li, Zi</dc:creator>
+ <dc:creator>Xie, Gaogang</dc:creator>
+ <dc:creator>Li, Xiaoming</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:description>  Set queries are fundamental operations in computer systems and
+applications.This paper addresses the fundamental problem of designing a
+probabilistic data structure that can quickly process set queries using a small
+amount of memory. We propose a Shifting Bloom Filter (ShBF) framework for
+representing and querying sets. We demonstrate the effectiveness of ShBF using
+three types of popular set queries: membership, association, and multiplicity
+queries. The key novelty of ShBF is on encoding the auxiliary information of a
+set element in a location offset. In contrast, prior BF based set data
+structures allocate additional memory to store auxiliary information. To
+evaluate ShBF in comparison with prior art, we conducted experiments using
+real-world network traces. Results show that ShBF significantly advances the
+state-of-the-art on all three types of set queries.
+</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03019</dc:identifier>
+ </oai_dc:dc>
+

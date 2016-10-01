@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlinear response and emerging nonequilibrium micro-structures for
+  biased diffusion in confined crowding environments</dc:title>
+ <dc:creator>B&#233;nichou, O.</dc:creator>
+ <dc:creator>Illien, P.</dc:creator>
+ <dc:creator>Oshanin, G.</dc:creator>
+ <dc:creator>Sarracino, A.</dc:creator>
+ <dc:creator>Voituriez, R.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  We study analytically the dynamics and the micro-structural changes of a host
+medium caused by a driven tracer particle moving in a confined, quiescent
+molecular crowding environment. Imitating typical settings of active
+micro-rheology experiments, we consider here a minimal model comprising a
+geometrically confined lattice system -- a two-dimensional strip-like or a
+three-dimensional capillary-like -- populated by two types of hard-core
+particles with stochastic dynamics -- a tracer particle driven by a constant
+external force and bath particles moving completely at random. Resorting to a
+decoupling scheme, which permits us to go beyond the linear-response
+approximation (Stokes regime) for arbitrary densities of the lattice gas
+particles, we determine the force-velocity relation for the tracer particle and
+the stationary density profiles of the host medium particles around it. These
+results are validated a posteriori by extensive numerical simulations for a
+wide range of parameters. Our theoretical analysis reveals two striking
+features: a) We show that, under certain conditions, the terminal velocity of
+the driven tracer particle is a nonmonotonic function of the force, so that in
+some parameter range the differential mobility becomes negative, and b) the
+biased particle drives the whole system into a nonequilibrium steady-state with
+a stationary particle density profile past the tracer, which decays
+exponentially, in sharp contrast with the behavior observed for unbounded
+lattices, where an algebraic decay is known to take place.
+</dc:description>
+ <dc:description>Comment: 14 pages, 8 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09133</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 032128 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.032128</dc:identifier>
+ </oai_dc:dc>
+

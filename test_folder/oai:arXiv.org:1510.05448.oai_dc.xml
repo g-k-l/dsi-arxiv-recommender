@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Gushel--Mukai varieties: classification and birationalities</dc:title>
+ <dc:creator>Debarre, Olivier</dc:creator>
+ <dc:creator>Kuznetsov, Alexander</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>14J45, 14E07, 14E08, 14J30, 14J35, 14J40, 14J50, 14J60</dc:subject>
+ <dc:description>  We perform a systematic study of Gushel-Mukai varieties---quadratic sections
+of linear sections of cones over the Grassmannian Gr(2,5). This class of
+varieties includes Clifford general curves of genus 6, Brill-Noether general
+polarized K3 surfaces of genus 6, prime Fano threefolds of genus 6, and their
+higher-dimensional analogues.
+  We establish an intrinsic characterization of normal Gushel-Mukai varieties
+in terms of their excess conormal sheaves, which leads to a new proof of the
+classification theorem of Gushel and Mukai. We give a description of
+isomorphism classes of Gushel-Mukai varieties and their automorphism groups in
+terms of linear algebraic data naturally associated to these varieties.
+  We carefully develop the relation between Gushel-Mukai varieties and
+Eisenbud-Popescu-Walter sextics introduced earlier by Iliev-Manivel and
+O'Grady. We describe explicitly all Gushel-Mukai varieties whose associated EPW
+sextics are isomorphic or dual (we call them period partners or dual varieties
+respectively). Finally, we show that in dimension 3 and higher, period
+partners/dual varieties are always birationally isomorphic.
+</dc:description>
+ <dc:description>Comment: 60 pages. Section 2 thoroughly rewritten. In particular, the
+  definition of a GM variety become significantly more general</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05448</dc:identifier>
+ </oai_dc:dc>
+

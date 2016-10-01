@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Evolution of quasiparticle excitations with critical mass enhancement in
+  superconducting AFe2As2 (A = K, Rb, and Cs)</dc:title>
+ <dc:creator>Mizukami, Y.</dc:creator>
+ <dc:creator>Kawamoto, Y.</dc:creator>
+ <dc:creator>Shimoyama, Y.</dc:creator>
+ <dc:creator>Kurata, S.</dc:creator>
+ <dc:creator>Ikeda, H.</dc:creator>
+ <dc:creator>Wolf, T.</dc:creator>
+ <dc:creator>Zocco, D. A.</dc:creator>
+ <dc:creator>Grube, K.</dc:creator>
+ <dc:creator>L&#246;hneysen, H. v.</dc:creator>
+ <dc:creator>Matsuda, Y.</dc:creator>
+ <dc:creator>Shibauchi, T.</dc:creator>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  In the heavily hole-doped iron-based superconductors $A$Fe$_2$As$_2$ ($A=$ K,
+Rb, and Cs), the electron effective mass increases rapidly with alkali-ion
+radius. To study how the mass enhancement affects the superconducting state, we
+measure the London penetration depth $\lambda(T)$ in clean crystals of
+$A$Fe$_2$As$_2$ down to low temperature $T\sim0.1$ K. In all systems, the
+superfluid stiffness $\rho_s(T)=\lambda^2(0)/\lambda^2(T)$ can be approximated
+by a power-law $T$ dependence at low temperatures, indicating the robustness of
+strong momentum anisotropy in the superconducting gap $\Delta(k)$. The power
+$\alpha$ increases from $\sim1$ with mass enhancement and approaches an
+unconventional exponent $\alpha\sim 1.5$ in the heaviest CsFe$_2$As$_2$. This
+appears to be a hallmark of superconductors near antiferromagnetic quantum
+critical points, where the quasiparticles excited across the anisotropic
+$\Delta(k)$ are significantly influenced by the momentum dependence of quantum
+critical fluctuations.
+</dc:description>
+ <dc:description>Comment: main text: 6 pages, 4 figures, 1 table; supplemental material:2
+  pages, 1 figure</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02273</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.94.024508</dc:identifier>
+ </oai_dc:dc>
+

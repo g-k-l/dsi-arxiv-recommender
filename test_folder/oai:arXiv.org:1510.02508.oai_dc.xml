@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Separable Forces for $(d,p)$ Reactions in Momentum Space</dc:title>
+ <dc:creator>Hlophe, L.</dc:creator>
+ <dc:creator>Elster, Ch.</dc:creator>
+ <dc:creator>Eremenko, V.</dc:creator>
+ <dc:creator>Nunes, F. M.</dc:creator>
+ <dc:creator>Thompson, I. J.</dc:creator>
+ <dc:creator>Arbanas, G.</dc:creator>
+ <dc:creator>Escher, J.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>Mathematics - Category Theory</dc:subject>
+ <dc:description>  Treating $(d,p)$ reactions in a Faddeev-AGS framework requires the
+interactions in the sub-systems as input. We derived separable representations
+for the neutron- and proton-nucleus interactions from phenomenological global
+optical potentials. In order to take into account excitations of the nucleus,
+excitations need to be included explicity, leading to a coupled-channel
+separable representation of the optical potential.
+</dc:description>
+ <dc:description>Comment: 2 pages, 2 figures, 21st International Conference on Few-body
+  Problems in Physics, May 18-22, 2015, Chicago, IL</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02508</dc:identifier>
+ <dc:identifier>doi:10.1051/epjconf/201611308010</dc:identifier>
+ </oai_dc:dc>
+

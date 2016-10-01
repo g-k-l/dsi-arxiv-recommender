@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electroweak Vacuum Stability and the Seesaw Mechanism Revisited</dc:title>
+ <dc:creator>Ng, John</dc:creator>
+ <dc:creator>de la Puente, Alejandro</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We study the electroweak vacuum stability in Type I seesaw models for 3
+generations of neutrinos in scenarios where the right-handed neutrinos have
+explicit bare mass terms in the Lagrangian and where these are dynamically
+generated through the mechanism of spontaneous symmetry breaking. To best
+highlight the difference of the two cases we concentrate on the absolute
+stability of the scalar potential. We observe that for the first scenario, the
+scale at which the scalar potential becomes unstable is lower from that within
+the Standard Model. In addition the Yukawa couplings $\mathbf{Y}_\nu$ are
+constrained such that $\Tr{[\mathbf{Y}^{\dagger}_\nu \mathbf{Y}_{\nu}}]
+\lesssim10^{-3}$. In the second scenario the electroweak stability can be
+improved in a large region of parameter space. However, we found that the
+scalar used to break the lepton number symmetry cannot be too light and have a
+large coupling to right-handed neutrinos in order for the seesaw mechanism to
+be a valid mechanism for neutrino mass generation. In this case we have $\Tr
+[\mathbf{Y}^\dagger_{\nu} \mathbf{Y}_\nu]\lesssim 0.01$.
+</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00742</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-016-3981-4</dc:identifier>
+ </oai_dc:dc>
+

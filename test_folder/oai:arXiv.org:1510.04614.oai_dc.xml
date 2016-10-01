@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>BV regularity near the interface for nonuniform convex discontinuous
+  flux</dc:title>
+ <dc:creator>Ghoshal, Shyam Sundar</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:description>  In this paper, we discuss the total variation bound for the solution of
+scalar conservation laws with discontinuous flux. We prove the smoothing effect
+of the equation forcing the $BV_{loc}$ solution near the interface for
+$L^\infty$ initial data without the assumption on the uniform convexity of the
+fluxes made as in [1,21]. The proof relies on the method of characteristics and
+the explicit formulas.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04614</dc:identifier>
+ <dc:identifier>doi:10.3934/nhm.2016.11.xx</dc:identifier>
+ </oai_dc:dc>
+

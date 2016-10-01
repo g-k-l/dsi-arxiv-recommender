@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Survival of time-evolved correlations depends on whether quenching is
+  across critical point in XY spin chain</dc:title>
+ <dc:creator>Mishra, Utkarsh</dc:creator>
+ <dc:creator>Rakshit, Debraj</dc:creator>
+ <dc:creator>Prabhu, R.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  The time-dynamics of quantum correlations in the quantum transverse
+anisotropic XY spin chain of infinite length is studied at zero as well as
+finite temperatures. The evolution occurs due to the instantaneous quenching of
+the coupling constant between the nearest-neighbor spins of the model, which is
+either performed within the same phase or across the quantum phase transition
+point connecting the order-disorder phases of the model. We characterize the
+time-evolved quantum correlations, entanglement and quantum discord, which
+exhibit varying behavior depending on the initial state and the quenching
+scheme. We show that the system is endowed with enhanced bipartite quantum
+correlations compared to that of the initial state, when quenched from ordered
+to the deep disordered phase. However, bipartite quantum correlations are
+almost washed out when the system is quenched from disordered to the ordered
+phase with the initial state being at the zero-temperature. Moreover, we
+identify the condition for the occurrence of enhanced bipartite correlations
+when the system is quenched within the same phase. Finally, we investigate the
+bipartite quantum correlations when the initial state is a thermal equilibrium
+state with finite temperature which reveals the effects of thermal fluctuation
+on the phenomena observed at zero-temperature.
+</dc:description>
+ <dc:description>Comment: 10 pages, 6 figures</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00685</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 042322 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.042322</dc:identifier>
+ </oai_dc:dc>
+

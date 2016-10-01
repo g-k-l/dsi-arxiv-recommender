@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sharp reversed Hardy--Littlewood--Sobolev inequality on the half space
+  $\mathbb R_+^n$</dc:title>
+ <dc:creator>Ng&#244;, Qu&#244;c-Anh</dc:creator>
+ <dc:creator>Nguyen, Van Hoang</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:subject>35J60, 42B25, 53C21, 58G35</dc:subject>
+ <dc:description>  This is the second in our series of papers concerning some reversed
+Hardy--Littlewood--Sobolev inequalities. In the present work, we establish the
+following sharp reversed Hardy--Littlewood--Sobolev inequality on the half
+space $\mathbb R_+^n$ \[ \int_{\mathbb R_+^n} \int_{\partial \mathbb R_+^n}
+f(x) |x-y|^\lambda g(y) dx dy \geqslant \mathscr C_{n,p,r} \|f\|_{L^p(\partial
+\mathbb R_+^n)} \, \|g\|_{L^r(\mathbb R_+^n)} \] for any nonnegative functions
+$f\in L^p(\partial \mathbb R_+^n)$, $g\in L^r(\mathbb R_+^n)$, and $p,r\in
+(0,1)$, $\lambda &gt; 0$ such that $(1-1/n)1/p + 1/r -(\lambda-1) /n =2$. Some
+estimates for $\mathscr C_{n,p,r}$ as well as the existence of extrema
+functions for this inequality are also considered. New ideas are also
+introduced in this paper.
+</dc:description>
+ <dc:description>Comment: 31 pages, 0 figure. arXiv admin note: substantial text overlap with
+  arXiv:1508.02041. To appear in International Mathematics Research Notices
+  (IMRN)</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-04-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04680</dc:identifier>
+ </oai_dc:dc>
+

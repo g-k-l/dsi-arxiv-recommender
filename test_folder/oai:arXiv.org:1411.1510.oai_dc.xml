@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polish Models and Sofic Entropy</dc:title>
+ <dc:creator>Hayes, Ben</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>Mathematics - Group Theory</dc:subject>
+ <dc:subject>Mathematics - Operator Algebras</dc:subject>
+ <dc:description>  For actions of a sofic group on probability spaces, the entropy has been
+defined by Bowen, with an extension by Kerr-Li. In particular, when the action
+is by homeomorphisms of a compact space preserving a given measure, Kerr-Li
+show one can compute the measure-theoretic entropy in a manner which uses the
+topology of the space. We show how to compute the entropy of a an action of
+homeomorphisms of a Polish space preserving a given measure, also in a manner
+which uses the topology of the space. We give applications to spectral
+properties of actions with positive entropy, as well as for actions of
+completely positive entropy.
+</dc:description>
+ <dc:description>Comment: 26 pages. Removed the section on distal actions as we will prove more
+  general results in "Mixing and Spectral Gap Relative to Pinsker Factors for
+  Sofic Groups". This is the final version to appear in Journal of Institute of
+  Mathematics of Jussieu</dc:description>
+ <dc:date>2014-11-06</dc:date>
+ <dc:date>2015-12-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1411.1510</dc:identifier>
+ <dc:identifier>doi:10.1017/S1474748015000468</dc:identifier>
+ </oai_dc:dc>
+

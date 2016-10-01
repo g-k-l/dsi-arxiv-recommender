@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Link Prediction with Node Clustering Coefficient</dc:title>
+ <dc:creator>Wu, Zhihao</dc:creator>
+ <dc:creator>Lin, Youfang</dc:creator>
+ <dc:creator>Wang, Jing</dc:creator>
+ <dc:creator>Gregory, Steve</dc:creator>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:description>  Predicting missing links in incomplete complex networks efficiently and
+accurately is still a challenging problem. The recently proposed CAR
+(Cannistrai-Alanis-Ravai) index shows the power of local link/triangle
+information in improving link-prediction accuracy. With the information of
+level-2 links, which are links between common-neighbors, most classical
+similarity indices can be improved. Nevertheless, calculating the number of
+level-2 links makes CAR index not efficient enough. Inspired by the idea of
+employing local link/triangle information, we propose a new similarity index
+with more local structure information. In our method, local link/triangle
+structure information can be conveyed by clustering coefficient of common
+neighbors directly. The reason why clustering coefficient has good
+effectiveness in estimating the contribution of a common-neighbor is because
+that it employs links existing between neighbors of the common-neighbor and
+these links have the same structural position with the candidate link to this
+common-neighbor. Ten real-world networks drawn from five various fields are
+used to test the performance of our method against to classical similarity
+indices and recently proposed CAR index. Two estimators: precision and AUP, are
+used to evaluate the accuracy of link prediction algorithms. Generally
+speaking, our new index only performs competitively with CAR, but it is a good
+complement to CAR for networks with not very high LCP-corr, which is a measure
+to estimate the correlation between number of common-neighbors and number of
+links between common-neighbors. Besides, the proposed index is also more
+efficient than CAR index.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-01-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07819</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physa.2016.01.038</dc:identifier>
+ </oai_dc:dc>
+

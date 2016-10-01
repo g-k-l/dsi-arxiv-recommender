@@ -1,0 +1,49 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Leveraging 3D-HST Grism Redshifts to Quantify Photometric Redshift
+  Performance</dc:title>
+ <dc:creator>Bezanson, Rachel</dc:creator>
+ <dc:creator>Wake, David A.</dc:creator>
+ <dc:creator>Brammer, Gabriel B.</dc:creator>
+ <dc:creator>van Dokkum, Pieter G.</dc:creator>
+ <dc:creator>Franx, Marijn</dc:creator>
+ <dc:creator>Labb&#233;, Ivo</dc:creator>
+ <dc:creator>Leja, Joel</dc:creator>
+ <dc:creator>Momcheva, Ivelina G.</dc:creator>
+ <dc:creator>Nelson, Erica J.</dc:creator>
+ <dc:creator>Quadri, Ryan F.</dc:creator>
+ <dc:creator>Skelton, Rosalind E.</dc:creator>
+ <dc:creator>Weiner, Benjamin J.</dc:creator>
+ <dc:creator>Whitaker, Katherine E.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present a study of photometric redshift accuracy in the 3D-HST photometric
+catalogs, using 3D-HST grism redshifts to quantify and dissect trends in
+redshift accuracy for galaxies brighter than $H_{F140W}&lt;24$ with an
+unprecedented and representative high-redshift galaxy sample. We find an
+average scatter of $0.0197\pm0.0003(1+z)$ in the Skelton et al. (2014)
+photometric redshifts. Photometric redshift accuracy decreases with magnitude
+and redshift, but does not vary monotonically with color or stellar mass. The
+1-$\sigma$ scatter lies between $0.01-0.03$(1+z) for galaxies of all masses and
+colors below $z&lt;2.5$ (for $H_{F140W}{&lt;}24$), with the exception of a population
+of very red ($U-V &gt; 2$), dusty star-forming galaxies for which the scatter
+increases to $\sim0.1(1+z)$. Although the overall photometric redshift accuracy
+for quiescent galaxies is better than for star-forming galaxies, scatter
+depends more strongly on magnitude and redshift than on galaxy type. We verify
+these trends using the redshift distributions of close pairs and extend the
+analysis to fainter objects, where photometric redshift errors further increase
+to $\sim0.046(1+z)$ at $H_{F160W}=26$. We demonstrate that photometric redshift
+accuracy is strongly filter-dependent and quantify the contribution of multiple
+filter combinations. We evaluate the widths of redshift probability
+distribution functions and find that error estimates are underestimated by a
+factor of $\sim1.1-1.6$, but that uniformly broadening the distribution does
+not adequately account for fitting outliers. Finally, we suggest possible
+applications of these data in planning for current and future surveys and
+simulate photometric redshift performance in the LSST, DES, and combined DES
+and VHS surveys.
+</dc:description>
+ <dc:description>Comment: 27 pages, 25 figures. Submitted to the Astrophysical Journal</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07049</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/822/1/30</dc:identifier>
+ </oai_dc:dc>
+

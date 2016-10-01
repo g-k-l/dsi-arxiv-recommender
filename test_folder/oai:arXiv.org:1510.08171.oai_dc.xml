@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Moment Closures Based on Minimizing the Residual of the P$_N$ Angular
+  Expansion in Radiation Transport</dc:title>
+ <dc:creator>Zheng, Weixiong</dc:creator>
+ <dc:creator>McClarren, Ryan G.</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  In this work we present two new closures for the spherical harmonics (PN)
+method in slab geometry transport problems. Our approach begins with an
+analysis of the squared-residual of the transport equation where we show that
+the standard truncation and diffusive closures do not minimize the residual of
+the PN expansion. Based on this analysis we derive two models, a moment-limited
+diffusive MLDN closure and a transient PN (TPN) closure that attempt to address
+shortcomings of common closures. The form of these closures is similar to
+flux-limiters for diffusion with the addition of a time-derivative in the
+definition of the closure. Numerical results on a pulsed plane source problem,
+the Gordian knot of slab-geometry transport problems, indicate that our new
+closure outperforms existing linear closures. Additionally, on a deep
+penetration problem we demonstrate that the TPN closure does not suffer from
+the artificial shocks that can arise in the MN entropy-based closure. Finally,
+results for Reed's problem demonstrate that the TPN solution is as accurate as
+the PN+3 solution. We further extend the TPN closure to 2D Cartesian geometry.
+The line source test problem demonstrates the model effectively damps
+oscillations and negative densities
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-05-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08171</dc:identifier>
+ <dc:identifier>Journal of Computational Physics, Volume 314, 1 June 2016, Pages
+  682-699</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jcp.2016.03.030</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Determining the local dark matter density with LAMOST data</dc:title>
+ <dc:creator>Xia, Qiran</dc:creator>
+ <dc:creator>Liu, Chao</dc:creator>
+ <dc:creator>Mao, Shude</dc:creator>
+ <dc:creator>Song, Yingyi</dc:creator>
+ <dc:creator>Zhang, Lan</dc:creator>
+ <dc:creator>Long, R. J.</dc:creator>
+ <dc:creator>Zhang, Yong</dc:creator>
+ <dc:creator>Hou, Yonghui</dc:creator>
+ <dc:creator>Wang, Yuefei</dc:creator>
+ <dc:creator>Wu, Yue</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  Measurement of the local dark matter density plays an important role in both
+Galactic dynamics and dark matter direct detection experiments. However, the
+estimated values from previous works are far from agreeing with each other. In
+this work, we provide a well-defined observed sample with 1427 G \&amp; K type
+main-sequence stars from the LAMOST spectroscopic survey, taking into account
+selection effects, volume completeness, and the stellar populations. We apply a
+vertical Jeans equation method containing a single exponential stellar disk, a
+razor thin gas disk, and a constant dark matter density distribution to the
+sample, and obtain a total surface mass density of $\rm {78.7 ^{+3.9}_{-4.7}\
+M_{\odot}\ pc^{-2}}$ up to 1 kpc and a local dark matter density of
+$0.0159^{+0.0047}_{-0.0057}\,\rm M_{\odot}\,\rm pc^{-3}$. We find that the
+sampling density (i.e. number of stars per unit volume) of the spectroscopic
+data contributes to about two-thirds of the uncertainty in the estimated
+values. We discuss the effect of the tilt term in the Jeans equation and find
+it has little impact on our measurement. Other issues, such as a
+non-equilibrium component due to perturbations and contamination by the thick
+disk population, are also discussed.
+</dc:description>
+ <dc:description>Comment: 11 pages, 10 figures</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06810</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw565</dc:identifier>
+ </oai_dc:dc>
+

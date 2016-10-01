@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The scenario-based generalization of radiation therapy margins</dc:title>
+ <dc:creator>Fredriksson, Albin</dc:creator>
+ <dc:creator>Bokrantz, Rasmus</dc:creator>
+ <dc:subject>Physics - Medical Physics</dc:subject>
+ <dc:description>  We give a scenario-based treatment plan optimization formulation that is
+equivalent to planning with geometric margins if the scenario doses are
+calculated using the static dose cloud approximation. If the scenario doses are
+instead calculated more accurately, then our formulation provides a novel
+robust planning method that overcomes many of the difficulties associated with
+previous scenario-based robust planning methods. In particular, our method
+protects only against uncertainties that can occur in practice, it gives a
+sharp dose fall-off outside high dose regions, and it avoids underdosage of the
+target in ``easy'' scenarios. The method shares the benefits of the previous
+scenario-based robust planning methods over geometric margins for applications
+where the static dose cloud approximation is inaccurate, such as irradiation
+with few fields and irradiation with ion beams. These properties are
+demonstrated on a suite of phantom cases planned for treatment with scanned
+proton beams subject to systematic setup uncertainty.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03300</dc:identifier>
+ <dc:identifier>doi:10.1088/0031-9155/61/5/2067</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Anatomy of a Spin: The Information-Theoretic Structure of Classical Spin
+  Systems</dc:title>
+ <dc:creator>Vijayaraghavan, V. S.</dc:creator>
+ <dc:creator>James, R. G.</dc:creator>
+ <dc:creator>Crutchfield, J. P.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:description>  Collective organization in matter plays a significant role in its expressed
+physical properties. Typically, it is detected via an order parameter,
+appropriately defined for each given system's observed emergent patterns.
+Recent developments in information theory, however, suggest quantifying
+collective organization in a system- and phenomenon-agnostic way: decompose the
+system's thermodynamic entropy density into a localized entropy, that solely
+contained in the dynamics at a single location, and a bound entropy, that
+stored in space as domains, clusters, excitations, or other emergent
+structures. We compute this decomposition and related quantities explicitly for
+the nearest-neighbor Ising model on the 1D chain, the Bethe lattice with
+coordination number k=3, and the 2D square lattice, illustrating its generality
+and the functional insights it gives near and away from phase transitions. In
+particular, we consider the roles that different spin motifs play (in cluster
+bulk, cluster edges, and the like) and how these affect the dependencies
+between spins.
+</dc:description>
+ <dc:description>Comment: 12 pages, 8 figures;
+  http://csc.ucdavis.edu/~cmg/compmech/pubs/ising_bmu.htm</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-08-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08954</dc:identifier>
+ </oai_dc:dc>
+

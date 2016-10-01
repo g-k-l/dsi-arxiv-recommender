@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mutually Unbiased Product Bases for Multiple Qudits</dc:title>
+ <dc:creator>McNulty, Daniel</dc:creator>
+ <dc:creator>Pammer, Bogdan</dc:creator>
+ <dc:creator>Weigert, Stefan</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the interplay between mutual unbiasedness and product bases
+for multiple qudits of possibly different dimensions. A product state of such a
+system is shown to be mutually unbiased to a product basis only if each of its
+factors is mutually unbiased to all the states which occur in the corresponding
+factors of the product basis. This result implies both a tight limit on the
+number of mutually unbiased product bases which the system can support and a
+complete classification of mutually unbiased product bases for multiple qubits
+or qutrits. In addition, only maximally entangled states can be mutually
+unbiased to a maximal set of mutually unbiased product bases.
+</dc:description>
+ <dc:description>Comment: 15 pages, identical to published version</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-03-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08085</dc:identifier>
+ <dc:identifier>J. Math. Phys. 57, 032202 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4943301</dc:identifier>
+ </oai_dc:dc>
+

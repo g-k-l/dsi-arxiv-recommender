@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two dimensional gravity water waves with constant vorticity: I. Cubic
+  lifespan</dc:title>
+ <dc:creator>Ifrim, Mihaela</dc:creator>
+ <dc:creator>Tataru, Daniel</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35Q35, 42B37, 76B15</dc:subject>
+ <dc:description>  This article is concerned with the incompressible, infinite depth water wave
+equation in two space dimensions, with gravity and constant vorticity but with
+no surface tension. We consider this problem expressed in position-velocity
+potential holomorphic coordinates, and prove local well-posedness for large
+data, as well as cubic lifespan bounds for small data solutions.
+</dc:description>
+ <dc:description>Comment: 64 pages</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07732</dc:identifier>
+ </oai_dc:dc>
+

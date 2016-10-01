@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Variability of the X-ray Broad Iron Spectral Features in Active Galactic
+  Nuclei and Black-hole Binaries</dc:title>
+ <dc:creator>Mizumoto, Misaki</dc:creator>
+ <dc:creator>Ebisawa, Ken</dc:creator>
+ <dc:creator>Tsujimoto, Masahiro</dc:creator>
+ <dc:creator>Inoue, Hajime</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  The "broad iron spectral features" are often seen in X-ray spectra of Active
+Galactic Nuclei (AGN) and black-hole binaries (BHB). These features may be
+explained either by the "relativistic disc reflection" scenario or the "partial
+covering" scenario: It is hardly possible to determine which model is valid
+from time-averaged spectral analysis. Thus, X-ray spectral variability has been
+investigated to constrain spectral models. To that end, it is crucial to study
+iron structure of BHBs in detail at short time-scales, which is, for the first
+time, made possible with the Parallel-sum clocking (P-sum) mode of XIS
+detectors on board Suzaku. This observational mode has a time-resolution of
+7.8~ms as well as a CCD energy-resolution. We have carried out systematic
+calibration of the P-sum mode, and investigated spectral variability of the BHB
+GRS 1915+105. Consequently, we found that the spectral variability of GRS
+1915+105 does not show iron features at sub-seconds. This is totally different
+from variability of AGN such as 1H0707--495, where the variation amplitude
+significantly drops at the iron K-energy band. This difference can be naturally
+explained in the framework of the "partial covering" scenario.
+</dc:description>
+ <dc:description>Comment: 5 pages, 7 figures, Accepted for publication in Astronomische
+  Nachrichten (Proceedings of "The Extremes of Black Hole Accretion" workshop,
+  held at ESAC, Madrid, in June 2015)</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08189</dc:identifier>
+ <dc:identifier>doi:10.1002/asna.201612338</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Neutrino-Driven Convection in Core-Collapse Supernovae: High-Resolution
+  Simulations</dc:title>
+ <dc:creator>Radice, David</dc:creator>
+ <dc:creator>Ott, Christian D.</dc:creator>
+ <dc:creator>Abdikamalov, Ernazar</dc:creator>
+ <dc:creator>Couch, Sean M.</dc:creator>
+ <dc:creator>Haas, Roland</dc:creator>
+ <dc:creator>Schnetter, Erik</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We present results from high-resolution semi-global simulations of
+neutrino-driven convection in core-collapse supernovae. We employ an idealized
+setup with parametrized neutrino heating/cooling and nuclear dissociation at
+the shock front. We study the internal dynamics of neutrino-driven convection
+and its role in re-distributing energy and momentum through the gain region. We
+find that even if buoyant plumes are able to locally transfer heat up to the
+shock, convection is not able to create a net positive energy flux and overcome
+the downwards transport of energy from the accretion flow. Turbulent convection
+does, however, provide a significant effective pressure support to the
+accretion flow as it favors the accumulation of energy, mass and momentum in
+the gain region. We derive an approximate equation that is able to explain and
+predict the shock evolution in terms of integrals of quantities such as the
+turbulent pressure in the gain region or the effects of non-radial motion of
+the fluid. We use this relation as a way to quantify the role of turbulence in
+the dynamics of the accretion shock. Finally, we investigate the effects of
+grid resolution, which we change by a factor 20 between the lowest and highest
+resolution. Our results show that the shallow slopes of the turbulent kinetic
+energy spectra reported in previous studies are a numerical artefact.
+Kolmogorov scaling is progressively recovered as the resolution is increased.
+</dc:description>
+ <dc:description>Comment: 19 pages, 14 figures. Version accepted on ApJ. An animated version of
+  Fig. 3 is available at: https://youtu.be/yLub83WP3WA</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05022</dc:identifier>
+ <dc:identifier>The Astrophysical Journal, 820, 76 (2016)</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/820/1/76</dc:identifier>
+ </oai_dc:dc>
+

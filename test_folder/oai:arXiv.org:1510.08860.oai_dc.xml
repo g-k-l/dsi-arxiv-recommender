@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Jet Signatures in the Spectra of Accreting Black Holes</dc:title>
+ <dc:creator>Riordan, Michael O'</dc:creator>
+ <dc:creator>Pe'er, Asaf</dc:creator>
+ <dc:creator>McKinney, Jonathan C.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  Jets are observed as radio emission in active galactic nuclei and during the
+low/hard state in X-ray binaries (XRBs), but their contribution at higher
+frequencies has been uncertain. We study the dynamics of jets in XRBs using the
+general-relativistic magnetohydrodynamic code HARM. We calculate the
+high-energy spectra and variability properties using a general-relativistic
+radiative transport code based on grmonty. We find the following signatures of
+jet emission (i) a significant gamma-ray peak above ~10^22 Hz, (ii) a break in
+the optical/UV spectrum, with a change in luminosity from L ~ nu^0 to L ~ nu,
+followed by another break at higher frequencies where the spectrum roughly
+returns to L ~ nu^0, and (iii) a pronounced synchrotron peak near or below
+~10^14 Hz indicates that a significant fraction of any observed X-ray emission
+originates in the jet. We investigate the variability during a large-scale
+magnetic field inversion in which the Blandford-Znajek (BZ) jet is quenched and
+a new transient hot reconnecting plasmoid is launched by the reconnecting
+field. The ratio of the gamma-rays to X-rays changes from L_gamma / L_X &gt; 1 in
+the BZ jet to L_gamma / L_X &lt; 1 during the launching of the transient plasmoid.
+</dc:description>
+ <dc:description>Comment: 12 pages, 11 figures, added new section on density floors and
+  extended the discussion of MAD model variability, accepted for publication in
+  Ap.J</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-01-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08860</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/819/2/95</dc:identifier>
+ </oai_dc:dc>
+

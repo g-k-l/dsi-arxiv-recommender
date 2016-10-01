@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tight error bounds for rank-1 lattice sampling in spaces of hybrid mixed
+  smoothness</dc:title>
+ <dc:creator>Byrenheid, Glenn</dc:creator>
+ <dc:creator>K&#228;mmerer, Lutz</dc:creator>
+ <dc:creator>Ullrich, Tino</dc:creator>
+ <dc:creator>Volkmer, Toni</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>65T40, 42A10, 65D30, 65D32, 68Q17, 68Q25, 42B35, 65T50, 65Y20</dc:subject>
+ <dc:description>  We consider the approximate recovery of multivariate periodic functions from
+a discrete set of function values taken on a rank-$s$ integration lattice. The
+main result is the fact that any (non-)linear reconstruction algorithm taking
+function values on a rank-$s$ lattice of size $M$ has a dimension-independent
+lower bound of $2^{-(\alpha+1)/2} M^{-\alpha/2}$ when considering the optimal
+worst-case error with respect to function spaces of (hybrid) mixed smoothness
+$\alpha&gt;0$ on the $d$-torus. We complement this lower bound with upper bounds
+that coincide up to logarithmic terms. These upper bounds are obtained by a
+detailed analysis of a rank-1 lattice sampling strategy, where the rank-1
+lattices are constructed by a component-by-component (CBC) method. This
+improves on earlier results obtained in [25] and [27]. The lattice (group)
+structure allows for an efficient approximation of the underlying function from
+its sampled values using a single one-dimensional fast Fourier transform. This
+is one reason why these algorithms keep attracting significant interest. We
+compare our results to recent (almost) optimal methods based upon samples on
+sparse grids.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-08-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08336</dc:identifier>
+ </oai_dc:dc>
+

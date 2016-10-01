@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The one body density matrix of a quantum bright soliton from the
+  coordinate Bethe ansatz</dc:title>
+ <dc:creator>Ayet, A.</dc:creator>
+ <dc:creator>Brand, J.</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We present a novel approach for computing reduced density matrices for
+superpositions of eigenstates of a Bethe-ansatz solvable model by direct
+integration of the wave function in coordinate representation. A diagrammatic
+approach is developed to keep track of relevant terms and identify symmetries,
+which helps to reduce the number of terms that have to be evaluated
+numerically. As a first application we compute with modest numerical resources
+the one-body density matrix and its eigenvalues including the condensate
+fraction for a quantum bright soliton with N = 10 bosons. The latter are
+constructed as superpositions of string-type Bethe-ansatz eigenstates of
+nonrelatvistic bosons in one spatial dimension with attractive contact
+interaction. Upon delocalising the superposition in momentum space we find that
+the condensate fraction saturates to a value close to one. The presented
+approach is suitable for studying time-dependent problems and generalises to
+higher-order correlation functions.
+</dc:description>
+ <dc:description>Comment: 8 pages</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04311</dc:identifier>
+ </oai_dc:dc>
+

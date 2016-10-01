@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Determination of the $WW$ polarization fractions in $pp \to W^\pm W^\pm
+  jj$ using a deep machine learning technique</dc:title>
+ <dc:creator>Searcy, Jacob</dc:creator>
+ <dc:creator>Huang, Lillian</dc:creator>
+ <dc:creator>Pleier, Marc-Andr&#233;</dc:creator>
+ <dc:creator>Zhu, Junjie</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  The unitarization of the longitudinal vector boson scattering (VBS) cross
+section by the Higgs boson is a fundamental prediction of the Standard Model
+which has not been experimentally verified. One of the most promising ways to
+measure VBS uses events containing two leptonically-decaying
+same-electric-charge $W$ bosons produced in association with two jets. However,
+the angular distributions of the leptons in the $W$ boson rest frame, which are
+commonly used to fit polarization fractions, are not readily available in this
+process due to the presence of two neutrinos in the final state. In this paper
+we present a method to alleviate this problem by using a deep machine learning
+technique to recover these angular distributions from measurable event
+kinematics and demonstrate how the longitudinal-longitudinal scattering
+fraction could be studied. We show that this method doubles the expected
+sensitivity when compared to previous proposals.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures, published in PRD</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-05-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01691</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 094033 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.094033</dc:identifier>
+ </oai_dc:dc>
+

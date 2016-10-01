@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Raman study of spin excitations in the tunable quantum spin ladder
+  Cu(Qnx)(Cl$_{1-x}$Br$_x$)$_2$</dc:title>
+ <dc:creator>Simutis, G.</dc:creator>
+ <dc:creator>Gvasaliya, S.</dc:creator>
+ <dc:creator>Xiao, F.</dc:creator>
+ <dc:creator>Landee, C. P.</dc:creator>
+ <dc:creator>Zheludev, A.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Raman spectroscopy is used to study magnetic excitations in the quasi one
+dimensional $S=1/2$ quantum spin systems Cu(Qnx)(Cl$_{1-x}$Br$_x$)$_2$. The low
+energy spectrum is found to be dominated by a two-magnon continuum as expected
+from the numerical calculations for the Heisenberg spin ladder model. The
+continuum shifts to higher energies as more Br is introduced. The cutoff of the
+scattering increases faster than the onset indicating that the increase of
+exchange constant along the leg is the main effect on the magnetic properties.
+The upper and lower continuum thresholds are measured as a function of Br
+content across the entire range and compared to estimates based on previous
+bulk studies. We observe small systematic deviations that are discussed.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-03-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06360</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 094412 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.094412</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optical Signatures of Weyl Points in TaAs</dc:title>
+ <dc:creator>Xu, B.</dc:creator>
+ <dc:creator>Dai, Y. M.</dc:creator>
+ <dc:creator>Zhao, L. X.</dc:creator>
+ <dc:creator>Wang, K.</dc:creator>
+ <dc:creator>Yang, R.</dc:creator>
+ <dc:creator>Zhang, W.</dc:creator>
+ <dc:creator>Liu, J. Y.</dc:creator>
+ <dc:creator>Xiao, H.</dc:creator>
+ <dc:creator>Chen, G. F.</dc:creator>
+ <dc:creator>Taylor, A. J.</dc:creator>
+ <dc:creator>Yarotski, D. A.</dc:creator>
+ <dc:creator>Prasankumar, R. P.</dc:creator>
+ <dc:creator>Qiu, X. G.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We present a systematic study of both the temperature and frequency
+dependence of the optical response in TaAs, a material that has recently been
+realized to host the Weyl semimetal state. Our study reveals that the optical
+conductivity of TaAs features a narrow Drude response alongside a conspicuous
+linear dependence on frequency. The width of the Drude peak decreases upon
+cooling, following a $T^{2}$ temperature dependence which is expected for Weyl
+semimetals. Two linear components with distinct slopes dominate the 5-K optical
+conductivity. A comparison between our experimental results and theoretical
+calculations suggests that the linear conductivity below $\sim$230~cm$^{-1}$ is
+a clear signature of the Weyl points lying in very close proximity to the Fermi
+energy.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00470</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 121110 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.121110</dc:identifier>
+ </oai_dc:dc>
+

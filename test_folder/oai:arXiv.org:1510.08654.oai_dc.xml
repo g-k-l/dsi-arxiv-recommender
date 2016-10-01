@@ -1,0 +1,431 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement of the center-of-mass energies at BESIII via the di-muon
+  process</dc:title>
+ <dc:creator>Ablikim, M.</dc:creator>
+ <dc:creator>Achasov, M. N.</dc:creator>
+ <dc:creator>Ai, X. C.</dc:creator>
+ <dc:creator>Albayrak, O.</dc:creator>
+ <dc:creator>Albrecht, M.</dc:creator>
+ <dc:creator>Ambrose, D. J.</dc:creator>
+ <dc:creator>Amoroso, A.</dc:creator>
+ <dc:creator>An, F. F.</dc:creator>
+ <dc:creator>An, Q.</dc:creator>
+ <dc:creator>Bai, J. Z.</dc:creator>
+ <dc:creator>Ferroli, R. Baldini</dc:creator>
+ <dc:creator>Ban, Y.</dc:creator>
+ <dc:creator>Bennett, D. W.</dc:creator>
+ <dc:creator>Bennett, J. V.</dc:creator>
+ <dc:creator>Bertani, M.</dc:creator>
+ <dc:creator>Bettoni, D.</dc:creator>
+ <dc:creator>Bian, J. M.</dc:creator>
+ <dc:creator>Bianchi, F.</dc:creator>
+ <dc:creator>Boger, E.</dc:creator>
+ <dc:creator>Boyko, I.</dc:creator>
+ <dc:creator>Briere, R. A.</dc:creator>
+ <dc:creator>Cai, H.</dc:creator>
+ <dc:creator>Cai, X.</dc:creator>
+ <dc:creator>Cakir, O.</dc:creator>
+ <dc:creator>Calcaterra, A.</dc:creator>
+ <dc:creator>Cao, G. F.</dc:creator>
+ <dc:creator>Cetin, S. A.</dc:creator>
+ <dc:creator>Chang, J. F.</dc:creator>
+ <dc:creator>Chelkov$^{23, G.</dc:creator>
+ <dc:creator>d</dc:creator>
+ <dc:creator>e}$</dc:creator>
+ <dc:creator>Chen, G.</dc:creator>
+ <dc:creator>Chen, H. S.</dc:creator>
+ <dc:creator>Chen, H. Y.</dc:creator>
+ <dc:creator>Chen, J. C.</dc:creator>
+ <dc:creator>Chen, M. L.</dc:creator>
+ <dc:creator>Chen, S. J.</dc:creator>
+ <dc:creator>Chen, X.</dc:creator>
+ <dc:creator>Chen, X. R.</dc:creator>
+ <dc:creator>Chen, Y. B.</dc:creator>
+ <dc:creator>Cheng, H. P.</dc:creator>
+ <dc:creator>Chu, X. K.</dc:creator>
+ <dc:creator>Cibinetto, G.</dc:creator>
+ <dc:creator>Dai, H. L.</dc:creator>
+ <dc:creator>Dai, J. P.</dc:creator>
+ <dc:creator>Dbeyssi, A.</dc:creator>
+ <dc:creator>Dedovich, D.</dc:creator>
+ <dc:creator>Deng, Z. Y.</dc:creator>
+ <dc:creator>Denig, A.</dc:creator>
+ <dc:creator>Denysenko, I.</dc:creator>
+ <dc:creator>Destefanis, M.</dc:creator>
+ <dc:creator>De Mori, F.</dc:creator>
+ <dc:creator>Ding, Y.</dc:creator>
+ <dc:creator>Dong, C.</dc:creator>
+ <dc:creator>Dong, J.</dc:creator>
+ <dc:creator>Dong, L. Y.</dc:creator>
+ <dc:creator>Dong, M. Y.</dc:creator>
+ <dc:creator>Du, S. X.</dc:creator>
+ <dc:creator>Duan, P. F.</dc:creator>
+ <dc:creator>Fan, J. Z.</dc:creator>
+ <dc:creator>Fang, J.</dc:creator>
+ <dc:creator>Fang, S. S.</dc:creator>
+ <dc:creator>Fang, X.</dc:creator>
+ <dc:creator>Fang, Y.</dc:creator>
+ <dc:creator>Fava, L.</dc:creator>
+ <dc:creator>Feldbauer, F.</dc:creator>
+ <dc:creator>Felici, G.</dc:creator>
+ <dc:creator>Feng, C. Q.</dc:creator>
+ <dc:creator>Fioravanti, E.</dc:creator>
+ <dc:creator>Fritsch$^{14, M.</dc:creator>
+ <dc:creator>22}$</dc:creator>
+ <dc:creator>Fu, C. D.</dc:creator>
+ <dc:creator>Gao, Q.</dc:creator>
+ <dc:creator>Gao, X. L.</dc:creator>
+ <dc:creator>Gao, X. Y.</dc:creator>
+ <dc:creator>Gao, Y.</dc:creator>
+ <dc:creator>Gao, Z.</dc:creator>
+ <dc:creator>Garzia, I.</dc:creator>
+ <dc:creator>Goetzen, K.</dc:creator>
+ <dc:creator>Gong, W. X.</dc:creator>
+ <dc:creator>Gradl, W.</dc:creator>
+ <dc:creator>Greco, M.</dc:creator>
+ <dc:creator>Gu, M. H.</dc:creator>
+ <dc:creator>Gu, Y. T.</dc:creator>
+ <dc:creator>Guan, Y. H.</dc:creator>
+ <dc:creator>Guo, A. Q.</dc:creator>
+ <dc:creator>Guo, L. B.</dc:creator>
+ <dc:creator>Guo, Y.</dc:creator>
+ <dc:creator>Guo, Y. P.</dc:creator>
+ <dc:creator>Haddadi, Z.</dc:creator>
+ <dc:creator>Hafner, A.</dc:creator>
+ <dc:creator>Han, S.</dc:creator>
+ <dc:creator>Hao, X. Q.</dc:creator>
+ <dc:creator>Harris, F. A.</dc:creator>
+ <dc:creator>He, K. L.</dc:creator>
+ <dc:creator>He, X. Q.</dc:creator>
+ <dc:creator>Held, T.</dc:creator>
+ <dc:creator>Heng, Y. K.</dc:creator>
+ <dc:creator>Hou, Z. L.</dc:creator>
+ <dc:creator>Hu, C.</dc:creator>
+ <dc:creator>Hu, H. M.</dc:creator>
+ <dc:creator>Hu, J. F.</dc:creator>
+ <dc:creator>Hu, T.</dc:creator>
+ <dc:creator>Hu, Y.</dc:creator>
+ <dc:creator>Huang, G. M.</dc:creator>
+ <dc:creator>Huang, G. S.</dc:creator>
+ <dc:creator>Huang, J. S.</dc:creator>
+ <dc:creator>Huang, X. T.</dc:creator>
+ <dc:creator>Huang, Y.</dc:creator>
+ <dc:creator>Hussain, T.</dc:creator>
+ <dc:creator>Ji, Q.</dc:creator>
+ <dc:creator>Ji, Q. P.</dc:creator>
+ <dc:creator>Ji, X. B.</dc:creator>
+ <dc:creator>Ji, X. L.</dc:creator>
+ <dc:creator>Jiang, L. W.</dc:creator>
+ <dc:creator>Jiang, X. S.</dc:creator>
+ <dc:creator>Jiang, X. Y.</dc:creator>
+ <dc:creator>Jiao, J. B.</dc:creator>
+ <dc:creator>Jiao, Z.</dc:creator>
+ <dc:creator>Jin, D. P.</dc:creator>
+ <dc:creator>Jin, S.</dc:creator>
+ <dc:creator>Johansson, T.</dc:creator>
+ <dc:creator>Julin, A.</dc:creator>
+ <dc:creator>Kalantar-Nayestanaki, N.</dc:creator>
+ <dc:creator>Kang, X. L.</dc:creator>
+ <dc:creator>Kang, X. S.</dc:creator>
+ <dc:creator>Kavatsyuk, M.</dc:creator>
+ <dc:creator>Ke, B. C.</dc:creator>
+ <dc:creator>Kiese, P.</dc:creator>
+ <dc:creator>Kliemt, R.</dc:creator>
+ <dc:creator>Kloss, B.</dc:creator>
+ <dc:creator>Kolcu, O. B.</dc:creator>
+ <dc:creator>Kopf, B.</dc:creator>
+ <dc:creator>Kornicer, M.</dc:creator>
+ <dc:creator>K&#252;hn, W.</dc:creator>
+ <dc:creator>Kupsc, A.</dc:creator>
+ <dc:creator>Lange, J. S.</dc:creator>
+ <dc:creator>Lara, M.</dc:creator>
+ <dc:creator>Larin, P.</dc:creator>
+ <dc:creator>Leng, C.</dc:creator>
+ <dc:creator>Li, C.</dc:creator>
+ <dc:creator>Li, Cheng</dc:creator>
+ <dc:creator>Li, D. M.</dc:creator>
+ <dc:creator>Li, F.</dc:creator>
+ <dc:creator>Li, F. Y.</dc:creator>
+ <dc:creator>Li, G.</dc:creator>
+ <dc:creator>Li, H. B.</dc:creator>
+ <dc:creator>Li, J. C.</dc:creator>
+ <dc:creator>Li, Jin</dc:creator>
+ <dc:creator>Li, K.</dc:creator>
+ <dc:creator>Li, K.</dc:creator>
+ <dc:creator>Li, Lei</dc:creator>
+ <dc:creator>Li, P. R.</dc:creator>
+ <dc:creator>Li, T.</dc:creator>
+ <dc:creator>Li, W. D.</dc:creator>
+ <dc:creator>Li, W. G.</dc:creator>
+ <dc:creator>Li, X. L.</dc:creator>
+ <dc:creator>Li, X. M.</dc:creator>
+ <dc:creator>Li, X. N.</dc:creator>
+ <dc:creator>Li, X. Q.</dc:creator>
+ <dc:creator>Li, Z. B.</dc:creator>
+ <dc:creator>Liang, H.</dc:creator>
+ <dc:creator>Liang, Y. F.</dc:creator>
+ <dc:creator>Liang, Y. T.</dc:creator>
+ <dc:creator>Liao, G. R.</dc:creator>
+ <dc:creator>Lin, D. X.</dc:creator>
+ <dc:creator>Liu, B. J.</dc:creator>
+ <dc:creator>Liu, C. X.</dc:creator>
+ <dc:creator>Liu, D.</dc:creator>
+ <dc:creator>Liu, F. H.</dc:creator>
+ <dc:creator>Liu, Fang</dc:creator>
+ <dc:creator>Liu, Feng</dc:creator>
+ <dc:creator>Liu, H. B.</dc:creator>
+ <dc:creator>Liu, H. H.</dc:creator>
+ <dc:creator>Liu, H. H.</dc:creator>
+ <dc:creator>Liu, H. M.</dc:creator>
+ <dc:creator>Liu, J.</dc:creator>
+ <dc:creator>Liu, J. B.</dc:creator>
+ <dc:creator>Liu, J. P.</dc:creator>
+ <dc:creator>Liu, J. Y.</dc:creator>
+ <dc:creator>Liu, K.</dc:creator>
+ <dc:creator>Liu, K. Y.</dc:creator>
+ <dc:creator>Liu, L. D.</dc:creator>
+ <dc:creator>Liu, P. L.</dc:creator>
+ <dc:creator>Liu, Q.</dc:creator>
+ <dc:creator>Liu, S. B.</dc:creator>
+ <dc:creator>Liu, X.</dc:creator>
+ <dc:creator>Liu, Y. B.</dc:creator>
+ <dc:creator>Liu, Z. A.</dc:creator>
+ <dc:creator>Liu, Zhiqing</dc:creator>
+ <dc:creator>Loehner, H.</dc:creator>
+ <dc:creator>Lou$^{1, X. C.</dc:creator>
+ <dc:creator>a</dc:creator>
+ <dc:creator>h}$</dc:creator>
+ <dc:creator>Lu, H. J.</dc:creator>
+ <dc:creator>Lu, J. G.</dc:creator>
+ <dc:creator>Lu, Y.</dc:creator>
+ <dc:creator>Lu, Y. P.</dc:creator>
+ <dc:creator>Luo, C. L.</dc:creator>
+ <dc:creator>Luo, M. X.</dc:creator>
+ <dc:creator>Luo, T.</dc:creator>
+ <dc:creator>Luo, X. L.</dc:creator>
+ <dc:creator>Lyu, X. R.</dc:creator>
+ <dc:creator>Ma, F. C.</dc:creator>
+ <dc:creator>Ma, H. L.</dc:creator>
+ <dc:creator>Ma, L. L.</dc:creator>
+ <dc:creator>Ma, Q. M.</dc:creator>
+ <dc:creator>Ma, T.</dc:creator>
+ <dc:creator>Ma, X. N.</dc:creator>
+ <dc:creator>Ma, X. Y.</dc:creator>
+ <dc:creator>Maas, F. E.</dc:creator>
+ <dc:creator>Maggiora, M.</dc:creator>
+ <dc:creator>Mao, Y. J.</dc:creator>
+ <dc:creator>Mao, Z. P.</dc:creator>
+ <dc:creator>Marcello, S.</dc:creator>
+ <dc:creator>Messchendorp, J. G.</dc:creator>
+ <dc:creator>Min, J.</dc:creator>
+ <dc:creator>Mitchell, R. E.</dc:creator>
+ <dc:creator>Mo, X. H.</dc:creator>
+ <dc:creator>Mo, Y. J.</dc:creator>
+ <dc:creator>Morales, C. Morales</dc:creator>
+ <dc:creator>Moriya, K.</dc:creator>
+ <dc:creator>Muchnoi, N. Yu.</dc:creator>
+ <dc:creator>Muramatsu, H.</dc:creator>
+ <dc:creator>Nefedov, Y.</dc:creator>
+ <dc:creator>Nerling, F.</dc:creator>
+ <dc:creator>Nikolaev, I. B.</dc:creator>
+ <dc:creator>Ning, Z.</dc:creator>
+ <dc:creator>Nisar, S.</dc:creator>
+ <dc:creator>Niu, S. L.</dc:creator>
+ <dc:creator>Niu, X. Y.</dc:creator>
+ <dc:creator>Olsen, S. L.</dc:creator>
+ <dc:creator>Ouyang, Q.</dc:creator>
+ <dc:creator>Pacetti, S.</dc:creator>
+ <dc:creator>Pan, Y.</dc:creator>
+ <dc:creator>Patteri, P.</dc:creator>
+ <dc:creator>Pelizaeus, M.</dc:creator>
+ <dc:creator>Peng, H. P.</dc:creator>
+ <dc:creator>Peters, K.</dc:creator>
+ <dc:creator>Pettersson, J.</dc:creator>
+ <dc:creator>Ping, J. L.</dc:creator>
+ <dc:creator>Ping, R. G.</dc:creator>
+ <dc:creator>Poling, R.</dc:creator>
+ <dc:creator>Prasad, V.</dc:creator>
+ <dc:creator>Qi, M.</dc:creator>
+ <dc:creator>Qian, S.</dc:creator>
+ <dc:creator>Qiao, C. F.</dc:creator>
+ <dc:creator>Qin, L. Q.</dc:creator>
+ <dc:creator>Qin, N.</dc:creator>
+ <dc:creator>Qin, X. S.</dc:creator>
+ <dc:creator>Qin, Z. H.</dc:creator>
+ <dc:creator>Qiu, J. F.</dc:creator>
+ <dc:creator>Rashid, K. H.</dc:creator>
+ <dc:creator>Redmer, C. F.</dc:creator>
+ <dc:creator>Ripka, M.</dc:creator>
+ <dc:creator>Rong, G.</dc:creator>
+ <dc:creator>Rosner, Ch.</dc:creator>
+ <dc:creator>Ruan, X. D.</dc:creator>
+ <dc:creator>Santoro, V.</dc:creator>
+ <dc:creator>Sarantsev, A.</dc:creator>
+ <dc:creator>Savri'e, M.</dc:creator>
+ <dc:creator>Schoenning, K.</dc:creator>
+ <dc:creator>Schumann, S.</dc:creator>
+ <dc:creator>Shan, W.</dc:creator>
+ <dc:creator>Shao, M.</dc:creator>
+ <dc:creator>Shen, C. P.</dc:creator>
+ <dc:creator>Shen, P. X.</dc:creator>
+ <dc:creator>Shen, X. Y.</dc:creator>
+ <dc:creator>Sheng, H. Y.</dc:creator>
+ <dc:creator>Song, W. M.</dc:creator>
+ <dc:creator>Song, X. Y.</dc:creator>
+ <dc:creator>Sosio, S.</dc:creator>
+ <dc:creator>Spataro, S.</dc:creator>
+ <dc:creator>Sun, G. X.</dc:creator>
+ <dc:creator>Sun, J. F.</dc:creator>
+ <dc:creator>Sun, S. S.</dc:creator>
+ <dc:creator>Sun, Y. J.</dc:creator>
+ <dc:creator>Sun, Y. Z.</dc:creator>
+ <dc:creator>Sun, Z. J.</dc:creator>
+ <dc:creator>Sun, Z. T.</dc:creator>
+ <dc:creator>Tang, C. J.</dc:creator>
+ <dc:creator>Tang, X.</dc:creator>
+ <dc:creator>Tapan, I.</dc:creator>
+ <dc:creator>Thorndike, E. H.</dc:creator>
+ <dc:creator>Tiemens, M.</dc:creator>
+ <dc:creator>Ullrich, M.</dc:creator>
+ <dc:creator>Uman, I.</dc:creator>
+ <dc:creator>Varner, G. S.</dc:creator>
+ <dc:creator>Wang, B.</dc:creator>
+ <dc:creator>Wang, D.</dc:creator>
+ <dc:creator>Wang, D. Y.</dc:creator>
+ <dc:creator>Wang, K.</dc:creator>
+ <dc:creator>Wang, L. L.</dc:creator>
+ <dc:creator>Wang, L. S.</dc:creator>
+ <dc:creator>Wang, M.</dc:creator>
+ <dc:creator>Wang, P.</dc:creator>
+ <dc:creator>Wang, P. L.</dc:creator>
+ <dc:creator>Wang, S. G.</dc:creator>
+ <dc:creator>Wang, W.</dc:creator>
+ <dc:creator>Wang, W. P.</dc:creator>
+ <dc:creator>Wang, X. F.</dc:creator>
+ <dc:creator>Wang, Y. D.</dc:creator>
+ <dc:creator>Wang, Y. F.</dc:creator>
+ <dc:creator>Wang, Y. Q.</dc:creator>
+ <dc:creator>Wang, Z.</dc:creator>
+ <dc:creator>Wang, Z. G.</dc:creator>
+ <dc:creator>Wang, Z. H.</dc:creator>
+ <dc:creator>Wang, Z. Y.</dc:creator>
+ <dc:creator>Weber, T.</dc:creator>
+ <dc:creator>Wei, D. H.</dc:creator>
+ <dc:creator>Wei, J. B.</dc:creator>
+ <dc:creator>Weidenkaff, P.</dc:creator>
+ <dc:creator>Wen, S. P.</dc:creator>
+ <dc:creator>Wiedner, U.</dc:creator>
+ <dc:creator>Wolke, M.</dc:creator>
+ <dc:creator>Wu, L. H.</dc:creator>
+ <dc:creator>Wu, Z.</dc:creator>
+ <dc:creator>Xia, L.</dc:creator>
+ <dc:creator>Xia, L. G.</dc:creator>
+ <dc:creator>Xia, Y.</dc:creator>
+ <dc:creator>Xiao, D.</dc:creator>
+ <dc:creator>Xiao, H.</dc:creator>
+ <dc:creator>Xiao, Z. J.</dc:creator>
+ <dc:creator>Xie, Y. G.</dc:creator>
+ <dc:creator>Xiu, Q. L.</dc:creator>
+ <dc:creator>Xu, G. F.</dc:creator>
+ <dc:creator>Xu, L.</dc:creator>
+ <dc:creator>Xu, Q. J.</dc:creator>
+ <dc:creator>Xu, X. P.</dc:creator>
+ <dc:creator>Yan, L.</dc:creator>
+ <dc:creator>Yan, W. B.</dc:creator>
+ <dc:creator>Yan, W. C.</dc:creator>
+ <dc:creator>Yan, Y. H.</dc:creator>
+ <dc:creator>Yang, H. J.</dc:creator>
+ <dc:creator>Yang, H. X.</dc:creator>
+ <dc:creator>Yang, L.</dc:creator>
+ <dc:creator>Yang, Y.</dc:creator>
+ <dc:creator>Yang, Y. X.</dc:creator>
+ <dc:creator>Ye, M.</dc:creator>
+ <dc:creator>Ye, M. H.</dc:creator>
+ <dc:creator>Yin, J. H.</dc:creator>
+ <dc:creator>Yu, B. X.</dc:creator>
+ <dc:creator>Yu, C. X.</dc:creator>
+ <dc:creator>Yu, J. S.</dc:creator>
+ <dc:creator>Yuan, C. Z.</dc:creator>
+ <dc:creator>Yuan, W. L.</dc:creator>
+ <dc:creator>Yuan, Y.</dc:creator>
+ <dc:creator>Yuncu, A.</dc:creator>
+ <dc:creator>Zafar, A. A.</dc:creator>
+ <dc:creator>Zallo, A.</dc:creator>
+ <dc:creator>Zeng, Y.</dc:creator>
+ <dc:creator>Zeng, Z.</dc:creator>
+ <dc:creator>Zhang, B. X.</dc:creator>
+ <dc:creator>Zhang, B. Y.</dc:creator>
+ <dc:creator>Zhang, C.</dc:creator>
+ <dc:creator>Zhang, C. C.</dc:creator>
+ <dc:creator>Zhang, D. H.</dc:creator>
+ <dc:creator>Zhang, H. H.</dc:creator>
+ <dc:creator>Zhang, H. Y.</dc:creator>
+ <dc:creator>Zhang, J. J.</dc:creator>
+ <dc:creator>Zhang, J. L.</dc:creator>
+ <dc:creator>Zhang, J. Q.</dc:creator>
+ <dc:creator>Zhang, J. W.</dc:creator>
+ <dc:creator>Zhang, J. Y.</dc:creator>
+ <dc:creator>Zhang, J. Z.</dc:creator>
+ <dc:creator>Zhang, K.</dc:creator>
+ <dc:creator>Zhang, L.</dc:creator>
+ <dc:creator>Zhang, X. Y.</dc:creator>
+ <dc:creator>Zhang, Y.</dc:creator>
+ <dc:creator>Zhang, Y. N.</dc:creator>
+ <dc:creator>Zhang, Y. H.</dc:creator>
+ <dc:creator>Zhang, Y. T.</dc:creator>
+ <dc:creator>Zhang, Yu</dc:creator>
+ <dc:creator>Zhang, Z. H.</dc:creator>
+ <dc:creator>Zhang, Z. P.</dc:creator>
+ <dc:creator>Zhang, Z. Y.</dc:creator>
+ <dc:creator>Zhao, G.</dc:creator>
+ <dc:creator>Zhao, J. W.</dc:creator>
+ <dc:creator>Zhao, J. Y.</dc:creator>
+ <dc:creator>Zhao, J. Z.</dc:creator>
+ <dc:creator>Zhao, Lei</dc:creator>
+ <dc:creator>Zhao, Ling</dc:creator>
+ <dc:creator>Zhao, M. G.</dc:creator>
+ <dc:creator>Zhao, Q.</dc:creator>
+ <dc:creator>Zhao, Q. W.</dc:creator>
+ <dc:creator>Zhao, S. J.</dc:creator>
+ <dc:creator>Zhao, T. C.</dc:creator>
+ <dc:creator>Zhao, Y. B.</dc:creator>
+ <dc:creator>Zhao, Z. G.</dc:creator>
+ <dc:creator>Zhemchugov, A.</dc:creator>
+ <dc:creator>Zheng, B.</dc:creator>
+ <dc:creator>Zheng, J. P.</dc:creator>
+ <dc:creator>Zheng, W. J.</dc:creator>
+ <dc:creator>Zheng, Y. H.</dc:creator>
+ <dc:creator>Zhong, B.</dc:creator>
+ <dc:creator>Zhou, L.</dc:creator>
+ <dc:creator>Zhou, X.</dc:creator>
+ <dc:creator>Zhou, X. K.</dc:creator>
+ <dc:creator>Zhou, X. R.</dc:creator>
+ <dc:creator>Zhou, X. Y.</dc:creator>
+ <dc:creator>Zhu, K.</dc:creator>
+ <dc:creator>Zhu, K. J.</dc:creator>
+ <dc:creator>Zhu, S.</dc:creator>
+ <dc:creator>Zhu, S. H.</dc:creator>
+ <dc:creator>Zhu, X. L.</dc:creator>
+ <dc:creator>Zhu, Y. C.</dc:creator>
+ <dc:creator>Zhu, Y. S.</dc:creator>
+ <dc:creator>Zhu, Z. A.</dc:creator>
+ <dc:creator>Zhuang, J.</dc:creator>
+ <dc:creator>Zotti, L.</dc:creator>
+ <dc:creator>Zou, B. S.</dc:creator>
+ <dc:creator>Zou, J. H.</dc:creator>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  From 2011 to 2014, the BESIII experiment collected about 5 fb$^{-1}$ data at
+center-of-mass energies around 4 GeV for the studies of the charmonium-like and
+higher excited charmonium states. By analyzing the di-muon process
+$e^{+}e^{-}\rightarrow\gamma_{\rm ISR/FSR}\mu^{+}\mu^{-}$, the center-of-mass
+energies of the data samples are measured with a precision of 0.8 MeV. The
+center-of-mass energy is found to be stable for most of time during the data
+taking.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08654</dc:identifier>
+ <dc:identifier>Chinese Physics C, 2016</dc:identifier>
+ <dc:identifier>doi:10.1088/1674-1137/40/6/063001</dc:identifier>
+ </oai_dc:dc>
+

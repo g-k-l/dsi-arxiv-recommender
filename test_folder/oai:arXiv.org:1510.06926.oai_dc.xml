@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Concentration phenomena for fractional elliptic equations involving
+  exponential critical growth</dc:title>
+ <dc:creator>Alves, Claudianor O.</dc:creator>
+ <dc:creator>&#211;, Jo&#227;o Marcos do</dc:creator>
+ <dc:creator>Miyagaki, Ol&#237;mpio H.</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35J60, 35B09, 35B33, 35R11</dc:subject>
+ <dc:subject>G.1.8</dc:subject>
+ <dc:description>  In this paper, we deal with the following singular perturbed fractional
+elliptic problem $ \epsilon^{} (-\Delta)^{1/2}{u}+V(z)u=f(u)\,\,\, \mbox{in}
+\,\,\, \mathbb{R}, $ where $ (-\Delta)^{1/2}u$ is the square root of the
+Laplacian and $f(s)$ has exponential critical growth. Under suitable conditions
+on $f(s)$, we construct a localized bound state solution concentrating at an
+isolated component of the positive local minimum points of the potential of $V$
+as $\epsilon$ goes to $0.$
+</dc:description>
+ <dc:description>Comment: 20 pages. arXiv admin note: text overlap with arXiv:1508.03964</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06926</dc:identifier>
+ </oai_dc:dc>
+

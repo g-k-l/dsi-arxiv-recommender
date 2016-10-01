@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bright gamma-ray Galactic Center excess and dark dwarfs: Strong tension
+  for dark matter annihilation despite Milky Way halo profile</dc:title>
+ <dc:creator>Abazajian, Kevork N.</dc:creator>
+ <dc:creator>Keeley, Ryan E.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We incorporate Milky Way dark matter halo profile uncertainties, as well as
+an accounting of diffuse gamma-ray emission uncertainties in dark matter
+annihilation models for the Galactic Center Extended gamma-ray excess (GCE)
+detected by the Fermi Gamma Ray Space Telescope. The range of particle
+annihilation rate and masses expand when including these unknowns. However, two
+of the most precise empirical determinations of the Milky Way halo's local
+density and density profile leave the signal region to be in considerable
+tension with dark matter annihilation searches from combined dwarf galaxy
+analyses for single-channel dark matter annihilation models. The GCE and dwarf
+tension can be alleviated if: one, the halo is very highly concentrated or
+strongly contracted; two, the dark matter annihilation signal differentiates
+between dwarfs and the GC; or, three, local stellar density measures are found
+to be significantly lower, like that from recent stellar counts, increasing the
+local dark matter density.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures; v3 &amp; v4: match version to appear in PRD; analysis
+  code available at https://github.com/rekeeley/GCE_errors</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06424</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 083514 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.083514</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Strong correlation effects in theoretical STM studies of magnetic
+  adatoms</dc:title>
+ <dc:creator>Dang, Hung T.</dc:creator>
+ <dc:creator>Dias, Manuel dos Santos</dc:creator>
+ <dc:creator>Liebsch, Ansgar</dc:creator>
+ <dc:creator>Lounis, Samir</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We present a theoretical study for the scanning tunneling microscopy (STM)
+spectra of surface-supported magnetic nanostructures, incorporating strong
+correlation effects. As concrete examples, we study Co and Mn adatoms on the
+Cu(111) surface, which are expected to represent the opposite limits of the
+Kondo physics and local moment behavior, using a combination of density
+functional theory and both quantum Monte Carlo and exact diagonalization
+impurity solvers. We examine in detail the effects of temperature $T$,
+correlation strength $U$, and the impurity $d$ electron occupancy $N_d$ on the
+local density of states. We also study the effective coherence energy scale,
+i.e., the Kondo temperature $T_K$, which can be extracted from the STM spectra.
+Theoretical STM spectra are computed as a function of the STM tip position
+relative to each adatom. Because of the multi-orbital nature of the adatoms,
+the STM spectra are shown to consist of a complicated superposition of orbital
+contributions, with different orbital symmetries, self-energies and Kondo
+temperatures. For the Mn adatom, which is close to half-filling, the STM
+spectra are featureless near the Fermi level. On the other hand, the
+quasiparticle peak for Co adatom gives rise to strongly position-dependent Fano
+line-shapes.
+</dc:description>
+ <dc:description>Comment: 16 pages, 13 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-03-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07427</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 115123 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.115123</dc:identifier>
+ </oai_dc:dc>
+

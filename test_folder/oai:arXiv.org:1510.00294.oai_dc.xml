@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two-photon dilepton production in proton-proton collisions: two
+  alternative approaches</dc:title>
+ <dc:creator>Luszczak, Marta</dc:creator>
+ <dc:creator>Schafer, Wolfgang</dc:creator>
+ <dc:creator>Szczurek, Antoni</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We investigate different methods to incorporate the effect of photons in hard
+processes. We compare two different approaches used for calculating cross
+sections for two-photon $p p \to l^+ l^- X$ process. In one of the approaches
+photon is treated as a collinear parton in the proton. In the second approach
+recently proposed a $k_T$-factorization method is used. We discuss how results
+of the collinear parton model depend on the initial condition for the QCD
+evolution and discuss an approximate treatment where photon is excluded from
+the combined QCD-QED evolution. We demonstrate that it is not necessary to put
+photon into the evolution equation as often done recently but it is sufficient
+to use a simplified approach in which photon couples to quarks and antiquarks
+which by themselves undergo DGLAP evolution equations. We discuss sensitivity
+of the results to the choice of structure function parametrization and
+experimental cuts in the $k_T$-factorization approach. A new optimal structure
+function parametrization is proposed. We compare results of our calculations
+with recent experimental data for dilepton production and find that in most
+cases the contribution of the photon-photon mechanism is rather small. We
+discuss how to enhance the photon-photon contribution. We also compare our
+results to those of recent measurements of exclusive and semi-exclusive $e^+
+e^-$ pair production with certain experimental data by the CMS collaboration.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00294</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 074018 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.074018</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A non-linear theory for the bubble regime of plasma wake fields in
+  tailored plasma channels</dc:title>
+ <dc:creator>Thomas, Johannes</dc:creator>
+ <dc:creator>Kostyukov, Igor Yu.</dc:creator>
+ <dc:creator>Pronold, Jari</dc:creator>
+ <dc:creator>Golovanov, Anton</dc:creator>
+ <dc:creator>Pukhov, Alexander</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  We introduce a first full analytical bubble and blow-out model for a radially
+inhomogeneous plasma in a quasi-static approximation. For both cases we
+calculate the accelerating and the focusing fields. In our model we also assume
+a thin electron layer that surrounds the wake field and calculate the field
+configuration within. Our theory holds for arbitrary radial density profiles
+and reduces to known models in the limit of a homogeneous plasma. From a
+previous study of hollow plasma channels with smooth boundaries for
+laser-driven electron acceleration in the bubble regime we know that
+pancake-like laser pulses lead to highest electron energies [Pukhov et al, PRL
+113, 245003 (2014)]. As it was shown, the bubble fields can be adjusted to
+balance the laser depletion and dephasing lengths by varying the plasma density
+profile inside a deep channel. Now we show why the radial fields in the vacuum
+part of a channel become defocussing.
+</dc:description>
+ <dc:description>Comment: 11 pages, 6 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09012</dc:identifier>
+ <dc:identifier>Phys. Plasmas 23, 053108 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4948712</dc:identifier>
+ </oai_dc:dc>
+

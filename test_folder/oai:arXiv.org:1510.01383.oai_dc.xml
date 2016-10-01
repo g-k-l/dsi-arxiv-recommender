@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Depinning of disordered bosonic chains</dc:title>
+ <dc:creator>Vogt, Nicolas</dc:creator>
+ <dc:creator>Cole, Jared H.</dc:creator>
+ <dc:creator>Shnirman, Alexander</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:description>  We consider one-dimensional bosonic chains with a repulsive boson-boson
+interaction that decays exponentially on large length-scales. This model
+describes transport of Cooper-pairs in a Josepshon junction array, or transport
+of magnetic flux quanta in quantum-phase-slip ladders, i.e. arrays of
+superconducting wires in a ladder-configuration that allow for the coherent
+tunnelling of flux quanta. In the low-frequency, long wave-length regime these
+chains can be mapped to an effective model of a one-dimensional elastic field
+in a disordered potential. The onset of transport in these systems, when biased
+by external voltage, is described by the standard depinning theory of elastic
+media in disordered pinning potentials. We numerically study the regimes that
+are of relevance for quantum-phase-slip ladders. These are (i) very short
+chains and (ii) the regime of weak disorder. For chains shorter than the
+typical pinning length, i.e., the Larkin length, the chains reach a saturation
+regime where the depinning voltage does not depend on the decay length of the
+repulsive interaction. In the regime of weak disorder we find an emergent
+correlation length-scale that depends on the disorder strength. For arrays
+shorter than this length the onset of transport is similar to the clean arrays,
+i.e., is due to the penetration of solitons into the array. We discuss the
+depinning scenarios for longer arrays in this regime.
+</dc:description>
+ <dc:description>Comment: 11 pages, 6 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01383</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/5/053026</dc:identifier>
+ </oai_dc:dc>
+

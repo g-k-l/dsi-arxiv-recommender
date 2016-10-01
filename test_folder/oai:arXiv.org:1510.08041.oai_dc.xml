@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coherent scattering of near-resonant light by a Dense Microscopic Cold
+  Atomic cloud</dc:title>
+ <dc:creator>Jennewein, S.</dc:creator>
+ <dc:creator>Besbes, M.</dc:creator>
+ <dc:creator>Schilder, N. J.</dc:creator>
+ <dc:creator>Jenkins, S. D.</dc:creator>
+ <dc:creator>Sauvan, C.</dc:creator>
+ <dc:creator>Ruostekoski, J.</dc:creator>
+ <dc:creator>Greffet, J. -J.</dc:creator>
+ <dc:creator>Sortais, Y. R. P.</dc:creator>
+ <dc:creator>Browaeys, A.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We measure the coherent scattering of light by a cloud of laser-cooled atoms
+with a size comparable to the wavelength of light. By interfering a laser beam
+tuned near an atomic resonance with the field scattered by the atoms we observe
+a resonance with a red-shift, a broadening, and a saturation of the extinction
+for increasing atom numbers. We attribute these features to enhanced
+light-induced dipole-dipole interactions in a cold, dense atomic ensemble that
+result in a failure of standard predictions such as the "cooperative Lamb
+shift". The description of the atomic cloud by a mean-field model based on the
+Lorentz-Lorenz formula that ignores scattering events where light is scattered
+recurrently by the same atom and by a microscopic discrete dipole model that
+incorporates these effects lead to progressively closer agreement with the
+observations, despite remaining differences.
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08041</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 233601 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.233601</dc:identifier>
+ </oai_dc:dc>
+

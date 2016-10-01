@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the coupling of regularization techniques and the boundary element
+  method for a hemivariational inequality modelling a delamination problem</dc:title>
+ <dc:creator>Ovcharova, Nina</dc:creator>
+ <dc:creator>Banz, Lothar</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  In this paper, we couple regularization techniques with the adaptive
+$hp$-version of the boundary element method ($hp$-BEM) for the efficient
+numerical solution of linear elastic problems with nonmonotone contact boundary
+conditions. As a model example we treat the delamination of composite
+structures with a contaminated interface layer. This problem has a weak
+formulation in terms of a nonsmooth variational inequality. The resulting
+hemivariational inequality (HVI) is first regularized and then, discretized by
+an adaptive $hp$-BEM. We give conditions for the uniqueness of the solution and
+provide an a-priori error estimate. Furthermore, we derive an a-posteriori
+error estimate for the nonsmooth variational problem based on a novel
+regularized mixed formulation, thus enabling $hp$-adaptivity. Various numerical
+experiments illustrate the behavior, strengths and weaknesses of the proposed
+high-order approximation scheme.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-06-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06343</dc:identifier>
+ </oai_dc:dc>
+

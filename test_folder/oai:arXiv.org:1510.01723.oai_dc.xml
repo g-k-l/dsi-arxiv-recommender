@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement of Free Fermions and Bosons at Finite Temperature</dc:title>
+ <dc:creator>Drut, Joaqu&#237;n E.</dc:creator>
+ <dc:creator>Porter, William J.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We generalize techniques previously used to compute ground-state properties
+of one-dimensional noninteracting quantum gases to obtain exact results at
+finite temperature. We compute the order-n R\'enyi entanglement entropy to all
+orders in the fugacity in one, two, and three spatial dimensions. In all
+spatial dimensions, we provide closed-form expressions for its virial expansion
+up to next-to-leading order. In all of our results, we find explicit volume
+scaling in the high-temperature limit.
+</dc:description>
+ <dc:description>Comment: 8 pages, 4 figures</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01723</dc:identifier>
+ </oai_dc:dc>
+

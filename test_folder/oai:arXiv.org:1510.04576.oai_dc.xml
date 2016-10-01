@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Mechanics in a Space with Finite Number of Points</dc:title>
+ <dc:creator>Arik, Metin</dc:creator>
+ <dc:creator>Ildes, Medine</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We define a deformed kinetic energy operator for a discrete position space
+with a finite number of points. The structure may be either periodic or
+nonperiodic with well-defined end points. It is shown that for the nonperiodic
+case the translation operator becomes nonunitary due to the end points. This
+uniquely defines an algebra which has the desired unique representation. Energy
+eigenvalues and energy wave functions for both cases are found. As expected, in
+the continuum limit the solution for the nonperiodic case becomes the same as
+the solution of an infinite one dimensional square well and the periodic case
+solution becomes the same as the solution of a particle in a box with periodic
+boundary conditions.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04576</dc:identifier>
+ <dc:identifier>doi:10.1093/ptep/ptw033</dc:identifier>
+ </oai_dc:dc>
+

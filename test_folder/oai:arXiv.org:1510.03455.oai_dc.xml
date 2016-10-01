@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Large deformations of a soft porous material</dc:title>
+ <dc:creator>MacMinn, Christopher W.</dc:creator>
+ <dc:creator>Dufresne, Eric R.</dc:creator>
+ <dc:creator>Wettlaufer, John S.</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  Compressing a porous material will decrease the volume of the pore space,
+driving fluid out. Similarly, injecting fluid into a porous material can expand
+the pore space, distorting the solid skeleton. This poromechanical coupling has
+applications ranging from tissue mechanics to hydrogeology. The classical
+theory of linear poroelasticity captures this coupling by combining Darcy's law
+with Terzaghi's effective stress and linear elasticity in a linearized
+kinematic framework. Linear poroelasticity is a good model for very small
+deformations, but it becomes increasingly inappropriate for moderate to large
+deformations, which are common in the context of phenomena such as swelling and
+damage, and for soft materials such as gels and tissues. The well-known theory
+of large-deformation poroelasticity combines Darcy's law with Terzaghi's
+effective stress and nonlinear elasticity in a rigorous kinematic framework.
+This theory has been used extensively in biomechanics to model large elastic
+deformations in soft tissues, and in geomechanics to model large elastoplastic
+deformations in soils. Here, we first provide an overview and discussion of
+this theory with an emphasis on the physics of poromechanical coupling. We
+present the large-deformation theory in an Eulerian framework to minimize the
+mathematical complexity, and we show how this nonlinear theory simplifies to
+linear poroelasticity under the assumption of small strain. We then compare the
+predictions of linear poroelasticity with those of large-deformation
+poroelasticity in the context of two uniaxial model problems: Fluid outflow
+driven by an applied mechanical load (the consolidation problem) and
+compression driven by a steady fluid throughflow. We use these problems to
+explore the steady and dynamical errors associated with the linear model in
+both situations, as well as the impact of introducing a deformation-dependent
+permeability.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-04-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03455</dc:identifier>
+ <dc:identifier>Phys. Rev. Applied 5, 044020 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevApplied.5.044020</dc:identifier>
+ </oai_dc:dc>
+

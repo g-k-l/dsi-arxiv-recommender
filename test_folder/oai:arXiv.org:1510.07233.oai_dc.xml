@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>(Nearly) optimal P-values for all Bell inequalities</dc:title>
+ <dc:creator>Elkouss, David</dc:creator>
+ <dc:creator>Wehner, Stephanie</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A key objective in conducting a Bell test is to quantify the statistical
+evidence against a local-hidden variable model (LHVM) given that we can collect
+only a finite number of trials in any experiment. The notion of statistical
+evidence is thereby formulated in the framework of hypothesis testing, where
+the null hypothesis is that the experiment can be described by an LHVM. The
+statistical confidence with which the null hypothesis of an LHVM is rejected is
+quantified by the so-called P-value, where a smaller P-value implies higher
+confidence. Establishing good statistical evidence is especially challenging if
+the number of trials is small, or the Bell violation very low. Here, we derive
+the optimal P-value for a large class of Bell inequalities. What's more, we
+obtain very sharp upper bounds on the P-value for all Bell inequalities. These
+values are easily computed from experimental data, and are valid even if we
+allow arbitrary memory in the devices. Our analysis is able to deal with
+imperfect random number generators, and event-ready schemes, even if such a
+scheme can create different kinds of entangled states. Finally, we review
+requirements for sound data collection, and a method for combining P-values of
+independent Bell experiments.
+</dc:description>
+ <dc:description>Comment: Improved exposition</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-03-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07233</dc:identifier>
+ </oai_dc:dc>
+

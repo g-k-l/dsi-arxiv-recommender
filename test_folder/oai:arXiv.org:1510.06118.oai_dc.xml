@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>G-theory of root stacks and equivariant K-theory</dc:title>
+ <dc:creator>Dhillon, A.</dc:creator>
+ <dc:creator>Kobyzev, I.</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - K-Theory and Homology</dc:subject>
+ <dc:description>  Using the description of the category of quasi-coherent sheaves on a root
+stack given in the paper of N. Borne and A. Vistoli, we study the G-theory of
+root stacks via localisation methods. We apply our results to the study of
+equivairiant K-theory of algebraic varieties under certain conditions.
+</dc:description>
+ <dc:description>Comment: An unnecessary hypothesis from the first version was removed. Typos
+  were fixed</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-06-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06118</dc:identifier>
+ </oai_dc:dc>
+

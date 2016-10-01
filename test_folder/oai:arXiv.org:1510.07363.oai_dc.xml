@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fast hierarchical solvers for sparse matrices using low-rank
+  approximation</dc:title>
+ <dc:creator>Pouransari, Hadi</dc:creator>
+ <dc:creator>Coulier, Pieter</dc:creator>
+ <dc:creator>Darve, Eric</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>Computer Science - Numerical Analysis</dc:subject>
+ <dc:description>  Inversion of sparse matrices with standard direct solve schemes is robust,
+but computationally expensive. Iterative solvers, on the other hand,
+demonstrate better scalability; but, need to be used with an appropriate
+preconditioner (e.g., ILU, AMG, Gauss-Seidel, etc.) for proper convergence. The
+choice of an effective preconditioner is highly problem dependent. We propose a
+novel fully algebraic sparse matrix solve algorithm, which has linear
+complexity with the problem size. Our scheme is based on the Gauss elimination.
+For a given matrix, we approximate the LU factorization with a tunable accuracy
+determined a priori. This method can be used as a stand-alone direct solver
+with linear complexity and tunable accuracy, or it can be used as a black-box
+preconditioner in conjunction with iterative methods such as GMRES. The
+proposed solver is based on the low-rank approximation of fill-ins generated
+during the elimination. Similar to H-matrices, fill-ins corresponding to blocks
+that are well-separated in the adjacency graph are represented via a
+hierarchical structure. The linear complexity of the algorithm is guaranteed if
+the blocks corresponding to well-separated clusters of variables are
+numerically low-rank.
+</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-04-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07363</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the limiting absorption principle for Schr\"oedinger Hamiltonians</dc:title>
+ <dc:creator>Martin, Alexandre</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:description>  We prove the limiting absorption principle and discuss the continuity
+properties of the boundary values of the resolvent for a class of form bounded
+perturbations of the Euclidean Laplacian $\Delta$ that covers both short and
+long range potentials with an essentially optimal behaviour at infinity and no
+differentiability conditions on the long range part.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-05-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03543</dc:identifier>
+ </oai_dc:dc>
+

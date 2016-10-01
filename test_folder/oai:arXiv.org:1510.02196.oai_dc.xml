@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Algorithm and Related Application for Smart Wearable Devices to Reduce
+  the Risk of Death and Brain Damage in Diabetic Coma</dc:title>
+ <dc:creator>Hosseini, Vahid</dc:creator>
+ <dc:subject>Computer Science - Human-Computer Interaction</dc:subject>
+ <dc:subject>Computer Science - Computers and Society</dc:subject>
+ <dc:subject>68U99</dc:subject>
+ <dc:description>  Diabetes is an epidemic disease of the 21st century and is growing globally.
+Although, final diabetes treatments and cure are still on research phase,
+related complications of diabetes endanger life of diabetic patients. Diabetic
+coma which happens with extreme high or low blood glucose is one of the risk
+factor for diabetic patients and if it remains unattended will lead to patient
+death or permanent brain damage. To reduce the risk of such deaths or damages,
+a novel algorithm for wearable devices application, especially for smart
+watches are proposed. Such application can inform the patients relatives or
+emergency centers, if the person falls in coma or irresponsive condition based
+on readouts from smart watches sensors including mobility, heart rate and skin
+moisture. However; such an application is not a final solution to detect all
+types of coma, but it potentially could save lives of many patients, if widely
+used among the diabetic patients around the world.
+</dc:description>
+ <dc:description>Comment: 4 pages, 1 figure</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02196</dc:identifier>
+ <dc:identifier>J Diabetes Sci Technol May 2016 vol. 10 no. 3 802-803</dc:identifier>
+ <dc:identifier>doi:10.1177/1932296815620802</dc:identifier>
+ </oai_dc:dc>
+

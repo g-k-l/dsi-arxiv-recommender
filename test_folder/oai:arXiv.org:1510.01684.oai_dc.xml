@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Updating neutrino magnetic moment constraints</dc:title>
+ <dc:creator>Canas, B. C.</dc:creator>
+ <dc:creator>Miranda, O. G.</dc:creator>
+ <dc:creator>Parada, A.</dc:creator>
+ <dc:creator>Tortola, M.</dc:creator>
+ <dc:creator>Valle, J. W. F.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  In this paper we provide an updated analysis of the neutrino magnetic moments
+(NMMs), discussing both the constraints on the magnitudes of the three
+transition moments Lambda_i as well as the role of the CP violating phases
+present both in the mixing matrix and in the NMM matrix. The scattering of
+solar neutrinos off electrons in Borexino provides the most stringent
+restrictions, due to its robust statistics and the low energies observed, below
+1 MeV. Our new limit on the effective neutrino magnetic moment which follows
+from the most recent Borexino data is 3.1 x 10^-11 mu_B at 90% C.L. This
+corresponds to the individual transition magnetic moment constraints:
+|Lambda_1| &lt; 5.6 x10^-11 mu_B, |Lambda_2| &lt; 4.0 x 10^-11 mu_B, and |Lambda_3| &lt;
+3.1 x 10^-11 mu_B (90% C.L.), irrespective of any complex phase. Indeed, the
+incoherent admixture of neutrino mass eigenstates present in the solar flux
+makes Borexino insensitive to the Majorana phases present in the NMM matrix.
+For this reason we also provide a global analysis including the case of reactor
+and accelerator neutrino sources, and presenting the resulting constraints for
+different values of the relevant CP phases. Improved reactor and accelerator
+neutrino experiments will be needed in order to underpin the full profile of
+the neutrino electromagnetic properties.
+</dc:description>
+ <dc:description>Comment: 20 pages, 4 figures, Addendum on the limit from the Borexino data</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-03-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01684</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2015.12.011</dc:identifier>
+ </oai_dc:dc>
+

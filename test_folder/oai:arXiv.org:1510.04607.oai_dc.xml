@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Hamilton-Waterloo Problem with triangle factors and
+  $C_{3x}$-factors</dc:title>
+ <dc:creator>Asplund, John</dc:creator>
+ <dc:creator>Kamin, David</dc:creator>
+ <dc:creator>Keranen, Melissa</dc:creator>
+ <dc:creator>Pastine, Adri&#225;n</dc:creator>
+ <dc:creator>&#214;zkan, Sibel</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>05</dc:subject>
+ <dc:description>  The Hamilton-Waterloo Problem (HWP) in the case of $C_{m}$-factors and
+$C_{n}$-factors asks if $K_v$, where $v$ is odd (or $K_v-F$, where $F$ is a
+1-factor and $v$ is even), can be decomposed into r copies of a 2-factor made
+either entirely of $m$-cycles and $s$ copies of a 2-factor made entirely of
+$n$-cycles. In this paper, we give some general constructions for such
+decompositions and apply them to the case where $m=3$ and $n=3x$. We settle the
+problem for odd $v$, except for a finite number of $x$ values. When $v$ is
+even, we make significant progress on the problem, although open cases are
+left. In particular, the difficult case of $v$ even and $s=1$ is left open for
+many situations.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04607</dc:identifier>
+ <dc:identifier>Australasian Journal of Combinatorics, 64(3) (2016), 458-474</dc:identifier>
+ </oai_dc:dc>
+

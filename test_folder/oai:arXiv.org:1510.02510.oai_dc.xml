@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The networked partial correlation and its application to the analysis of
+  genetic interactions</dc:title>
+ <dc:creator>Roverato, Alberto</dc:creator>
+ <dc:creator>Castelo, Robert</dc:creator>
+ <dc:subject>Quantitative Biology - Quantitative Methods</dc:subject>
+ <dc:subject>Quantitative Biology - Genomics</dc:subject>
+ <dc:subject>Quantitative Biology - Molecular Networks</dc:subject>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:description>  Genetic interactions confer robustness on cells in response to genetic
+perturbations. This often occurs through molecular buffering mechanisms that
+can be predicted using, among other features, the degree of coexpression
+between genes, commonly estimated through marginal measures of association such
+as Pearson or Spearman correlation coefficients. However, marginal correlations
+are sensitive to indirect effects and often partial correlations are used
+instead. Yet, partial correlations convey no information about the (linear)
+influence of the coexpressed genes on the entire multivariate system, which may
+be crucial to discriminate functional associations from genetic interactions.
+To address these two shortcomings, here we propose to use the edge weight
+derived from the covariance decomposition over the paths of the associated gene
+network. We call this new quantity the networked partial correlation and use it
+to analyze genetic interactions in yeast.
+</dc:description>
+ <dc:description>Comment: 23 pages, 5 figures; major revision of the paper after journal
+  review; 24 pages, 7 figures; figures enlarged, added DOI</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02510</dc:identifier>
+ <dc:identifier>doi:10.1111/rssc.12166</dc:identifier>
+ </oai_dc:dc>
+

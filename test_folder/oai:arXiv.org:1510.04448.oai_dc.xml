@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Disorder-induced stabilization of the quantum Hall ferromagnet</dc:title>
+ <dc:creator>Piot, B. A.</dc:creator>
+ <dc:creator>Desrat, W.</dc:creator>
+ <dc:creator>Maude, D. K.</dc:creator>
+ <dc:creator>Kazazis, D.</dc:creator>
+ <dc:creator>Cavanna, A.</dc:creator>
+ <dc:creator>Gennser, U.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We report on an absolute measurement of the electronic spin polarization of
+the $\nu=1$ integer quantum Hall state. The spin polarization is extracted in
+the vicinity of $\nu=1$ (including at exactly $\nu=1$) via resistive NMR
+experiments performed at different magnetic fields (electron densities), and
+Zeeman energy configurations. At the lowest magnetic fields, the polarization
+is found to be complete in a narrow region around $\nu=1$. Increasing the
+magnetic field (electron density) induces a significant depolarization of the
+system, which we attribute to a transition between the quantum Hall ferromagnet
+and the Skyrmion glass phase theoretically expected as the ratio between
+Coulomb interactions and disorder is increased. These observations account for
+the fragility of the polarization previously observed in high mobility 2D
+electron gas, and experimentally demonstrate the existence of an optimal amount
+of disorder to stabilize the ferromagnetic state.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04448</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 106801 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.106801</dc:identifier>
+ </oai_dc:dc>
+

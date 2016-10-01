@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal temporal patterns for dynamical cellular signaling</dc:title>
+ <dc:creator>Hasegawa, Yoshihiko</dc:creator>
+ <dc:subject>Physics - Biological Physics</dc:subject>
+ <dc:subject>Quantitative Biology - Molecular Networks</dc:subject>
+ <dc:description>  Cells use temporal dynamical patterns to transmit information via signaling
+pathways. As optimality with respect to the environment plays a fundamental
+role in biological systems, organisms have evolved optimal ways to transmit
+information. Here, we use optimal control theory to obtain the optimal
+dynamical signal patterns that can transmit information efficiently (low
+energy) and reliably (high accuracy). Adopting an activation-inactivation
+decoding network, we reproduce several dynamical patterns found in actual
+signals, such as steep, gradual, and overshooting dynamics. Notably, when
+minimizing the energy of the input signal, the optimal signals exhibit
+overshooting, which is a biphasic pattern with transient and steady phases;
+this pattern is prevalent in actual dynamical patterns. We also identify
+conditions when these three patterns (steep, gradual, and overshooting) confer
+advantages.
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures; 6 pages of supplemental material with 3 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-04-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07418</dc:identifier>
+ </oai_dc:dc>
+

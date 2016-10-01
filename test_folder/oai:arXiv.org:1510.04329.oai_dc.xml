@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simple Laser Stabilization to the Strontium $^{88}$Sr Transition at 707
+  nm</dc:title>
+ <dc:creator>Norcia, Matthew A.</dc:creator>
+ <dc:creator>Thompson, James K.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We describe frequency stabilization of a laser at 707.202 nm wavelength using
+FM spectroscopy in a hollow cathode lamp. The laser is stabilized to the
+$^{88}$Sr metastable $^3\mathrm{P}_2$ to $^3\mathrm{S}_1$ optical transition.
+The stabilized laser is utilized for laser-cooling and trapping of strontium
+atoms. We also briefly describe the performance of a polarization spectroscopy
+lock of our blue MOT laser at 461 nm derived simultaneously from the same
+hollow cathode lamp.
+</dc:description>
+ <dc:description>Comment: 4 pages, 4 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04329</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4942434</dc:identifier>
+ </oai_dc:dc>
+

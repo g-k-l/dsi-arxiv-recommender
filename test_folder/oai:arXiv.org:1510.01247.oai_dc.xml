@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stochastic differential equations with covariant probabilities</dc:title>
+ <dc:creator>Ryter, Dietrich</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>60H10</dc:subject>
+ <dc:description>  Covariance of the resulting probabilities requires the "anti-Ito" sense. The
+corresponding Fokker-Planck equation is simplified and preserves important
+features of the case with a constant diffusion. Multiplicative noise can always
+be removed by a change of the variables, which is specified explicitly.
+</dc:description>
+ <dc:description>Comment: Replaced by arXiv:1605.02897</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01247</dc:identifier>
+ </oai_dc:dc>
+

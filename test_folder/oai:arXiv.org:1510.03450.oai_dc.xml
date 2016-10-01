@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Interference effect on heavy Higgs resonance signal in \gamma\gamma and
+  ZZ channels</dc:title>
+ <dc:creator>Jung, Sunghoon</dc:creator>
+ <dc:creator>Song, Jeonghyeon</dc:creator>
+ <dc:creator>Yoon, Yeo Woong</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  The resonance-continuum interference is usually neglected when the width of a
+resonance is small compared to the resonance mass. We re-examine this standard
+by studying the interference effects in high-resolution decay channels,
+$\gamma\gamma$ and $ZZ$, of the heavy Higgs boson $H^0$ in nearly aligned
+two-Higgs-doublet models. For the $H^0$ with a sub-percent width-to-mass ratio,
+we find that, in the parameter space where the LHC 14 TeV $ZZ$ resonance search
+can be sensitive, the interference effects can modify the $ZZ$ signal rate by
+${\cal O}(10)\%$ and the exclusion reach by ${\cal O}(10)$ GeV. In other
+parameter space where the $ZZ$ or $\gamma\gamma$ signal rate is smaller, the
+LHC 14 TeV reach is absent, but a resonance shape can be much more dramatically
+changed. In particular, the $\gamma\gamma$ signal rate can change by ${\cal
+O}(100)\%$. Relevant to such parameter space, we suggest variables that can
+characterize a general resonance shape. We also illustrate the relevance of the
+width on the interference by adding non-standard decay modes of the heavy Higgs
+boson.
+</dc:description>
+ <dc:description>Comment: 22 pages, 10 figures; added discussion about real-part interference</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-01-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03450</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 055035 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.055035</dc:identifier>
+ </oai_dc:dc>
+

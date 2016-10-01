@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Description of clustering of inertial particles in turbulent flows via
+  finite-time Lyapunov exponents</dc:title>
+ <dc:creator>Esmaily-Moghadam, Mahdi</dc:creator>
+ <dc:creator>Mani, Ali</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:subject>Physics - Atmospheric and Oceanic Physics</dc:subject>
+ <dc:description>  An asymptotic solution is derived for the motion of inertial particles
+exposed to Stokes drag in an unsteady random flow. This solution provides the
+finite-time Lyapunov exponents as a function of Stokes number and Lagrangian
+strain- and rotation-rates autocovariances. The sum of these exponents, which
+corresponds to a concentration-weighted divergence of particle velocity field,
+is considered as a measure of clustering. For inertial particles dispersed in
+an isotropic turbulent flow our analysis predicts maximum clustering at an
+intermediate Stokes number and minimal clustering at small and large Stokes
+numbers. Direct numerical simulations are performed for quantitative validation
+of our analysis, showing a reasonable agreement between the two.
+</dc:description>
+ <dc:description>Comment: 11 pages and 4 figures</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-06-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00776</dc:identifier>
+ </oai_dc:dc>
+

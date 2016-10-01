@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On universal knot polynomials</dc:title>
+ <dc:creator>Mironov, A.</dc:creator>
+ <dc:creator>Mkrtchyan, R.</dc:creator>
+ <dc:creator>Morozov, A.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:description>  We present a universal knot polynomials for 2- and 3-strand torus knots in
+adjoint representation, by universalization of appropriate Rosso-Jones formula.
+According to universality, these polynomials coincide with adjoined colored
+HOMFLY and Kauffman polynomials at SL and SO/Sp lines on Vogel's plane, and
+give their exceptional group's counterparts on exceptional line. We demonstrate
+that [m,n]=[n,m] topological invariance, when applicable, take place on the
+entire Vogel's plane. We also suggest the universal form of invariant of figure
+eight knot in adjoint representation, and suggest existence of such
+universalization for any knot in adjoint and its descendant representation.
+Properties of universal polynomials and applications of these results are
+discussed.
+</dc:description>
+ <dc:description>Comment: 26 pages, a number of misprints corrected, section 2.4 mainly sent to
+  added Appendix B</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05884</dc:identifier>
+ <dc:identifier>Journal of High Energy Physics 02 (2016) 78</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)078</dc:identifier>
+ </oai_dc:dc>
+

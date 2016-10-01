@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient computation of capillary-gravity generalized solitary waves</dc:title>
+ <dc:creator>Dutykh, Denys</dc:creator>
+ <dc:creator>Clamond, Didier</dc:creator>
+ <dc:creator>Duran, Angel</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:subject>Physics - Classical Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  This paper is devoted to the computation of capillary-gravity solitary waves
+of the irrotational incompressible Euler equations with free surface. The
+numerical study is a continuation of a previous work in several points: an
+alternative formulation of the Babenko-type equation for the wave profiles, a
+detailed description of both the numerical resolution and the analysis of the
+internal flow structure under a solitary wave. The numerical code used in this
+study is provided in open source for those interested readers.
+</dc:description>
+ <dc:description>Comment: 26 pages, 21 figures, 2 tables, 43 references. Other author's papers
+  can be downloaded at http://www.denys-dutykh.com/. arXiv admin note:
+  substantial text overlap with arXiv:1411.5519</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06605</dc:identifier>
+ </oai_dc:dc>
+

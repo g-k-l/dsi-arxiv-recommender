@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A three-scale model of spatio-temporal bursting</dc:title>
+ <dc:creator>Franci, Alessio</dc:creator>
+ <dc:creator>Sepulchre, Rodolphe</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  We study spatio-temporal bursting in a three-scale reaction diffusion
+equation organized by the winged cusp singularity. For large time-scale
+separation the model exhibits traveling bursts, whereas for large space-scale
+separation the model exhibits standing bursts. Both behaviors exhibit a common
+singular skeleton, whose geometry is fully determined by persistent bifurcation
+diagrams of the winged cusp. The modulation of spatio-temporal bursting in such
+a model naturally translates into paths in the universal unfolding of the
+winged-cusp.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08938</dc:identifier>
+ </oai_dc:dc>
+

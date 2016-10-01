@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Diffusions conditioned on occupation measures</dc:title>
+ <dc:creator>Angeletti, Florian</dc:creator>
+ <dc:creator>Touchette, Hugo</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  A Markov process fluctuating away from its typical behavior can be
+represented in the long-time limit by another Markov process, called the
+effective or driven process, having the same stationary states as the original
+process conditioned on the fluctuation observed. We construct here this driven
+process for diffusions spending an atypical fraction of their evolution in some
+region of state space, corresponding mathematically to stochastic differential
+equations conditioned on occupation measures. As an illustration, we consider
+the Langevin equation conditioned on staying for a fraction of time in
+different intervals of the real line, including the positive half-line which
+leads to a generalization of the Brownian meander problem. Other applications
+related to quasi-stationary distributions, metastable states, noisy chemical
+reactions, queues, and random walks are discussed.
+</dc:description>
+ <dc:description>Comment: v1: 13 pages, 10 figures; v2: biblio glitch fixed; v3: 19 pages in
+  single column, 10 figures, minor corrections, close to published version</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-02-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04893</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4941384</dc:identifier>
+ </oai_dc:dc>
+

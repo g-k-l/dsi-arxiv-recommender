@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Long range correlations in stochastic transport with energy and momentum
+  conservation</dc:title>
+ <dc:creator>Kundu, Anupam</dc:creator>
+ <dc:creator>Hirschberg, Ori</dc:creator>
+ <dc:creator>Mukamel, David</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We consider a simple one dimensional stochastic model of heat transport which
+locally conserves both energy and momentum and which is coupled to heat
+reservoirs with different temperatures at its two ends. The steady state is
+analyzed and the model is found to obey the Fourier law with finite heat
+conductivity. In the infinite length limit, the steady state is described
+locally by an equilibrium Gibbs state. However finite size corrections to this
+local equilibrium state are present. We analyze these finite size corrections
+by calculating the on-site fluctuations of the momentum and the two point
+correlation of the momentum and energy. These correlations are long ranged and
+have scaling forms which are computed explicitly. We also introduce a
+multi-lane variant of the model in which correlations vanish in the steady
+state. The deviation from local equilibrium in this model as expressed in terms
+of the on-site momentum fluctuations is calculated in the large length limit.
+</dc:description>
+ <dc:description>Comment: 20 pages, 8 figures</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02264</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/03/033108</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Hard Lefschetz Theorem for Vaisman manifolds</dc:title>
+ <dc:creator>Cappelletti-Montano, Beniamino</dc:creator>
+ <dc:creator>De Nicola, Antonio</dc:creator>
+ <dc:creator>Marrero, Juan Carlos</dc:creator>
+ <dc:creator>Yudin, Ivan</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>Mathematics - Symplectic Geometry</dc:subject>
+ <dc:subject>53C25, 53C55, 53D35</dc:subject>
+ <dc:description>  We establish a Hard Lefschetz Theorem for the de Rham cohomology of compact
+Vaisman manifolds. A similar result is proved for the basic cohomology with
+respect to the Lee vector field. Motivated by these results, we introduce the
+notions of a Lefschetz and of a basic Lefschetz locally conformal symplectic
+(l.c.s.) manifold of the first kind. We prove that the two notions are
+equivalent if there exists a Riemannian metric such that the Lee vector field
+is unitary and parallel and its metric dual $1$-form coincides with the Lee
+$1$-form. Finally, we discuss several examples of compact l.c.s. manifolds of
+the first kind which do not admit compatible Vaisman metrics.
+</dc:description>
+ <dc:description>Comment: 18 pages</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04946</dc:identifier>
+ </oai_dc:dc>
+

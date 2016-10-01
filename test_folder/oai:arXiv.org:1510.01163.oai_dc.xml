@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the convergence rate of grid search for polynomial optimization over
+  the simplex</dc:title>
+ <dc:creator>de Klerk, Etienne</dc:creator>
+ <dc:creator>Laurent, Monique</dc:creator>
+ <dc:creator>Sun, Zhao</dc:creator>
+ <dc:creator>Vera, Juan C.</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>90C30, 90C60</dc:subject>
+ <dc:description>  We consider the approximate minimization of a given polynomial on the
+standard simplex, obtained by taking the minimum value over all rational grid
+points with given denominator ${r} \in \mathbb{N}$. It was shown in [De Klerk,
+E., Laurent, M., Sun, Z.: An error analysis for polynomial optimization over
+the simplex based on the multivariate hypergeometric distribution. {\em SIAM J.
+Optim.} 25(3) 1498--1514 (2015)] that the relative accuracy of this
+approximation depends on $r$ as $O(1/r^2)$ if there exists a rational global
+minimizer. In this note we show that the rational minimizer condition is not
+necessary to obtain the $O(1/r^2)$ bound.
+</dc:description>
+ <dc:description>Comment: 10 pages, 2 tables</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-03-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01163</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High order Nystr\"om methods for transmission problems for Helmholtz
+  equation</dc:title>
+ <dc:creator>Dominguez, V.</dc:creator>
+ <dc:creator>Turc, C.</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>65N38, 35J05, 65T40</dc:subject>
+ <dc:description>  We present superalgebraic compatible Nystr\"om discretizations for the four
+Helmholtz boundary operators of Calder\'{o}n's calculus on smooth closed curves
+in 2D. These discretizations are based on appropriate splitting of the kernels
+combined with very accurate product-quadrature rules for the different
+singularities that such kernels present. A Fourier based analysis shows that
+the four discrete operators converge to the continuous ones in appropriate
+Sobolev norms. This proves that Nystr\"om discretizations of many popular
+integral equation formulations for Helmholtz equations are stable and
+convergent. The convergence is actually superalgebraic for smooth solutions.
+</dc:description>
+ <dc:description>Comment: 19 pages</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-05-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06682</dc:identifier>
+ </oai_dc:dc>
+

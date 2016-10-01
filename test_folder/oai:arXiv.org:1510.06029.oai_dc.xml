@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tidal capture formation of Low Mass X-Ray Binaries from wide binaries in
+  the field</dc:title>
+ <dc:creator>Michaely, Erez</dc:creator>
+ <dc:creator>Perets, Hagai B.</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We present a potentially efficient dynamical formation scenario for Low Mass
+X-ray Binaries (LMXBs) in the field, focusing on black-hole (BH) LMXBs. In this
+formation channel LMXBs are formed from wide binaries $(&gt;1000$ AU) with a BH
+component and a stellar companion. The wide binary is perturbed by fly-by's of
+field stars and its orbit random-walks and changes over time. This diffusion
+process can drive the binary into a sufficiently eccentric orbit such that the
+binary components tidally interact at peri-center and the binary evolves to
+become a short period binary, which eventually evolves into an LMXB. The
+formation rate of LMXBs through this channel mostly depends on the number of
+such BH wide binaries progenitors, which in turn depends on the velocity kicks
+imparted to BHs (or NSs) at birth. We consider several models for the formation
+and survival of such wide binaries, and calculate the LMXB formation rates for
+each model. We find that models where BHs form through direct collapse with
+no/little natal kicks can give rise to high formation rates comparable with
+those inferred from observations. This formation scenario had several
+observational signatures: (1) the number density of LMXBs generally follows the
+background stellar density and (2) the mass function of the BH stellar
+companion should be comparable to the mass function of the background stellar
+population, likely peaking at $0.4-0.6$ M$_{\odot}$. The latter aspect, in
+particular, is unique to this model compared with previously suggested LMXB
+formation models following common envelope binary stellar evolution. We note
+that NS LMXBs can similarly form from wide binaries, but their formation rate
+through this channel is likely significantly smaller due to their much higher
+natal kicks.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06029</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw368</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spatial dynamics of laser-induced fluorescence in an intense laser beam:
+  experiment and theory in alkali metal atoms</dc:title>
+ <dc:creator>Auzinsh, Marcis</dc:creator>
+ <dc:creator>Berzins, Andris</dc:creator>
+ <dc:creator>Ferber, Ruvin</dc:creator>
+ <dc:creator>Gahbauer, Florian</dc:creator>
+ <dc:creator>Kalnins, Uldis</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We have shown that it is possible to model accurately optical phenomena in
+intense laser fields by taking into account the intensity distribution over the
+laser beam. We developed a theoretical model that divided an intense laser beam
+into concentric regions, each with a Rabi frequency that corresponds to the
+intensity in that region, and solved a set of coupled optical Bloch equations
+for the density matrix in each region. Experimentally obtained magneto-optical
+resonance curves for the $F_g=2\longrightarrow F_e=1$ transition of the $D_1$
+line of $^{87}$Rb agreed very well with the theoretical model up to a laser
+intensity of around 200 mW/cm$^2$ for a transition whose saturation intensity
+is around 4.5 mW/cm$^2$. We have studied the spatial dependence of the
+fluorescence intensity in an intense laser beam experimentally and
+theoretically. An experiment was conducted whereby a broad, intense pump laser
+excited the $F_g=4\longrightarrow F_e=3$ transition of the $D_2$ line of cesium
+while a weak, narrow probe beam scanned the atoms within the pump beam and
+excited the $D_1$ line of cesium, whose fluorescence was recorded as a function
+of probe beam position. Experimentally obtained spatial profiles of the
+fluorescence intensity agreed qualitatively with the predictions of the model.
+</dc:description>
+ <dc:description>Comment: 8 pages, 9 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07518</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 033403 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.033403</dc:identifier>
+ </oai_dc:dc>
+

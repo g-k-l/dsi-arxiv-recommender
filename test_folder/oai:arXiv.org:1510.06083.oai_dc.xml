@@ -1,0 +1,46 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Regularization vs. Relaxation: A conic optimization perspective of
+  statistical variable selection</dc:title>
+ <dc:creator>Dong, Hongbo</dc:creator>
+ <dc:creator>Chen, Kun</dc:creator>
+ <dc:creator>Linderoth, Jeff</dc:creator>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>90C22, 90C47, 62J07</dc:subject>
+ <dc:subject>G.1.3</dc:subject>
+ <dc:subject>G.1.6</dc:subject>
+ <dc:description>  Variable selection is a fundamental task in statistical data analysis.
+Sparsity-inducing regularization methods are a popular class of methods that
+simultaneously perform variable selection and model estimation. The central
+problem is a quadratic optimization problem with an l0-norm penalty. Exactly
+enforcing the l0-norm penalty is computationally intractable for larger scale
+problems, so dif- ferent sparsity-inducing penalty functions that approximate
+the l0-norm have been introduced. In this paper, we show that viewing the
+problem from a convex relaxation perspective offers new insights. In
+particular, we show that a popular sparsity-inducing concave penalty function
+known as the Minimax Concave Penalty (MCP), and the reverse Huber penalty
+derived in a recent work by Pilanci, Wainwright and Ghaoui, can both be derived
+as special cases of a lifted convex relaxation called the perspective
+relaxation. The optimal perspective relaxation is a related minimax problem
+that balances the overall convexity and tightness of approximation to the l0
+norm. We show it can be solved by a semidefinite relaxation. Moreover, a
+probabilistic interpretation of the semidefinite relaxation reveals connections
+with the boolean quadric polytope in combinatorial optimization. Finally by
+reformulating the l0-norm pe- nalized problem as a two-level problem, with the
+inner level being a Max-Cut problem, our proposed semidefinite relaxation can
+be realized by replacing the inner level problem with its semidefinite
+relaxation studied by Goemans and Williamson. This interpretation suggests
+using the Goemans-Williamson rounding procedure to find approximate solutions
+to the l0-norm penalized problem. Numerical experiments demonstrate the
+tightness of our proposed semidefinite relaxation, and the effectiveness of
+finding approximate solutions by Goemans-Williamson rounding.
+</dc:description>
+ <dc:description>Comment: Also available on optimization online
+  {http://www.optimization-online.org/DB_HTML/2015/05/4932.html}</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06083</dc:identifier>
+ </oai_dc:dc>
+

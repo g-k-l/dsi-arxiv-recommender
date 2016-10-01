@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universal Dielectric Enhancement from Externally Induced Double Layer
+  Without $\zeta$-Potential</dc:title>
+ <dc:creator>Qian, Jiang</dc:creator>
+ <dc:creator>Sen, Pabitra N</dc:creator>
+ <dc:subject>Physics - Classical Physics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  Motivated by recent experiments showing over $10^4$-fold increase in induced
+polarization from electrochemically inert, conducting materials in dilute
+saline solutions, we theoretically demonstrate a new mechanism for dielectric
+enhancement, in the absence of $\zeta-$potentials at interfaces between
+non-insulating particles and an electrolyte solution. We further show that the
+magnitude of such enhancement obeys universal scaling laws, independent of the
+particle's electrical properties and valid across particle shapes: for a dilute
+suspension of identical, but arbitrarily shaped particles of a linear dimension
+$a$ and volume fraction $f$, as $\omega\to0$ the effective real dielectric
+constant of the mixture is enhanced from that of water by a factor
+$1+f~(P_r+(a/\lambda)P_i)$, and the frequency-dependent phase shift of its
+impedance has a scale-invariant maximum $f\,\mathsf{\Theta}$ if particles are
+much more conductive than the solution. Here $\lambda$ is the solution's Debye
+length and $P_r$, $P_i$, $\mathsf{\Theta}$ are dimensionless numbers determined
+solely by the particles' shape. Even for a very dilute electrolyte solution
+(e.g. $10^{-3}$ molar), sub-mm sized particles, at volume fraction $f=0.1$, can
+give a $10^4$-fold dielectric enhancement, producing an easily observable phase
+shift maximum in a simple impedance measurement.We also derive frequency
+cutoffs as conditions for observing these enhancements, showing that insulating
+particles produce no enhancement without $\zeta$-potential.To prove these
+results for particles of arbitrary shapes, we develop a physical picture where
+an externally induced double layer (EIDL), in contrast to the Guoy-Chapman
+double layer on interfaces with significant $\zeta$-potentials, dominates the
+low-frequency dynamics and produces dielectric enhancement.
+</dc:description>
+ <dc:description>Comment: 32 pages, no figures, added correction of a typo in the second half
+  of Eq. 10</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06724</dc:identifier>
+ </oai_dc:dc>
+

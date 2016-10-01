@@ -1,0 +1,49 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Relationship Between Molecular Gas, HI, and Star Formation in the
+  Low-Mass, Low-Metallicity Magellanic Clouds</dc:title>
+ <dc:creator>Jameson, Katherine E.</dc:creator>
+ <dc:creator>Bolatto, Alberto D.</dc:creator>
+ <dc:creator>Leroy, Adam K.</dc:creator>
+ <dc:creator>Meixner, Margaret</dc:creator>
+ <dc:creator>Roman-Duval, Julia</dc:creator>
+ <dc:creator>Gordon, Karl</dc:creator>
+ <dc:creator>Hughes, Annie</dc:creator>
+ <dc:creator>Israel, Frank P.</dc:creator>
+ <dc:creator>Rubio, Monica</dc:creator>
+ <dc:creator>Indebetouw, Remy</dc:creator>
+ <dc:creator>Madden, Suzanne C.</dc:creator>
+ <dc:creator>Bot, Caroline</dc:creator>
+ <dc:creator>Hony, Sacha</dc:creator>
+ <dc:creator>Cormier, Diane</dc:creator>
+ <dc:creator>Pellegrini, Eric W.</dc:creator>
+ <dc:creator>Galametz, Maud</dc:creator>
+ <dc:creator>Sonneborn, George</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  The Magellanic Clouds provide the only laboratory to study the effect of
+metallicity and galaxy mass on molecular gas and star formation at high (~20
+pc) resolution. We use the dust emission from HERITAGE Herschel data to map the
+molecular gas in the Magellanic Clouds, avoiding the known biases of CO
+emission as a tracer of H$_{2}$. Using our dust-based molecular gas estimates,
+we find molecular gas depletion times of ~0.4 Gyr in the LMC and ~0.6 SMC at 1
+kpc scales. These depletion times fall within the range found for normal disk
+galaxies, but are shorter than the average value, which could be due to recent
+bursts in star formation. We find no evidence for a strong intrinsic dependence
+of the molecular gas depletion time on metallicity. We study the relationship
+between gas and star formation rate across a range in size scales from 20 pc to
+~1 kpc, including how the scatter in molecular gas depletion time changes with
+size scale, and discuss the physical mechanisms driving the relationships. We
+compare the metallicity-dependent star formation models of Ostriker, McKee, and
+Leroy (2010) and Krumholz (2013) to our observations and find that they both
+predict the trend in the data, suggesting that the inclusion of a diffuse
+neutral medium is important at lower metallicity.
+</dc:description>
+ <dc:description>Comment: 24 pages, 14 figures, accepted for publication in ApJ. FITS files of
+  the dust-based estimates of the H2 column densities for the LMC and SMC
+  (shown in Figures 2 and 3) will be available online through ApJ</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08084</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/825/1/12</dc:identifier>
+ </oai_dc:dc>
+

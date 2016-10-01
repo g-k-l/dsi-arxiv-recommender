@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Neutron electric dipole moment using $N_f{=}2{+}1{+}1$ twisted mass
+  fermions</dc:title>
+ <dc:creator>Alexandrou, C.</dc:creator>
+ <dc:creator>Athenodorou, A.</dc:creator>
+ <dc:creator>Constantinou, M.</dc:creator>
+ <dc:creator>Hadjiyiannakou, K.</dc:creator>
+ <dc:creator>Jansen, K.</dc:creator>
+ <dc:creator>Koutsou, G.</dc:creator>
+ <dc:creator>Ottnad, K.</dc:creator>
+ <dc:creator>Petschlies, M.</dc:creator>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We evaluate the neutron electric dipole moment $\vert \vec{d}_N\vert$ using
+lattice QCD techniques. The gauge configurations analyzed are produced by the
+European Twisted Mass Collaboration using $N_f{=}2{+}1{+}1$ twisted mass
+fermions at one value of the lattice spacing of $a \simeq 0.082 \ {\rm fm}$ and
+a light quark mass corresponding to $m_{\pi} \simeq 373 \ {\rm MeV}$. Our
+approach to extract the neutron electric dipole moment is based on the
+calculation of the $CP$-odd electromagnetic form factor $F_3(Q^2)$ for small
+values of the vacuum angle $\theta$ in the limit of zero Euclidean momentum
+transfer $Q^2$. The limit $Q^2 \to 0$ is realized either by adopting a
+parameterization of the momentum dependence of $F_3(Q^2)$ and performing a fit,
+or by employing new position space methods, which involve the elimination of
+the kinematical momentum factor in front of $F_3(Q^2)$. The computation in the
+presence of a $CP$-violating term requires the evaluation of the topological
+charge ${\cal Q}$. This is computed by applying the cooling technique and the
+gradient flow with three different actions, namely the Wilson, the Symanzik
+tree-level improved and the Iwasaki action. We demonstrate that cooling and
+gradient flow give equivalent results for the neutron electric dipole moment.
+Our analysis yields a value of $\vert \vec{d}_N\vert=0.045(6)(1)\ \bar{\theta}
+\ e \cdot {\rm fm}$ for the ensemble with $m_\pi=373$ MeV considered.
+</dc:description>
+ <dc:description>Comment: Version accepted for publication in Phys. Rev. D.: 33 pages, 13
+  Figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-03-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05823</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 074503 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.074503</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On vanishing patterns in $j$-strands of edge ideals</dc:title>
+ <dc:creator>Abedelfatah, Abed</dc:creator>
+ <dc:creator>Nevo, Eran</dc:creator>
+ <dc:subject>Mathematics - Commutative Algebra</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  We consider two problems regarding vanishing patterns in the Betti table of
+edge ideals $I$ in polynomial algebra $S$. First, we show that the $j$-strand
+is connected if $j=3$ (for $j=2$ this is easy and known), and give examples
+where the $j$-strand is not connected for any $j&gt;3$. Next, we apply our result
+on strand connectivity to establish the subadditivity conjecture for edge
+ideals, $t_{a+b}\leq t_a+t_b$, in case $b=2,3$ (the case $b=1$ is known). Here
+$t_i$ stands for the maximal shifts in the minimal free $S$-resolution of $S/I$
+</dc:description>
+ <dc:description>Comment: 9 pages</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08192</dc:identifier>
+ </oai_dc:dc>
+

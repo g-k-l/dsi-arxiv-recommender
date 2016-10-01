@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On Modeling and Estimation for the Relative Risk and Risk Difference</dc:title>
+ <dc:creator>Richardson, Thomas S.</dc:creator>
+ <dc:creator>Robins, James M.</dc:creator>
+ <dc:creator>Wang, Linbo</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:description>  A common problem in formulating models for the relative risk and risk
+difference is the variation dependence between these parameters and the
+baseline risk, which is a nuisance model. We address this problem by proposing
+the conditional log odds-product as a preferred nuisance model. This novel
+nuisance model facilitates maximum-likelihood estimation, but also permits
+doubly-robust estimation for the parameters of interest. Our approach is
+illustrated via simulations and a data analysis.
+</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02430</dc:identifier>
+ </oai_dc:dc>
+

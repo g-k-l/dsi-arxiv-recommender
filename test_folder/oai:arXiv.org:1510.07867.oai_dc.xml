@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Some like it hot - visual guidance for preference prediction</dc:title>
+ <dc:creator>Rothe, Rasmus</dc:creator>
+ <dc:creator>Timofte, Radu</dc:creator>
+ <dc:creator>Van Gool, Luc</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:description>  For people first impressions of someone are of determining importance. They
+are hard to alter through further information. This begs the question if a
+computer can reach the same judgement. Earlier research has already pointed out
+that age, gender, and average attractiveness can be estimated with reasonable
+precision. We improve the state-of-the-art, but also predict - based on
+someone's known preferences - how much that particular person is attracted to a
+novel face. Our computational pipeline comprises a face detector, convolutional
+neural networks for the extraction of deep features, standard support vector
+regression for gender, age and facial beauty, and - as the main novelties -
+visual regularized collaborative filtering to infer inter-person preferences as
+well as a novel regression technique for handling visual queries without rating
+history. We validate the method using a very large dataset from a dating site
+as well as images from celebrities. Our experiments yield convincing results,
+i.e. we predict 76% of the ratings correctly solely based on an image, and
+reveal some sociologically relevant conclusions. We also validate our
+collaborative filtering solution on the standard MovieLens rating dataset,
+augmented with movie posters, to predict an individual's movie rating. We
+demonstrate our algorithms on howhot.io which went viral around the Internet
+with more than 50 million pictures evaluated in the first month.
+</dc:description>
+ <dc:description>Comment: accepted for publication at CVPR 2016</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-03-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07867</dc:identifier>
+ </oai_dc:dc>
+

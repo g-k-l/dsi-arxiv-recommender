@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Deep Search for Prompt Radio Emission from Thermonuclear Supernovae
+  with the Very Large Array</dc:title>
+ <dc:creator>Chomiuk, Laura</dc:creator>
+ <dc:creator>Soderberg, Alicia M.</dc:creator>
+ <dc:creator>Chevalier, Roger A.</dc:creator>
+ <dc:creator>Bruzewski, Seth</dc:creator>
+ <dc:creator>Foley, Ryan J.</dc:creator>
+ <dc:creator>Parrent, Jerod</dc:creator>
+ <dc:creator>Strader, Jay</dc:creator>
+ <dc:creator>Badenes, Carles</dc:creator>
+ <dc:creator>Fransson, Claes</dc:creator>
+ <dc:creator>Kamble, Atish</dc:creator>
+ <dc:creator>Margutti, Raffaella</dc:creator>
+ <dc:creator>Rupen, Michael P.</dc:creator>
+ <dc:creator>Simon, Joshua D.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  Searches for circumstellar material around Type Ia supernovae (SNe Ia) are
+one of the most powerful tests of the nature of SN Ia progenitors, and radio
+observations provide a particularly sensitive probe of this material. Here we
+report radio observations for SNe Ia and their lower-luminosity thermonuclear
+cousins. We present the largest, most sensitive, and spectroscopically diverse
+study of prompt (delta t &lt;~ 1 yr) radio observations of 85 thermonuclear SNe,
+including 25 obtained by our team with the unprecedented depth of the Karl G.
+Jansky Very Large Array. With these observations, SN 2012cg joins SN 2011fe and
+SN 2014J as a SN Ia with remarkably deep radio limits and excellent temporal
+coverage (six epochs, spanning 5--216 days after explosion, yielding Mdot/v_w
+&lt;~ 5 x 10^-9 M_sun/yr / (100 km/s), assuming epsilon_B = 0.1 and epsilon_e =
+0.1).
+  All observations yield non-detections, placing strong constraints on the
+presence of circumstellar material. We present analytical models for the
+temporal and spectral evolution of prompt radio emission from thermonuclear SNe
+as expected from interaction with either wind-stratified or uniform density
+media. These models allow us to constrain the progenitor mass loss rates, with
+limits ranging from Mdot &lt;~ 10^-9--10^-4 M_sun/yr, assuming a wind velocity
+v_w=100 km/s. We compare our radio constraints with measurements of Galactic
+symbiotic binaries to conclude that &lt;~10% of thermonuclear SNe have red giant
+companions.
+</dc:description>
+ <dc:description>Comment: Submitted to ApJ</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07662</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/821/2/119</dc:identifier>
+ </oai_dc:dc>
+

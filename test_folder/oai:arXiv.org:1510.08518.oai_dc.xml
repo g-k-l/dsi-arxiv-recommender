@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Competeing orders in spin-1 and spin-3/2 XXZ Kagome antiferromagnets: A
+  series expansion study</dc:title>
+ <dc:creator>Oitmaa, Jaan</dc:creator>
+ <dc:creator>Singh, Rajiv R. P.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We study the competition between $\sqrt{3} \times \sqrt{3}$ (RT3) and $q=0$
+(Q0) magnetic orders in spin-one and spin-$3/2$ Kagome-lattice XXZ
+antiferromagnets with varying XY anisotropy parameter $\Delta$, using series
+expansion methods. The Hamiltonian is split into two parts: an $H_0$ which
+favors the classical order in the desired pattern and an $H_1$, which is
+treated in perturbation theory by a series expansion. We find that the ground
+state energy series for the RT3 and Q0 phases are identical up to sixth order
+in the expansion, but ultimately a selection occurs, which depends on spin and
+the anisotropy $\Delta$. Results for ground state energy and the magnetization
+are presented. These results are compared with recent spin-wave theory and
+coupled-cluster calculations. The series results for the phase diagram are
+close to the predictions of spin-wave theory. For the spin-one model at the
+Heisenberg point ($\Delta=1$), our results are consistent with a vanishing
+order parameter, that is an absence of a magnetically ordered phase. We also
+develop series expansions for the ground state energy of the spin-one
+Heisenberg model in the trimerized phase. We find that the ground state energy
+in this phase is lower than those of magnetically ordered ones, supporting the
+existence of a spontaneously trimerized phase in this model.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08518</dc:identifier>
+ <dc:identifier>Phys Rev B 93, 014424 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.014424</dc:identifier>
+ </oai_dc:dc>
+

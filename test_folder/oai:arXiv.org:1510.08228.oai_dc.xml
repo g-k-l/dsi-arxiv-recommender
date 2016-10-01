@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Galactic One-Way Shapiro Delay to PSR B1937+21</dc:title>
+ <dc:creator>Desai, Shantanu</dc:creator>
+ <dc:creator>Kahya, Emre O.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  The time delay experienced by a light ray as it passes through a changing
+gravitational potential by a non-zero mass distribution along the line of sight
+is usually referred to as Shapiro delay. Shapiro delay has been extensively
+measured in the Solar system and in binary pulsars, enabling stringent tests of
+general relativity as well as measurement of neutron star masses . However,
+Shapiro delay is ubiquitous and experienced by all astrophysical messengers on
+their way from the source to the Earth. We calculate the "one-way" static
+Shapiro delay for the first discovered millisecond pulsar PSR~B1937+21, by
+including the contributions from both the dark matter and baryonic matter
+between this pulsar and the Earth. We find a value of approximately 5 days (of
+which 4.74 days is from the dark matter and 0.22 days from the baryonic
+matter). We also calculate the modulation of Shapiro delay from the motion of a
+single dark matter halo, and also evaluate the cumulative effects of the motion
+of matter distribution on the change in pulsar's period and its derivative. The
+time-dependent effects are too small to be detected with the current timing
+noise observed for this pulsar. Finally, we would like to emphasize that
+although the one-way Shapiro delay is mostly of academic interest for
+electromagnetic astronomy, its ubiquity should not be forgotten in the era of
+multi-messenger astronomy.
+</dc:description>
+ <dc:description>Comment: 8 pages, 2 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-04-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08228</dc:identifier>
+ <dc:identifier>Modern Physics Letters A vol 31 number 13 1650083 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217732316500838</dc:identifier>
+ </oai_dc:dc>
+

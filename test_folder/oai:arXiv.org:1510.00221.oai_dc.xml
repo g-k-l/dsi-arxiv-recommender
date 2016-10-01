@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An algorithm to classify the asymptotic set associated to a polynomial
+  mapping</dc:title>
+ <dc:creator>Thuy, Nguyen Thi Bich</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:description>  We provide an algorithm to classify the asymptotic sets of the dominant
+polynomial mappings $F: \C^3 \to \C^3$ of degree 2, using the definition of the
+so-called "{\it fa\c{c}ons}" in \cite{Thuy}. We obtain a classification theorem
+for the asymptotic sets of dominant polynomial mappings $F: \C^3 \to \C^3$ of
+degree 2. This algorithm can be generalized for the dominant polynomial
+mappings $F: \C^n \to \C^n$ of degree $d$, with any $(n, d) \in {(\N^*)}^2$.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-04-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00221</dc:identifier>
+ </oai_dc:dc>
+

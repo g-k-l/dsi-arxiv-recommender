@@ -1,0 +1,53 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effect of Gromov-hyperbolicity Parameter on Cuts and Expansions in
+  Graphs and Some Algorithmic Implications</dc:title>
+ <dc:creator>DasGupta, Bhaskar</dc:creator>
+ <dc:creator>Karpinski, Marek</dc:creator>
+ <dc:creator>Mobasheri, Nasim</dc:creator>
+ <dc:creator>Yahyanejad, Farzaneh</dc:creator>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>68Q25, 68W25, 68W40, 05C85</dc:subject>
+ <dc:subject>F.2.2</dc:subject>
+ <dc:subject>G.2.2</dc:subject>
+ <dc:subject>I.1.2</dc:subject>
+ <dc:description>  $\delta$-hyperbolic graphs, originally conceived by Gromov in 1987, include
+non-trivial interesting classes of "non-expander" graphs; for fixed $\delta$,
+such graphs are simply called hyperbolic graphs. Our goal in this paper is to
+study the effect of the hyperbolicity measure $\delta$ on expansion and
+cut-size bounds on graphs (here $\delta$ need not be a constant, i.e., the
+graph is not necessarily hyperbolic), and investigate up to what values of
+$\delta$ these results could provide improved approximation algorithms for
+related combinatorial problems. To this effect, we provide the following
+results.
+  (a) We provide constructive bounds on node expansions and cut-sizes for
+$\delta$-hyperbolic graphs as a function of $\delta$, and show that witnesses
+for such non-expansion or cut-size can be computed efficiently in polynomial
+time. To the best of our knowledge, these are the first such constructive
+bounds proven. We also show how to find a large family of s-t cuts with small
+number of cut-edges when s and t are sufficiently far apart.
+  (b) We also provide the following algorithmic consequences of these bounds
+and their related proof techniques for a few problems related to cuts and paths
+for $\delta$-hyperbolic graphs (where $\delta$ need not necessarily a constant
+but may be a function f of the number of nodes, the exact nature of growth of f
+depends on the problem considered):
+  (b-1) We provide improved approximation algorithms for minimizing the number
+of bottleneck edges that arises in network design applications. En route, we
+also formulate the hitting set problem of size-constrained cuts and show a
+connection between approximability issues of these two problems.
+  (b-2) We provide a polynomial-time solution for a type of small-set expansion
+problem that arises in the investigation of unique games conjecture.
+</dc:description>
+ <dc:description>Comment: Includes changes: Clarified that motivation is not just to study
+  hyperbolic graphs (constant \delta), but study as \delta\ varies with n, in
+  which case topology can be far from tree. Noted that vulnerability problem is
+  network design application where greedy fails. Clarified that SSE solution
+  works for non-constant \delta\ if degree is restricted. Added to reference
+  seminal result of Kleinberg</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-02-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08779</dc:identifier>
+ </oai_dc:dc>
+

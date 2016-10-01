@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The asymptotic leading term for maximum rank of ternary forms of a given
+  degree</dc:title>
+ <dc:creator>De Paris, Alessandro</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Commutative Algebra</dc:subject>
+ <dc:subject>15A21, 15A69, 15A72, 14A25, 14N05, 14N15</dc:subject>
+ <dc:description>  Let $\operatorname{r_{max}}(n,d)$ be the maximum Waring rank for the set of
+all homogeneous polynomials of degree $d&gt;0$ in $n$ indeterminates with
+coefficients in an algebraically closed field of characteristic zero. To our
+knowledge, when $n,d\ge 3$, the value of $\operatorname{r_{max}}(n,d)$ is known
+only for $(n,d)=(3,3),(3,4),(3,5),(4,3)$. We prove that
+$\operatorname{r_{max}}(3,d)=d^2/4+O(d)$ as a consequence of the upper bound
+$\operatorname{r_{max}}(3,d)\le\left\lfloor\left(d^2+6d+1\right)/4\right\rfloor$.
+</dc:description>
+ <dc:description>Comment: v1: 10 pages. v2: extended introduction and some mistakes corrected</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-11-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08048</dc:identifier>
+ <dc:identifier>Final version in Linear Algebra Appl. 500 (2016) 15--29</dc:identifier>
+ <dc:identifier>doi:10.1016/j.laa.2016.03.012</dc:identifier>
+ </oai_dc:dc>
+

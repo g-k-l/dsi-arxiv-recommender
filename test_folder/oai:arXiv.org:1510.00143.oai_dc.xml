@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fast Single Image Super-Resolution</dc:title>
+ <dc:creator>Zhao, Ningning</dc:creator>
+ <dc:creator>Wei, Qi</dc:creator>
+ <dc:creator>Basarab, Adrian</dc:creator>
+ <dc:creator>Dobigeon, Nicolas</dc:creator>
+ <dc:creator>Kouame, Denis</dc:creator>
+ <dc:creator>Tourneret, Jean-Yves</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:description>  This paper addresses the problem of single image super-resolution (SR), which
+consists of recovering a high resolution image from its blurred, decimated and
+noisy version. The existing algorithms for single image SR use different
+strategies to handle the decimation and blurring operators. In addition to the
+traditional first-order gradient methods, recent techniques investigate
+splitting-based methods dividing the SR problem into up-sampling and
+deconvolution steps that can be easily solved. Instead of following this
+splitting strategy, we propose to deal with the decimation and blurring
+operators simultaneously by taking advantage of their particular properties in
+the frequency domain, leading to a new fast SR approach. Specifically, an
+analytical solution can be obtained and implemented efficiently for the
+Gaussian prior or any other regularization that can be formulated into an
+$\ell_2$-regularized quadratic model, i.e., an $\ell_2$-$\ell_2$ optimization
+problem. Furthermore, the flexibility of the proposed SR scheme is shown
+through the use of various priors/regularizations, ranging from generic image
+priors to learning-based approaches. In the case of non-Gaussian priors, we
+show how the analytical solution derived from the Gaussian case can be embedded
+intotraditional splitting frameworks, allowing the computation cost of existing
+algorithms to be decreased significantly. Simulation results conducted on
+several images with different priors illustrate the effectiveness of our fast
+SR approach compared with the existing techniques.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-05-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00143</dc:identifier>
+ </oai_dc:dc>
+

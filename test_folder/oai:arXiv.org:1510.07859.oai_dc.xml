@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Loops in exceptional field theory</dc:title>
+ <dc:creator>Bossard, Guillaume</dc:creator>
+ <dc:creator>Kleinschmidt, Axel</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We study certain four-graviton amplitudes in exceptional field theory in
+dimensions $D\geq 4$ up to two loops. As the formulation is manifestly
+invariant under the U-duality group $E_{11-D}(\mathbb{Z})$, our resulting
+expressions can be expressed in terms of automorphic forms. In the low energy
+expansion, we find terms in the M-theory effective action of type $R^4$,
+$\nabla^4R^4$ and $\nabla^6 R^4$ with automorphic coefficient functions in
+agreement with independent derivations from string theory. This provides in
+particular an explicit integral formula for the exact string theory $\nabla^6
+R^4$ threshold function. We exhibit moreover that the usual supergravity
+logarithmic divergences cancel out in the full exceptional field theory
+amplitude, within an appropriately defined dimensional regularisation scheme.
+We also comment on terms of higher derivative order and the role of the section
+constraint for possible counterterms.
+</dc:description>
+ <dc:description>Comment: 1+76 pages: v2: Added references and typos corrected. Version
+  accepted by JHEP</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-01-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07859</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP01(2016)164</dc:identifier>
+ </oai_dc:dc>
+

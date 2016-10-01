@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Maxwell-Stefan diffusion limit for a mixture of monatomic gases</dc:title>
+ <dc:creator>Hutridurga, Harsha</dc:creator>
+ <dc:creator>Salvarani, Francesco</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35Q20, 35B25, 35Q35</dc:subject>
+ <dc:description>  Multi-species Boltzmann equations for gaseous mixtures, with analytic cross
+sections and under Grad's angular cutoff assumption, are considered under
+diffusive scaling. In the limit, we formally obtain an explicit expression for
+the binary diffusion coefficients in the Maxwell-Stefan equations.
+</dc:description>
+ <dc:description>Comment: 10 pages</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-05-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00042</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A 1-D evolutionary model for icy satellites, applied to Enceladus</dc:title>
+ <dc:creator>Malamud, Uri</dc:creator>
+ <dc:creator>Prialnik, Dina</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  We develop a long-term 1-D evolution model for icy satellites that couples
+multiple processes: water migration and differentiation, geochemical reactions
+and silicate phase transitions, compaction by self-gravity, and ablation. The
+model further considers the following energy sources and sinks: tidal heating,
+radiogenic heating, geochemical energy released by serpentinization or absorbed
+by mineral dehydration, gravitational energy and insolation, and heat transport
+by conduction, convection, and advection. We apply the model to Enceladus, by
+guessing the initial conditions that would render a structure compatible with
+present-day observations, assuming the initial structure to have been
+homogeneous. Assuming the satellite has been losing water continually along its
+evolution, we postulate that it was formed as a more massive, more icy and more
+porous satellite, and gradually transformed into its present day state due to
+sustained long-term tidal heating. We consider several initial compositions and
+evolution scenarios and follow the evolution for the age of the Solar System,
+testing the present day model results against the available observational
+constraints. Our model shows the present configuration to be differentiated
+into a pure icy mantle, several tens of km thick, overlying a rocky core,
+composed of dehydrated rock at the center and hydrated rock in the outer part.
+For Enceladus, it predicts a higher rock/ice mass ratio than previously assumed
+and a thinner ice mantle, compatible with recent estimates based on gravity
+field measurements. Although, obviously, the model cannot be used to explain
+local phenomena, it sheds light on the internal structure invoked in
+explanations of localized features and activities.
+</dc:description>
+ <dc:description>Comment: submitted to Icarus</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07223</dc:identifier>
+ <dc:identifier>doi:10.1016/j.icarus.2015.12.046</dc:identifier>
+ </oai_dc:dc>
+

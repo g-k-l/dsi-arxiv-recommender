@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Geometry-Invariant Resonant Cavities</dc:title>
+ <dc:creator>Liberal, I&#241;igo</dc:creator>
+ <dc:creator>Mahmoud, Ahmed M.</dc:creator>
+ <dc:creator>Engheta, Nader</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Resonant cavities are one of the basic building blocks in various disciplines
+of science and technology, with numerous applications ranging from abstract
+theoretical modeling to everyday life devices. The eigenfrequencies of
+conventional cavities are a function of its geometry, and, thus, the size and
+shape of a resonant cavity is selected in order to operate at a specific
+frequency. Here, we demonstrate theoretically the existence of
+geometry-invariant resonant cavities, i.e., resonators whose eigenfrequency is
+invariant with respect to geometrical deformations. This effect is obtained by
+exploiting the unusual properties of zero-index metamaterials, which enable
+decoupling of the time and spatial field variations. This new class of
+resonators may inspire alternative design concepts, and it might lead to the
+first generation of deformable resonant devices.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07005</dc:identifier>
+ <dc:identifier>doi:10.1038/ncomms10989</dc:identifier>
+ </oai_dc:dc>
+

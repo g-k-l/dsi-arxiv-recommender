@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A homotopy theory of additive categories with suspensions</dc:title>
+ <dc:creator>Li, Zhi-Wei</dc:creator>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>Mathematics - Category Theory</dc:subject>
+ <dc:subject>18E10, 18E30, 18E35</dc:subject>
+ <dc:description>  We define partial one-sided triangulated categories by weakening the axioms
+of one-sided triangulated categories. We show that additive categories, exact
+categories, one-sided triangulated categories, complete cotorsion pairs in
+exact categories, torsion pairs and mutation pairs in triangulated categories
+extend to partial one-sided triangulated categories. We prove that partial
+one-sided triangulated categories yield one-sided triangulated categories by
+passing to stable categories. This unifies and generalizes many constructions
+of stable one-sided triangulated categories, and even stable exact categories.
+Moreover, it also allows us to model Iyama-Yoshino subfactor triangulated
+categories via Quillen closed model structures.
+</dc:description>
+ <dc:description>Comment: any comments are welcome</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-07-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02258</dc:identifier>
+ </oai_dc:dc>
+

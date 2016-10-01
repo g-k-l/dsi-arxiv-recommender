@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The number and degree distribution of spanning trees in the Tower of
+  Hanoi graph</dc:title>
+ <dc:creator>Zhang, Zhongzhi</dc:creator>
+ <dc:creator>Wu, Shunqi</dc:creator>
+ <dc:creator>Li, Mingyun</dc:creator>
+ <dc:creator>Comellas, Francesc</dc:creator>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  The number of spanning trees of a graph is an important invariant related to
+topological and dynamic properties of the graph, such as its reliability,
+communication aspects, synchronization, and so on. However, the practical
+enumeration of spanning trees and the study of their properties remain a
+challenge, particularly for large networks. In this paper, we study the num-
+ber and degree distribution of the spanning trees in the Hanoi graph. We first
+establish recursion relations between the number of spanning trees and other
+spanning subgraphs of the Hanoi graph, from which we find an exact analytical
+expression for the number of spanning trees of the n-disc Hanoi graph. This
+result allows the calculation of the spanning tree entropy which is then
+compared with those for other graphs with the same average degree. Then, we
+introduce a vertex labeling which allows to find, for each vertex of the graph,
+its degree distribution among all possible spanning trees.
+</dc:description>
+ <dc:description>Comment: 25 pages, 8 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07949</dc:identifier>
+ <dc:identifier>Theoretical Computer Science, 2016, 609: 443-455</dc:identifier>
+ <dc:identifier>doi:10.1016/j.tcs.2015.10.032</dc:identifier>
+ </oai_dc:dc>
+

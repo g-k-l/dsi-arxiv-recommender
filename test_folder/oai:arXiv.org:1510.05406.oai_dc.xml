@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Origin of Symmetric Dimer Images of Si(001) Observed in Low-Temperature
+  STM</dc:title>
+ <dc:creator>Ren, Xiao-Yan</dc:creator>
+ <dc:creator>Kim, Hyun-Jung</dc:creator>
+ <dc:creator>Niu, Chun-Yao</dc:creator>
+ <dc:creator>Jia, Yu</dc:creator>
+ <dc:creator>Cho, Jun-Hyung</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  It has been a long-standing puzzle why buckled dimers of the Si(001) surface
+appeared symmetric below 20 K in scanning tunneling microscopy (STM)
+experiments. Although such symmetric dimer images were concluded to be due to
+an artifact induced by STM measurements, its underlying mechanism is still
+veiled. Here,we demonstrate, based on a first-principles density-functional
+theory calculation, that the symmetric dimer images are originated from the
+flip-flop motion of buckled dimers, driven by quantum tunneling (QT). It is
+revealed that at low temperature the tunneling-induced surface charging with
+holes reduces the energy barrier for the flipping of buckled dimers, thereby
+giving rise to a sizable QT-driven frequency of the flip-flop motion. However,
+such a QT phenomenon becomes marginal in the tunneling-induced surface charging
+with electrons. Our findings provide an explanation for low-temperature STM
+data that exhibits apparent symmetric (buckled) dimer structure in the
+filled-state (empty-state) images.
+</dc:description>
+ <dc:description>Comment: 5 pages,4 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05406</dc:identifier>
+ <dc:identifier>Sci. Rep. 6, 27868 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep27868</dc:identifier>
+ </oai_dc:dc>
+

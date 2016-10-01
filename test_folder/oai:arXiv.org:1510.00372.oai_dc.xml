@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Low-derivative operators of the Standard Model effective field theory
+  via Hilbert series methods</dc:title>
+ <dc:creator>Lehman, Landon</dc:creator>
+ <dc:creator>Martin, Adam</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  In this work, we explore an extension of Hilbert series techniques to count
+operators that include derivatives. For sufficiently low-derivative operators,
+we find an algorithm that gives the number of invariant operators, properly
+accounting for redundancies due to the equations of motion and integration by
+parts. Specifically, the technique can be applied whenever there is only one
+Lorentz invariant for a given partitioning of derivatives among the fields. At
+higher numbers of derivatives, equation of motion redundancies can be removed,
+but the increased number of Lorentz contractions spoils the subtraction of
+integration by parts redundancies. While restricted, this technique is
+sufficient to automatically generate the complete set of invariant operators of
+the Standard Model effective field theory for dimensions 6 and 7 (for arbitrary
+numbers of flavors). At dimension 8, the algorithm does not automatically
+generate the complete operator set; however, it suffices for all but five
+classes of operators. For these remaining classes, there is a well defined
+procedure to manually determine the number of invariants. Using these methods,
+we thereby derive the set of 535 dimension-8 $N_f = 1$ operators.
+</dc:description>
+ <dc:description>Comment: 32 pages, corrected small mistakes, added references</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2015-11-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00372</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)081</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>PERCH: Perception via Search for Multi-Object Recognition and
+  Localization</dc:title>
+ <dc:creator>Narayanan, Venkatraman</dc:creator>
+ <dc:creator>Likhachev, Maxim</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Computer Science - Artificial Intelligence</dc:subject>
+ <dc:subject>Computer Science - Robotics</dc:subject>
+ <dc:description>  In many robotic domains such as flexible automated manufacturing or personal
+assistance, a fundamental perception task is that of identifying and localizing
+objects whose 3D models are known. Canonical approaches to this problem include
+discriminative methods that find correspondences between feature descriptors
+computed over the model and observed data. While these methods have been
+employed successfully, they can be unreliable when the feature descriptors fail
+to capture variations in observed data; a classic cause being occlusion. As a
+step towards deliberative reasoning, we present PERCH: PErception via SeaRCH,
+an algorithm that seeks to find the best explanation of the observed sensor
+data by hypothesizing possible scenes in a generative fashion. Our
+contributions are: i) formulating the multi-object recognition and localization
+task as an optimization problem over the space of hypothesized scenes, ii)
+exploiting structure in the optimization to cast it as a combinatorial search
+problem on what we call the Monotone Scene Generation Tree, and iii) leveraging
+parallelization and recent advances in multi-heuristic search in making
+combinatorial search tractable. We prove that our system can guaranteedly
+produce the best explanation of the scene under the chosen cost function, and
+validate our claims on real world RGB-D test data. Our experimental results
+show that we can identify and localize objects under heavy occlusion--cases
+where state-of-the-art methods struggle.
+</dc:description>
+ <dc:description>Comment: 8 pages, International Conference on Robotics and Automation (ICRA),
+  2016</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05613</dc:identifier>
+ </oai_dc:dc>
+

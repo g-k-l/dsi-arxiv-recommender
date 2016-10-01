@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Model for Social Network Formation: Efficiency, Stability and Dynamics</dc:title>
+ <dc:creator>Celis, L. Elisa</dc:creator>
+ <dc:creator>Mousavifar, Aida Sadat</dc:creator>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:subject>Computer Science - Computers and Society</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>Computer Science - Computer Science and Game Theory</dc:subject>
+ <dc:subject>Computer Science - Multiagent Systems</dc:subject>
+ <dc:description>  We introduce a simple network formation model for social networks. Agents are
+nodes, connecting to another agent by building a directed edge (or accepting a
+connection from another agent) has a cost, and reaching (or being reached by)
+other agents via short directed paths has a benefit; in effect, an agent wants
+to reach others quickly, but without the cost of directly connecting each and
+every one. We prove that asynchronous edge dynamics always converge to a stable
+network; in fact, for nontrivial ranges of parameters this convergence is fast.
+Moreover, the set of fixed points of the dynamics form a nontrivial class of
+networks. For the static game, we give classes of efficient networks for
+nontrivial parameter ranges and further study their stability. We close several
+problems, and leave many interesting ones open.
+</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-04-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09025</dc:identifier>
+ </oai_dc:dc>
+

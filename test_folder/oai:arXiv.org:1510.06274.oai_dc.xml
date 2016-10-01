@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spectrum and Entropy of C-systems. MIXMAX random number generator</dc:title>
+ <dc:creator>Savvidy, Konstantin</dc:creator>
+ <dc:creator>Savvidy, George</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  The uniformly hyperbolic Anosov C-systems defined on a torus have very strong
+instability of their trajectories, as strong as it can be in principle. These
+systems have exponential instability of all their trajectories and as such have
+mixing of all orders, nonzero Kolmogorov entropy and a countable set of
+everywhere dense periodic trajectories. In this paper we are studying the
+properties of their spectrum and of the entropy. For a two-parameter family of
+C-system operators A(N,s), parametrised by the integers N and s, we found the
+universal limiting form of the spectrum, the dependence of entropy on N and the
+period of its trajectories on a rational sublattice. One can deduce from this
+result that the entropy and the periods are sharply increasing with N. We
+present a new three-parameter family of C-operators A(N,s,m) and analyse the
+dependence of its spectrum and of the entropy on the parameter m. We developed
+our earlier suggestion to use these tuneable Anosov C-systems for multipurpos
+Monte-Carlo simulations. The MIXMAX family of random number generators based on
+Anosov C-systems provide high quality statistical properties, thanks to their
+large entropy, have the best combination of speed, reasonable size of the
+state, tuneable parameters and availability for implementing the
+parallelisation.
+</dc:description>
+ <dc:description>Comment: 12 pages, 5 figures, references, comments and a note added</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-01-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06274</dc:identifier>
+ <dc:identifier>doi:10.1016/j.chaos.2016.05.003</dc:identifier>
+ </oai_dc:dc>
+

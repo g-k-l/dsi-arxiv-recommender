@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generalized mode-coupling theory of the glass transition: schematic
+  results at finite and infinite order</dc:title>
+ <dc:creator>Janssen, Liesbeth M. C.</dc:creator>
+ <dc:creator>Mayer, Peter</dc:creator>
+ <dc:creator>Reichman, David R.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  We present an extensive treatment of the generalized mode-coupling theory
+(GMCT) of the glass transition, which seeks to describe the dynamics of
+glass-forming liquids using only static structural information as input. This
+theory amounts to an infinite hierarchy of coupled equations for multi-point
+density correlations, the lowest-order closure of which is equivalent to
+standard mode-coupling theory. Here we focus on simplified schematic GMCT
+hierarchies, which lack any explicit wavevector-dependence and therefore allow
+for greater analytical and numerical tractability. For one particular schematic
+model, we derive the unique analytic solution of the infinite hierarchy, and
+demonstrate that closing the hierarchy at finite order leads to uniform
+convergence as the closure level increases. We also show numerically that a
+similarly robust convergence pattern emerges for more generic schematic GMCT
+models, suggesting that the GMCT framework is generally convergent, even though
+no small parameter exists in the theory. Finally, we discuss how different
+effective weights on the high-order contributions ultimately control whether
+the transition is continuous, discontinuous, or strictly avoided, providing new
+means to relate structure to dynamics in glass-forming systems.
+</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07636</dc:identifier>
+ <dc:identifier>J. Stat. Mech, 054049 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/05/054049</dc:identifier>
+ </oai_dc:dc>
+

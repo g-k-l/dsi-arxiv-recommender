@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Aspects of Emergent Symmetries</dc:title>
+ <dc:creator>Gomes, Pedro R. S.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  These are intended to be review notes on emergent symmetries, i.e.,
+symmetries which manifest themselves in specific sectors of energy in many
+systems. The emphasis is on the physical aspects rather than computation
+methods. We include some background material and go through more recent
+problems in field theory, statistical mechanics and condensed matter. These
+problems illustrate how some important symmetries, such as Lorentz invariance
+and supersymmetry, usually believed to be fundamental, can arise naturally in
+low-energy regimes of systems involving a large number of degrees of freedom.
+The aim is to discuss how these examples could help us to face other complex
+and fundamental problems.
+</dc:description>
+ <dc:description>Comment: 34 pages, 4 figures; Review paper; Title slightly modified; Minor
+  improvements and typo corrections along the manuscript; References included;
+  Accepted version</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04492</dc:identifier>
+ <dc:identifier>Int. J. Mod. Phys. A, 31, 1630009, (2016)</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217751X1630009X</dc:identifier>
+ </oai_dc:dc>
+

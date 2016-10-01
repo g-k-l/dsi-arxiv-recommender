@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Emotions, Demographics and Sociability in Twitter Interactions</dc:title>
+ <dc:creator>Lerman, Kristina</dc:creator>
+ <dc:creator>Arora, Megha</dc:creator>
+ <dc:creator>Gallegos, Luciano</dc:creator>
+ <dc:creator>Kumaraguru, Ponnurangam</dc:creator>
+ <dc:creator>Garcia, David</dc:creator>
+ <dc:subject>Computer Science - Computers and Society</dc:subject>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  The social connections people form online affect the quality of information
+they receive and their online experience. Although a host of socioeconomic and
+cognitive factors were implicated in the formation of offline social ties, few
+of them have been empirically validated, particularly in an online setting. In
+this study, we analyze a large corpus of geo-referenced messages, or tweets,
+posted by social media users from a major US metropolitan area. We linked these
+tweets to US Census data through their locations. This allowed us to measure
+emotions expressed in the tweets posted from an area, the structure of social
+connections, and also use that area's socioeconomic characteristics in
+analysis. %We extracted the structure of online social interactions from the
+people mentioned in tweets from that area. We find that at an aggregate level,
+places where social media users engage more deeply with less diverse social
+contacts are those where they express more negative emotions, like sadness and
+anger. Demographics also has an impact: these places have residents with lower
+household income and education levels. Conversely, places where people engage
+less frequently but with diverse contacts have happier, more positive messages
+posted from them and also have better educated, younger, more affluent
+residents. Results suggest that cognitive factors and offline characteristics
+affect the quality of online interactions. Our work highlights the value of
+linking social media data to traditional data sources, such as US Census, to
+drive novel analysis of online behavior.
+</dc:description>
+ <dc:description>Comment: International Conference on the Web and Social Media (ICWSM2016)</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-03-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07090</dc:identifier>
+ </oai_dc:dc>
+

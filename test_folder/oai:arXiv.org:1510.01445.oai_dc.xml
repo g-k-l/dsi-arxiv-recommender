@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nano-scale electron bunching in laser-triggered ionization injection in
+  plasma accelerators</dc:title>
+ <dc:creator>Xu, X. L.</dc:creator>
+ <dc:creator>Zhang, C. J.</dc:creator>
+ <dc:creator>Li, F.</dc:creator>
+ <dc:creator>Wan, Y.</dc:creator>
+ <dc:creator>Wu, Y. P.</dc:creator>
+ <dc:creator>Hua, J. F.</dc:creator>
+ <dc:creator>Pai, C. -H.</dc:creator>
+ <dc:creator>Lu, W.</dc:creator>
+ <dc:creator>An, W.</dc:creator>
+ <dc:creator>Yu, P.</dc:creator>
+ <dc:creator>Mori, W. B.</dc:creator>
+ <dc:creator>Joshi, C.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:subject>Physics - Accelerator Physics</dc:subject>
+ <dc:description>  Ionization injection is attractive as a controllable injection scheme for
+generating high quality electron beams using plasma-based wakefield
+acceleration. Due to the phase dependent tunneling ionization rate and the
+trapping dynamics within a nonlinear wake, the discrete injection of electrons
+within the wake is nonlinearly mapped to discrete final phase space structure
+of the beam at the location where the electrons are trapped. This phenomenon is
+theoretically analyzed and examined by three-dimensional particle-in-cell
+simulations which show that three dimensional effects limit the wave number of
+the modulation to between $&gt; 2k_0$ and about $5k_0$, where $k_0$ is the
+wavenumber of the injection laser. Such a nano-scale bunched beam can be
+diagnosed through coherent transition radiation upon its exit from the plasma
+and may find use in generating high-power ultraviolet radiation upon passage
+through a resonant undulator.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01445</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 117, 034801 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.117.034801</dc:identifier>
+ </oai_dc:dc>
+

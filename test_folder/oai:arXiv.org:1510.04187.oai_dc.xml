@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Small-Mass Limit for Langevin Dynamics with Unbounded Coefficients
+  and positive friction</dc:title>
+ <dc:creator>Herzog, David P.</dc:creator>
+ <dc:creator>Hottovy, Scott</dc:creator>
+ <dc:creator>Volpe, Giovanni</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  A class of Langevin stochastic differential equations is shown to converge in
+the small-mass limit under very weak assumptions on the coefficients defining
+the equation. The convergence result is applied to physically realizable
+examples where the coefficients defining the Langevin equation grow unboundedly
+either at a boundary, such as a wall, and/or at the point at infinity.
+</dc:description>
+ <dc:description>Comment: 11 pages, no figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04187</dc:identifier>
+ <dc:identifier>JSP (J. Statist. Phys.), 163 (3), 659-673, 2016</dc:identifier>
+ <dc:identifier>doi:10.1007/s10955-016-1498-8</dc:identifier>
+ </oai_dc:dc>
+

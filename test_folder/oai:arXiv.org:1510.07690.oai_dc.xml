@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Constraining the dynamical importance of hot gas and radiation pressure
+  in quasar outflows using emission line ratios</dc:title>
+ <dc:creator>Stern, Jonathan</dc:creator>
+ <dc:creator>Faucher-Giguere, Claude-Andre</dc:creator>
+ <dc:creator>Zakamska, Nadia L.</dc:creator>
+ <dc:creator>Hennawi, Joseph F.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Quasar feedback models often predict an expanding hot gas bubble which drives
+a galaxy-scale outflow. In many circumstances this hot gas radiates
+inefficiently and is therefore difficult to observe directly. We present an
+indirect method to detect the presence of a hot bubble using hydrostatic
+photoionization calculations of the cold (~10^4 K) line-emitting gas. We
+compare our calculations with observations of the broad line region, the inner
+face of the torus, the narrow line region (NLR), and the extended NLR, and thus
+constrain the hot gas pressure at distances 0.1 pc -- 10 kpc from the center.
+We find that emission line ratios observed in the average quasar spectrum are
+consistent with radiation-pressure-dominated models on all scales. On scales
+&lt;40 pc a dynamically significant hot gas pressure is ruled out, while on larger
+scales the hot gas pressure cannot exceed six times the local radiation
+pressure. In individual quasars, ~25% of quasars exhibit NLR ratios that are
+inconsistent with radiation-pressure-dominated models, though in these objects
+the hot gas pressure is also unlikely to exceed the radiation pressure by an
+order of magnitude or more. The derived upper limits on the hot gas pressure
+imply that the instantaneous gas pressure force acting on galaxy-scale outflows
+falls short of the time-averaged force needed to explain the large momentum
+fluxes \dot{p} &gt;&gt; L_AGN/c inferred for galaxy-scale outflows. This apparent
+discrepancy can be reconciled if optical quasars previously experienced a
+buried, fully-obscured phase during which the hot gas bubble was more
+effectively confined and during which galactic wind acceleration occurred.
+</dc:description>
+ <dc:description>Comment: 18 main text pages, 4 appendix pages, 9 figures. Accepted to ApJ.
+  Minor revision following referee report</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-01-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07690</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/819/2/130</dc:identifier>
+ </oai_dc:dc>
+

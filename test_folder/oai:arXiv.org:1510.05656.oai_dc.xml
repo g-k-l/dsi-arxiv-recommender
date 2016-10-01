@@ -1,0 +1,59 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Evidence for the Thermal Sunyaev-Zel'dovich Effect Associated with
+  Quasar Feedback</dc:title>
+ <dc:creator>Crichton, Devin</dc:creator>
+ <dc:creator>Gralla, Megan B.</dc:creator>
+ <dc:creator>Hall, Kirsten</dc:creator>
+ <dc:creator>Marriage, Tobias A.</dc:creator>
+ <dc:creator>Zakamska, Nadia L.</dc:creator>
+ <dc:creator>Battaglia, Nick</dc:creator>
+ <dc:creator>Bond, J. Richard</dc:creator>
+ <dc:creator>Devlin, Mark J.</dc:creator>
+ <dc:creator>Hill, J. Colin</dc:creator>
+ <dc:creator>Hilton, Matt</dc:creator>
+ <dc:creator>Hincks, Adam D.</dc:creator>
+ <dc:creator>Huffenberger, Kevin M.</dc:creator>
+ <dc:creator>Hughes, John P.</dc:creator>
+ <dc:creator>Kosowsky, Arthur</dc:creator>
+ <dc:creator>Moodley, Kavilan</dc:creator>
+ <dc:creator>Niemack, Michael D.</dc:creator>
+ <dc:creator>Page, Lyman A.</dc:creator>
+ <dc:creator>Partridge, Bruce</dc:creator>
+ <dc:creator>Sievers, Jonathan L.</dc:creator>
+ <dc:creator>Sifon, Cristobal</dc:creator>
+ <dc:creator>Staggs, Suzanne T.</dc:creator>
+ <dc:creator>Viero, Marco P.</dc:creator>
+ <dc:creator>Wollack, Edward J.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Using a radio-quiet subsample of the Sloan Digital Sky Survey spectroscopic
+quasar catalogue, spanning redshifts 0.5-3.5, we derive the mean millimetre and
+far-infrared quasar spectral energy distributions (SEDs) via a stacking
+analysis of Atacama Cosmology Telescope and Herschel-Spectral and Photometric
+Imaging REceiver data. We constrain the form of the far-infrared emission and
+find 3$\sigma$-4$\sigma$ evidence for the thermal Sunyaev-Zel'dovich (SZ)
+effect, characteristic of a hot ionized gas component with thermal energy $(6.2
+\pm 1.7)\times 10^{60}$ erg. This amount of thermal energy is greater than
+expected assuming only hot gas in virial equilibrium with the dark matter
+haloes of $(1-5)\times 10^{12}h^{-1}$M$_\odot$ that these systems are expected
+to occupy, though the highest quasar mass estimates found in the literature
+could explain a large fraction of this energy. Our measurements are consistent
+with quasars depositing up to $(14.5 \pm 3.3)~\tau_8^{-1}$ per cent of their
+radiative energy into their circumgalactic environment if their typical period
+of quasar activity is $\tau_8\times~10^8$ yr. For high quasar host masses,
+$\sim10^{13}h^{-1}$M$_\odot$, this percentage will be reduced. Furthermore, the
+uncertainty on this percentage is only statistical and additional systematic
+uncertainties enter at the 40 per cent level. The SEDs are dust dominated in
+all bands and we consider various models for dust emission. While sufficiently
+complex dust models can obviate the SZ effect, the SZ interpretation remains
+favoured at the 3$\sigma$-4$\sigma$ level for most models.
+</dc:description>
+ <dc:description>Comment: 17 pages, 5 figures. Updated to match published version</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05656</dc:identifier>
+ <dc:identifier>MNRAS 458, 1478-1492 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw344</dc:identifier>
+ </oai_dc:dc>
+

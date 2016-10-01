@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Multi-dimensional Functional Principal Component Analysis</dc:title>
+ <dc:creator>Chen, Lu-Hung</dc:creator>
+ <dc:creator>Jiang, Ci-Ren</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  Functional principal component analysis is one of the most commonly employed
+approaches in functional and longitudinal data analysis and we extend it to
+analyze functional/longitudinal data observed on a general $d$-dimensional
+domain. The computational issues emerging in the extension are fully addressed
+with our proposed solutions. The local linear smoothing technique is employed
+to perform estimation because of its capabilities of performing large-scale
+smoothing and of handling data with different sampling schemes (possibly on
+irregular domain) in addition to its nice theoretical properties. Besides
+taking the fast Fourier transform strategy in smoothing, the modern GPGPU
+(general-purpose computing on graphics processing units) architecture is
+applied to perform parallel computation to save computation time. To resolve
+the out-of-memory issue due to large-scale data, the random projection
+procedure is applied in the eigendecomposition step. We show that the proposed
+estimators can achieve the classical nonparametric rates for longitudinal data
+and the optimal convergence rates for functional data if the number of
+observations per sample is of the order $(n/ \log n)^{d/4}$. Finally, the
+performance of our approach is demonstrated with simulation studies and the
+fine particulate matter (PM 2.5) data measured in Taiwan.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-03-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04439</dc:identifier>
+ </oai_dc:dc>
+

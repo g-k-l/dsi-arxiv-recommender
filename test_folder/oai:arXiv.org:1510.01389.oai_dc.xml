@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin-Driven Nematic Instability of the Multi-Orbital Hubbard Model:
+  Application to Iron-Based Superconductors</dc:title>
+ <dc:creator>Christensen, M. H.</dc:creator>
+ <dc:creator>Kang, Jian</dc:creator>
+ <dc:creator>Andersen, B. M.</dc:creator>
+ <dc:creator>Fernandes, R. M.</dc:creator>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Nematic order resulting from the partial melting of density-waves has been
+proposed as the mechanism to explain nematicity in iron-based superconductors.
+An outstanding question, however, is whether the microscopic electronic model
+for these systems -- the multi-orbital Hubbard model -- displays such an
+ordered state as its leading instability. In contrast to usual electronic
+instabilities, such as magnetic and charge order, this fluctuation-driven
+phenomenon cannot be captured by the standard RPA method. Here, by including
+fluctuations beyond RPA in the multi-orbital Hubbard model, we derive its
+nematic susceptibility and contrast it with its ferro-orbital order
+susceptibility, showing that its leading instability is the spin-driven nematic
+phase. Our results also demonstrate the primary role played by the $d_{xy}$
+orbital in driving the nematic transition, and reveal that high-energy magnetic
+fluctuations are essential to stabilize nematic order in the absence of
+magnetic order.
+</dc:description>
+ <dc:description>Comment: 8 pages, 6 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01389</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 085136 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.085136</dc:identifier>
+ </oai_dc:dc>
+

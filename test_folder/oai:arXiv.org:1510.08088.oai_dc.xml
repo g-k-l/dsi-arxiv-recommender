@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tunable liquid-liquid critical point in an ionic model of silica</dc:title>
+ <dc:creator>Lascaris, Erik</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  Recently it was shown that the WAC model for liquid silica [L. V. Woodcock,
+C. A. Angell, and P. Cheeseman, J. Chem. Phys. 65, 1565 (1976)] is remarkably
+close to having a liquid-liquid critical point (LLCP). We demonstrate that
+increasing the ion charge separates the global maxima of the response
+functions, while reducing the charge smoothly merges them into a LLCP; a
+phenomenon that might be experimentally observable with charged colloids. An
+analysis of the Si and O coordination numbers suggests that a sufficiently low
+Si/O coordination number ratio is needed to attain a LLCP.
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08088</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 125701 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.125701</dc:identifier>
+ </oai_dc:dc>
+

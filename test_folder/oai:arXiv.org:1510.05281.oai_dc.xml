@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Simple Sufficient Condition for a Finitely Generated Lattice to not be
+  Embeddable in a Free Lattice</dc:title>
+ <dc:creator>Chan, Brian T.</dc:creator>
+ <dc:subject>Mathematics - Rings and Algebras</dc:subject>
+ <dc:subject>06B25</dc:subject>
+ <dc:description>  This article is part of my upcoming masters thesis which investigates the
+following open problem from the book, Free Lattices, by R.Freese, J.Jezek, and
+J.B. Nation published in 1995: "Which lattices (and in particular which
+countable lattices) are sublattices of a free lattice?"
+  Despite partial progress over the decades, the problem is still unsolved.
+There is emphasis on the countable case because the current body of knowledge
+on sublattices of free lattices is most concentrated on when these sublattices
+are countably infinite.
+  In this article, a simple sufficient condition for a \emph{finitely
+generated} lattice to not be embeddable in a free lattice is derived, which is
+easier to verify than checking if Jonsson's condition, L = D(L) = D^d(L),
+holds. It provides a systematic way of providing counterexamples to the false
+claim that: "all finitely generated semidistributive lattices satisfying
+Whitman's condition is a sublattice of a free lattice." To the best of the
+author's knowledge, this result is new. A corollary that is derived from this
+is a non-trivial property of free lattices which might not yet be known in the
+literature. Moreover, a problem concerning finitely generated semidistributive
+lattices will be posed.
+</dc:description>
+ <dc:description>Comment: I found an error in the main result of this article by finding a
+  counterexample, the lattices being produced may not satisfy Whitman's
+  condition. Beyond this, the procedure appears to work well. I found the
+  counterexample by considering the relatively free lattice FL(2 + 2) (the
+  lattice FL(2 + 2) can be found in the literature, for instance, Gratzer's
+  text: General Lattice Theory, 2nd Ed)</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05281</dc:identifier>
+ </oai_dc:dc>
+

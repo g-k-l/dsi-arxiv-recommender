@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonequilibrium variational-cluster approach to real-time dynamics in the
+  Fermi-Hubbard model</dc:title>
+ <dc:creator>Hofmann, Felix</dc:creator>
+ <dc:creator>Eckstein, Martin</dc:creator>
+ <dc:creator>Potthoff, Michael</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  The nonequilibrium variational-cluster approach is applied to study the
+real-time dynamics of the double occupancy in the one-dimensional Fermi-Hubbard
+model after different fast changes of hopping parameters. A simple reference
+system, consisting of isolated Hubbard dimers, is used to discuss different
+aspects of the numerical implementation of the approach in the general
+framework of nonequilibrium self-energy functional theory. Opposed to a direct
+solution of the Euler equation, its time derivative is found to serve as
+numerically tractable and stable conditional equation to fix the time-dependent
+variational parameters.
+</dc:description>
+ <dc:description>Comment: 16 pages, 5 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05866</dc:identifier>
+ <dc:identifier>J. Phys.: Conf. Ser. 696, 012002 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/696/1/012002</dc:identifier>
+ </oai_dc:dc>
+

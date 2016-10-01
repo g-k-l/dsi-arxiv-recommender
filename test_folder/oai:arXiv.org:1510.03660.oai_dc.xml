@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Frequency-dependent time decay of Schr\"odinger flows</dc:title>
+ <dc:creator>Fanelli, L.</dc:creator>
+ <dc:creator>Felli, V.</dc:creator>
+ <dc:creator>Fontelos, M.</dc:creator>
+ <dc:creator>Primo, A.</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:subject>35J10, 35L05</dc:subject>
+ <dc:description>  We show that the presence of negative eigenvalues in the spectrum of the
+angular component of an electromagnetic Schr\"odinger hamiltonian $H$
+generically produces a lack of the classical time-decay for the associated
+Schr\"odinger flow $e^{-itH}$. This is in contrast with the fact that
+dispersive estimates (Strichartz) still hold, in general, also in this case. We
+also observe an improvement of the decay for higher positive modes, showing
+that the time decay of the solution is due to the first nonzero term in the
+expansion of the initial datum as a series of eigenfunctions of a quantum
+harmonic oscillator with a singular potential. A completely analogous
+phenomenon is shown for the heat semigroup, as expected.
+</dc:description>
+ <dc:description>Comment: 10 pages</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03660</dc:identifier>
+ </oai_dc:dc>
+

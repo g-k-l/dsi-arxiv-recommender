@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Review on High energy String Scattering Amplitudes and Symmetries of
+  String Theory</dc:title>
+ <dc:creator>Lee, Jen-Chi</dc:creator>
+ <dc:creator>Yang, Yi</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We review high energy symmetries of string theory at both the fixed angle or
+Gross regime (GR) and the fixed momentum transfer or Regge regime (RR). We
+calculated in details high energy string scattering amplitudes at arbitrary
+mass levels for both regimes. We discovered infinite linear relations among
+fixed angle string amplitudes conjectured by Gross in 1988 from decoupling of
+high energy zero-norm states (ZNS), and infinite recurrence relations among
+Regge string amplitudes from Kummer function U and Appell function F. In the
+GR/RR regime, all high energy string amplitudes can be solved by these
+linear/recurrence relations so that all GR/RR string amplitudes can be
+expressed in terms of one single GR/RR string amplitude. In addition, we found
+an interesting link between string amplitudes of the two regimes, and
+discovered that at each mass level the ratios among fixed angle amplitudes can
+be extracted from Regge string scattering amplitudes. This result enables us to
+argue that the known SL(5,C) dynamical symmetry of the Appell function F is
+crucial to probe high energy spacetime symmetry of string theory. Keywords:
+Symmetries of strings, Hard string scattering amplitudes, Regge string
+scattering amplitudes, High energy limits, Zero norm states, Linear relations,
+Recurrence relations
+</dc:description>
+ <dc:description>Comment: 315 pages. 4 figures. invited review article prepared for Symmetry.
+  To be published in Symmetry (2015). V2:316 pages,4 figures. Eqs,Refs and
+  paragraphs added. typos corrected. V3:341 pages,much more details for
+  "Introduction and Overview", Refs and Appendices added</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-06-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03297</dc:identifier>
+ </oai_dc:dc>
+

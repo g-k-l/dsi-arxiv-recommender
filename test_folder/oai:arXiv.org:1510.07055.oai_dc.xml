@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The domain geometry and the bubbling phenomenon of rank two Gauge theory</dc:title>
+ <dc:creator>Huang, Hsin-Yuan</dc:creator>
+ <dc:creator>Zhang, Lei</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35J56, 35Q60</dc:subject>
+ <dc:description>  Let $\Omega$ be a flat torus and $G$ be the green's function of $-\Delta$ on
+$\Omega$. One intriguing mystery of $G$ is how the number of its critical
+points is related to blowup solutions of certain PDEs. In this article we prove
+that for the following equation that describes a Chern-Simons model in Gauge
+theory: \begin{equation}\label{e103} \left\{ \begin{array}{ll} \Delta
+u_1+\frac{1}{\varepsilon^2}e^{u_2}(1-e^{u_1})=8\pi\delta_{p_{1}} \Delta
+u_2+\frac{1}{\varepsilon^2}e^{u_1}(1-e^{u_2})=8\pi\delta_{p_{2}} \end{array}
+\text{ in }\quad \Omega\right., \quad p_1-p_2 \mbox{ is a half period},
+\end{equation} if fully bubbling solutions of Liouville type exist, $G$ has
+exactly three critical points. In addition we establish necessary conditions
+for the existence of fully bubbling solutions with multiple bubbles.
+</dc:description>
+ <dc:description>Comment: 33 pages, to appear on Communications in Mathematical Physics, 2016</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-04-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07055</dc:identifier>
+ <dc:identifier>doi:10.1007/s00220-016-2685-9</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Spiky Ball</dc:title>
+ <dc:creator>Nasz&#243;di, M&#225;rton</dc:creator>
+ <dc:subject>Mathematics - Metric Geometry</dc:subject>
+ <dc:subject>52C17, 52A22</dc:subject>
+ <dc:description>  The Illumination Problem may be phrased as the problem of covering a convex
+body in Euclidean $n$-space by a minimum number of translates of its interior.
+By a probabilistic argument, we show that, arbitrarily close to the Euclidean
+ball, there is a centrally symmetric convex body of illumination number
+exponentially large in the dimension.
+</dc:description>
+ <dc:description>Comment: 7 pages, 1 figure</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00782</dc:identifier>
+ <dc:identifier>Mathematika 62 (2016) 630-636</dc:identifier>
+ <dc:identifier>doi:10.1112/S0025579315000406</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,49 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Formation of Massive Primordial Stars: Intermittent UV Feedback with
+  Episodic Mass Accretion</dc:title>
+ <dc:creator>Hosokawa, Takashi</dc:creator>
+ <dc:creator>Hirano, Shingo</dc:creator>
+ <dc:creator>Kuiper, Rolf</dc:creator>
+ <dc:creator>Yorke, Harold W.</dc:creator>
+ <dc:creator>Omukai, Kazuyuki</dc:creator>
+ <dc:creator>Yoshida, Naoki</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We present coupled stellar evolution (SE) and 3D radiation-hydrodynamic (RHD)
+simulations of the evolution of primordial protostars, their immediate
+environment, and the dynamic accretion history under the influence of stellar
+ionizing and dissociating UV feedback. Our coupled SE-RHD calculations result
+in a wide diversity of final stellar masses covering 10 Msun $\lesssim M_*
+\lesssim$ 1000 Msun. The formation of very massive ($\gtrsim$ 250 Msun) stars
+is possible under weak UV feedback, whereas ordinary massive (a few x 10 Msun)
+stars form when UV feedback can efficiently halt the accretion. This may
+explain the peculiar abundance pattern of a Galactic metal-poor star recently
+reported by Aoki et al. (2014), possibly the observational signature of very
+massive precursor primordial stars. Weak UV feedback occurs in cases of
+variable accretion, in particular when repeated short accretion bursts
+temporarily exceed 0.01 Msun/yr, causing the protostar to inflate. In the
+bloated state, the protostar has low surface temperature and UV feedback is
+suppressed until the star eventually contracts, on a thermal adjustment
+timescale, to create an HII region. If the delay time between successive
+accretion bursts is sufficiently short, the protostar remains bloated for
+extended periods, initiating at most only short periods of UV feedback. Disk
+fragmentation does not necessarily reduce the final stellar mass. Quite the
+contrary, we find that disk fragmentation enhances episodic accretion as many
+fragments migrate inward and are accreted onto the star, thus allowing
+continued stellar mass growth under conditions of intermittent UV feedback.
+This trend becomes more prominent as we improve the resolution of our
+simulations. We argue that simulations with significantly higher resolution
+than reported previously are needed to derive accurate gas mass accretion rates
+onto primordial protostars.
+</dc:description>
+ <dc:description>Comment: 28 pages, 27 figures, accepted for publication in ApJ. Movies are
+  available at
+  https://www.youtube.com/playlist?list=PLy0BOLTBcHhb-Q6cG8hwmjUEvTzcH4AMF</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-04-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01407</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/824/2/119</dc:identifier>
+ </oai_dc:dc>
+

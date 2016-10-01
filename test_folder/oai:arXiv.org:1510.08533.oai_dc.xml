@@ -1,0 +1,47 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Hubble Space Telescope Study of the Enigmatic Milky Way Halo Globular
+  Cluster Crater</dc:title>
+ <dc:creator>Weisz, Daniel R.</dc:creator>
+ <dc:creator>Koposov, Sergey E.</dc:creator>
+ <dc:creator>Dolphin, Andrew E.</dc:creator>
+ <dc:creator>Belokurov, Vasily</dc:creator>
+ <dc:creator>Gieles, Mark</dc:creator>
+ <dc:creator>Mateo, Mario L.</dc:creator>
+ <dc:creator>Olszewski, Edward W.</dc:creator>
+ <dc:creator>Sills, Alison</dc:creator>
+ <dc:creator>Walker, Matthew G.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We analyze the resolved stellar populations of the faint stellar system,
+Crater, based on deep optical imaging taken with the Hubble Space Telescope.
+The HST/ACS-based color-magnitude diagram (CMD) of Crater extends $\sim$4
+magnitudes below the oldest main sequence turnoff, providing excellent leverage
+on Crater's physical properties. Structurally, Crater has a half-light radius
+of $\sim$20 pc and shows no evidence for tidal distortions. Crater is
+well-described by a simple stellar population with an age of $\sim$7.5 Gyr,
+[M/H]$\sim-1.65$, a M$_{\star}\sim10^4$ M$_{\odot}$, M$_{\rm V}\sim -5.3$,
+located at a distance of d$\sim$ 145 kpc, with modest uncertainties in these
+properties due to differences in the underlying stellar evolution models. The
+sparse sampling of stars above the turnoff and sub-giant branch are likely to
+be 1.0-1.4 M$_{\odot}$ binary star systems (blue stragglers) and their evolved
+descendants, as opposed to intermediate age main sequence stars. Confusion of
+these populations highlights a substantial challenge in accurately
+characterizing sparsely populated stellar systems. Our analysis shows that
+Crater is not a dwarf galaxy, but instead is an unusually young cluster given
+its location in the Milky Way's very outer stellar halo. Crater is similar to
+SMC cluster Lindsay 38, and its position and velocity are in good agreement
+with observations and models of the Magellanic stream debris, suggesting it may
+have accreted from the Magellanic Clouds. However, its age and metallicity are
+also in agreement with the age-metallicity relationships of lower mass dwarf
+galaxies such as Leo I or Carina. Despite uncertainty over its progenitor
+system, Crater appears to have been incorporated into the Galaxy more recently
+than $z\sim1$ (8 Gyr ago), providing an important new constraint on the
+accretion history of the Milky Way. [abridged]
+</dc:description>
+ <dc:description>Comment: 9 pages, 11 Figures. Submitted to ApJ. Comments welcome</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2015-11-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08533</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/822/1/32</dc:identifier>
+ </oai_dc:dc>
+

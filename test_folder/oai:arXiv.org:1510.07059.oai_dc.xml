@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mapping the domain wall pinning landscape in ferromagnetic films</dc:title>
+ <dc:creator>Badea, Robert</dc:creator>
+ <dc:creator>Berezovsky, Jesse</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  The propagation of domain walls in a ferromagnetic film is largely determined
+by domain wall pinning at defects in the material. In this letter we map the
+effective potential landscape for domain wall pinning in Permalloy films by
+raster scanning a single ferromagnetic vortex and monitoring the hysteretic
+vortex displacement vs. applied magnetic field. The measurement is carried out
+using a differential magneto-optical microscopy technique which yields spatial
+sensitivity $\sim 10$ nm. We present a simple algorithm for extracting an
+effective pinning potential from the measurement of vortex displacement vs.
+applied field. The resulting maps of the pinning potential reveal distinct
+types of pinning sites, which we attribute to quasi-zero-, one-, and
+two-dimensional defects in the Permalloy film.
+</dc:description>
+ <dc:description>Comment: 8 pages, 5 figures</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07059</dc:identifier>
+ <dc:identifier>Phys. Rev. Applied 5, 064003 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevApplied.5.064003</dc:identifier>
+ </oai_dc:dc>
+

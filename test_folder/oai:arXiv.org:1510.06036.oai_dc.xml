@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Semicontinuity of 4d N=2 spectrum under renormalization group flow</dc:title>
+ <dc:creator>Xie, Dan</dc:creator>
+ <dc:creator>Yau, Shing-Tung</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:description>  We study renormalization group flow of four dimensional N=2 SCFTs defined by
+isolated hypersurface three-fold singularities. We define the spectrum of N=2
+theory as the set of scaling dimensions of the parameters on the Coulomb
+branch, which include Coulomb branch moduli, mass parameters and coupling
+constants. We prove that the spectrum of those theories is semicontinous under
+the RG flow on the Coulomb branch using the mathematical result about the
+singularity spectra under deformation. The semicontinuity behavior of N=2
+spectrum implies a theorem under relevant and Coulomb branch moduli
+deformation, the absence of dangerous irrelevant deformations and can be taken
+as the necessary condition for the ending point of a RG flow. This behavior is
+also true for (c,c) ring deformation of two dimensional Landau-Ginzburg model
+with (2,2) supersymmetry.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06036</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP03(2016)094</dc:identifier>
+ </oai_dc:dc>
+

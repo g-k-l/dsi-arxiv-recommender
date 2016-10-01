@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Asymptotic gravitational wave fluxes from a spinning particle in
+  circular equatorial orbits around a rotating black hole</dc:title>
+ <dc:creator>Harms, Enno</dc:creator>
+ <dc:creator>Lukes-Gerakopoulos, Georgios</dc:creator>
+ <dc:creator>Bernuzzi, Sebastiano</dc:creator>
+ <dc:creator>Nagar, Alessandro</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We present a new computation of the asymptotic gravitational wave energy
+fluxes emitted by a {\it spinning} particle in circular equatorial orbits about
+a Kerr black hole. The particle dynamics is computed in the pole-dipole
+approximation, solving the Mathisson-Papapetrou equations with the Tulczyjew
+spin-supplementary-condition. The fluxes are computed, for the first time, by
+solving the 2+1 Teukolsky equation in the time-domain using hyperboloidal and
+horizon-penetrating coordinates. Denoting by $M$ the black hole mass and by
+$\mu$ the particle mass, we cover dimensionless background spins
+$a/M=(0,\pm0.9)$ and dimensionless particle spins $-0.9\leq S/\mu^2 \leq +0.9$.
+Our results span orbits of Boyer-Lindquist coordinate radii $4\leq r/M \leq
+30$; notably, we investigate the strong-field regime, in some cases even beyond
+the last-stable-orbit. We confirm, numerically, the Tanaka {\it et al.} [Phys.\
+Rev.\ D 54, 3762] 2.5th order accurate Post-Newtonian (PN) predictions for the
+gravitational wave fluxes of a spinning particle in circular equatorial orbit:
+we find an unambiguos trend of the PN-prediction towards the numerical results
+when $r$ is large. At $r/M=30$ the fractional agreement between the full
+numerical flux, approximated as the sum over the modes $m=1,2,3$, and the PN
+prediction is $\lesssim0.5\%$ in all cases tested. This is close to our
+fractional numerical accuracy ($\sim 0.2\%$). For smaller radii, the agreement
+between the 2.5PN prediction and the numerical result progressively
+deteriorates. Our numerical data will be essential to develop suitably resummed
+expressions of the 2.5PN analytical fluxes in order to improve their accuracy
+in the strong-field regime.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-08-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05548</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 044015, 2016</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.044015</dc:identifier>
+ </oai_dc:dc>
+

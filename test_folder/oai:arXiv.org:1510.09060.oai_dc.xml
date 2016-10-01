@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Irregular conformal block, spectral curve and flow equations</dc:title>
+ <dc:creator>Choi, Sang Kwan</dc:creator>
+ <dc:creator>Rim, Chaiho</dc:creator>
+ <dc:creator>Zhang, Hong</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  Irregular conformal block is motivated by the Argyres-Douglas type of N=2
+super conformal gauge theory. We investigate the classical/NS limit of the
+irregular conformal block using spectral curve on a Riemann surface with
+irregular punctures, which is equivalent to the loop equation of irregular
+matrix model. The spectral curve is reduced to the second order (Virasoro
+symmetry, $SU(2)$ for the gauge theory) and third order ($W_3$ symmetry,
+$SU(3)$) differential equations of a polynomial with finite degree. The
+Virasoro and W symmetry generate flow equations in the spectral curve and
+determine the irregular conformal block, hence the partition function of the
+Argyres-Douglas theory ala AGT conjecture.
+</dc:description>
+ <dc:description>Comment: 35 pages; v2: 38 pages, section 4 and references added, minor changes</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09060</dc:identifier>
+ <dc:identifier>JHEP03(2016)118</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP03(2016)118</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>In vivo deep tissue imaging using wavefront shaping optical coherence
+  tomography</dc:title>
+ <dc:creator>Yu, Hyeonseung</dc:creator>
+ <dc:creator>Lee, Jaehyun Peter</dc:creator>
+ <dc:creator>Lee, KyeoReh</dc:creator>
+ <dc:creator>Jang, Jaeduck</dc:creator>
+ <dc:creator>Lim, Jaeguyn</dc:creator>
+ <dc:creator>Jang, Wooyoung</dc:creator>
+ <dc:creator>Jeong, Yong</dc:creator>
+ <dc:creator>Park, YongKeun</dc:creator>
+ <dc:subject>Physics - Medical Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Multiple light scattering in tissue limits the penetration of optical
+coherence tomography (OCT) imaging. Here, we present in-vivo OCT imaging of a
+live mouse using wavefront shaping to enhance the penetration depth. A digital
+micro-mirror device (DMD) was used in a spectral-domain OCT system for complex
+wavefront shaping of an incident beam which resulted in the optimal delivery of
+light energy into deep tissue. Ex-vivo imaging of chicken breasts and mouse ear
+tissues showed enhancements in the strength of the image signals and the
+penetration depth, and in-vivo imaging of the tail of a live mouse provided a
+multilayered structure inside the tissue, otherwise invisible in conventional
+OCT imaging. Signal enhancements by a factor of 3-7 were acquired for various
+experimental conditions and samples.
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08157</dc:identifier>
+ <dc:identifier>doi:10.1117/1.JBO.21.10.101406</dc:identifier>
+ </oai_dc:dc>
+

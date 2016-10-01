@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generation and efficient measurement of single photons from fixed
+  frequency superconducting qubits</dc:title>
+ <dc:creator>Kindel, William F.</dc:creator>
+ <dc:creator>Schroer, M. D.</dc:creator>
+ <dc:creator>Lehnert, K. W.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:description>  We demonstrate and evaluate an on-demand source of single itinerant microwave
+photons. Photons are generated using a highly coherent, fixed-frequency
+qubit-cavity system, and a protocol where the microwave control field is far
+detuned from the photon emission frequency. By using a Josephson parametric
+amplifier (JPA), we perform efficient single-quadrature detection of the state
+emerging from the cavity. We characterize the imperfections of the photon
+generation and detection, including detection inefficiency and state infidelity
+caused by measurement backaction over a range of JPA gains from 17 to 33 dB. We
+observe that both detection efficiency and undesirable backaction increase with
+JPA gain. We find that the density matrix has its maximum single photon
+component $\rho_{11} = 0.36 \pm 0.01$ at 29 dB JPA gain. At this gain,
+backaction of the JPA creates cavity photon number fluctuations that we model
+as a thermal distribution with an average photon number $\bar{n} = 0.041 \pm
+0.003$.
+</dc:description>
+ <dc:description>Comment: 9 pages, 6 figures</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00663</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 033817 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.033817</dc:identifier>
+ </oai_dc:dc>
+

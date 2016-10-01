@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The social dilemma of autonomous vehicles</dc:title>
+ <dc:creator>Bonnefon, Jean-Fran&#231;ois</dc:creator>
+ <dc:creator>Shariff, Azim</dc:creator>
+ <dc:creator>Rahwan, Iyad</dc:creator>
+ <dc:subject>Computer Science - Computers and Society</dc:subject>
+ <dc:description>  Autonomous Vehicles (AVs) should reduce traffic accidents, but they will
+sometimes have to choose between two evils-for example, running over
+pedestrians or sacrificing itself and its passenger to save them. Defining the
+algorithms that will help AVs make these moral decisions is a formidable
+challenge. We found that participants to six MTurk studies approved of
+utilitarian AVs (that sacrifice their passengers for the greater good), and
+would like others to buy them, but they would themselves prefer to ride in AVs
+that protect their passengers at all costs. They would disapprove of enforcing
+utilitarian AVs, and would be less willing to buy such a regulated AV.
+Accordingly, regulating for utilitarian algorithms may paradoxically increase
+casualties by postponing the adoption of a safer technology.
+</dc:description>
+ <dc:description>Comment: 14 pages, 3 figures</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-07-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03346</dc:identifier>
+ <dc:identifier>Science, 352(6293), 1573-1576 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1126/science.aaf2654</dc:identifier>
+ </oai_dc:dc>
+

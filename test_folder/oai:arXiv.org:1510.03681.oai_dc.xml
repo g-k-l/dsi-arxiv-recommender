@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A single-atom heat engine</dc:title>
+ <dc:creator>Ro&#223;nagel, Johannes</dc:creator>
+ <dc:creator>Dawkins, Samuel Thomas</dc:creator>
+ <dc:creator>Tolazzi, Karl Nicolas</dc:creator>
+ <dc:creator>Abah, Obinna</dc:creator>
+ <dc:creator>Lutz, Eric</dc:creator>
+ <dc:creator>Schmidt-Kaler, Ferdinand</dc:creator>
+ <dc:creator>Singer, Kilian</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We report the experimental realization of a single-atom heat engine. An ion
+is confined in a linear Paul trap with tapered geometry and driven thermally by
+coupling it alternately to hot and cold reservoirs. The output power of the
+engine is used to drive a harmonic oscillation. From direct measurements of the
+ion dynamics, we determine the thermodynamic cycles for various temperature
+differences of the reservoirs. We use these cycles to evaluate power $P$ and
+efficiency $\eta$ of the engine, obtaining up to $P=342\,$yJ and $\eta=0.28
+\,\%$, consistent with analytical estimations. Our results demonstrate that
+thermal machines can be reduced to the ultimate limit of single atoms.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03681</dc:identifier>
+ <dc:identifier>Science 352, 6283 (2016) pp. 325-329</dc:identifier>
+ <dc:identifier>doi:10.1126/science.aad6320</dc:identifier>
+ </oai_dc:dc>
+

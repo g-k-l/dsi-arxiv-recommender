@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A New Notion of Cardinality for Countable First Order Theories</dc:title>
+ <dc:creator>Ulrich, Douglas</dc:creator>
+ <dc:creator>Rast, Richard</dc:creator>
+ <dc:creator>Laskowski, Michael C.</dc:creator>
+ <dc:subject>Mathematics - Logic</dc:subject>
+ <dc:subject>03E15 (Primary) 03C15, 03C52 (Secondary)</dc:subject>
+ <dc:description>  We define and investigate HC-forcing invariant formulas of set theory, whose
+interpretations in the hereditarily countable sets are well behaved under
+forcing extensions. This leads naturally to a notion of cardinality ||Phi|| for
+sentences Phi of $L_{\omega_1,\omega}$, which counts the number of sentences of
+$L_{\infty,\omega}$ that, in some forcing extension, become a canonical Scott
+sentence of a model of Phi. We show this cardinal bounds the complexity of
+(Mod(Phi), iso), the class of models of Phi with universe omega, by proving
+that (Mod(Phi),iso) is not Borel reducible to (Mod(Psi),iso) whenever ||Psi|| &lt;
+||Phi||.
+  Using these tools, we analyze the complexity of the class of countable models
+of four complete, first-order theories T for which (Mod(T),iso) is properly
+analytic, yet admit very different behavior. We prove that both `Binary
+splitting, refining equivalence relations' and Koerwien's example of an
+eni-depth 2, omega-stable theory have (Mod(T),iso) non-Borel, yet neither is
+Borel complete. We give a slight modification of Koerwien's example that also
+is omega-stable, eni-depth 2, but is Borel complete. Additionally, we prove
+that I_{\infty,\omega}(Phi)&lt;\beth_{\omega_1} whenever (Mod(Phi),iso) is Borel.
+</dc:description>
+ <dc:description>Comment: Submitted for publication. Contains some typographical fixes and
+  improvement of exposition in Section 4</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-04-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05679</dc:identifier>
+ </oai_dc:dc>
+

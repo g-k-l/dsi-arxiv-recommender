@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Properties of the Fast Forward Shock Driven by the July 23 2012 Extreme
+  Coronal Mass Ejection</dc:title>
+ <dc:creator>Riley, Pete</dc:creator>
+ <dc:creator>Caplan, Ronald M.</dc:creator>
+ <dc:creator>Giacalone, Joe</dc:creator>
+ <dc:creator>Lario, David</dc:creator>
+ <dc:creator>Liu, Ying</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:subject>Physics - Space Physics</dc:subject>
+ <dc:description>  Late on July 23, 2012, the STEREO-A spacecraft encountered a fast forward
+shock driven by a coronal mass ejection launched from the Sun earlier that same
+day. The estimated travel time of the disturbance ($\sim 20$ hrs), together
+with the massive magnetic field strengths measured within the ejecta ($&gt;
+100$nT), made it one of the most extreme events observed during the space era.
+In this study, we examine the properties of the shock wave. Because of an
+instrument malfunction, plasma measurements during the interval surrounding the
+CME were limited, and our approach has been modified to capitalize on the
+available measurements and suitable proxies, where possible. We were able to
+infer the following properties. First, the shock normal was pointing
+predominantly in the radial direction (${\bf n} = 0.97 {\bf e}_r -0.09 {\bf
+e}_t -0.23 {\bf e}_n$). Second, the angle between ${\bf n}$ and the upstream
+magnetic field, $\theta_{Bn}$, was estimated to be $\approx 34^{\circ}$, making
+the shock "quasi-parallel," and supporting the idea of an earlier
+"preconditioning" ICME. Third, the shock speed was estimated to be $\approx
+3300$ km s$^{-1}$. Fourth, the sonic Mach number, $M_s$, for this shock was
+$\sim 28$. We support these results with an idealized numerical simulation of
+the ICME. Finally, we estimated the change in ram pressure upstream of the
+shock to be $\sim 5$ times larger than the pressure from the energetic
+particles, suggesting that this was not a standard "steady-state" cosmic-ray
+modified shock (CRMS). Instead it might represent an early, transient phase in
+the evolution of the CRMS.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06088</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/819/1/57</dc:identifier>
+ </oai_dc:dc>
+

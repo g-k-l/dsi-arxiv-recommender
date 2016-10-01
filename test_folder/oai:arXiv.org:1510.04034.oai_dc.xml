@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Structural and electronic properties of epitaxial multilayer h-BN on
+  Ni(111) for spintronics applications</dc:title>
+ <dc:creator>Tonkikh, A. A.</dc:creator>
+ <dc:creator>Voloshina, E. N.</dc:creator>
+ <dc:creator>Werner, P.</dc:creator>
+ <dc:creator>Blumtritt, H.</dc:creator>
+ <dc:creator>Senkovskiy, B.</dc:creator>
+ <dc:creator>G&#252;ntherodt, G.</dc:creator>
+ <dc:creator>Parkin, S. S. P.</dc:creator>
+ <dc:creator>Dedkov, Yu. S.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Hexagonal boron nitride (h-BN) is a promising material for implementation in
+spintronics due to a large band gap, low spin-orbit coupling, and a small
+lattice mismatch to graphene and to close-packed surfaces of fcc-Ni(111) and
+hcp-Co(0001). Epitaxial deposition of h-BN on ferromagnetic metals is aimed at
+small interface scattering of charge and spin carriers. We report on the
+controlled growth of h-BN/Ni(111) by means of molecular beam epitaxy (MBE).
+Structural and electronic properties of this system are investigated using
+cross-section transmission electron microscopy (TEM) and electron
+spectroscopies which confirm good agreement with the properties of bulk h-BN.
+The latter are also corroborated by density functional theory (DFT)
+calculations, revealing that the first h-BN layer at the interface to Ni is
+metallic. Our investigations demonstrate that MBE is a promising, versatile
+alternative to both the exfoliation approach and chemical vapour deposition of
+h-BN.
+</dc:description>
+ <dc:description>Comment: text, 4 figures, and supplementary info</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04034</dc:identifier>
+ <dc:identifier>Sci. Rep. 6, 23547 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep23547</dc:identifier>
+ </oai_dc:dc>
+

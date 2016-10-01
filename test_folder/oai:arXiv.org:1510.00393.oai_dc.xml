@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Clustering of Faint Red Galaxies</dc:title>
+ <dc:creator>Xu, Haojie</dc:creator>
+ <dc:creator>Zheng, Zheng</dc:creator>
+ <dc:creator>Guo, Hong</dc:creator>
+ <dc:creator>Zhu, Ju</dc:creator>
+ <dc:creator>Zehavi, Idit</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  Faint red galaxies in the Sloan Digital Sky Survey show a puzzling clustering
+pattern in previous measurements. In the two-point correlation function (2PCF),
+they appear to be strongly clustered on small-scales, indicating a tendency to
+reside in massive haloes as satellite galaxies. However, their weak clustering
+on large scales suggests that they are more likely to be found in low mass
+haloes. The interpretation of the clustering pattern suffers from the large
+sample variance in the 2PCF measurements, given the small volume of the
+volume-limited sample of such faint galaxies. We introduce a method to improve
+the clustering measurements of faint galaxies by making a full use of a
+flux-limited sample to obtain volume-limited measurements with an increased
+effective volume. In the improved 2PCF measurements, the fractional
+uncertainties on large-scales drop by more than 40 per cent, and the strong
+contrast between small-scale and large-scale clustering amplitudes seen in
+previous work is no longer prominent. From halo occupation distribution
+modelling of the measurements, we find that a considerable fraction of faint
+red galaxies to be satellites in massive haloes, a senario supported by the
+strong covariance of small-scale 2PCF measurements and the relative spatial
+distribution of faint red galaxies and luminous galaxies. However, the
+satellite fraction is found to be degenerate with the slope of the distribution
+profile of satellites in inner haloes. We compare the modelling results with
+semi-analytic model predictions and discuss the implications.
+</dc:description>
+ <dc:description>Comment: 14 pages,10 figures, accepted by MNRAS</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-06-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00393</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1259</dc:identifier>
+ </oai_dc:dc>
+

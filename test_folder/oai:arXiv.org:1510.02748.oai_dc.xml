@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quasistatic dynamics with intermittency</dc:title>
+ <dc:creator>Lepp&#228;nen, Juho</dc:creator>
+ <dc:creator>Stenlund, Mikko</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>2010: 37C60, 37D25, 37A10, 37A30</dc:subject>
+ <dc:description>  We study an intermittent quasistatic dynamical system composed of
+nonuniformly hyperbolic Pomeau--Manneville maps with time-dependent parameters.
+We prove an ergodic theorem which shows almost sure convergence of time
+averages in a certain parameter range, and identify the unique physical family
+of measures. The theorem also shows convergence in probability in a larger
+parameter range. In the process, we establish other results that will be useful
+for further analysis of the statistical properties of the model.
+</dc:description>
+ <dc:description>Comment: 20 pages</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02748</dc:identifier>
+ <dc:identifier>doi:10.1007/s11040-016-9212-2</dc:identifier>
+ </oai_dc:dc>
+

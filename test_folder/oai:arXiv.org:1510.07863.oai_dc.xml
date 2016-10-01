@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>C1-continuous space-time discretization based on Hamilton's law of
+  varying action</dc:title>
+ <dc:creator>Mergel, Janine C.</dc:creator>
+ <dc:creator>Sauer, Roger A.</dc:creator>
+ <dc:creator>Ober-Bl&#246;baum, Sina</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Computer Science - Computational Engineering, Finance, and Science</dc:subject>
+ <dc:description>  We develop a class of C1-continuous time integration methods that are
+applicable to conservative problems in elastodynamics. These methods are based
+on Hamilton's law of varying action. From the action of the continuous system
+we derive a spatially and temporally weak form of the governing equilibrium
+equations. This expression is first discretized in space, considering standard
+finite elements. The resulting system is then discretized in time,
+approximating the displacement by piecewise cubic Hermite shape functions.
+Within the time domain we thus achieve C1-continuity for the displacement field
+and C0-continuity for the velocity field. From the discrete virtual action we
+finally construct a class of one-step schemes. These methods are examined both
+analytically and numerically. Here, we study both linear and nonlinear systems
+as well as inherently continuous and discrete structures. In the numerical
+examples we focus on one-dimensional applications. The provided theory,
+however, is general and valid also for problems in 2D or 3D. We show that the
+most favorable candidate -- denoted as p2-scheme -- converges with order four.
+Thus, especially if high accuracy of the numerical solution is required, this
+scheme can be more efficient than methods of lower order. It further exhibits,
+for linear simple problems, properties similar to variational integrators, such
+as symplecticity. While it remains to be investigated whether symplecticity
+holds for arbitrary systems, all our numerical results show an excellent
+long-term energy behavior.
+</dc:description>
+ <dc:description>Comment: slightly condensed the manuscript, added references, numerical
+  results unchanged</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07863</dc:identifier>
+ </oai_dc:dc>
+

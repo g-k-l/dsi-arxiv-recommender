@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The CP-Violating pMSSM</dc:title>
+ <dc:creator>Berger, Joshua</dc:creator>
+ <dc:creator>Cahill-Rowley, Matthew W.</dc:creator>
+ <dc:creator>Ghosh, Diptimoy</dc:creator>
+ <dc:creator>Hewett, JoAnne L.</dc:creator>
+ <dc:creator>Ismail, Ahmed</dc:creator>
+ <dc:creator>Rizzo, Thomas G.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  We investigate the sensitivity of the next generation of flavor-based
+low-energy experiments to probe the supersymmetric parameter space in the
+context of the phenomenological MSSM (pMSSM), and examine the complementarity
+with direct searches for Supersymmetry at the 13 TeV LHC in a quantitative
+manner. To this end, we enlarge the previously studied pMSSM parameter space to
+include all physical non-zero CP-violating phases, namely those associated with
+the gaugino mass parameters, Higgsino mass parameter, and the tri-linear
+couplings of the top quark, bottom quark and tau lepton. We find that future
+electric dipole moment and flavor measurements can have a strong impact on the
+viability of these models even if the sparticle spectrum is out of reach of the
+13 TeV LHC. In particular, the lack of positive signals in future low-energy
+probes would exclude values of the phases between ${\cal O}(10^{-2})$ and
+${\cal O}(10^{-1})$. We also find regions of parameter space where large phases
+remain allowed due to cancellations. Most interestingly, in some rare
+processes, such as BR($B_s \to \mu^+ \mu^-$ ), we find that contributions
+arising from CP-violating phases can bring the potentially large SUSY
+contributions into better agreement with experiment and Standard Model
+predictions.
+</dc:description>
+ <dc:description>Comment: Version to appear in PRD</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-01-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08840</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 035017 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.035017</dc:identifier>
+ </oai_dc:dc>
+

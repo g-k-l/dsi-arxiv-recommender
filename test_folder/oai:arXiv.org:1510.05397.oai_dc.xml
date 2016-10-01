@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Radiative Magnetic Reconnection in Astrophysics</dc:title>
+ <dc:creator>Uzdensky, Dmitri A.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  I review a new rapidly growing area of high-energy plasma astrophysics ---
+radiative magnetic reconnection, i.e., a reconnection regime where radiation
+reaction influences reconnection dynamics, energetics, and nonthermal particle
+acceleration. This influence be may be manifested via a number of
+astrophysically important radiative effects, such as radiation-reaction limits
+on particle acceleration, radiative cooling, radiative resistivity, braking of
+reconnection outflows by radiation drag, radiation pressure, viscosity, and
+even pair creation at highest energy densities. Self-consistent inclusion of
+these effects in magnetic reconnection theory and modeling calls for serious
+modifications to our overall theoretical approach to the problem. In addition,
+prompt reconnection-powered radiation often represents our only observational
+diagnostic tool for studying remote astrophysical systems; this underscores the
+importance of developing predictive modeling capabilities to connect the
+underlying physical conditions in a reconnecting system to observable radiative
+signatures. This Chapter gives an overview of recent theoretical progress in
+developing basic physical understanding of radiative reconnection, with a
+special emphasis on astrophysically important radiation mechanisms like
+synchrotron, curvature, and inverse-Compton. It also offers a broad review of
+key high-energy astrophysical applications of radiative reconnection, such as:
+pulsar wind nebulae and magnetospheres, accreting black-hole coronae and jets
+in XRBs and AGN, magnetospheres of magnetars, and Gamma-Ray Bursts. Finally,
+this Chapter discusses the most critical open questions and outlines the
+directions for future research in this exciting new frontier of plasma
+astrophysics.
+</dc:description>
+ <dc:description>Comment: Invited chapter to appear in "Magnetic Reconnection: Concepts and
+  Applications", Springer-Verlag, W. D. Gonzalez and E. N. Parker, eds. (2016);
+  44 pages</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05397</dc:identifier>
+ <dc:identifier>doi:10.1007/978-3-319-26432-5_12</dc:identifier>
+ </oai_dc:dc>
+

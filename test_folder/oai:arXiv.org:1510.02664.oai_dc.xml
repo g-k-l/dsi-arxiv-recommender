@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Search for the production of single vector-like and excited quarks in
+  the $Wt$ final state in $pp$ collisions at $\sqrt{s}$ = 8 TeV with the ATLAS
+  detector</dc:title>
+ <dc:creator>ATLAS Collaboration</dc:creator>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  A search for vector-like quarks and excited quarks in events containing a top
+quark and a $W$ boson in the final state is reported here. The search is based
+on $20.3 {fb}^{-1}$ of proton--proton collision data taken at the LHC at a
+centre-of-mass energy of 8 TeV recorded by the ATLAS detector. Events with one
+or two leptons, and one, two or three jets are selected with the additional
+requirement that at least one jet contains a $b$-quark. Single-lepton events
+are also required to contain at least one large-radius jet from the hadronic
+decay of a high-$p_\mathrm{T}$ $W$ boson or a top quark. No significant excess
+over the expected background is observed and upper limits on the cross-section
+times branching ratio for different vector-like quark and excited-quark model
+masses are derived. For the excited-quark production and decay to $Wt$ with
+unit couplings, quarks with masses below 1500 GeV are excluded and
+coupling-dependent limits are set.
+</dc:description>
+ <dc:description>Comment: 29 pages plus author list + cover pages (45 pages total), 13 figures,
+  5 tables, submitted to JHEP All figures including auxiliary figures are
+  available at
+  https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2014-13/</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02664</dc:identifier>
+ <dc:identifier>JHEP02(2016)110</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)110</dc:identifier>
+ </oai_dc:dc>
+

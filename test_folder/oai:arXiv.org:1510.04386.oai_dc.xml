@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Total positivity for the Lagrangian Grassmannian</dc:title>
+ <dc:creator>Karpman, Rachel</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  The stratification of the Grassmannian by positroid varieties has been the
+subject of extensive research. Positroid varieties are in bijection with a
+number of combinatorial objects, including $k$-Bruhat intervals and bounded
+affine permutations. In addition, Postnikov's boundary measurement map gives a
+family of parametrizations of each positroid variety; the domain of each
+parametrization is the space of edge weights of a weighted planar network. In
+this paper, we generalize the combinatorics of positroid varieties to the
+Lagrangian Grassmannian $\Lambda(2n)$, which is the type $C$ analog of the
+ordinary, or type $A$, Grassmannian. The Lagrangian Grassmannian has a
+stratification by projected Richardson varieties, which are the type $C$
+analogs of positroid varieties. We define type $C$ generalizations of bounded
+affine permutations and $k$-Bruhat intervals, as well as several other
+combinatorial posets which index positroid varieties. In addition, we
+generalize Postnikov's network parametrizations to projected Richardson
+varieties in $\Lambda(2n)$. In particular, we show that restricting the edge
+weights of our networks to $\mathbb{R}^+$ yields a family of parametrizations
+for totally nonnegative cells in $\Lambda(2n)$. In the process, we obtain a set
+of linear relations among the Pl\"ucker coordinates on $\text{Gr}(n,2n)$ which
+cut out the Lagrangian Grassmannian set-theoretically.
+</dc:description>
+ <dc:description>Comment: Revisions: Fixed typo. Corrected exposition in Remark 1, which
+  relates results of this paper to results of Xuhua He and Thomas Lam. 40
+  pages, 14 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-04-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04386</dc:identifier>
+ </oai_dc:dc>
+

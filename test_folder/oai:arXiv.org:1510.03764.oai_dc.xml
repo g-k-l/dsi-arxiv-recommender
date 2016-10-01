@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Search for anomalous couplings in the $Wtb$ vertex from the measurement
+  of double differential angular decay rates of single top quarks produced in
+  the $t$-channel with the ATLAS detector</dc:title>
+ <dc:creator>ATLAS Collaboration</dc:creator>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  The electroweak production and subsequent decay of single top quarks is
+determined by the properties of the $Wtb$ vertex. This vertex can be described
+by the complex parameters of an effective Lagrangian. An analysis of angular
+distributions of the decay products of single top quarks produced in the
+$t$-channel constrains these parameters simultaneously. The analysis described
+in this paper uses 4.6 fb$^{-1}$ of proton-proton collision data at $\sqrt{s}$
+= 7 TeV collected with the ATLAS detector at the LHC.Two parameters are
+measured simultaneously in this analysis. The fraction $f_1$ of decays
+containing transversely polarised $W$ bosons is measured to be $0.37 \pm 0.07$
+(stat.$\oplus$syst.). The phase $\delta_{-}$ between amplitudes for
+transversely and longitudinally polarised $W$ bosons recoiling against
+left-handed $b$-quarks is measured to be $-0.14\pi \pm 0.036\pi$
+(stat.$\oplus$syst.).The correlation in the measurement of these parameters is
+$0.15$. These values result in two-dimensional limits at the 95% confidence
+level on the ratio of the complex coupling parameters $g_\mathrm{R}$ and
+$V_\mathrm{L}$, yielding Re [$g_\mathrm{R}/V_\mathrm{L}$] $\in [-0.36,0.10]$
+and Im [$g_\mathrm{R}/V_\mathrm{L}$] $\in [-0.17,0.23]$ with a correlation of
+0.11. The results are in good agreement with the predictions of the Standard
+Model.
+</dc:description>
+ <dc:description>Comment: 26 pages plus author list + cover pages (42 pages total), 8 figures,
+  2 tables, submitted to JHEP, All figures including auxiliary figures are
+  available at
+  https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/TOPQ-2013-12</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03764</dc:identifier>
+ <dc:identifier>JHEP 04 (2016) 023</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP04(2016)023</dc:identifier>
+ </oai_dc:dc>
+

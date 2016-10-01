@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Three particles in a finite volume</dc:title>
+ <dc:creator>Rusetsky, Akaki</dc:creator>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  The volume-dependence of a shallow three-particle bound state in the cubic
+box with a size $L$ is studied. It is shown that, in the unitary limit, the
+energy-level shift from the infinite-volume position is given by $\Delta E=c
+(\kappa^2/m)\,(\kappa L)^{-3/2}|A|^2 \exp(-2\kappa L/\sqrt{3})$, where $\kappa$
+is the bound-state momentum and $|A|^2$ denotes the three-body analog of the
+asymptotic normalization constant, which encodes the information about the
+short-range interactions in the three-body system.
+</dc:description>
+ <dc:description>Comment: Talk presented at the 33rd International Symposium on Lattice Field
+  Theory, 14 -18 July 2015, Kobe, Japan. In version 2, a mistake is corrected
+  in the calculation of the overlap integral, which affects only the numerical
+  value of the coefficient c in Eq. (3.11). The algebraic expression for the
+  energy shift remains the same</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-07-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01206</dc:identifier>
+ </oai_dc:dc>
+

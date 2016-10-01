@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Self-Organization and Heating by Inward Diffusion in Magnetospheric
+  Plasmas</dc:title>
+ <dc:creator>Sato, N.</dc:creator>
+ <dc:creator>Yoshida, Z.</dc:creator>
+ <dc:creator>Kawazura, Y.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:description>  Through the process of inward diffusion, a strongly localized clump of plasma
+is created in a magnetosphere. The creation of the density gradient, instead of
+the usual flattening by a diffusion process, can be explained by the
+topological constraints given by the adiabatic invariants of magnetized
+particles. After developing a canonical formalism for the standard guiding
+center dynamics in a dipole magnetic field, we complete our attempt to build a
+statistical mechanics on a constrained phase space by discussing the
+construction principles of the associated diffusion operator. We then
+investigate the heating mechanism associated with inward diffusion: as
+particles move toward regions of higher magnetic field, they experience
+preferential heating of the perpendicular (with respect to the magnetic field)
+temperature in order to preserve the magnetic moment. A relationship between
+conservation of bounce action and temperature isotropy emerged. We further show
+that this behavior is scaled by the diffusion parameter of the Fokker-Planck
+equation. These results are confirmed by numerical simulations.
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2015-11-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08571</dc:identifier>
+ <dc:identifier>Plasma and Fusion Research Volume 11, 2401009 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1585/pfr.11.2401009</dc:identifier>
+ </oai_dc:dc>
+

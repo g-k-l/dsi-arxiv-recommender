@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Windrose Planarity: Embedding Graphs with Direction-Constrained Edges</dc:title>
+ <dc:creator>Angelini, Patrizio</dc:creator>
+ <dc:creator>Da Lozzo, Giordano</dc:creator>
+ <dc:creator>Di Battista, Giuseppe</dc:creator>
+ <dc:creator>Di Donato, Valentino</dc:creator>
+ <dc:creator>Kindermann, Philipp</dc:creator>
+ <dc:creator>Rote, G&#252;nter</dc:creator>
+ <dc:creator>Rutter, Ignaz</dc:creator>
+ <dc:subject>Computer Science - Computational Geometry</dc:subject>
+ <dc:description>  Given a planar graph $G(V,E)$ and a partition of the neighbors of each vertex
+$v \in V$ in four sets $UR(v)$, $UL(v)$, $DL(v)$, and $DR(v)$, the problem
+Windrose Planarity asks to decide whether $G$ admits a windrose-planar drawing,
+that is, a planar drawing in which (i) each neighbor $u \in UR(v)$ is above and
+to the right of $v$, (ii) each neighbor $u \in UL(v)$ is above and to the left
+of $v$, (iii) each neighbor $u \in DL(v)$ is below and to the left of $v$, (iv)
+each neighbor $u \in DR(v)$ is below and to the right of $v$, and (v) edges are
+represented by curves that are monotone with respect to each axis. By
+exploiting both the horizontal and the vertical relationship among vertices,
+windrose-planar drawings allow to simultaneously visualize two partial orders
+defined by means of the edges of the graph.
+  Although the problem is NP-hard in the general case, we give a
+polynomial-time algorithm for testing whether there exists a windrose-planar
+drawing that respects a combinatorial embedding that is given as part of the
+input. This algorithm is based on a characterization of the plane
+triangulations admitting a windrose-planar drawing. Furthermore, for any
+embedded graph admitting a windrose-planar drawing we show how to construct one
+with at most one bend per edge on an $O(n) \times O(n)$ grid. The latter result
+contrasts with the fact that straight-line windrose-planar drawings may require
+exponential area.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-04-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02659</dc:identifier>
+ </oai_dc:dc>
+

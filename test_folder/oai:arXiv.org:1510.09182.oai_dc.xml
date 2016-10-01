@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tangent spaces of bundles and of filtered diffeological spaces</dc:title>
+ <dc:creator>Christensen, J. Daniel</dc:creator>
+ <dc:creator>Wu, Enxin</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>57P99, 58A05</dc:subject>
+ <dc:description>  We show that a diffeological bundle gives rise to an exact sequence of
+internal tangent spaces. We then introduce two new classes of diffeological
+spaces, which we call weakly filtered and filtered diffeological spaces, whose
+tangent spaces are easier to understand. These are the diffeological spaces
+whose categories of pointed plots are (weakly) filtered. We extend the exact
+sequence one step further in the case of a diffeological bundle with filtered
+total space and base space. We also show that the tangent bundle $T^H X$
+defined by Hector is a diffeological vector space over $X$ when $X$ is filtered
+or when $X$ is a homogeneous space, and therefore agrees with the dvs tangent
+bundle introduced by the authors in a previous paper.
+</dc:description>
+ <dc:description>Comment: v3: new results and improvements to exposition; 14 pages; this
+  version to appear in Proceedings of the AMS</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09182</dc:identifier>
+ </oai_dc:dc>
+

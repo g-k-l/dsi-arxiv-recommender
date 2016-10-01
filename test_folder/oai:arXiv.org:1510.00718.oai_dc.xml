@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>RHAPSODY-G simulations II - Baryonic growth and metal enrichment in
+  massive galaxy clusters</dc:title>
+ <dc:creator>Martizzi, Davide</dc:creator>
+ <dc:creator>Hahn, Oliver</dc:creator>
+ <dc:creator>Wu, Hao-Yi</dc:creator>
+ <dc:creator>Evrard, August E.</dc:creator>
+ <dc:creator>Teyssier, Romain</dc:creator>
+ <dc:creator>Wechsler, Risa H.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We study the evolution of the stellar component and the metallicity of both
+the intracluster medium and of stars in massive ($M_{\rm vir}\approx 6\times
+10^{14}$ M$_{\odot}/h$) simulated galaxy clusters from the Rhapsody-G suite in
+detail and compare them to observational results. The simulations were
+performed with the AMR code RAMSES and include the effect of AGN feedback at
+the sub-grid level. AGN feedback is required to produce realistic galaxy and
+cluster properties and plays a role in mixing material in the central regions
+and regulating star formation in the central galaxy. In both our low and high
+resolution runs with fiducial stellar yields, we find that stellar and ICM
+metallicities are a factor of two lower than in observations. We find that cool
+core clusters exhibit steeper metallicity gradients than non-cool core
+clusters, in qualitative agreement with observations. We verify that the ICM
+metallicities measured in the simulation can be explained by a simple
+"regulator" model in which the metallicity is set by a balance of stellar yield
+and gas accretion. It is plausible that a combination of higher resolution and
+higher metal yield in AMR simulation would allow the metallicity of simulated
+clusters to match observed values; however this hypothesis needs to be tested
+with future simulations. Comparison to recent literature highlights that
+results concerning the metallicity of clusters and cluster galaxies might
+depend sensitively on the scheme chosen to solve the hydrodynamics.
+</dc:description>
+ <dc:description>Comment: 22 pages, 11 figures, 2 tables. Accepted for publication on MNRAS</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00718</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw897</dc:identifier>
+ </oai_dc:dc>
+

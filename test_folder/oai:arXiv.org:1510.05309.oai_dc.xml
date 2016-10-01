@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Diagonal-preserving ring *-isomorphisms of Leavitt path algebras</dc:title>
+ <dc:creator>Brown, Jonathan H.</dc:creator>
+ <dc:creator>Clark, Lisa Orloff</dc:creator>
+ <dc:creator>Huef, Astrid an</dc:creator>
+ <dc:subject>Mathematics - Rings and Algebras</dc:subject>
+ <dc:subject>Mathematics - Operator Algebras</dc:subject>
+ <dc:description>  The graph groupoids of directed graphs are topologically isomorphic if and
+only if there is a diagonal-preserving ring *-isomorphism between the Leavitt
+path algebras.
+</dc:description>
+ <dc:description>Comment: We were able to remove a hypothesis from our main results.
+  Previously, we needed the ring *-isomorphism to restrict to an algebra
+  homomorphism on the diagonal</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-04-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05309</dc:identifier>
+ </oai_dc:dc>
+

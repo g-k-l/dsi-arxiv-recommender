@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Probing heavy neutrinos in the COMET experiment</dc:title>
+ <dc:creator>Asaka, Takehiko</dc:creator>
+ <dc:creator>Watanabe, Atsushi</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  We argue that the COMET experiment --- a dedicated experiment for the
+$\mu$-$e$ conversion search --- can be a powerful facility to search for heavy
+neutrinos in the mass range $1\,{\rm MeV} \lesssim M \lesssim 100\,{\rm MeV}$.
+The stopped muons captured by the target nuclei or decaying in orbit are
+efficiently produce heavy neutrinos via the active-sterile mixing. The produced
+heavy neutrinos then decay to electron-positron pair (plus an active neutrino),
+which events are clearly seen by the cylindrical drift chamber surrounding the
+target. The expected sensitivity is comparable to the PS191 bound when the
+COMET experiment achieves $\sim 10^{17}$ stopping muons in the target.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07746</dc:identifier>
+ <dc:identifier>doi:10.1093/ptep/ptw011</dc:identifier>
+ </oai_dc:dc>
+

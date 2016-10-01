@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Equilibrium structure of white dwarfs at finite temperatures</dc:title>
+ <dc:creator>Boshkayev, Kuantay</dc:creator>
+ <dc:creator>Rueda, Jorge A.</dc:creator>
+ <dc:creator>Zhami, Bakytzhan</dc:creator>
+ <dc:creator>Kalymova, Zhanerke</dc:creator>
+ <dc:creator>Balgymbekov, Galymdin</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  Recently, it has been shown by S.~M. de Carvalho et al. (2014) that the
+deviations between the degenerate case and observations were already evident
+for 0.7-0.8 M$_{\odot}$ white dwarfs. Such deviations were related to the
+neglected effects of finite temperatures on the structure of a white dwarf.
+Therefore, in this work by employing the Chandrasekhar equation of state taking
+into account the effects of temperature we show how the total pressure of the
+white dwarf matter depends on the mass density at different temperatures.
+Afterwards we construct equilibrium configurations of white dwarfs at finite
+temperatures. We obtain the mass-radius relations of white dwarfs for different
+temperatures by solving the Tolman-Oppenheimer-Volkoff equation, and compare
+them with the estimated masses and radii inferred from the Sloan Digital Sky
+Survey Data Release 4.
+</dc:description>
+ <dc:description>Comment: submitted to IJMPCS, 7 pages, 4 figures</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02024</dc:identifier>
+ <dc:identifier>doi:10.1142/S2010194516601290</dc:identifier>
+ </oai_dc:dc>
+

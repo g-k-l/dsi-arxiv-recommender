@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Global sensitivity metrics from active subspaces</dc:title>
+ <dc:creator>Constantine, Paul G.</dc:creator>
+ <dc:creator>Diaz, Paul</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  Predictions from science and engineering models depend on several input
+parameters. Global sensitivity analysis quantifies the importance of each input
+parameter, which can lead to insight into the model and reduced computational
+cost; commonly used sensitivity metrics include Sobol' total sensitivity
+indices and derivative-based global sensitivity measures. Active subspaces are
+an emerging set of tools for identifying important directions in a model's
+input parameter space; these directions can be exploited to reduce the model's
+dimension enabling otherwise infeasible parameter studies. In this paper, we
+develop global sensitivity metrics called activity scores from the active
+subspace, which yield insight into the important model parameters. We
+mathematically relate the activity scores to established sensitivity metrics,
+and we discuss computational methods to estimate the activity scores. We show
+two numerical examples with algebraic functions taken from simplified
+engineering models. For each model, we analyze the active subspace and discuss
+how to exploit the low-dimensional structure. We then show that input rankings
+produced by the activity scores are consistent with rankings produced by the
+standard metrics.
+</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-07-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04361</dc:identifier>
+ </oai_dc:dc>
+

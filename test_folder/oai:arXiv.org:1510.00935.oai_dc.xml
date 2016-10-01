@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quadratic numerical semigroups and the Koszul property</dc:title>
+ <dc:creator>Herzog, J&#252;rgen</dc:creator>
+ <dc:creator>Stamate, Dumitru I.</dc:creator>
+ <dc:subject>Mathematics - Commutative Algebra</dc:subject>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>13A30, 16S37, 13C40, 16S36, 13H10, 13P10</dc:subject>
+ <dc:description>  Let $H$ be a numerical semigroup. We give effective bounds for the
+multiplicity $e(H)$ when the associated graded ring
+$\operatorname{gr}_\mathfrak{m} K[H]$ is defined by quadrics. We classify
+Koszul complete intersection semigroups in terms of gluings. Furthermore, for
+several classes of numerical semigroups considered in the literature
+(arithmetic, compound, special almost complete intersections, $3$-semigroups,
+symmetric or pseudo-symmetric $4$-semigroups) we classify those which are
+Koszul.
+</dc:description>
+ <dc:description>Comment: 24 pages, v2: minor editing changes, added Remark 1.14 and reference
+  to previous work of Rossi and Valla. To appear in the Kyoto Journal of
+  Mathematics</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-04-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00935</dc:identifier>
+ </oai_dc:dc>
+

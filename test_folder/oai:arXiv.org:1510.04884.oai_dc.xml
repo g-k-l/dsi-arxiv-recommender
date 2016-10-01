@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Blanchet-Khovanov algebras</dc:title>
+ <dc:creator>Ehrig, Michael</dc:creator>
+ <dc:creator>Stroppel, Catharina</dc:creator>
+ <dc:creator>Tubbenhauer, Daniel</dc:creator>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:description>  Blanchet introduced certain singular cobordisms to fix the functoriality of
+Khovanov homology. In this paper we introduce graded algebras consisting of
+such singular cobordisms \`a la Blanchet. As the main result we give algebraic
+versions of these algebras using the combinatorics of arc diagrams.
+</dc:description>
+ <dc:description>Comment: 40 pages, many colored figures, revised version (e.g. added
+  suggestions of a referee), to appear in Contemp. Math., Perspectives on
+  Categorification, comments welcome. arXiv admin note: text overlap with
+  arXiv:1601.08010</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-07-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04884</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>CFD-DEM Simulations of Current-Induced Dune Formation and Morphological
+  Evolution</dc:title>
+ <dc:creator>Sun, Rui</dc:creator>
+ <dc:creator>Xiao, Heng</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  Understanding the fundamental mechanisms of sediment transport, particularly
+those during the formation and evolution of bedforms, is of critical scientific
+importance and has engineering relevance. Traditional approaches of sediment
+transport simulations heavily rely on empirical models, which are not able to
+capture the physics-rich, regime-dependent behaviors of the process. With the
+increase of available computational resources in the past decade, CFD-DEM
+(computational fluid dynamics-discrete element method) has emerged as a viable
+high-fidelity method for the study of sediment transport. However, a
+comprehensive, quantitative study of the generation and migration of different
+sediment bed patterns using CFD-DEM is still lacking. In this work,
+current-induced sediment transport problems in a wide range of regimes are
+simulated, including 'flat bed in motion', `small dune', `vortex dune' and
+suspended transport. Simulations are performed by using SediFoam, an
+open-source, massively parallel CFD-DEM solver developed by the authors. This
+is a general-purpose solver for particle-laden flows tailed for particle
+transport problems. Validation tests are performed to demonstrate the
+capability of CFD-DEM in the full range of sediment transport regimes.
+Comparison of simulation results with experimental and numerical benchmark data
+demonstrates the merits of CFD-DEM approach. In addition, the improvements of
+the present simulations over existing studies using CFD-DEM are presented. The
+present solver gives more accurate prediction of sediment transport rate by
+properly accounting for the influence of particle volume fraction on the fluid
+flow. In summary, this work demonstrates that CFD-DEM is a promising
+particle-resolving approach for probing the physics of current-induced sediment
+transport.
+</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:date>2016-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07201</dc:identifier>
+ <dc:identifier>doi:10.1016/j.advwatres.2016.03.018</dc:identifier>
+ </oai_dc:dc>
+

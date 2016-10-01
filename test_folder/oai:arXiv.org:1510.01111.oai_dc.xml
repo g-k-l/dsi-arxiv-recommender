@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quasi periodic oscillations in active galactic nuclei</dc:title>
+ <dc:creator>Alston, William</dc:creator>
+ <dc:creator>Fabian, Andy</dc:creator>
+ <dc:creator>Markeviciute, Julija</dc:creator>
+ <dc:creator>Parker, Michael</dc:creator>
+ <dc:creator>Middleton, Matt</dc:creator>
+ <dc:creator>Kara, Erin</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  Quasi-periodic oscillations (QPOs) are coherent peaks of variability power
+observed in the X-ray power spectra (PSDs) of stellar mass X-ray binaries
+(XRBs). A scale invariance of the accretion process implies they should be
+present in the active galactic nuclei. The first robust detection was a $\sim
+1$ hr periodicity in the Seyfert galaxy RE J1034+396 from a $\sim 90$ ks
+XMM-Newton observation, however, subsequent observations failed to detect the
+QPO in the $0.3-10.0$ keV band. In this talk we present the recent detection of
+the $\sim 1$ hr periodicity in the $1.0-4.0$ keV band of 4 further
+low-flux/spectrally-harder observations of RE J1034+396 (see Alston et al
+2014). We also present recent work on the discovery of a QPO in the Seyfert
+galaxy, MS 22549-3712, which again is only detected in energy bands associated
+with the primary power-law continuum emission (Alston et al 2015). We conclude
+these features are most likely analogous to the high-frequency QPOs observed in
+XRBs. In both sources, we also see evidence for X-ray reverberation at the QPO
+frequency, where soft X-ray bands and Iron K$\alpha$ emission lag the primary
+X-ray continuum. These time delays may provide another diagnostic for
+understanding the underlying QPO mechanism observed in accreting black holes.
+</dc:description>
+ <dc:description>Comment: Proceedings for The Extremes of Black Hole Accretion, Madrid, 2015.
+  To appear in Astronomische Nachrichten, 6 pages, 4 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01111</dc:identifier>
+ <dc:identifier>doi:10.1002/asna.201612323</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Rashba Torque Driven Domain Wall Motion in Magnetic Helices</dc:title>
+ <dc:creator>Pylypovskyi, Oleksandr V.</dc:creator>
+ <dc:creator>Sheka, Denis D.</dc:creator>
+ <dc:creator>Kravchuk, Volodymyr P.</dc:creator>
+ <dc:creator>Yershov, Kostiantyn V.</dc:creator>
+ <dc:creator>Makarov, Denys</dc:creator>
+ <dc:creator>Gaididei, Yuri</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Manipulation of the domain wall propagation in magnetic wires is a key
+practical task for a number of devices including racetrack memory and magnetic
+logic. Recently, curvilinear effects emerged as an efficient mean to impact
+substantially the statics and dynamics of magnetic textures. Here, we
+demonstrate that the curvilinear form of the exchange interaction of a magnetic
+helix results in an effective anisotropy term and Dzyaloshinskii--Moriya
+interaction with a complete set of Lifshitz invariants for a one-dimensional
+system. In contrast to their planar counterparts, the geometrically induced
+modifications of the static magnetic texture of the domain walls in magnetic
+helices offer unconventional means to control the wall dynamics relying on
+spin-orbit Rashba torque. The chiral symmetry breaking due to the
+Dzyaloshinskii-Moriya interaction leads to the opposite directions of the
+domain wall motion in left- or right-handed helices. Furthermore, for the
+magnetic helices, the emergent effective anisotropy term and
+Dzyaloshinskii-Moriya interaction can be attributed to the clear geometrical
+parameters like curvature and torsion offering intuitive understanding of the
+complex curvilinear effects in magnetism.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2015-11-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04725</dc:identifier>
+ <dc:identifier>Scientific Reports, 2016, Vol. 6, P. 23316</dc:identifier>
+ <dc:identifier>doi:10.1038/srep23316</dc:identifier>
+ </oai_dc:dc>
+

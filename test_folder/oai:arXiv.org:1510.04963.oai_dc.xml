@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Recovery of Si-IV nanowires from extreme GPa pressure</dc:title>
+ <dc:creator>Smith, Bennett E.</dc:creator>
+ <dc:creator>Zhou, Xuezhe</dc:creator>
+ <dc:creator>Roder, Paden B.</dc:creator>
+ <dc:creator>Abramson, Evan H.</dc:creator>
+ <dc:creator>Pauzauskie, Peter J.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We use Raman spectroscopy in tandem with transmission electron microscopy and
+DFT simulations to show that extreme (GPa) pressure converts the phase of
+silicon nanowires from cubic (Si-I) to hexagonal (Si-IV) while preserving the
+nanowire's cylindrical morphology. In situ Raman scattering of the TO mode
+demonstrates the high-pressure Si-I to Si-II phase transition near 9 GPa. Raman
+signal of the TO phonon shows a decrease in intensity in the range 9 to 14 GPa.
+Then, at 17 GPa, it is no longer detectable, indicating a second phase change
+(Si-II to Si-V) in the 14 to 17 GPa range. Recovery of exotic phases in
+individual silicon nanowires from diamond anvil cell experiments reaching 17
+GPa is also shown. Raman measurements indicate Si-IV as the dominant phase in
+pressurized nanowires after decompression. Transmission electron microscopy and
+electron diffr?action confi?rm crystalline Si-IV domains in individual
+nanowires. Computational electromagnetic simulations suggest that heating from
+the Raman laser probe is negligible and that near-hydrostatic pressure is the
+primary driving force for the formation of hexagonal silicon nanowires.
+</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-02-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04963</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4948576</dc:identifier>
+ </oai_dc:dc>
+

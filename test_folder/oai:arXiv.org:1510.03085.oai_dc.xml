@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Theory on the mechanism of DNA renaturation: Stochastic nucleation and
+  zipping</dc:title>
+ <dc:creator>Niranjani, Gnanapragasam</dc:creator>
+ <dc:creator>Murugan, Rajamanickam</dc:creator>
+ <dc:subject>Quantitative Biology - Subcellular Processes</dc:subject>
+ <dc:subject>Physics - Biological Physics</dc:subject>
+ <dc:subject>Quantitative Biology - Quantitative Methods</dc:subject>
+ <dc:description>  Renaturation of complementary single strands of DNA is one of the important
+processes that requires better understanding in the view of molecular biology
+and biological physics. Here we develop a stochastic dynamical model on the DNA
+renaturation. According to our model there are at least three steps in the
+renaturation process viz. incorrect-contact formation, correct-contact
+formation and nucleation, and zipping. Most of the earlier two-state models
+combined nucleation with incorrect-contact formation step. In our model we
+suggest that it is considerably meaningful when we combine the nucleation with
+the zipping since nucleation is the initial step of zipping and the nucleated
+and zipping molecules are indistinguishable. Incorrect-contact formation step
+is a pure three-dimensional diffusion controlled collision process. Whereas
+nucleation involves several rounds of one-dimensional slithering dynamics of
+one single strand of DNA on the other complementary strand in the process of
+searching for the correct-contact and then initiate nucleation. Upon
+nucleation, the stochastic zipping follows to generate a fully renatured double
+stranded DNA. It seems that the square-root dependency of the overall
+renaturation rate constant on the length of reacting single strands originates
+mainly from the geometric constraints in the diffusion controlled
+incorrect-contact formation step. Further the inverse scaling of the
+renaturation rate on the viscosity of the reaction medium also originates from
+the incorrect-contact formation step. On the other hand the inverse scaling of
+the renaturation rate with the sequence complexity originates from the
+stochastic zipping which involves several rounds of crossing over the
+free-energy barrier at microscopic levels.
+</dc:description>
+ <dc:description>Comment: 17 pages, 2 figures</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2015-11-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03085</dc:identifier>
+ <dc:identifier>doi:10.1371/journal.pone.0153172</dc:identifier>
+ </oai_dc:dc>
+

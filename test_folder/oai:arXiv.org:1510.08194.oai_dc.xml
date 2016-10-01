@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement of microresonator frequency comb stability by spectral
+  interferometry</dc:title>
+ <dc:creator>Webb, Karen E.</dc:creator>
+ <dc:creator>Jang, Jae K.</dc:creator>
+ <dc:creator>Anthony, Jessienta</dc:creator>
+ <dc:creator>Coen, Stephane</dc:creator>
+ <dc:creator>Erkintalo, Miro</dc:creator>
+ <dc:creator>Murdoch, Stuart G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We demonstrate a new technique for the experimental measurement of the
+spectral coherence of microresonator optical frequency combs. Specifically, we
+use a spectral interference method, typically used in the context of
+supercontinuum generation, to explore the variation of the complex degree of
+first order coherence across the full comb bandwidth. We measure the coherence
+of two different frequency combs, and observe wholly different coherence
+characteristics. In particular, we find that the observed dynamical regimes are
+similar to the stable and unstable modulation instability regimes reported in
+previous theoretical studies. Results from numerical simulations are found to
+be in good agreement with experimental observations. In addition to
+demonstrating a new technique to assess comb stability, our results provide
+strong experimental support for previous theoretical analyses.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08194</dc:identifier>
+ <dc:identifier>Optics Letters 41 (2016) 277-280</dc:identifier>
+ <dc:identifier>doi:10.1364/OL.41.000277</dc:identifier>
+ </oai_dc:dc>
+

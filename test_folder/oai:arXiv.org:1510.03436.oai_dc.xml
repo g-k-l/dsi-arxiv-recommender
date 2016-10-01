@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Relativistic effects in Lyman-alpha forest</dc:title>
+ <dc:creator>Ir&#353;i&#269;, Vid</dc:creator>
+ <dc:creator>Di Dio, Enea</dc:creator>
+ <dc:creator>Viel, Matteo</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We present the calculation of the Lyman-alpha (Lyman-$\alpha$) transmitted
+flux fluctuations with full relativistic corrections to the first order. Even
+though several studies exist on relativistic effects in galaxy clustering, this
+is the first study to extend the formalism to a different tracer of underlying
+matter at unique redshift range ($z=2-5$). Furthermore, we show a comprehensive
+application of our calculations of the Quasar-Lyman-$\alpha$ cross-correlation
+function. Our results indicate that the signal of relativistic effects is
+sizeable at Baryonic Acoustic Oscillation (BAO) scale mainly due to the large
+difference in density bias factors of our tracers. We construct an observable,
+the anti-symmetric part of the cross-correlation function, that is dominated by
+the relativistic signal and offers a new way to measure the relativistic terms
+at relatively small scales. The analysis shows that relativistic effects are
+important when considering cross-correlations between tracers with very
+different biases, and should be included in the data analysis of the current
+and future surveys. Moreover, the idea presented in this paper is highly
+complementary to other techniques and observable trying to isolate the effect
+of the relativistic corrections and thus test the validity of the theory of
+gravity beyond the Newtonian regime.
+</dc:description>
+ <dc:description>Comment: 39 pages, 9 figures; added sections on bias of the relativistic
+  effects &amp; S/N ratio analysis; version matches one published in JCAP</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-02-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03436</dc:identifier>
+ <dc:identifier>JCAP 02 (2016) 051</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/02/051</dc:identifier>
+ </oai_dc:dc>
+

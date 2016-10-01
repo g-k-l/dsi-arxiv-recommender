@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Scaling laws for nonlinear electromagnetic responses of Dirac fermions</dc:title>
+ <dc:creator>Morimoto, Takahiro</dc:creator>
+ <dc:creator>Nagaosa, Naoto</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We theoretically propose that the Dirac fermion in two-dimensions shows the
+giant nonlinear responses to electromagnetic fields in terahertz region. A
+scaling form is obtained for the current and magnetization as functions of the
+normalized electromagnetic fields $E/E_\omega$ and $B/B_\omega$, where the
+characteristic electric (magnetic) field $E_\omega$ ($B_\omega$) depends on the
+frequency $\omega$ as $\hbar\omega^2/ev_F$ ($\hbar\omega^2/ev_F^2$), and is
+typically of the order of 80 V/cm ( 8 mT) in the terahertz region. Applications
+of the present theory to graphene and surface state of a topological insulator
+are discussed.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02185</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 125125 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.125125</dc:identifier>
+ </oai_dc:dc>
+

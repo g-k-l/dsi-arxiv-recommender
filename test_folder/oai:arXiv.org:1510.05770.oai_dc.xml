@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generalized Stieltjes Transforms of Compactly-Supported Probability
+  Distributions: Further Examples</dc:title>
+ <dc:creator>Demni, Nizar</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  For two families of beta distributions, we show that the generalized
+Stieltjes transforms of their elements may be written as elementary functions
+(powers and fractions) of the Stieltjes transform of the Wigner distribution.
+In particular, we retrieve the examples given by the author in a previous paper
+and relating generalized Stieltjes transforms of special beta distributions to
+powers of (ordinary) Stieltjes ones. We also provide further examples of
+similar relations which are motivated by the representation theory of symmetric
+groups. Remarkably, the power of the Stieltjes transform of the symmetric
+Bernoulli distribution is a generalized Stietljes transform of a probability
+distribution if and only if the power is greater than one. As to the free
+Poisson distribution, it corresponds to the product of two independent Beta
+distributions in $[0,1]$ while another example of Beta distributions in
+$[-1,1]$ is found and is related with the Shrinkage process. We close the
+exposition by considering the generalized Stieltjes transform of a linear
+functional related with Humbert polynomials and generalizing the symmetric Beta
+distribution.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05770</dc:identifier>
+ <dc:identifier>SIGMA 12 (2016), 035, 13 pages</dc:identifier>
+ <dc:identifier>doi:10.3842/SIGMA.2016.035</dc:identifier>
+ </oai_dc:dc>
+

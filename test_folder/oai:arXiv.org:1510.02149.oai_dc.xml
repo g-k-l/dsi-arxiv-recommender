@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Linear Convergence of Distributed Optimization over Directed
+  Graphs</dc:title>
+ <dc:creator>Xi, Chenguang</dc:creator>
+ <dc:creator>Khan, Usman A.</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  This paper develops a fast distributed algorithm, termed \emph{DEXTRA}, to
+solve the optimization problem when~$n$ agents reach agreement and
+collaboratively minimize the sum of their local objective functions over the
+network, where the communication between the agents is described by
+a~\emph{directed} graph. Existing algorithms solve the problem restricted to
+directed graphs with convergence rates of $O(\ln k/\sqrt{k})$ for general
+convex objective functions and $O(\ln k/k)$ when the objective functions are
+strongly-convex, where~$k$ is the number of iterations. We show that, with the
+appropriate step-size, DEXTRA converges at a linear rate $O(\tau^{k})$ for
+$0&lt;\tau&lt;1$, given that the objective functions are restricted strongly-convex.
+The implementation of DEXTRA requires each agent to know its local out-degree.
+Simulation examples further illustrate our findings.
+</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-05-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02149</dc:identifier>
+ </oai_dc:dc>
+

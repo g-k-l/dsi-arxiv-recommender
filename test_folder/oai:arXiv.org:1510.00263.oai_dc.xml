@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polaronic-Quasiparticle Picture for Generation Dynamics of Coherent
+  Phonons in Semiconductors: Transient and Non-Linear Fano Resonance</dc:title>
+ <dc:creator>Watanabe, Yohei</dc:creator>
+ <dc:creator>Hino, Ken-ichi</dc:creator>
+ <dc:creator>Hase, Muneaki</dc:creator>
+ <dc:creator>Maeshima, Nobuya</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We examine generation dynamics of coherent phonons (CPs) in both of polar and
+non-polar semiconductors -- such as GaAs and Si -- based on a
+polaronic-quasiparticle (PQ) model. In the model concerned, the PQ operator is
+composed of two kinds of operators. One is a quasiboson operator -- defined as
+a linear combination of a set of pairs of electron operators -- and the other
+is a longitudinal optical (LO) phonon operator. The problem of transient and
+non-linear Fano resonance (FR) is tackled in particular; the vestige of this
+quantum interference effect was observed exclusively in lightly $n$-doped Si
+immediately after carriers were excited by an ultrashort pulse-laser [M. Hase
+et. al., Nature 426, 51 (2003)], though not observed yet in GaAs. It is shown
+that the phonon energy state is embedded in a continuum state formed by a set
+of adiabatic eigenstates of the quasiboson. This result implies the possibility
+of manifestation of the transient FR in the present optically-non-linear
+system.
+</dc:description>
+ <dc:description>Comment: 28 pages, 13 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00263</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Consequences of breaking time reversal symmetry in LaSb: a resistivity
+  plateau and extreme magnetoresistance</dc:title>
+ <dc:creator>Tafti, F. F.</dc:creator>
+ <dc:creator>Gibson, Q. D.</dc:creator>
+ <dc:creator>Kushwaha, S. K.</dc:creator>
+ <dc:creator>Haldolaarachchige, N.</dc:creator>
+ <dc:creator>Cava, R. J.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Time reversal symmetry (TRS) protects the metallic surface modes of
+topological insulators (TIs). The transport signature of robust metallic
+surface modes of TIs is a plateau that arrests the exponential divergence of
+the insulating bulk with decreasing temperature. This universal behavior is
+observed in all TI candidates ranging from Bi2Te2Se to SmB6. Recently, several
+topological semimetals (TSMs) have been found that exhibit extreme
+magnetoresistance (XMR) and TI universal resistivity behavior revealed only
+when breaking TRS, a regime where TIs theoretically cease to exist. Among these
+new materials, TaAs and NbP are nominated for Weyl semimetal due to their lack
+of inversion symmetry, Cd3As2 is nominated for Dirac semimetal due to its
+linear band crossing at the Fermi level, and WTe2 is nominated for resonant
+compensated semimetal due to its perfect electron-hole symmetry. Here we
+introduce LaSb, a simple rock-salt structure material without broken inversion
+symmetry, without perfect linear band crossing, and without perfect
+electron-hole symmetry. Yet LaSb portrays all the exotic field induced
+behaviors of the aforementioned semimetals in an archetypal fashion. It shows
+(a) the universal TI resistivity with a plateau at 15 K, revealed by a magnetic
+field, (b) ultrahigh mobility of carriers in the plateau region, (c) quantum
+oscillations with a non-trivial Berry phase, and (d) XMR of about one million
+percent at 9 tesla rivaled only by WTe2 and NbP. Due to its dramatic
+simplicity, LaSb is the ideal model system to formulate a theoretical
+understanding of the exotic consequences of breaking TRS in TSMs.
+</dc:description>
+ <dc:description>Comment: 4 figures, 25 pages including supplementary information</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06931</dc:identifier>
+ <dc:identifier>Nature Physics 12, 272 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/nphys3581</dc:identifier>
+ </oai_dc:dc>
+

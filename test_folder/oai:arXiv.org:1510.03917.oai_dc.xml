@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Asymptotic Density of Zimin Words</dc:title>
+ <dc:creator>Cooper, Joshua</dc:creator>
+ <dc:creator>Rorabaugh, Danny</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  Word $W$ is an instance of word $V$ provided there is a homomorphism $\phi$
+mapping letters to nonempty words so that $\phi(V) = W$. For example, taking
+$\phi$ such that $\phi(c)=fr$, $\phi(o)=e$ and $\phi(l)=zer$, we see that
+"freezer" is an instance of "cool".
+  Let $\mathbb{I}_n(V,[q])$ be the probability that a random length $n$ word on
+the alphabet $[q] = \{1,2,\cdots q\}$ is an instance of $V$. Having previously
+shown that $\lim_{n \rightarrow \infty} \mathbb{I}_n(V,[q])$ exists, we now
+calculate this limit for two Zimin words, $Z_2 = aba$ and $Z_3 = abacaba$.
+</dc:description>
+ <dc:description>Comment: 25 pages</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03917</dc:identifier>
+ <dc:identifier>Discrete Mathematics &amp; Theoretical Computer Science, Vol. 18, no
+  3, Combinatorics (March 17, 2016) dmtcs:1414</dc:identifier>
+ </oai_dc:dc>
+

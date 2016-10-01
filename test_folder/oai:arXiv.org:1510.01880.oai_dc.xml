@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Pellet refuelling of particle loss due to ELM mitigation with RMPs in
+  the ASDEX Upgrade tokamak at low collisionality</dc:title>
+ <dc:creator>Valovi&#269;, M</dc:creator>
+ <dc:creator>Lang, P T</dc:creator>
+ <dc:creator>Kirk, A</dc:creator>
+ <dc:creator>Suttrop, W</dc:creator>
+ <dc:creator>Cavedon, M</dc:creator>
+ <dc:creator>Fischer, L R</dc:creator>
+ <dc:creator>Garzotti, L</dc:creator>
+ <dc:creator>Guimarais, L</dc:creator>
+ <dc:creator>Kocsis, G</dc:creator>
+ <dc:creator>Cseh, G</dc:creator>
+ <dc:creator>Pl&#337;ckl, B</dc:creator>
+ <dc:creator>Szepesi, T</dc:creator>
+ <dc:creator>Thornton, A</dc:creator>
+ <dc:creator>Mlynek, A</dc:creator>
+ <dc:creator>Tardini, G</dc:creator>
+ <dc:creator>Viezzer, E</dc:creator>
+ <dc:creator>Scannell, R</dc:creator>
+ <dc:creator>Wolfrum, E</dc:creator>
+ <dc:creator>team, the ASDEX Upgrade</dc:creator>
+ <dc:creator>team, the EUROfusion MST1</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  The complete refuelling of the plasma density loss (pump-out) caused by
+mitigation of Edge Localised Modes (ELMs) is demonstrated on the ASDEX Upgrade
+tokamak. The plasma is refuelled by injection of frozen deuterium pellets and
+ELMs are mitigated by external resonant magnetic perturbations (RMPs). In this
+experiment relevant dimensionless parameters, such as relative pellet size,
+relative RMP amplitude and pedestal collisionality are kept at the ITER like
+values. Refuelling of density pump out requires a factor of two increase of
+nominal fuelling rate. Energy confinement and pedestal temperatures are not
+restored to pre-RMP values by pellet refuelling.
+</dc:description>
+ <dc:description>Comment: 10 pages, 5 figures. This is an author-created, un-copyedited version
+  of an article submitted for publication in Nuclear Fusion. IoP Publishing Ltd
+  is not responsible for any errors or omissions in this version of the
+  manuscript or any version derived from it</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01880</dc:identifier>
+ <dc:identifier>doi:10.1088/0029-5515/56/6/066009</dc:identifier>
+ </oai_dc:dc>
+

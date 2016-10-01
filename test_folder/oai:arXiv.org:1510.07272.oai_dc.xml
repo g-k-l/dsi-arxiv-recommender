@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simple Locking of IR and UV diode lasers to a visible laser using a
+  LabVIEW PID controller on a Fabry-Perot signal</dc:title>
+ <dc:creator>Kwolek, J. M.</dc:creator>
+ <dc:creator>Wells, J. E.</dc:creator>
+ <dc:creator>Goodman, D. S.</dc:creator>
+ <dc:creator>Smith, W. W.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  Simultaneous laser locking of IR and UV lasers to a visible stabilized
+reference laser is demonstrated via a Fabry-Perot cavity. LabVIEW is used to
+analyze the input and an internal PID algorithm converts the Fabry-Perot signal
+to an analog locking feedback signal. The locking program stabilized both
+lasers to a long term stability of better than 9 MHz, with a custom-built IR
+laser undergoing significant improvement in frequency stabilization. The
+results of this study demonstrate the viability of a simple
+computer-controlled, non temperature-stabilized Fabry-Perot locking scheme for
+our application, laser cooling of Ca+ ions, and its use in other applications
+with similar modest frequency stabilization requirements.
+</dc:description>
+ <dc:description>Comment: 12 pages, 7 figures</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-03-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07272</dc:identifier>
+ <dc:identifier>Review of Scientific Instruments 87, 055102 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4948289</dc:identifier>
+ </oai_dc:dc>
+

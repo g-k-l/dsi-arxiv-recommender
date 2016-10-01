@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Algebraicity of normal analytic compactifications of C^2 with one
+  irreducible curve at infinity</dc:title>
+ <dc:creator>Mondal, Pinaki</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Complex Variables</dc:subject>
+ <dc:subject>32J05, 14J26, 14E05, 14E15</dc:subject>
+ <dc:description>  We present an effective criterion to determine if a normal analytic
+compactification of C^2 with one irreducible curve at infinity is algebraic or
+not. As a by product we establish a correspondence between normal algebraic
+compactifications of C^2 with one irreducible curve at infinity and algebraic
+curves contained in C^2 with one place at infinity. Using our criterion we
+construct pairs of homeomorphic normal analytic surfaces with minimally
+elliptic singularities such that one of the surfaces is algebraic and the other
+is not. Our main technical tool is the sequence of "key forms" - a 'global'
+variant of the sequence of "key polynomials" introduced by MacLane to study
+valuations in the 'local' setting - which also extends the notion of
+"approximate roots" of polynomials considered by Abhyankar and Moh.
+</dc:description>
+ <dc:description>Comment: Proof of Theorem 4.4 has been corrected - may thanks to the anonymous
+  referee who pointed out the error. To appear in Algebra &amp; Number Theory.
+  arXiv admin note: text overlap with arXiv:1301.0126</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-08-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00998</dc:identifier>
+ </oai_dc:dc>
+

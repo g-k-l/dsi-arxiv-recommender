@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Degenerate higher derivative theories beyond Horndeski: evading the
+  Ostrogradski instability</dc:title>
+ <dc:creator>Langlois, David</dc:creator>
+ <dc:creator>Noui, Karim</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Theories with higher order time derivatives generically suffer from
+ghost-like instabilities, known as Ostrogradski instabilities. This fate can be
+avoided by considering "degenerate" Lagrangians, whose kinetic matrix cannot be
+inverted, thus leading to constraints between canonical variables and a reduced
+number of physical degrees of freedom. In this work, we derive in a systematic
+way the degeneracy conditions for scalar-tensor theories that depend
+quadratically on second order derivatives of a scalar field. We thus obtain a
+classification of all degenerate theories within this class of scalar-tensor
+theories. The quartic Horndeski Lagrangian and its extension beyond Horndeski
+belong to these degenerate cases. We also identify new families of
+scalar-tensor theories with the intriguing property that they are degenerate
+despite the nondegeneracy of the purely scalar part of their Lagrangian.
+</dc:description>
+ <dc:description>Comment: 19 pages, no figure</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06930</dc:identifier>
+ <dc:identifier>JCAP 1602 (2016) 02, 034</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/02/034</dc:identifier>
+ </oai_dc:dc>
+

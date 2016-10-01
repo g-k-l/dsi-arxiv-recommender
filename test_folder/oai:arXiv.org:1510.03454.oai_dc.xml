@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Open quantum random walks: ergodicity, hitting times, gambler's ruin and
+  potential theory</dc:title>
+ <dc:creator>Lardizabal, Carlos F.</dc:creator>
+ <dc:creator>Souza, Rafael R.</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  In this work we study certain aspects of Open Quantum Random Walks (OQRWs), a
+class of quantum channels described by S. Attal et al. \cite{attal}. As a first
+objective we consider processes which are nonhomogeneous in time, i.e., at each
+time step, a possibly distinct evolution kernel. Inspired by a spectral
+technique described by L. Saloff-Coste and J. Z\'u\~niga \cite{saloff}, we
+define a notion of ergodicity for finite nonhomogeneous quantum Markov chains
+and describe a criterion for ergodicity of such objects in terms of singular
+values. As a second objective, and based on a quantum trajectory approach, we
+study a notion of hitting time for OQRWs and we see that many constructions are
+variations of well-known classical probability results, with the density matrix
+degree of freedom on each site giving rise to systems which are seen to be
+nonclassical. In this way we are able to examine open quantum versions of the
+gambler's ruin, birth-and-death chain and a basic theorem on potential theory.
+</dc:description>
+ <dc:description>Comment: Revised version. arXiv admin note: substantial text overlap with
+  arXiv:1504.05398, arXiv:1506.08325</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03454</dc:identifier>
+ <dc:identifier>J. Stat. Phys., 164:1122-1156 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1007/s10955-016-1578-9</dc:identifier>
+ </oai_dc:dc>
+

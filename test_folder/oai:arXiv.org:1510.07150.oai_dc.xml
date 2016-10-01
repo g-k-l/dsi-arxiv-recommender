@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Topology of Dislocations in Smectic Liquid Crystals</dc:title>
+ <dc:creator>Kamien, Randall D.</dc:creator>
+ <dc:creator>Mosna, Ricardo A.</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  The order parameter of the smectic liquid crystal phase is the same as that
+of a superfluid or superconductor, namely a complex phase field. We show that
+the essential difference in boundary conditions between these systems leads to
+a markedly different topological structure of the defects. Screw and edge
+defects can be distinguished topologically. This implies an invariant on an
+edge dislocation loop so that smectic defects can be topologically linked not
+unlike defects in ordered systems with non-Abelian fundamental groups.
+</dc:description>
+ <dc:description>Comment: 9 pages, many figures, the full catastrophe</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07150</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/5/053012</dc:identifier>
+ </oai_dc:dc>
+

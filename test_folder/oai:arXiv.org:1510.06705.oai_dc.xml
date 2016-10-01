@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A semi-discrete Kadomtsev-Petviashvili equation and its coupled
+  integrable system</dc:title>
+ <dc:creator>Li, Chun-Xia</dc:creator>
+ <dc:creator>Lafortune, St&#233;phane</dc:creator>
+ <dc:creator>Shen, Shou-Feng</dc:creator>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:description>  We establish connections between two cascades of integrable systems generated
+from the continuum limits of the Hirota-Miwa equation and its remarkable
+nonlinear counterpart under the Miwa transformation respectively. Among these
+equations, we are mainly concerned with the semi-discrete bilinear
+Kadomtsev-Petviashvili (KP) equation which is seldomly studied in literature.
+We present both of its Casorati and Grammian determinant solutions. Through the
+Pfaffianization procedure proposed by Hirota and Ohta, we are able to derive
+the coupled integrable system for the semi-discrete KP equation.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2015-12-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06705</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4949353</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optical conductivity of topological surface states with emergent
+  supersymmetry</dc:title>
+ <dc:creator>Witczak-Krempa, William</dc:creator>
+ <dc:creator>Maciejko, Joseph</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Topological states of electrons present new avenues to explore the rich
+phenomenology of correlated quantum matter. Topological insulators (TIs) in
+particular offer an experimental setting to study novel quantum critical points
+(QCPs) of massless Dirac fermions, which exist on the sample's surface. Here,
+we obtain exact results for the zero- and finite-temperature optical
+conductivity at the semimetal-superconductor QCP for these topological surface
+states. This strongly interacting QCP is described by a scale invariant theory
+with emergent supersymmetry, which is a unique symmetry mixing bosons and
+fermions. We show that supersymmetry implies exact relations between the
+optical conductivity and two otherwise unrelated properties: the shear
+viscosity and the entanglement entropy. We discuss experimental considerations
+for the observation of these signatures in TIs.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure; 12 pages of supplemental material. v2:
+  presentation substantially simplified; published version. v3: included
+  missing supplemental material</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-07-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06397</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 100402 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.100402</dc:identifier>
+ </oai_dc:dc>
+

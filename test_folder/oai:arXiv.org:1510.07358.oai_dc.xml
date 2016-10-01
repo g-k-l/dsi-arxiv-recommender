@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Selfish Knapsack</dc:title>
+ <dc:creator>Feigenbaum, Itai</dc:creator>
+ <dc:creator>Johnson, Matthew P.</dc:creator>
+ <dc:subject>Computer Science - Computer Science and Game Theory</dc:subject>
+ <dc:description>  We consider a selfish variant of the knapsack problem. In our version, the
+items are owned by agents, and each agent can misrepresent the set of items she
+owns---either by avoiding reporting some of them (understating), or by
+reporting additional ones that do not exist (overstating). Each agent's
+objective is to maximize, within the items chosen for inclusion in the
+knapsack, the total valuation of her own chosen items. The knapsack problem, in
+this context, seeks to minimize the worst-case approximation ratio for social
+welfare at equilibrium. We show that a randomized greedy mechanism has
+attractive strategic properties: in general, it has a correlated price of
+anarchy of $2$ (subject to a mild assumption). For overstating-only agents, it
+becomes strategyproof; we also provide a matching lower bound of $2$ on the
+(worst-case) approximation ratio attainable by randomized strategyproof
+mechanisms, and show that no deterministic strategyproof mechanism can provide
+any constant approximation ratio. We also deal with more specialized
+environments. For the case of $2$ understating-only agents, we provide a
+randomized strategyproof $\frac{5+4\sqrt{2}}{7} \approx 1.522$-approximate
+mechanism, and a lower bound of $\frac{5\sqrt{5}-9}{2} \approx 1.09$. When all
+agents but one are honest, we provide a deterministic strategyproof
+$\frac{1+\sqrt{5}}{2} \approx 1.618$-approximate mechanism with a matching
+lower bound. Finally, we consider a model where agents can misreport their
+items' properties rather than existence. Specifically, each agent owns a single
+item, whose value-to-size ratio is publicly known, but whose actual value and
+size are not. We show that an adaptation of the greedy mechanism is
+strategyproof and $2$-approximate, and provide a matching lower bound; we also
+show that no deterministic strategyproof mechanism can provide a constant
+approximation ratio.
+</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-02-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07358</dc:identifier>
+ </oai_dc:dc>
+

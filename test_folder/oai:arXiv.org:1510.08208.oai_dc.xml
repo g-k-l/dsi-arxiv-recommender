@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Yang-Mills gradient flow and lattice effective action</dc:title>
+ <dc:creator>Yamamura, Ryo</dc:creator>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Recently, the Yang-Mills gradient flow is found to be a useful concept not
+only in lattice simulations but also in continuous field theories. Since its
+smearing property is similar to the Wilsoninan "block spin transformation",
+there might be deeper connection between them. In this work, we define the
+"effective action" which generates configurations at a finite flow time and
+derive the exact differential equation to investigate the flow time dependence
+of the action. Then Yang-Mills gradient flow can be regarded as the flow of the
+effective action. We also propose the flow time dependent gradient, where the
+differential equation becomes similar to the renormalization group equation. We
+discuss a possibility to regard the time evolution of the effective action as
+the Wilsonian renormalization group flow.
+</dc:description>
+ <dc:description>Comment: 16 pages, 3 figures; accepted for publication in PTEP</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-07-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08208</dc:identifier>
+ <dc:identifier>Prog. Theor. Exp. Phys. (2016) 073B10</dc:identifier>
+ <dc:identifier>doi:10.1093/ptep/ptw097</dc:identifier>
+ </oai_dc:dc>
+

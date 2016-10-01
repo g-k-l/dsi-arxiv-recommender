@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Fermi LAT view of the colliding wind binaries</dc:title>
+ <dc:creator>Pshirkov, Maxim S.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  Colliding wind binaries (CWBs) have been considered as a possible high energy
+$\gamma$-ray sources for some time, however no system other than $\eta$ Car has
+been detected. In the paper a sample of seven CWBs (WR 11, WR 70, WR 137, WR
+140, WR 146, WR 147) which, by means of theoretic modelling, were deemed most
+promising candidates, was analyzed using almost 7 years of the Fermi-LAT data.
+WR 11 ($\gamma^2$ Vel) was detected at 6.1$\sigma$ confidence level with a
+photon flux in 0.1-100 GeV range
+$(1.8\pm0.6)\times10^{-9}~\mathrm{ph~cm^{-2}~s^{-1}}$ and an energy flux
+$(2.7\pm0.5)\times10^{-12}~~\mathrm{erg~cm^{-2}~s^{-1}}$. At the adopted
+distance $d=340$ pc this corresponds to a luminosity
+$L=(3.7\pm0.7)\times10^{31}~\mathrm{erg~s^{-1}}$. This luminosity amounts to
+$\sim6\times10^{-6}$ fraction of the total wind kinetic power and
+$\sim1.6\times10^{-4}$ fraction of the power injected into the wind-wind
+interaction region of this system. Upper limits were set on the high energy
+flux from the WR 70 and WR 140 systems.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures, matches the published version</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03885</dc:identifier>
+ <dc:identifier>Monthly Notices of the Royal Astronomical Society: Letters, Volume
+  457, Issue 1, p.L99-L102 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1093/mnrasl/slv205</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A 2 TeV $W_R$, Supersymmetry, and the Higgs Mass</dc:title>
+ <dc:creator>Collins, Jack H</dc:creator>
+ <dc:creator>Ng, Wee Hao</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  A recent ATLAS search for diboson resonances and a CMS search for $eejj$
+resonances which both show excesses with significance around 3 sigma have
+generated interest in $SU(2)_R$ gauge extensions of the Standard Model with a
+$W'$ mass around 2 TeV. We investigate the possibility that an $SU(2)_R$ gauge
+extension of the MSSM compatible with an explanation of the diboson anomaly
+might give rise to a significant enhancement of the Higgs mass above the MSSM
+tree level bound $m_{h, \text{tree}} &lt; 90 \; \text{GeV}$ due to non-decoupling
+D-terms. This model contains a vector-like charge -1/3 $SU(2)_R$ singlet quark
+for each generation which mixes significantly with the $SU(2)_R$ doublet
+quarks, affecting the $W_R$ phenomenology. We find that it is possible to
+achieve $m_{h, \text{tree}} &gt; 110 \; \text {GeV}$, and this requires that the
+$Z'$ mass is close to 3 TeV.
+</dc:description>
+ <dc:description>Comment: 18 pages + appendices, 6 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-11-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08083</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP01(2016)159</dc:identifier>
+ </oai_dc:dc>
+

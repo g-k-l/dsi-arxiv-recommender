@@ -1,0 +1,15 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Cubic graphical regular representations of $PSL_2(q)$</dc:title>
+ <dc:creator>Xia, Binzhou</dc:creator>
+ <dc:creator>Fang, Teng</dc:creator>
+ <dc:subject>Mathematics - Group Theory</dc:subject>
+ <dc:description>  We study cubic graphical regular representations of the finite simple groups
+$PSL_2(q)$. It is shown that such graphical regular representations exist if
+and only if $q\neq7$, and the generating set must consist of three involutions.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-03-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02740</dc:identifier>
+ </oai_dc:dc>
+

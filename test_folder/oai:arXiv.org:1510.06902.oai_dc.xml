@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Power--bandwidth limitations of an optical resonance</dc:title>
+ <dc:creator>Miller, Owen D.</dc:creator>
+ <dc:creator>Hsu, Chia Wei</dc:creator>
+ <dc:creator>Anquillare, Emma</dc:creator>
+ <dc:creator>Joannopoulos, John D.</dc:creator>
+ <dc:creator>Solja&#269;i&#263;, Marin</dc:creator>
+ <dc:creator>Johnson, Steven G.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We present shape-independent upper limits to the power--bandwidth product for
+a single resonance in an optical scatterer, with the bound depending only on
+the material susceptibility. We show that quasistatic metallic scatterers can
+nearly reach the limits, and we apply our approach to the problem of designing
+$N$ independent, subwavelength scatterers to achieve flat, broadband response
+even if they individually exhibit narrow resonant peaks.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06902</dc:identifier>
+ </oai_dc:dc>
+

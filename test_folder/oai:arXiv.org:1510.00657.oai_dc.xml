@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Noncommutative Schur functions, switchboards, and Schur positivity</dc:title>
+ <dc:creator>Blasiak, Jonah</dc:creator>
+ <dc:creator>Fomin, Sergey</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Mathematics - Rings and Algebras</dc:subject>
+ <dc:subject>05E05 (Primary), 05A15, 16S99 (Secondary)</dc:subject>
+ <dc:description>  The machinery of noncommutative Schur functions provides a general tool for
+obtaining Schur expansions for combinatorially defined symmetric functions. We
+extend this approach to a wider class of symmetric functions, explore its
+strengths and limitations, and obtain new results on Schur positivity. We
+introduce combinatorial gadgets called switchboards, an adaptation of the D
+graphs of S. Assaf, and show how symmetric functions associated to them (which
+include LLT, Macdonald, Stanley, and stable Grothendieck polynomials) fit into
+the noncommutative Schur functions approach. This extends earlier work by T.
+Lam, and by C. Greene and the second author, and provides new tools for
+obtaining combinatorial formulas for Schur expansions of LLT polynomials.
+  This paper can be regarded as a "prequel" to (and, partly, a review of)
+arXiv:1411.3624, arXiv:1411.3646, and arXiv:1510.00644.
+</dc:description>
+ <dc:description>Comment: 36 pages, 10 figures. Version 3: minor revisions, final version to
+  appear in Selecta Mathematica</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00657</dc:identifier>
+ </oai_dc:dc>
+

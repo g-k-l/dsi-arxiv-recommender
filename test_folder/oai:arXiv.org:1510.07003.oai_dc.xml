@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Probing a scattering resonance in Rydberg molecules with a Bose-Einstein
+  condensate</dc:title>
+ <dc:creator>Schlagm&#252;ller, Michael</dc:creator>
+ <dc:creator>Liebisch, Tara Cubel</dc:creator>
+ <dc:creator>Nguyen, Huan</dc:creator>
+ <dc:creator>Lochead, Graham</dc:creator>
+ <dc:creator>Engel, Felix</dc:creator>
+ <dc:creator>B&#246;ttcher, Fabian</dc:creator>
+ <dc:creator>Westphal, Karl M.</dc:creator>
+ <dc:creator>Kleinbach, Kathrin S.</dc:creator>
+ <dc:creator>L&#246;w, Robert</dc:creator>
+ <dc:creator>Hofferberth, Sebastian</dc:creator>
+ <dc:creator>Pfau, Tilman</dc:creator>
+ <dc:creator>P&#233;rez-R&#237;os, Jes&#250;s</dc:creator>
+ <dc:creator>Greene, Chris H.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  We present spectroscopy of a single Rydberg atom excited within a
+Bose-Einstein condensate. We not only observe the density shift as discovered
+by Amaldi and Segre in 1934, but a line shape which changes with the principal
+quantum number n. The line broadening depends precisely on the interaction
+potential energy curves of the Rydberg electron with the neutral atom
+perturbers. In particular, we show the relevance of the triplet p-wave shape
+resonance in the Rydberg electron-Rb(5S) scattering, which significantly
+modifies the interaction potential. With a peak density of 5.5x10^14 cm^-3, and
+therefore an inter-particle spacing of 1300 a0 within a Bose-Einstein
+condensate, the potential energy curves can be probed at these Rydberg ion -
+neutral atom separations. We present a simple microscopic model for the
+spectroscopic line shape by treating the atoms overlapped with the Rydberg
+orbit as zero-velocity, uncorrelated, point-like particles, with binding
+energies associated with their ion-neutral separation, and good agreement is
+found.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07003</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 053001 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.053001</dc:identifier>
+ </oai_dc:dc>
+

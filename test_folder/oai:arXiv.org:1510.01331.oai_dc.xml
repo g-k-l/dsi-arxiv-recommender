@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universality in antiferromagnetic strange metals</dc:title>
+ <dc:creator>Maier, Stefan A.</dc:creator>
+ <dc:creator>Strack, Philipp</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We propose a theory of metals at the spin-density wave quantum critical point
+in spatial dimension $d=2$. We provide a first estimate of the full set of
+critical exponents (dynamical exponent $z=2.13$, correlation length $\nu
+=1.02$, spin susceptibility $\gamma = 0.96$, electronic non-Fermi liquid
+$\eta^f_\tau = 0.53$, spin-wave Landau damping $\eta^b_\tau = 1.06$), which
+determine the universal power-laws in thermodynamics and response functions in
+the quantum-critical regime relevant for experiments in heavy-fermion systems
+and iron pnictides. We present approximate numerical and analytical solutions
+of Polchinski-Wetterich type flow equations with soft frequency regulators for
+an effective action of electrons coupled to spin-wave bosons. Performing the
+renormalization group in frequency -instead of momentum- space allows to track
+changes of the Fermi surface shape and to capture Landau damping during the
+flow. The technique is easily generalizable from models retaining only patches
+of the Fermi surface to full, compact Fermi surfaces.
+</dc:description>
+ <dc:description>Comment: 46 pages, 13 figures, typos fixed; as accepted to Physical Review B</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01331</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 165114 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.165114</dc:identifier>
+ </oai_dc:dc>
+

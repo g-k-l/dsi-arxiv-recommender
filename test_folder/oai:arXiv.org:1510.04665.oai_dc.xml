@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universal behaviour of generalized Causal set d'Alembertians in curved
+  spacetime</dc:title>
+ <dc:creator>Belenchia, Alessio</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  Causal set non-local wave operators allow both for the definition of an
+action for Causal set theory and the study of deviations from local physics
+that may have interesting phenomenological consequences. It was previously
+shown that, in all dimensions, the (unique) minimal discrete operators give
+averaged continuum non-local operators that reduce to $\Box-R/2$ in the local
+limit. Recently, dropping the constraint of minimality, it was shown that there
+exist an infinite number of discrete operators satisfying basic physical
+requirements and with the right local limit in flat spacetime. In this work, we
+consider this entire class of Generalized Causal set d'Alembertins in curved
+spacetimes and extend to them the result about the universality of the $-R/2$
+factor. Finally, we comment on the relation of this result to the Einstein
+Equivalence principle.
+</dc:description>
+ <dc:description>Comment: 31 pages, 1 figure. Some typos corrected, this version accepted for
+  publication in Class.Quant.Grav</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-05-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04665</dc:identifier>
+ <dc:identifier>doi:10.1088/0264-9381/33/13/135011</dc:identifier>
+ </oai_dc:dc>
+

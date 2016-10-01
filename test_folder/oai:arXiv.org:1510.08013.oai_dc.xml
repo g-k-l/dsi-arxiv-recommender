@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lattice computation of the nucleon scalar quark contents at the physical
+  point</dc:title>
+ <dc:creator>Durr, S.</dc:creator>
+ <dc:creator>Fodor, Z.</dc:creator>
+ <dc:creator>Hoelbling, C.</dc:creator>
+ <dc:creator>Katz, S. D.</dc:creator>
+ <dc:creator>Krieg, S.</dc:creator>
+ <dc:creator>Lellouch, L.</dc:creator>
+ <dc:creator>Lippert, T.</dc:creator>
+ <dc:creator>Metivet, T.</dc:creator>
+ <dc:creator>Portelli, A.</dc:creator>
+ <dc:creator>Szabo, K. K.</dc:creator>
+ <dc:creator>Torrero, C.</dc:creator>
+ <dc:creator>Toth, B. C.</dc:creator>
+ <dc:creator>Varnhorst, L.</dc:creator>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We present a QCD calculation of the $u$, $d$ and $s$ scalar quark contents of
+nucleons based on $47$ lattice ensembles with $N_f = 2+1$ dynamical sea quarks,
+$5$ lattice spacings down to $0.054\,\text{fm}$, lattice sizes up to
+$6\,\text{fm}$ and pion masses down to $120\,\text{MeV}$. Using the
+Feynman-Hellmann theorem, we obtain $f^N_{ud} = 0.0405(40)(35)$ and $f^N_s =
+0.113(45)(40)$, which translates into $\sigma_{\pi N}=38(3)(3)\,\text{MeV}$,
+$\sigma_{sN}=105(41)(37)\,\text{MeV}$ and $y_N=0.20(8)(8)$ for the sigma terms
+and the related ratio, where the first errors are statistical and the second
+are systematic. Using isospin relations, we also compute the individual up and
+down quark contents of the proton and neutron (results in the main text).
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08013</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 172001 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.172001</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Differential Evolution with Generalized Mutation Operator for Parameters
+  Optimization in Gene Selection for Cancer Classification</dc:title>
+ <dc:creator>Noghabi, H. Sharifi</dc:creator>
+ <dc:creator>Mashhadi, H. Rajabi</dc:creator>
+ <dc:creator>Shojaei, K.</dc:creator>
+ <dc:subject>Computer Science - Neural and Evolutionary Computing</dc:subject>
+ <dc:description>  Differential Evolution (DE) proved to be one of the most successful
+evolutionary algorithms for global optimization purposes in continuous
+problems. The core operator in DE is mutation which can provide the algorithm
+with both exploration and exploitation. In this article, a new notation for DE
+is proposed which has a formula that can be utilized for generating and
+extracting novel mutations and by applying this new notation, four novel
+mutations are proposed. More importantly, by combining these novel trial vector
+generation strategies and four other well-known ones, we proposed Generalized
+Mutation Differential Evolution (GMDE) that takes advantage of two mutation
+pools that have both explorative and exploitative strategies inside them.
+Results and experimental analysis are performed on CEC2005 benchmarks and the
+results stated that GMDE is surprisingly competitive and significantly improved
+the performance of this algorithm. Finally, GMDE is also applied to parameters
+optimization, modification and improvement of a feature selection method for
+cancer classification purposes over gene expression microarray profiles.
+</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02516</dc:identifier>
+ </oai_dc:dc>
+

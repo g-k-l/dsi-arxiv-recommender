@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient calculation of cosmological neutrino clustering with both
+  linear and non-linear gravity</dc:title>
+ <dc:creator>Archidiacono, Maria</dc:creator>
+ <dc:creator>Hannestad, Steen</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We study in detail how neutrino perturbations can be followed in linear
+theory by using only terms up to $l=2$ in the Boltzmann hierarchy. We provide a
+new approximation to the third moment and demonstrate that the neutrino power
+spectrum can be calculated to a precision of better than $\sim$ 5% for masses
+up to $\sim$ 1 eV. The matter and CMB power spectra can be calculated far more
+precisely and typically at least a factor of a few better than with existing
+approximations. We then proceed to study how the neutrino power spectrum can be
+reliably calculated even in the presence of non-linear gravitational clustering
+by using the full non-linear gravitational potential derived from semi-analytic
+methods based on $N$-body simulations in the Boltzmann evolution hierarchy. Our
+results agree extremely well with results derived from $N$-body simulations.
+</dc:description>
+ <dc:description>Comment: 12 pages, 7 figures</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02907</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/06/018</dc:identifier>
+ </oai_dc:dc>
+

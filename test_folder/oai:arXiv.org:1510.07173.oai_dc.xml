@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Blow-up of weak solutions to a chemotaxis system under influence of an
+  external chemoattractant</dc:title>
+ <dc:creator>Black, Tobias</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35K40, 35B44, 35K61, 35Q92, 92C17</dc:subject>
+ <dc:description>  We study nonnnegative radially symmetric solutions of the parabolic-elliptic
+Keller-Segel whole space system \begin{align*}
+\left\{\begin{array}{c@{\,}l@{\quad}l@{\,}c} u_{t}&amp;=\Delta
+u-\nabla\!\cdot(u\nabla v),\ &amp;x\in\mathbb{R}^n,&amp; t&gt;0,\\ 0 &amp;=\Delta v+u+f(x),\
+&amp;x\in\mathbb{R}^n,&amp; t&gt;0,\\ u(x,0)&amp;=u_{0}(x),\ &amp;x\in\mathbb{R}^n,&amp;
+  \end{array}\right. \end{align*} with prototypical external signal production
+\begin{align*} f(x):=\begin{cases} f_0\vert x\vert^{-\alpha},&amp;\text{ if }\vert
+x\vert \leq R-\rho,\\ 0,&amp;\text{ if } \vert x\vert\geq R+\rho,\\ \end{cases}
+\end{align*} for $R\in(0,1)$ and $\rho\in\left(0,\frac{R}{2}\right)$, which is
+still integrable but not of class
+$\text{L}^{\frac{n}{2}+\delta_0}(\mathbb{R}^n)$ for some $\delta_0\in[0,1)$.
+For corresponding parabolic-parabolic Neumann-type boundary-value problems in
+bounded domains $\Omega$, where
+$f\in\text{L}^{\frac{n}{2}+\delta_0}(\Omega)\cap C^{\alpha}(\Omega)$ for some
+$\delta_0\in(0,1)$ and $\alpha\in(0,1)$, it is known that the system does not
+emit blow-up solutions if the quantities
+$\|u_0\|_{\text{L}^{\frac{n}{2}+\delta_0}(\Omega)},
+\|f\|_{\text{L}^{\frac{n}{2}+\delta_0}(\Omega)}$ and
+$\|v_0\|_{\text{L}^{\theta}(\Omega)}$, for some $\theta&gt;n$, are all bounded by
+some $\varepsilon&gt;0$ small enough.
+  We will show that whenever $f_0&gt;\frac{2n}{\alpha}(n-2)(n-\alpha)$ and
+$u_0\equiv c_0&gt;0$ in $\overline{B_1(0)}$, a measure-valued global-in-time weak
+solution to the system above can be constructed which blows up immediately.
+Since these conditions are independent of $R\in(0,1)$ and $c_0&gt;0$, we will thus
+prove the criticality of $\delta_0=0$ for the existence of global bounded
+solutions under a smallness conditions as described above.
+</dc:description>
+ <dc:description>Comment: 21 pages</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07173</dc:identifier>
+ <dc:identifier>doi:10.1088/0951-7715/29/6/1865</dc:identifier>
+ </oai_dc:dc>
+

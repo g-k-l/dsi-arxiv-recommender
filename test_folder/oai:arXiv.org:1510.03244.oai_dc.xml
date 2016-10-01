@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The 1-loop self-energy of an electron in a strong external magnetic
+  field revisited</dc:title>
+ <dc:creator>Machet, Bruno</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  I calculate the 1-loop self-energy of the lowest Landau level an electron of
+mass m in a strong, constant and uniform external magnetic field B, beyond its
+always used truncation at (ln L)^2, L=|e|B/m^2. This is achieved by evaluating
+the integral deduced in 1953 by Demeur and incompletely calculated in 1969 by
+Jancovici, which I recover from Schwinger's techniques of calculation. It
+yields \delta m \simeq (\alpha*m/(4*\pi))*[(\ln L -\gamma_E -3/2)^2 -9/4
++\pi/(\beta-1) + \pi^2/6 +\pi*\Gamma[1-\beta]/L^{\beta-1}
++(1/L)*(\pi/(2-\beta)-5) +{\cal O}(1/L^{&gt;= 2})] with \beta \approx 1.175 for 75
+=&lt; L =&lt; 10000. . The (\ln L)^2 truncation exceeds the precise estimate by 45%
+at L=100 and by more at lower values of L, due to neglecting, among others, the
+single logarithmic contribution. This is doubly unjustified because it is large
+and because it is needed to fulfill appropriate renormalization conditions.
+Technically challenging improvements look therefore necessary, for example when
+resumming higher loops and incorporating the effects of large B on the photonic
+vacuum polarization, like investigated in recent years.
+</dc:description>
+ <dc:description>Comment: 15 pages, 7 figures. Revised version, more self-contained. To appear
+  in IJMP A</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03244</dc:identifier>
+ <dc:identifier>IJMP A, Vol. 31, No 13 (2016) 1650071</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217751X16500718</dc:identifier>
+ </oai_dc:dc>
+

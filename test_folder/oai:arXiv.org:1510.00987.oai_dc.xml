@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Few-body precursor of the Higgs mode in a superfluid Fermi gas</dc:title>
+ <dc:creator>Bjerlin, J.</dc:creator>
+ <dc:creator>Reimann, S. M.</dc:creator>
+ <dc:creator>Bruun, G. M.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We demonstrate that an undamped few-body precursor of the Higgs mode can be
+investigated in a harmonically trapped Fermi gas. Using exact diagonalisation,
+the lowest monopole mode frequency is shown to depend non-monotonically on the
+interaction strength, having a minimum in a crossover region. The minimum
+deepens with increasing particle number, reflecting that the mode is the
+few-body analogue of a many-body Higgs mode in the superfluid phase, which has
+a vanishing frequency at the quantum phase transition point to the normal
+phase. We show that this mode mainly consists of coherent excitations of
+time-reversed pairs, and that it can be selectively excited by modulating the
+interaction strength, using for instance a Feshbach resonance in cold atomic
+gases.
+</dc:description>
+ <dc:description>Comment: 9 pages, 7 figures</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00987</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 155302 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.155302</dc:identifier>
+ </oai_dc:dc>
+

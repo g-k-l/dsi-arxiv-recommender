@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A spin liquid with pinch-line singularities on the pyrochlore lattice</dc:title>
+ <dc:creator>Benton, Owen</dc:creator>
+ <dc:creator>Jaubert, Ludovic D. C.</dc:creator>
+ <dc:creator>Yan, Han</dc:creator>
+ <dc:creator>Shannon, Nic</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  The mathematics of gauge theories lies behind many of the most profound
+advances in physics in the last 200 years, from Maxwell's theory of
+electromagnetism to Einstein's theory of general relativity. More recently it
+has become clear that gauge theories also emerge in condensed matter, a prime
+example being the spin ice materials which host an emergent electromagnetic
+gauge field. In spin ice, the underlying gauge structure is revealed by the
+presence of pinch-point singularities in neutron-scattering measurements. Here
+we report the discovery of a spin liquid where the low-temperature physics is
+naturally described by the fluctuations of a tensor field with a continuous
+gauge freedom. This gauge structure underpins an unusual form of spin
+correlations, giving rise to pinch-line singularities--- line-like analogues of
+the pinch-points observed in spin ice. Remarkably, these features may already
+have been observed in the pyrochlore material Tb$_2$Ti$_2$O$_7$.
+</dc:description>
+ <dc:description>Comment: 4 pages of main text, 3 figures</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-06-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01007</dc:identifier>
+ <dc:identifier>Nature Commun. 7, 11572 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/ncomms11572</dc:identifier>
+ </oai_dc:dc>
+

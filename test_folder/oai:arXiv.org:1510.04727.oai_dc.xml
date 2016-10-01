@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Random Reordering in SOR-Type Methods</dc:title>
+ <dc:creator>Oswald, Peter</dc:creator>
+ <dc:creator>Zhou, Weiqi</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>65F10, 15A60</dc:subject>
+ <dc:description>  When iteratively solving linear systems By=b with Hermitian positive
+semi-definite $B$, and in particular when solving least-squares problems for
+$Ax=b$ by reformulating them as $AA^\ast y=b$, it is often observed that
+SOR-type methods (Gauss-Seidel, Kaczmarz) perform suboptimally for the given
+equation ordering, and that random reordering improves the situation on
+average.This paper is an attempt to provide some additional theoretical support
+for this phenomenon. We show eerror bounds for two randomized versions, called
+shuffled and preshuffled SOR, that improve asymptotically upon the best known
+bounds fro SOR with cyclic ordering. Our results are based on studying the
+behavior of the triangular truncation of Hermitian matrices with respect to
+their permutations.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04727</dc:identifier>
+ </oai_dc:dc>
+

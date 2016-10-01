@@ -1,0 +1,62 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The angular momentum distribution and baryon content of star forming
+  galaxies at z~1-3</dc:title>
+ <dc:creator>Burkert, A.</dc:creator>
+ <dc:creator>Schreiber, N. M. F&#246;rster</dc:creator>
+ <dc:creator>Genzel, R.</dc:creator>
+ <dc:creator>Lang, P.</dc:creator>
+ <dc:creator>Tacconi, L. J.</dc:creator>
+ <dc:creator>Wisnioski, E.</dc:creator>
+ <dc:creator>Wuyts, S.</dc:creator>
+ <dc:creator>Bandara, K.</dc:creator>
+ <dc:creator>Beifiori, A.</dc:creator>
+ <dc:creator>Bender, R.</dc:creator>
+ <dc:creator>Brammer, G.</dc:creator>
+ <dc:creator>Chan, J.</dc:creator>
+ <dc:creator>Davies, R.</dc:creator>
+ <dc:creator>Dekel, A.</dc:creator>
+ <dc:creator>Fabricius, M.</dc:creator>
+ <dc:creator>Fossati, M.</dc:creator>
+ <dc:creator>Kulkarni, S.</dc:creator>
+ <dc:creator>Lutz, D.</dc:creator>
+ <dc:creator>Mendel, J. T.</dc:creator>
+ <dc:creator>Momcheva, I.</dc:creator>
+ <dc:creator>Nelson, E. J.</dc:creator>
+ <dc:creator>Naab, T.</dc:creator>
+ <dc:creator>Renzini, A.</dc:creator>
+ <dc:creator>Saglia, R.</dc:creator>
+ <dc:creator>Sharples, R. M.</dc:creator>
+ <dc:creator>Sternberg, A.</dc:creator>
+ <dc:creator>Wilman, D.</dc:creator>
+ <dc:creator>Wuyts, E.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We analyze the angular momenta of massive star forming galaxies (SFGs) at the
+peak of the cosmic star formation epoch (z~0.8-2.6). Our sample of ~360
+log(M*/Msun) ~ 9.3-11.8 SFGs is mainly based on the KMOS3D and SINS/zC-SINF
+surveys of H$\alpha$ kinematics, and collectively provides a representative
+subset of the massive star forming population. The inferred halo scale angular
+momentum distribution is broadly consistent with that theoretically predicted
+for their dark matter halos, in terms of mean spin parameter &lt;$\lambda$&gt; ~
+0.037 and its dispersion ($\sigma_{log(\lambda)}$~0.2). Spin parameters
+correlate with the disk radial scale, and with their stellar surface density,
+but do not depend significantly on halo mass, stellar mass, or redshift. Our
+data thus support the long-standing assumption that on average, even at high
+redshifts, the specific angular momentum of disk galaxies reflects that of
+their dark matter halos (j_d = j_DM). The lack of correlation between $\lambda$
+x (j_d/j_DM) and the nuclear stellar density $\Sigma_{*}$(1kpc) favors a
+scenario where disk-internal angular momentum redistribution leads to
+"compaction" inside massive high-redshift disks. For our sample, the inferred
+average stellar-to-dark matter mass ratio is ~2%, consistent with abundance
+matching results. Including the molecular gas, the total baryonic disk-to-dark
+matter mass ratio is ~5% for halos near $10^{12}$ Msun, which corresponds to
+31% of the cosmologically available baryons, implying that high-redshift disks
+are strongly baryon dominated.
+</dc:description>
+ <dc:description>Comment: Accepted for publication by the Astrophysical Journal</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03262</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/826/2/214</dc:identifier>
+ </oai_dc:dc>
+

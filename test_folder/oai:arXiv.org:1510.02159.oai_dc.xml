@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High-Dimensional Multivariate Time Series With Additional Structure</dc:title>
+ <dc:creator>Schweinberger, Michael</dc:creator>
+ <dc:creator>Babkin, Sergii</dc:creator>
+ <dc:creator>Ensor, Katherine</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  High-dimensional multivariate time series are challenging due to the
+dependent and high-dimensional nature of the data, but in many applications
+there is additional structure that can be exploited to reduce computing time
+along with statistical error.We consider high-dimensional vector autoregressive
+processes with spatial structure, a simple and common form of additional
+structure. We propose novel high-dimensional methods that take advantage of
+such structure without making model assumptions about how distance affects
+dependence. We provide non-asymptotic bounds on the statistical error of
+parameter estimators in high-dimensional settings and show that the proposed
+approach reduces the statistical error. An application to air pollution in the
+US demonstrates that the estimation approach reduces both computing time and
+prediction error and gives rise to results that are meaningful from a
+scientific point of view, in contrast to high-dimensional methods that ignore
+spatial structure. In practice, these high-dimensional methods can be used to
+decompose high-dimensional multivariate time series into lower-dimensional
+multivariate time series that can be studied by other methods in more depth.
+</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-08-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02159</dc:identifier>
+ </oai_dc:dc>
+

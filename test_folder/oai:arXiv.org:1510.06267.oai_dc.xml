@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A new version of fermion coupled coherent states method: Theory and
+  applications in simulation of two-electron systems</dc:title>
+ <dc:creator>Eidi, Mohammadreza</dc:creator>
+ <dc:creator>Vafaee, Mohsen</dc:creator>
+ <dc:creator>Niknam, Ali Reza</dc:creator>
+ <dc:creator>Morshedian, Nader</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We report a new version of fermion coupled coherent states method (FCCS-II)
+to simulate two-electron systems based on a self-symmetrized six-dimensional
+(6D) coherent states grid. Unlike the older fermion coupled coherent states
+method (FCCS-I), FCCS-II does not need any new equations in comparison with the
+coupled coherent states method. FCCS-II uses a simpler and more efficient
+approach for symmetrizing the spatial wave function in the simulation of
+fermionic systems. This method, has significantly increased the speed of
+computations and give us the capability to simulate the quantum systems with
+the larger CS grids. We apply FCCS-II to simulate the Helium atom and the
+Hydrogen molecule based on grids with a large numbers of coherent states.
+FCCS-II with a relatively low number of CS gives a potential energy curve for
+H2 that is very close to the exact potential curve. Moreover, we have
+re-derived all the important equations of the FCCS-I method.
+</dc:description>
+ <dc:description>Comment: 22 pages, 6 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-04-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06267</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cplett.2016.04.054</dc:identifier>
+ </oai_dc:dc>
+

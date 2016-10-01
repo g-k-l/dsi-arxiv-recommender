@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Edge instability in a chiral stripe domain under an electric current and
+  skyrmion generation</dc:title>
+ <dc:creator>Lin, Shi-Zeng</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  Motivated by the recent experimental observations on the skyrmion creation by
+cutting chiral stripe domains under a current drive [Jiang {\emph{et al.}},
+Science {\bf{349}}, 283 (2015)], we study the mechanism of skyrmion generation
+by simulating the dynamics of stripe domains. Our theory for skyrmion
+generation is based on the fact that there are two half skyrmions attached to
+the ends of a stripe domain. These half skyrmions move due to the coupling
+between the skyrmion topological charge and current. As a consequence, the
+stripe domain is bent or stretched depending on the direction of motion of the
+half skyrmions. For a large current, skyrmions are created by chopping the
+stripe domains via strong bending or stretching. Our theory provides an
+explanation to the experiments and is supported by the new experiments.
+Furthermore, we predict that skyrmions can also be generated using a Bloch
+stripe domain under a spin transfer torque which can be realized in B20
+compounds.
+</dc:description>
+ <dc:description>Comment: 8 pages and 6 figures, movies can be found at
+  http://journals.aps.org/prb/abstract/10.1103/PhysRevB.94.020402</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-07-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07353</dc:identifier>
+ <dc:identifier>Phys. Rev. B 94, 020402 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.94.020402</dc:identifier>
+ </oai_dc:dc>
+

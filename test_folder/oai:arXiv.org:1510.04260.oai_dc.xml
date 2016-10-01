@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental Demonstration of Phase Modulation and Motion Sensing Using
+  Graphene-Integrated Metasurfaces</dc:title>
+ <dc:creator>Dabidian, Nima</dc:creator>
+ <dc:creator>Dutta-Gupta, Shourya</dc:creator>
+ <dc:creator>Kholmanov, Iskandar</dc:creator>
+ <dc:creator>Lu, Feng</dc:creator>
+ <dc:creator>Lee, Jongwon</dc:creator>
+ <dc:creator>Lai, Kueifu</dc:creator>
+ <dc:creator>Jin, Mingzhou</dc:creator>
+ <dc:creator>Fallahazad, Babak</dc:creator>
+ <dc:creator>Tutuc, Emanuel</dc:creator>
+ <dc:creator>Belkin, Mikhail A.</dc:creator>
+ <dc:creator>Shvets, Gennady</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Plasmonic metasurfaces are able to modify the wavefront by altering the light
+intensity, phase and polarization state. Active plasmonic metasurfaces would
+allow dynamic modulation of the wavefront which give rise to interesting
+application such as beam-steering, holograms and tunable waveplates. Graphene
+is an interesting material with dynamic property which can be controlled by
+electrical gating at an ultra-fast speed. We use a graphene-integrated
+metasurface to induce a tunable phase change to the wavefront. The metasurface
+supports a Fano resonance which produces high-quality resonances around 7.7
+microns. The phase change is measured using a Michleson interferometry setup.
+It is shown that the reflection phase can change up to 55 degrees. In
+particular the phase can change by 28 degrees while the amplitude is nearly
+constant. The anisotropic optical response of the metasurface is used to
+modulate the ellipticity of the reflected wave in response to an incident field
+at 45 degree. We show a proof of concept application of our system in
+potentially ultra-fast laser interferometry with sub-micron accuracy.
+</dc:description>
+ <dc:description>Comment: 14 pages, 5 figures, references added, typo removed</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04260</dc:identifier>
+ <dc:identifier>doi:10.1021/acs.nanolett.6b00732</dc:identifier>
+ </oai_dc:dc>
+

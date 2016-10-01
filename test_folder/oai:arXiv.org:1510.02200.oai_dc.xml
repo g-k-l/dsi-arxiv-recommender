@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Black rings at large D</dc:title>
+ <dc:creator>Tanabe, Kentaro</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We study the effective theory of slowly rotating black holes at the infinite
+limit of the spacetime dimension D. This large D effective theory is obtained
+by integrating the Einstein equation with respect to the radial direction. The
+effective theory gives equations for non-linear dynamical deformations of the
+slowly rotating black hole as effective equations. The effective equations
+contain the slowly rotating Myers-Perry black hole, slowly boosted black
+string, non-uniform black string and black ring as stationary solutions. We
+obtain an analytic solution of the black ring by solving the effective
+equations. Furthermore, by perturbation analysis of the effective equations, we
+find a quasinormal mode condition of the black ring in analytic way. As a
+result we confirm that thin black ring is unstable against non-axisymmetric
+perturbations. We also include 1/D corrections to the effective equations and
+discuss the effects by 1/D corrections.
+</dc:description>
+ <dc:description>Comment: 43 pages, 5 figures, published version in JHEP</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-02-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02200</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)151</dc:identifier>
+ </oai_dc:dc>
+

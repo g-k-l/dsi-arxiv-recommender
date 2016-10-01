@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin liquid phases of Mott insulating ultracold bosons</dc:title>
+ <dc:creator>Rutkowski, Todd C.</dc:creator>
+ <dc:creator>Lawler, Michael J.</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  Mott insulating ultracold gases posses a unique whole-atom exchange
+interaction which enables large quantum fluctuations between the Zeeman
+sublevels of each atom. By strengthening this interaction---either through the
+use of large-spin atoms, or by tuning the particle-particle interactions via
+optical Feshbach resonance---one may enhance fluctuations and facilitate the
+appearance of the long sought-after quantum spin liquid phase---all in the
+highly tunable environment of cold atoms. To illustrate the relationship
+between the spin magnitude, interaction strength, and resulting magnetic
+phases, we present and solve a mean field theory for bosons optically confined
+to the one particle-per-site Mott state, using both analytic and numerical
+methods. We find on a square lattice with bosons of hyperfine spin $f&gt;2$, that
+making the repulsive s-wave scattering length through the singlet channel
+small---relative to the higher-order scattering channels---accesses a
+short-range resonating valence bond (s-RVB) spin liquid phase.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03851</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 094405 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.094405</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Performance evaluation of multiple precision matrix multiplications
+  using parallelized Strassen and Winograd algorithms</dc:title>
+ <dc:creator>Kouya, Tomonori</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Computer Science - Mathematical Software</dc:subject>
+ <dc:subject>Computer Science - Numerical Analysis</dc:subject>
+ <dc:description>  It is well known that Strassen and Winograd algorithms can reduce the
+computational costs associated with dense matrix multiplication. We have
+already shown that they are also very effective for software-based multiple
+precision floating-point arithmetic environments such as the MPFR/GMP library.
+In this paper, we show that we can obtain the same effectiveness for
+double-double (DD) and quadruple-double (QD) environments supported by the QD
+library, and that parallelization can increase the speed of these multiple
+precision matrix multiplications. Finally, we demonstrate that our implemented
+parallelized Strassen and Winograd algorithms can increase the speed of
+parallelized LU decomposition.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08642</dc:identifier>
+ <dc:identifier>JSIAM Letters Vol. 8 (2016) p. 21-24</dc:identifier>
+ <dc:identifier>doi:10.14495/jsiaml.8.21</dc:identifier>
+ </oai_dc:dc>
+

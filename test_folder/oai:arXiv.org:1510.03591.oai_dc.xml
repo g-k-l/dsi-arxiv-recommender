@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dual Control for Approximate Bayesian Reinforcement Learning</dc:title>
+ <dc:creator>Klenske, Edgar D.</dc:creator>
+ <dc:creator>Hennig, Philipp</dc:creator>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  Control of non-episodic, finite-horizon dynamical systems with uncertain
+dynamics poses a tough and elementary case of the exploration-exploitation
+trade-off. Bayesian reinforcement learning, reasoning about the effect of
+actions and future observations, offers a principled solution, but is
+intractable. We review, then extend an old approximate approach from control
+theory---where the problem is known as dual control---in the context of modern
+regression methods, specifically generalized linear regression. Experiments on
+simulated systems show that this framework offers a useful approximation to the
+intractable aspects of Bayesian RL, producing structured exploration strategies
+that differ from standard RL approaches. We provide simple examples for the use
+of this framework in (approximate) Gaussian process regression and feedforward
+neural networks for the control of exploration.
+</dc:description>
+ <dc:description>Comment: 30 pages, 7 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-08-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03591</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Is Draco II one of the faintest dwarf galaxies? First study from
+  Keck/DEIMOS spectroscopy</dc:title>
+ <dc:creator>Martin, Nicolas F.</dc:creator>
+ <dc:creator>Geha, Marla</dc:creator>
+ <dc:creator>Ibata, Rodrigo A.</dc:creator>
+ <dc:creator>Collins, Michelle L. M.</dc:creator>
+ <dc:creator>Laevens, Benjamin P. M.</dc:creator>
+ <dc:creator>Bell, Eric F.</dc:creator>
+ <dc:creator>Rix, Hans-Walter</dc:creator>
+ <dc:creator>Ferguson, Annette M. N.</dc:creator>
+ <dc:creator>Chambers, Kenneth C.</dc:creator>
+ <dc:creator>Wainscoat, Richard J.</dc:creator>
+ <dc:creator>Waters, Christopher</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present the first spectroscopic analysis of the faint and compact stellar
+system Draco II (Dra II, M_V=-2.9+/-0.8, r_h=19^{+8}_{-6} pc), recently
+discovered in the Pan-STARRS1 3{\pi} survey. The observations, conducted with
+DEIMOS on the Keck II telescope, establish some of its basic characteristics:
+the velocity data reveal a narrow peak with 9 member stars at a systemic
+heliocentric velocity &lt;v_r&gt;=-347.6^{+1.7}_{-1.8} km/s, thereby confirming Dra
+II is a satellite of the Milky Way; we infer a velocity dispersion with
+\sigma_{vr}=2.9+/-2.1 km/s (&lt;8.4 km/s at the 95% confidence level), which
+implies log_{10}(M_{1/2})=5.5^{+0.4}_{-0.6} and
+log_{10}((M/L)_{1/2})=2.7^{+0.5}_{-0.8}, in Solar units; furthermore, very weak
+Calcium triplet lines in the spectra of the high signal-to-noise member stars
+imply [Fe/H]&lt;-2.1, whilst variations in the line strengths of two stars with
+similar colours and magnitudes suggest a metallicity spread in Dra II. These
+new data cannot clearly discriminate whether Draco II is a star cluster or
+amongst the faintest, most compact, and closest dwarf galaxies. However, the
+sum of the three --- individually inconclusive --- pieces of evidence presented
+here, seems to favour the dwarf galaxy interpretation.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures, 1 table. Excepted for publication in MNRAS. Full
+  table 1 available upon request. v2: moderate revisions of the text,
+  conclusion unchanged</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-01-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01326</dc:identifier>
+ <dc:identifier>doi:10.1093/mnrasl/slw013</dc:identifier>
+ </oai_dc:dc>
+

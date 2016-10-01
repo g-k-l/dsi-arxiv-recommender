@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Observation of Aubry transition in finite atom chains via friction</dc:title>
+ <dc:creator>Bylinskii, Alexei</dc:creator>
+ <dc:creator>Gangloff, Dorian</dc:creator>
+ <dc:creator>Counts, Ian</dc:creator>
+ <dc:creator>Vuletic, Vladan</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:description>  The highly nonlinear many-body physics of a chain of mutually interacting
+atoms in contact with a periodic substrate gives rise to complex static and
+dynamical phenomena, such as structural phase transitions and friction. In the
+limit of an infinite chain incommensurate with the substrate, Aubry predicted a
+structural transition with increasing substrate potential, from the chain's
+intrinsic arrangement free to slide on the substrate, to a pinned arrangement
+favoring the substrate pattern. To date, the Aubry transition has not been
+observed. Here, using a chain of cold ions subject to a periodic optical
+potential we qualitatively and quantitatively establish a close relation
+between Aubry's sliding-to-pinned transition and superlubricity breaking in
+stick-slip friction. Using friction measurements with high spatial resolution
+and individual ion detection, we experimentally observe the Aubry transition
+and the onset of its hallmark fractal atomic arrangement. Notably, the observed
+critical lattice depth for a finite chain agrees well with the Aubry prediction
+for an infinite chain. Our results elucidate the connection between competing
+ordering patterns and superlubricity in nanocontacts - the elementary building
+blocks of friction.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07585</dc:identifier>
+ <dc:identifier>doi:10.1038/nmat4601</dc:identifier>
+ </oai_dc:dc>
+

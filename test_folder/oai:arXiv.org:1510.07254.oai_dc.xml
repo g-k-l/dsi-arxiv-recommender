@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Federated Scheduling Admits No Constant Speedup Factors for
+  Constrained-Deadline DAG Task Systems</dc:title>
+ <dc:creator>Chen, Jian-Jia</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>Computer Science - Distributed, Parallel, and Cluster Computing</dc:subject>
+ <dc:description>  In the federated scheduling approaches in multiprocessor systems, a task
+either 1) is restricted to execute sequentially on a single processor or 2) has
+exclusive access to the assigned processors. There have been several positive
+results to conduct good federated scheduling policies, which have constant
+speedup factors with respect to any optimal federated scheduling algorithm.
+This paper answers an open question: "For constrained-deadline task systems
+with directed acyclic graph (DAG) dependency structures, do federated
+scheduling policies have a constant speedup factor with respect to any optimal
+scheduling algorithm?" The answer is "No!" This paper presents an example,
+which demonstrates that any federated scheduling algorithm has a speedup factor
+of at least $\Omega(\min\{M, N\})$ with respect to any optimal scheduling
+algorithm, where $N$ is the number of tasks and $M$ is the number of
+processors.
+</dc:description>
+ <dc:description>Comment: in Real-Time Systems Journal 2016</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-06-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07254</dc:identifier>
+ <dc:identifier>doi:10.1007/s11241-016-9255-2</dc:identifier>
+ </oai_dc:dc>
+

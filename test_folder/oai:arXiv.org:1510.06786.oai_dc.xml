@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Freshman or Fresher? Quantifying the Geographic Variation of Internet
+  Language</dc:title>
+ <dc:creator>Kulkarni, Vivek</dc:creator>
+ <dc:creator>Perozzi, Bryan</dc:creator>
+ <dc:creator>Skiena, Steven</dc:creator>
+ <dc:subject>Computer Science - Computation and Language</dc:subject>
+ <dc:subject>Computer Science - Information Retrieval</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  We present a new computational technique to detect and analyze statistically
+significant geographic variation in language. Our meta-analysis approach
+captures statistical properties of word usage across geographical regions and
+uses statistical methods to identify significant changes specific to regions.
+While previous approaches have primarily focused on lexical variation between
+regions, our method identifies words that demonstrate semantic and syntactic
+variation as well.
+  We extend recently developed techniques for neural language models to learn
+word representations which capture differing semantics across geographical
+regions. In order to quantify this variation and ensure robust detection of
+true regional differences, we formulate a null model to determine whether
+observed changes are statistically significant. Our method is the first such
+approach to explicitly account for random variation due to chance while
+detecting regional variation in word meaning.
+  To validate our model, we study and analyze two different massive online data
+sets: millions of tweets from Twitter spanning not only four different
+countries but also fifty states, as well as millions of phrases contained in
+the Google Book Ngrams. Our analysis reveals interesting facets of language
+change at multiple scales of geographic resolution -- from neighboring states
+to distant continents.
+  Finally, using our model, we propose a measure of semantic distance between
+languages. Our analysis of British and American English over a period of 100
+years reveals that semantic variation between these dialects is shrinking.
+</dc:description>
+ <dc:description>Comment: 11 pages (updated submission)</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06786</dc:identifier>
+ </oai_dc:dc>
+

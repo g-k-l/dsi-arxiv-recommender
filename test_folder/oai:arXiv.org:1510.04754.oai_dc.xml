@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fundamentals of the TianQin mission</dc:title>
+ <dc:creator>Mei, Jianwei</dc:creator>
+ <dc:creator>Shao, Chenggang</dc:creator>
+ <dc:creator>Wang, Yan</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  This talk adds more detail to the proposed TianQin mission \cite{TQ}. The
+response of TianQin to a binary source is an important problem for the
+experiment. Here we present the detail of the response function of an equal-arm
+Michelson interferometer to the gravitation waves of a binary source with a
+circular orbit.
+</dc:description>
+ <dc:description>Comment: To be published in the proceedings of the "XIIth International
+  Conference on Gravitation, Astrophysics and Cosmology", (Moscow, Russia,
+  2015), World Scientific, Singapore</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04754</dc:identifier>
+ <dc:identifier>doi:10.1142/9789814759816_0079</dc:identifier>
+ </oai_dc:dc>
+

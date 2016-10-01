@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Observing Near-Earth Objects with the James Webb Space Telescope</dc:title>
+ <dc:creator>Thomas, Cristina A.</dc:creator>
+ <dc:creator>Abell, Paul</dc:creator>
+ <dc:creator>Castillo-Rogez, Julie</dc:creator>
+ <dc:creator>Moskovitz, Nicholas</dc:creator>
+ <dc:creator>Mueller, Michael</dc:creator>
+ <dc:creator>Reddy, Vishnu</dc:creator>
+ <dc:creator>Rivkin, Andrew</dc:creator>
+ <dc:creator>Ryan, Erin</dc:creator>
+ <dc:creator>Stansberry, John</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  The James Webb Space Telescope (JWST) has the potential to enhance our
+understanding of near-Earth objects (NEOs). We present results of
+investigations into the observability of NEOs given the nominal observing
+requirements of JWST on elongation (85-135 degrees) and non-sidereal rates
+($&lt;$30mas/s). We find that approximately 75% of NEOs can be observed in a given
+year. However, observers will need to wait for appropriate observing windows.
+We find that JWST can easily execute photometric observations of meter-sized
+NEOs which will enhance our understanding of the small NEO population.
+</dc:description>
+ <dc:description>Comment: This paper is one of a series for a special issue on Solar System
+  observations with JWST in PASP. Accepted 10/02/15. Preprint 22 pages, 4
+  figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05637</dc:identifier>
+ <dc:identifier>doi:10.1088/1538-3873/128/959/018002</dc:identifier>
+ </oai_dc:dc>
+

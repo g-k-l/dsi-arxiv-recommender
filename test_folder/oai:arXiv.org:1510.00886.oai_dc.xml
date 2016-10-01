@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Flattenings and Koszul Young flattenings arising in complexity theory</dc:title>
+ <dc:creator>Guan, Yonghui</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:subject>14Q20, 68Q15, 68Q17</dc:subject>
+ <dc:description>  I find new equations for Chow varieties, their secant varieties, and an
+additional variety that arises in the study of depth 5 circuits by flattenings
+and Koszul Young flattenings. This enables a new lower bound for symmetric
+border rank of $x_1x_2\cdots x_d$ when $d$ is odd, and a lower bound on the
+size of depth 5 circuits that compute the permanent.
+</dc:description>
+ <dc:description>Comment: 16 pages</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-06-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00886</dc:identifier>
+ </oai_dc:dc>
+

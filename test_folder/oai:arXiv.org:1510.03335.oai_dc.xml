@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Running coupling in SU(2) gauge theory with two adjoint fermions</dc:title>
+ <dc:creator>Rantaharju, Jarno</dc:creator>
+ <dc:creator>Rantalaiho, Teemu</dc:creator>
+ <dc:creator>Rummukainen, Kari</dc:creator>
+ <dc:creator>Tuominen, Kimmo</dc:creator>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:description>  We study SU(2) gauge theory with two Dirac fermions in the adjoint
+representation of the gauge group on the lattice. Using clover improved Wilson
+fermion action with hypercubic truncated stout smearing we perform simulations
+at larger coupling than earlier. We measure the evolution of the coupling
+constant using the step scaling method with Schr\"odinger functional and study
+the remaining discretization effects. At weak coupling we observe significant
+discretization effects, which make it difficult to obtain a fully controlled
+continuum limit. Nevertheless, the data remains consistent with the existence
+of a fixed point in the interval $2.2\lesssim g^{\ast 2}\lesssim 3$. We also
+measure the anomalous dimension and find its value at the fixed point is
+$\gamma^\ast\simeq 0.2\pm 0.03$.
+</dc:description>
+ <dc:description>Comment: 9 pages, 6 figures. Revisions in the abstract and introduction, as
+  well as the handling of the continuum limit</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03335</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 094509 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.094509</dc:identifier>
+ </oai_dc:dc>
+

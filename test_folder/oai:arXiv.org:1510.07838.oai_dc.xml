@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Supersolutions for a class of nonlinear parabolic systems</dc:title>
+ <dc:creator>Ishige, Kazuhiro</dc:creator>
+ <dc:creator>Kawakami, Tatsuki</dc:creator>
+ <dc:creator>Sier&#380;&#553;ga, Miko&#322;aj</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:description>  In this paper, by using scalar nonlinear parabolic equations, we construct
+supersolutions for a class of nonlinear parabolic systems including $$
+\left\{\begin{array}{ll} \partial_t u=\Delta u+v^p,\qquad &amp;
+x\in\Omega,\,\,\,t&gt;0,\\ \partial_t v=\Delta v+u^q, &amp; x\in\Omega,\,\,\,t&gt;0,\\
+u=v=0, &amp; x\in\partial\Omega,\,\,\,t&gt;0,\\ (u(x,0), v(x,0))=(u_0(x),v_0(x)), &amp;
+x\in\Omega, \end{array} \right. $$ where $p\ge 0$, $q\ge 0$, $\Omega$ is a
+(possibly unbounded) smooth domain in ${\bf R}^N$ and both $u_0$ and $v_0$ are
+nonnegative and locally integrable functions in $\Omega$. The supersolutions
+enable us to obtain optimal sufficient conditions for the existence of the
+solutions and optimal lower estimates of blow-up rate of the solutions.
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07838</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jde.2015.12.031</dc:identifier>
+ </oai_dc:dc>
+

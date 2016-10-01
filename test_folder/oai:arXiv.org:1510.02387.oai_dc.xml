@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mapping Unseen Words to Task-Trained Embedding Spaces</dc:title>
+ <dc:creator>Madhyastha, Pranava Swaroop</dc:creator>
+ <dc:creator>Bansal, Mohit</dc:creator>
+ <dc:creator>Gimpel, Kevin</dc:creator>
+ <dc:creator>Livescu, Karen</dc:creator>
+ <dc:subject>Computer Science - Computation and Language</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  We consider the supervised training setting in which we learn task-specific
+word embeddings. We assume that we start with initial embeddings learned from
+unlabelled data and update them to learn task-specific embeddings for words in
+the supervised training data. However, for new words in the test set, we must
+use either their initial embeddings or a single unknown embedding, which often
+leads to errors. We address this by learning a neural network to map from
+initial embeddings to the task-specific embedding space, via a multi-loss
+objective function. The technique is general, but here we demonstrate its use
+for improved dependency parsing (especially for sentences with
+out-of-vocabulary words), as well as for downstream improvements on sentiment
+analysis.
+</dc:description>
+ <dc:description>Comment: 8 + 3 pages, 3 figures</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-06-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02387</dc:identifier>
+ </oai_dc:dc>
+

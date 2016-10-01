@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fragmentation Functions at Next-to-Next-to-Leading Order Accuracy</dc:title>
+ <dc:creator>Anderle, Daniele P.</dc:creator>
+ <dc:creator>Ringer, Felix</dc:creator>
+ <dc:creator>Stratmann, Marco</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We present a first analysis of parton-to-pion fragmentation functions at
+next-to-next-to-leading order accuracy in QCD based on single-inclusive pion
+production in electron-positron annihilation. Special emphasis is put on the
+technical details necessary to perform the QCD scale evolution and cross
+section calculation in Mellin moment space. We demonstrate how the description
+of the data and the theoretical uncertainties are improved when
+next-to-next-to-leading order QCD corrections are included.
+</dc:description>
+ <dc:description>Comment: 15 pages, 7 eps figures, version 2 matches the published version</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05845</dc:identifier>
+ <dc:identifier>Phys. Rev. D 92, 114017 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.92.114017</dc:identifier>
+ </oai_dc:dc>
+

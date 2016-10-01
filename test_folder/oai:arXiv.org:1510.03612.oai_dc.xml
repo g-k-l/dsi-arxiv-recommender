@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Time-dependent density functional studies of nuclear quantum dynamics in
+  large amplitudes</dc:title>
+ <dc:creator>Wen, Kai</dc:creator>
+ <dc:creator>Washiyama, Kouhei</dc:creator>
+ <dc:creator>Fang, Ni</dc:creator>
+ <dc:creator>Nakatsukasa, Takashi</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  The time-dependent density functional theory (TDDFT) provides a unified
+description of the structure and reaction. The linear approximation leads to
+the random-phase approximation (RPA) which is capable of describing a variety
+of collective motion in a harmonic regime. Beyond the linear regime, we present
+applications of the TDDFT to nuclear fusion and fission reaction. In
+particular, the extraction of the internuclear potential and the inertial mass
+parameter is performed using two different methods. A fusion hindrance
+mechanism for heavy systems is investigated from the microscopic point of view.
+The canonical collective variables are determined by the adiabatic
+self-consistent collective coordinate method. Preliminary results of the
+spontaneous fission path, the potential, and the collective mass parameter are
+shown for 8Be --&gt; alpha+alpha.
+</dc:description>
+ <dc:description>Comment: Invited talk presented at XXII Nuclear Physics Workshop "Marie &amp;
+  Pierre Curie", Kazimierz, Poland, September 22-27, 2015</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03612</dc:identifier>
+ <dc:identifier>Acta Phys. Pol. B Proc. Suppl. 8, 637 (2015)</dc:identifier>
+ <dc:identifier>doi:10.5506/APhysPolBSupp.8.637</dc:identifier>
+ </oai_dc:dc>
+

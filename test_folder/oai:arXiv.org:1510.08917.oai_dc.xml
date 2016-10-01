@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Fast Hyperplane-Based Minimum-Volume Enclosing Simplex Algorithm for
+  Blind Hyperspectral Unmixing</dc:title>
+ <dc:creator>Lin, Chia-Hsiang</dc:creator>
+ <dc:creator>Chi, Chong-Yung</dc:creator>
+ <dc:creator>Wang, Yu-Hsiang</dc:creator>
+ <dc:creator>Chan, Tsung-Han</dc:creator>
+ <dc:subject>Computer Science - Computational Geometry</dc:subject>
+ <dc:description>  Hyperspectral unmixing (HU) is a crucial signal processing procedure to
+identify the underlying materials (or endmembers) and their corresponding
+proportions (or abundances) from an observed hyperspectral scene. A well-known
+blind HU criterion, advocated by Craig in early 1990's, considers the vertices
+of the minimum-volume enclosing simplex of the data cloud as good endmember
+estimates, and it has been empirically and theoretically found effective even
+in the scenario of no pure pixels. However, such kind of algorithms may suffer
+from heavy simplex volume computations in numerical optimization, etc. In this
+work, without involving any simplex volume computations, by exploiting a convex
+geometry fact that a simplest simplex of N vertices can be defined by N
+associated hyperplanes, we propose a fast blind HU algorithm, for which each of
+the N hyperplanes associated with the Craig's simplex of N vertices is
+constructed from N-1 affinely independent data pixels, together with an
+endmember identifiability analysis for its performance support. Without
+resorting to numerical optimization, the devised algorithm searches for the
+N(N-1) active data pixels via simple linear algebraic computations, accounting
+for its computational efficiency. Monte Carlo simulations and real data
+experiments are provided to demonstrate its superior efficacy over some
+benchmark Craig-criterion-based algorithms in both computational efficiency and
+estimation accuracy.
+</dc:description>
+ <dc:description>Comment: 36 pages, 8 figures, IEEE Transactions on Signal Processing</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08917</dc:identifier>
+ <dc:identifier>doi:10.1109/TSP.2015.2508778</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,52 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement of $\alpha$-particle quenching in LAB based scintillator in
+  independent small-scale experiments</dc:title>
+ <dc:creator>von Krosigk, B.</dc:creator>
+ <dc:creator>Chen, M.</dc:creator>
+ <dc:creator>Hans, S.</dc:creator>
+ <dc:creator>Junghans, A. R.</dc:creator>
+ <dc:creator>K&#246;gler, T.</dc:creator>
+ <dc:creator>Kraus, C.</dc:creator>
+ <dc:creator>Kuckert, L.</dc:creator>
+ <dc:creator>Liu, X.</dc:creator>
+ <dc:creator>Nolte, R.</dc:creator>
+ <dc:creator>O'Keeffe, H. M.</dc:creator>
+ <dc:creator>Tseung, H. S. Wan Chan</dc:creator>
+ <dc:creator>Wilson, J. R.</dc:creator>
+ <dc:creator>Wright, A.</dc:creator>
+ <dc:creator>Yeh, M.</dc:creator>
+ <dc:creator>Zuber, K.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  The $\alpha$-particle light response of liquid scintillators based on linear
+alkylbenzene (LAB) has been measured with three different experimental
+approaches. In the first approach, $\alpha$-particles were produced in the
+scintillator via $^{12}$C($n$,$\alpha$)$^9$Be reactions. In the second
+approach, the scintillator was loaded with 2% of $^{\mathrm{nat}}$Sm providing
+an $\alpha$-emitter, $^{147}$Sm, as an internal source. In the third approach,
+a scintillator flask was deployed into the water-filled SNO+ detector and the
+radioactive contaminants $^{222}$Rn, $^{218}$Po and $^{214}$Po provided the
+$\alpha$-particle signal. The behavior of the observed $\alpha$-particle light
+outputs are in agreement with each case successfully described by Birks' law.
+The resulting Birks parameter $kB$ ranges from $(0.0066\pm0.0016)$ cm/MeV to
+$(0.0076\pm0.0003)$ cm/MeV. In the first approach, the $\alpha$-particle light
+response was measured simultaneously with the light response of recoil protons
+produced via neutron-proton elastic scattering. This enabled a first time a
+direct comparison of $kB$ describing the proton and the $\alpha$-particle
+response of LAB based scintillator. The observed $kB$ values describing the two
+light response functions deviate by more than $5\sigma$. The presented results
+are valuable for all current and future detectors, using LAB based scintillator
+as target, since they depend on an accurate knowledge of the scintillator
+response to different particles.
+</dc:description>
+ <dc:description>Comment: 14 pages, 15 figures, 3 tables</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00458</dc:identifier>
+ <dc:identifier>The European Physical Journal C, 76(3), 1-13, 2016</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-016-3959-2</dc:identifier>
+ </oai_dc:dc>
+

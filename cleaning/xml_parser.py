@@ -19,9 +19,8 @@ def get_fields(body):
         tuple: (title, authors, subject, abstract, last_submitted, arxiv_id)
         bool: False if file is not xml
     """
-    tree = ET.fromstring(body)
-    root = tree.getroot()
-    return (get_title(root), get_authors(root), get_subject(root), get_abstract(root), get_last_submitted(root), get_arxiv_id(root))
+    root = ET.fromstring(body)
+    return (get_title(root), get_authors(root), get_subject(root), get_abstract(root), get_date(root), get_arxivid(root))
 
 '''
 INPUT:

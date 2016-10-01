@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Design of efficient vdW thermionic heterostructures from first
+  principles</dc:title>
+ <dc:creator>Wang, Xiaoming</dc:creator>
+ <dc:creator>Zebarjadi, Mona</dc:creator>
+ <dc:creator>Esfarjani, Keivan</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  This work is the first step towards understanding thermionic transport
+properties of graphene/phosphorene/graphene van der Waals heterostructures in
+contact with gold electrodes by using density functional theory based first
+principles calculations combined with real space Green's function formalism. We
+show that for monolayer phosphorene in the heterostructure, quantum tunneling
+dominates the transport. By adding more phosphorene layers, one can switch from
+tunneling dominated transport to thermionic dominated transport, resulting in
+transporting more heat per charge carrier, thus, enhancing the cooling
+coefficient of performance. The thermionic coefficient of performance for the
+proposed device is 18.5 at 600 K corresponding to an equivalent ZT of 0.13,
+which is significant for nanoscale devices.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03783</dc:identifier>
+ </oai_dc:dc>
+

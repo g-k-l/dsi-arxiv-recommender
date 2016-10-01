@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Linear Quaternion Differential Equations: Basic Theory and Fundamental
+  Results</dc:title>
+ <dc:creator>Kou, Kit Ian</dc:creator>
+ <dc:creator>Xia, Yong-Hui</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  Quaternion-valued differential equations (QDEs) is a new kind of differential
+equations which have many applications in physics and life sciences. The
+largest difference between QDEs and ODEs is the algebraic structure. On the
+non-commutativity of the quaternion algebra, the algebraic structure of the
+solutions to the QDEs is completely different from ODEs. It is actually a left-
+or right- free module, not a linear vector space.
+  This paper establishes a systematic frame work for the theory of linear QDEs,
+which can be applied to quantum mechanics, fluid mechanics, Frenet frame in
+differential geometry, kinematic modelling, attitude dynamics, Kalman filter
+design and spatial rigid body dynamics, etc. We prove that the algebraic
+structure of the solutions to the QDEs is actually a left- or right- module,
+not a linear vector space. On the non-commutativity of the quaternion algebra,
+many concepts and properties for the ordinary differential equations (ODEs) can
+not be used. They should be redefined accordingly. A definition of Wronskian is
+introduced under the framework of quaternions which is different from standard
+one in the ordinary differential equations. Liouville formula for QDEs is
+given. Also, it is necessary to treat the eigenvalue problems with left- and
+right-sides, accordingly. Upon these, we studied the solutions to the linear
+QDEs. Furthermore, we present two algorithms to evaluate the fundamental
+matrix. Some concrete examples are given to show the feasibility of the
+obtained algorithms. Finally, a conclusion and discussion ends the paper.
+</dc:description>
+ <dc:description>Comment: 41pages; 7figures. arXiv admin note: text overlap with
+  arXiv:1407.7941 by other authors</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02224</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universal quantum constraints on the butterfly effect</dc:title>
+ <dc:creator>Berenstein, David</dc:creator>
+ <dc:creator>Garc&#237;a-Garc&#237;a, Antonio M.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Lyapunov exponents, a purely classical quantity, play an important role in
+the evolution of quantum chaotic systems in the semiclassical limit. We
+conjecture the existence of an upper bound on the Lyapunov exponents that
+contribute to the quantum motion, namely, even in the semiclassical limit only
+a limited range of Lyapunov exponents, bounded from above, are important for
+the quantum evolution. This is a universal feature in any quantum system or
+quantum field theory, including those with a gravity dual. It has its origin in
+the finite size of the Hilbert space that is available to an initial
+quasi-classical configuration. An upper bound also exists in the limit of an
+infinite Hilbert space provided that the system is in contact with an
+environment, for instance a thermal bath. An important consequence of this
+result is a universal quantum bound on the maximum growth rate of the
+entanglement entropy at zero and finite temperature.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-07-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08870</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The O(N)-model within the Phi-derivable expansion to order lambda^2: on
+  the existence, UV and IR sensitivity of the solutions to self-consistent
+  equations</dc:title>
+ <dc:creator>Mark&#243;, Gergely</dc:creator>
+ <dc:creator>Reinosa, Urko</dc:creator>
+ <dc:creator>Sz&#233;p, Zsolt</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We discuss various aspects of the O(N)-model in the vacuum and at finite
+temperature within the Phi-derivable expansion scheme to order lambda^2. In
+continuation to an earlier work, we look for a physical parametrization in the
+N=4 case that allows to accommodate the lightest mesons. Using zero-momentum
+curvature masses to approximate the physical masses, we find that, in the
+parameter range where a relatively large sigma mass is obtained, the scale of
+the Landau pole is lower compared to that obtained in the two-loop truncation.
+This jeopardizes the insensitivity of the observables to the ultraviolet
+regulator and could hinder the predictivity of the model. Both in the N=1 and
+N=4 cases, we also find that, when approaching the chiral limit, the
+(iterative) solution to the Phi-derivable equations is lost in an interval
+around the would-be transition temperature. In particular, it is not possible
+to conclude at this order of truncation on the order of the transition in the
+chiral limit. Because the same issue could be present in other approaches, we
+investigate it thoroughly by considering a localized version of the
+Phi-derivable equations, whose solution displays the same qualitative features,
+but allows for a more analytical understanding of the problem. In particular,
+our analysis reveals the existence of unphysical branches of solutions which
+can coalesce with the physical one at some temperatures, with the effect of
+opening up a gap in the admissible values for the condensate. Depending on its
+rate of growth with the temperature, this gap can eventually engulf the
+physical solution.
+</dc:description>
+ <dc:description>Comment: 26 pages, 15 figures, uses RevTeX4-1, published version</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04932</dc:identifier>
+ <dc:identifier>Phys. Rev. D 92, 125035 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.92.125035</dc:identifier>
+ </oai_dc:dc>
+

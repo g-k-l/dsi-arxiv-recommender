@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Transformation and integrability of a generalized short pulse equation</dc:title>
+ <dc:creator>Sakovich, Sergei</dc:creator>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  By means of transformations to nonlinear Klein-Gordon equations, we show that
+a generalized short pulse equation is integrable in two (and, most probably,
+only two) distinct cases of its coefficients. The first case is the original
+short pulse equation (SPE). The second case, which we call the single-cycle
+pulse equation (SCPE), is a previously overlooked scalar reduction of a known
+integrable system of coupled SPEs. We get the Lax pair and bi-Hamiltonian
+structure for the SCPE and show that the smooth envelope soliton of the SCPE
+can be as short as only one cycle of its carrier frequency.
+</dc:description>
+ <dc:description>Comment: 13 pages, 4 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08822</dc:identifier>
+ <dc:identifier>Commun. Nonlinear Sci. Numer. Simulat. 39 (2016) 21-28</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cnsns.2016.02.031</dc:identifier>
+ </oai_dc:dc>
+

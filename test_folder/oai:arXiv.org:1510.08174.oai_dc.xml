@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Visual Quality Enhancement in Optoacoustic Tomography using Active
+  Contour Segmentation Priors</dc:title>
+ <dc:creator>Mandal, Subhamoy</dc:creator>
+ <dc:creator>De&#225;n-Ben, Xos&#233; Lu&#237;s</dc:creator>
+ <dc:creator>Razansky, Daniel</dc:creator>
+ <dc:subject>Physics - Medical Physics</dc:subject>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Segmentation of biomedical images is essential for studying and
+characterizing anatomical structures, detection and evaluation of pathological
+tissues. Segmentation has been further shown to enhance the reconstruction
+performance in many tomographic imaging modalities by accounting for
+heterogeneities of the excitation field and tissue properties in the imaged
+region. This is particularly relevant in optoacoustic tomography, where
+discontinuities in the optical and acoustic tissue properties, if not properly
+accounted for, may result in deterioration of the imaging performance.
+Efficient segmentation of optoacoustic images is often hampered by the
+relatively low intrinsic contrast of large anatomical structures, which is
+further impaired by the limited angular coverage of some commonly employed
+tomographic imaging configurations. Herein, we analyze the performance of
+active contour models for boundary segmentation in cross-sectional optoacoustic
+tomography. The segmented mask is employed to construct a two compartment model
+for the acoustic and optical parameters of the imaged tissues, which is
+subsequently used to improve accuracy of the image reconstruction routines. The
+performance of the suggested segmentation and modeling approach are showcased
+in tissue-mimicking phantoms and small animal imaging experiments.
+</dc:description>
+ <dc:description>Comment: Accepted for publication in IEEE Transactions on Medical Imaging</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08174</dc:identifier>
+ </oai_dc:dc>
+

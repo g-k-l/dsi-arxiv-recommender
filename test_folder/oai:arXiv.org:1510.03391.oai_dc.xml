@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Counterexamples for IFS-attractors</dc:title>
+ <dc:creator>Nowak, Magdalena</dc:creator>
+ <dc:creator>Fernandez-Martinez, Manuel</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:description>  In this paper, we deal with the part of Fractal Theory related to finite
+families of (weak) contractions, called iterated function systems (IFS,
+herein). An attractor is a compact set which remains invariant for such a
+family. Thus, we consider spaces homeomorphic to attractors of either IFS or
+weak IFS, as well, which we will refer to as Banach and topological fractals,
+respectively. We present a collection of counterexamples in order to show that
+all the presented definitions are essential, though they are not equivalent in
+general.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03391</dc:identifier>
+ <dc:identifier>doi:10.1016/j.chaos.2015.12.006</dc:identifier>
+ </oai_dc:dc>
+

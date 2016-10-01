@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nanowire-based thermoelectric ratchet in the hopping regime</dc:title>
+ <dc:creator>Bosisio, Riccardo</dc:creator>
+ <dc:creator>Fleury, Genevi&#232;ve</dc:creator>
+ <dc:creator>Pichard, Jean-Louis</dc:creator>
+ <dc:creator>Gorini, Cosimo</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We study a thermoelectric ratchet consisting of an array of disordered
+nanowires arranged in parallel on top of an insulating substrate, and contacted
+asymmetrically to two electrodes. Transport is investigated in the Mott hopping
+regime, when localized electrons can propagate through the nanowires via
+thermally assisted hops. When the electronic temperature in the nanowires is
+different from the phononic one in the substrate, we show that a finite
+electrical current is generated even in the absence of driving forces between
+the electrodes. We discuss the device performance both as an energy harvester,
+when an excess heat from the substrate is converted into useful power, and as a
+refrigerator, when an external power is supplied to cool down the substrate.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06551</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 165404 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.165404</dc:identifier>
+ </oai_dc:dc>
+

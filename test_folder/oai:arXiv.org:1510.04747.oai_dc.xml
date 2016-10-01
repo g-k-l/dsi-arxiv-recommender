@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tensor vs Matrix Methods: Robust Tensor Decomposition under Block Sparse
+  Perturbations</dc:title>
+ <dc:creator>Anandkumar, Animashree</dc:creator>
+ <dc:creator>Jain, Prateek</dc:creator>
+ <dc:creator>Shi, Yang</dc:creator>
+ <dc:creator>Niranjan, U. N.</dc:creator>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:description>  Robust tensor CP decomposition involves decomposing a tensor into low rank
+and sparse components. We propose a novel non-convex iterative algorithm with
+guaranteed recovery. It alternates between low-rank CP decomposition through
+gradient ascent (a variant of the tensor power method), and hard thresholding
+of the residual. We prove convergence to the globally optimal solution under
+natural incoherence conditions on the low rank component, and bounded level of
+sparse perturbations. We compare our method with natural baselines which apply
+robust matrix PCA either to the {\em flattened} tensor, or to the matrix slices
+of the tensor. Our method can provably handle a far greater level of
+perturbation when the sparse tensor is block-structured. This naturally occurs
+in many applications such as the activity detection task in videos. Our
+experiments validate these findings. Thus, we establish that tensor methods can
+tolerate a higher level of gross corruptions compared to matrix methods.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-04-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04747</dc:identifier>
+ </oai_dc:dc>
+

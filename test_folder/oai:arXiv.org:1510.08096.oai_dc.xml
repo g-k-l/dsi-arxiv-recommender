@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin-Orbit Interactions in Electronic Structure Quantum Monte Carlo</dc:title>
+ <dc:creator>Melton, Cody A.</dc:creator>
+ <dc:creator>Zhu, Minyi</dc:creator>
+ <dc:creator>Guo, Shi</dc:creator>
+ <dc:creator>Ambrosetti, Alberto</dc:creator>
+ <dc:creator>Pederiva, Francesco</dc:creator>
+ <dc:creator>Mitas, Lubos</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We develop generalization of the fixed-phase diffusion Monte Carlo method for
+Hamiltonians which explicitly depend on particle spins such as for spin-orbit
+interactions. The method is formulated in zero variance manner and is similar
+to treatment of nonlocal operators in commonly used static- spin calculations.
+Tests on atomic and molecular systems show that it is very accurate, on par
+with the fixed-node method. This opens electronic structure quantum Monte Carlo
+methods to a vast research area of quantum phenomena in which spin-related
+interactions play an important role.
+</dc:description>
+ <dc:description>Comment: Version 3: Some text additions. Results and conclusions unchanged. 5
+  pages, 2 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08096</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 042502 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.042502</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Control of diffusion of nano-particles in an optical vortex lattice</dc:title>
+ <dc:creator>Zapata, Ivar</dc:creator>
+ <dc:creator>Delgado-Buscalioni, Rafael</dc:creator>
+ <dc:creator>S&#225;enz, Juan Jos&#233;</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  A two-dimensional periodic optical force field, which combines conservative
+dipolar forces with vortices from radiation pressure, is proposed in order to
+influence the diffusion properties of optically susceptible nano-particles. The
+different deterministic flow patterns are identified. In the low noise limit,
+the diffusion coefficient is computed from a Mean First Passage Time (MFPT) and
+the Most Probable Escape Paths (MPEP) are identified for those flow patterns
+which possess an stable stationary point. Numerical simulations of the
+associated Langevin equations show remarkable agreement with the analytically
+deduced expressions. Modifications of the force field are proposed so that a
+wider range of phenomena could be tested.
+</dc:description>
+ <dc:description>Comment: 15 pages, 7 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08664</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 062130 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.062130</dc:identifier>
+ </oai_dc:dc>
+

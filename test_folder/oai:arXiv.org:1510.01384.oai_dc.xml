@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A synchronous Gigabit Ethernet protocol stack for high-throughput UDP/IP
+  applications</dc:title>
+ <dc:creator>F&#246;disch, P.</dc:creator>
+ <dc:creator>Lange, B.</dc:creator>
+ <dc:creator>Sandmann, J.</dc:creator>
+ <dc:creator>B&#252;chner, A.</dc:creator>
+ <dc:creator>Enghardt, W.</dc:creator>
+ <dc:creator>Kaever, P.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  State of the art detector readout electronics require high-throughput data
+acquisition (DAQ) systems. In many applications, e. g. for medical imaging, the
+front-end electronics are set up as separate modules in a distributed DAQ. A
+standardized interface between the modules and a central data unit is
+essential. The requirements on such an interface are varied, but demand almost
+always a high throughput of data. Beyond this challenge, a Gigabit Ethernet
+interface is predestined for the broad requirements of Systems-on-a-Chip (SoC)
+up to large-scale DAQ systems. We have implemented an embedded protocol stack
+for a Field Programmable Gate Array (FPGA) capable of high-throughput data
+transmission and clock synchronization. A versatile stack architecture for the
+User Datagram Protocol (UDP) and Internet Control Message Protocol (ICMP) over
+Internet Protocol (IP) such as Address Resolution Protocol (ARP) as well as
+Precision Time Protocol (PTP) is presented. With a point-to-point connection to
+a host in a MicroTCA system we achieved the theoretical maximum data throughput
+limited by UDP both for 1000BASE-T and 1000BASE-KX links. Furthermore, we show
+that the random jitter of a synchronous clock over a 1000BASE-T link for a PTP
+application is below 60 ps.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2015-11-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01384</dc:identifier>
+ <dc:identifier>JINST 11 (2016) P01010</dc:identifier>
+ <dc:identifier>doi:10.1088/1748-0221/11/01/P01010</dc:identifier>
+ </oai_dc:dc>
+

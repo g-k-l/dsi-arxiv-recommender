@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental study of forces on freely moving spherical particles during
+  resuspension into turbulent flow</dc:title>
+ <dc:creator>Traugott, Hadar</dc:creator>
+ <dc:creator>Liberzon, Alex</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  Turbulent resuspension, a process of lifting solid particles from the bottom
+by turbulent flow, is ubiquitous in environmental and industrial applications.
+The process is a sequence of events that start with an incipient motion of the
+particle being dislodged from its place, continue as sliding or rolling on the
+surface, ending with the particle being detached from the surface and lifted up
+into the flow. In this study the focus is on the resuspension of solid
+spherical particles with the density comparable to that of the fluid and the
+diameter comparable with the Kolmogorov length scale. We track their motion
+during the lift-off events in an oscillating grid turbulent flow. We measure
+simultaneously the Lagrangian trajectories of both the particles freely moving
+along the bottom smooth wall and the surrounding flow tracers. Different force
+terms acting on particles were estimated based on particle motion and local
+flow parameters. The results show that: \emph{i}) the lift force is dominant;
+\emph{ii}) drag force on freely moving particles is less relevant in this type
+of resuspension; \emph{iii}) the Basset (history or viscous-unsteady) force is
+a non-negligible component and plays an important role before the lift-off
+event. Although we cannot estimate very accurately the magnitude of the force
+terms, we find that during the resuspension they are within the range of
+$2\div10$ times the buoyancy force magnitude. The findings cannot be
+extrapolated to particles, which are much smaller than the Kolmogorov length
+scale, or much denser than the fluid. Nevertheless, the present findings can
+assist in modeling of the sediment transport, particle filtration, pneumatic
+conveying and mixing in bio-reactors.
+</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-05-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00879</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Solution of System of Linear Fractional Differential Equations with
+  Modified derivative of Jumarie Type</dc:title>
+ <dc:creator>Ghosh, Uttam</dc:creator>
+ <dc:creator>Sarkar, Susmita</dc:creator>
+ <dc:creator>Das, Shantanu</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  Solution of fractional differential equations is an emerging area of present
+day research because such equations arise in various applied fields. In this
+paper we have developed analytical method to solve the system of fractional
+differential equations in-terms of Mittag-Leffler function and generalized Sine
+and Cosine functions, where the fractional derivative operator is of Jumarie
+type. The use of Jumarie type fractional derivative, which is modified
+Rieman-Liouvellie fractional derivative, eases the solution to such fractional
+order systems. The use of this type of Jumarie fractional derivative gives a
+conjugation with classical methods of solution of system of linear integer
+order differential equations, by usage of Mittag-Leffler and generalized
+trigonometric functions. The ease of this method and its conjugation to
+classical method to solve system of linear fractional differential equation is
+appealing to researchers in fractional dynamic systems. Here after developing
+the method, the algorithm is applied in physical system of fractional
+differential equation. The analytical results obtained are then graphically
+plotted for several examples for system of linear fractional differential
+equation.
+</dc:description>
+ <dc:description>Comment: 26 pages, 5 figures, Submitted to AMERICAN JOURNAL OF MATHEMATICAL
+  ANALYSIS</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00385</dc:identifier>
+ <dc:identifier>American Journal of Mathematical Analysis, 2015</dc:identifier>
+ <dc:identifier>doi:10.12691/ajma-3-3-3</dc:identifier>
+ </oai_dc:dc>
+

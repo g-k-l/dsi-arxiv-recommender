@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Monge-Amp\`ere Structures and the Geometry of Incompressible Flows</dc:title>
+ <dc:creator>Banos, Bertrand</dc:creator>
+ <dc:creator>Roubtsov, Vladimir</dc:creator>
+ <dc:creator>Roulstone, Ian</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>59J90, 76D05</dc:subject>
+ <dc:description>  We show how a symmetry reduction of the equations for incompressible
+hydrodynamics in three dimensions leads naturally to a Monge-Amp\`ere
+structure, and Burgers'-type vortices are a canonical class of solutions
+associated with this structure. The mapping of such solutions, which are
+characterised by a linear dependence of the third component of the velocity on
+the coordinate defining the axis of rotation, to solutions of the
+incompressible equations in two dimensions is also shown to be an example of a
+symmetry reduction The Monge-Amp\`ere structure for incompressible flow in two
+dimensions is shown to be hypersymplectic.
+</dc:description>
+ <dc:description>Comment: 22 pages, version 2: misprints are corrected, some cosmetic textual
+  changes and references are added</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02327</dc:identifier>
+ <dc:identifier>doi:10.1088/1751-8113/49/24/244003</dc:identifier>
+ </oai_dc:dc>
+

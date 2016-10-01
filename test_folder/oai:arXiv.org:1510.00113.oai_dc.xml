@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Discriminant Analysis for Dimensionality Reduction and
+  Classification</dc:title>
+ <dc:creator>Cong, Iris</dc:creator>
+ <dc:creator>Duan, Luming</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present quantum algorithms to efficiently perform discriminant analysis
+for dimensionality reduction and classification over an exponentially large
+input data set. Compared with the best-known classical algorithms, the quantum
+algorithms show an exponential speedup in both the number of training vectors
+$M$ and the feature space dimension $N$. We generalize the previous quantum
+algorithm for solving systems of linear equations [Phys. Rev. Lett. 103, 150502
+(2009)] to efficiently implement a Hermitian chain product of $k$
+trace-normalized $N \times N$ Hermitian positive-semidefinite matrices with
+time complexity of $O(\log (N))$. Using this result, we perform linear as well
+as nonlinear Fisher discriminant analysis for dimensionality reduction over $M$
+vectors, each in an $N$-dimensional feature space, in time $O(p \text{polylog}
+(MN)/\epsilon ^{3})$, where $\epsilon $ denotes the tolerance error, and $p$ is
+the number of principal projection directions desired. We also present a
+quantum discriminant analysis algorithm for data classification with time
+complexity $O(\log (MN)/\epsilon^{3})$.
+</dc:description>
+ <dc:description>Comment: 11 pages, published version</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00113</dc:identifier>
+ <dc:identifier>2016 New J. Phys. 18 073011</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/7/073011</dc:identifier>
+ </oai_dc:dc>
+

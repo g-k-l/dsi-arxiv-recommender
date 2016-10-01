@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Note on the stability of viscous roll-waves</dc:title>
+ <dc:creator>Barker, Blake</dc:creator>
+ <dc:creator>Johnson, Mathew A.</dc:creator>
+ <dc:creator>Noble, Pascal</dc:creator>
+ <dc:creator>Rodrigues, L. Miguel</dc:creator>
+ <dc:creator>Zumbrun, Kevin</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:description>  In this note, we announce a complete classification of stability of periodic
+roll-wave solutions of the viscous shallow-water equations, from their onset at
+Froude number $F\approx 2$ up to the infinite-Froude limit. For intermediate
+Froude numbers, we obtain numerically a particularly simple power-law relation
+between $F$ and the boundaries of the region of stable periods, that appears
+potentially useful in hydraulic engineering applications. In the asymptotic
+regime $F\to 2$ (onset), we provide an analytic expression of the stability
+boundaries whereas in the limit $F\to\infty$, we show that roll-waves are
+always unstable.
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-06-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01168</dc:identifier>
+ </oai_dc:dc>
+

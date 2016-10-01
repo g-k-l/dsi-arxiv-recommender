@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Surface induced magnetization reversal of MnP nanoclusters embedded in
+  GaP</dc:title>
+ <dc:creator>Lacroix, Christian</dc:creator>
+ <dc:creator>Lambert-Milot, Samuel</dc:creator>
+ <dc:creator>Desjardins, Patrick</dc:creator>
+ <dc:creator>Masut, Remo A.</dc:creator>
+ <dc:creator>Menard, David</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We investigate the quasi-static magnetic behavior of ensembles of
+non-interacting ferromagnetic nanoparticles consisting of MnP nanoclusters
+embedded in GaP(001) epilayers grown at 600, 650 and 700{\deg}C. We use a
+phenomenological model, in which surface effects are included, to reproduce the
+experimental hysteresis curves measured as a function of temperature (120-260
+K) and direction of the applied field. The slope of the hysteresis curve during
+magnetization reversal is determined by the MnP nanoclusters size distribution,
+which is a function of the growth temperature. Our results show that the
+coercive field is very sensitive to the strength of the surface anisotropy,
+which reduces the energy barrier between the two states of opposite
+magnetization. Notably, this reduction in the energy barrier increases by a
+factor of 3 as the sample temperature is lowered from 260 to 120 K.
+</dc:description>
+ <dc:description>Comment: 7 pages, 5 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01185</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4943365</dc:identifier>
+ </oai_dc:dc>
+

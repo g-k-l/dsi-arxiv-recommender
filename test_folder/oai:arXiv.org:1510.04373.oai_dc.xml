@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Scatter Component Analysis: A Unified Framework for Domain Adaptation
+  and Domain Generalization</dc:title>
+ <dc:creator>Ghifary, Muhammad</dc:creator>
+ <dc:creator>Balduzzi, David</dc:creator>
+ <dc:creator>Kleijn, W. Bastiaan</dc:creator>
+ <dc:creator>Zhang, Mengjie</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Computer Science - Artificial Intelligence</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>I.2.6</dc:subject>
+ <dc:subject>I.4</dc:subject>
+ <dc:description>  This paper addresses classification tasks on a particular target domain in
+which labeled training data are only available from source domains different
+from (but related to) the target. Two closely related frameworks, domain
+adaptation and domain generalization, are concerned with such tasks, where the
+only difference between those frameworks is the availability of the unlabeled
+target data: domain adaptation can leverage unlabeled target information, while
+domain generalization cannot. We propose Scatter Component Analyis (SCA), a
+fast representation learning algorithm that can be applied to both domain
+adaptation and domain generalization. SCA is based on a simple geometrical
+measure, i.e., scatter, which operates on reproducing kernel Hilbert space. SCA
+finds a representation that trades between maximizing the separability of
+classes, minimizing the mismatch between domains, and maximizing the
+separability of data; each of which is quantified through scatter. The
+optimization problem of SCA can be reduced to a generalized eigenvalue problem,
+which results in a fast and exact solution. Comprehensive experiments on
+benchmark cross-domain object recognition datasets verify that SCA performs
+much faster than several state-of-the-art algorithms and also provides
+state-of-the-art classification accuracy in both domain adaptation and domain
+generalization. We also show that scatter can be used to establish a
+theoretical generalization bound in the case of domain adaptation.
+</dc:description>
+ <dc:description>Comment: to appear in IEEE Transactions on Pattern Analysis and Machine
+  Intelligence</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-07-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04373</dc:identifier>
+ </oai_dc:dc>
+

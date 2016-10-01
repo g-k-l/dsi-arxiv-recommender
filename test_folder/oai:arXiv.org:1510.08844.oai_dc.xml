@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Kinetic Sunyaev-Zeldovich effect in modified gravity</dc:title>
+ <dc:creator>Bianchini, Federico</dc:creator>
+ <dc:creator>Silvestri, Alessandra</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We investigate the impact of modified theories of gravity on the kinetic
+Sunyaev-Zeldovich (kSZ) effect of the cosmic microwave background. We focus on
+a specific class of $f(R)$ models of gravity and compare their predictions for
+the kSZ power spectrum to that of the $\Lambda$CDM model. We use a publicly
+available modified version of Halofit to properly include the nonlinear matter
+power spectrum of $f(R)$ in the modeling of the kSZ signal. We find that the
+well-known modifications of the growth rate of structure in $f(R)$ can indeed
+induce sizable changes in the kSZ signal, which are more significant than the
+changes induced by modifications of the expansion history. We discuss prospects
+of using the kSZ signal as a complementary probe of modified gravity, giving an
+overview of assumptions and possible caveats in the modeling.
+</dc:description>
+ <dc:description>Comment: 10 pages, 5 figures, minor changes to match PRD version</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08844</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 064026 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.064026</dc:identifier>
+ </oai_dc:dc>
+

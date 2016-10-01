@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Suggested Answer To Wallstrom's Criticism: Zitterbewegung Stochastic
+  Mechanics I</dc:title>
+ <dc:creator>Derakhshani, Maaneli</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Wallstrom's criticism of existing formulations of stochastic mechanics is
+that they fail to derive quantum theory because they require an ad hoc
+quantization condition on the postulated velocity potential, \emph{S}, in order
+to derive single-valued Schr\"odinger wave functions. We propose an answer to
+this criticism by modifying the Nelson-Yasue formulation of non-relativistic
+stochastic mechanics for a spinless particle with the following hypothesis: a
+spinless Nelson-Yasue particle of rest mass $m$ continuously undergoes a driven
+mean oscillation of constant `zitterbewegung' (\emph{zbw}) frequency,
+$\omega_{c}=\left(1/\hbar\right)mc^{2}$, in its mean rest frame. With this
+hypothesis we show that, in the mean lab frame, \emph{S} arises as the mean
+\emph{zbw} phase for an ensemble of such particles, satisfies the required
+quantization condition, and evolves in time by the Hamilton-Jacobi-Madelung
+equations. The paper begins by reviewing Nelson-Yasue stochastic mechanics and
+Wallstrom's criticism, after which we develop a classical model of a particle
+of rest mass \emph{m} constrained to undergo the hypothesized \emph{zbw}
+oscillation, with the purpose of making clear the physical assumptions of the
+\emph{zbw} model without the added complications of stochastic mechanics. We
+develop the classical model for the spinless one-particle case, without and
+with field interactions, and then carry out the analogous developments for the
+Nelson-Yasue version of this model. Using this `zitterbewegung stochastic
+mechanics' (ZSM), we readily derive the single-valued wave functions of
+non-relativistic quantum mechanics for a spinless particle in the analyzed
+cases. We also apply ZSM to the case of a central potential and show that it
+predicts angular momentum quantization. This paper sets the foundation for Part
+II, which will (primarily) work out the many-particle version of ZSM.
+</dc:description>
+ <dc:description>Comment: Content added, slightly reformatted. 33 pages, no figures, LaTeX</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-07-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06391</dc:identifier>
+ </oai_dc:dc>
+

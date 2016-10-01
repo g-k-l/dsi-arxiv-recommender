@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Imaging Cyclotron Orbits of Electrons in Graphene</dc:title>
+ <dc:creator>Bhandari, S.</dc:creator>
+ <dc:creator>Lee, G. H.</dc:creator>
+ <dc:creator>Klales, A.</dc:creator>
+ <dc:creator>Watanabe, K.</dc:creator>
+ <dc:creator>Taniguchi, T.</dc:creator>
+ <dc:creator>Heller, E.</dc:creator>
+ <dc:creator>Kim, P.</dc:creator>
+ <dc:creator>Westervelt, R. M.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Electrons in graphene can travel for several microns without scattering at
+low temperatures, and their motion becomes ballistic, following classical
+trajectories. When a magnetic field B is applied perpendicular to the plane,
+electrons follow cyclotron orbits. Magnetic focusing occurs when electrons
+injected from one narrow contact focus onto a second contact located an integer
+number of cyclotron diameters away. By tuning the magnetic field B and electron
+density n in the graphene layer, we observe magnetic focusing peaks. We use a
+cooled scanning gate microscope to image cyclotron trajectories in graphene at
+4.2 K. The tip creates a local change in density that casts a shadow by
+deflecting electrons flowing nearby; an image of flow can be obtained by
+measuring the transmission between contacts as the tip is raster scanned across
+the sample. On the first magnetic focusing peak, we image a cyclotron orbit
+that extends from one point contact to the other. In addition, we study the
+geometry of orbits deflected into the second point contact by the tip.
+</dc:description>
+ <dc:description>Comment: 19 pages, 5 figures, submitted for publication</dc:description>
+ <dc:date>2015-10-17</dc:date>
+ <dc:date>2016-01-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05197</dc:identifier>
+ <dc:identifier>doi:10.1021/acs.nanolett.5b04609</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Background suppression in massive TeO$_2$ bolometers with Neganov-Luke
+  amplified light detectors</dc:title>
+ <dc:creator>Casali, N.</dc:creator>
+ <dc:creator>Dumoulin, L.</dc:creator>
+ <dc:creator>Giuliani, A.</dc:creator>
+ <dc:creator>Mancuso, M.</dc:creator>
+ <dc:creator>de Marcillac, P.</dc:creator>
+ <dc:creator>Marnieros, S.</dc:creator>
+ <dc:creator>Nagorny, S. S.</dc:creator>
+ <dc:creator>Nones, C.</dc:creator>
+ <dc:creator>Olivieri, E.</dc:creator>
+ <dc:creator>Pagnanini, L.</dc:creator>
+ <dc:creator>Pattavina, L.</dc:creator>
+ <dc:creator>Pirro, S.</dc:creator>
+ <dc:creator>Poda, D.</dc:creator>
+ <dc:creator>Rusconi, C.</dc:creator>
+ <dc:creator>Sch&#228;effner, K.</dc:creator>
+ <dc:creator>Tenconi, M.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  Bolometric detectors are excellent devices for the investigation of
+neutrinoless double-beta decay (0$\nu\beta\beta$). The observation of such
+decay would demonstrate the violation of lepton number, and at the same time it
+would necessarily imply that neutrinos have a Majorana character. The
+sensitivity of cryogenic detectors based on TeO$_2$ is strongly limited by the
+alpha background in the region of interest for the 0$\nu\beta\beta$ of
+$^{130}$Te. It has been demonstrated that particle discrimination in TeO$_2$
+bolometers is possible measuring the Cherenkov light produced by particle
+interactions. However an event-by-event discrimination with NTD-based light
+detectors has to be demonstrated. We will discuss the performance of a
+highly-sensitive light detector exploiting the Neganov-Luke effect for signal
+amplification. The detector, being operated with NTD-thermistor and coupled to
+a 750 g TeO$_2$ crystal, shows the ability for an event-by-event identification
+of electron/gamma and alpha particles. The extremely low detector baseline
+noise, RMS 19 eV, demonstrates the possibility to enhance the sensitivity of
+TeO$_2$-based 0$\nu\beta\beta$ experiment to an unprecedented level.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2015-12-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03266</dc:identifier>
+ <dc:identifier>J. Low Temp. Phys. (2016) 184:286-291</dc:identifier>
+ <dc:identifier>doi:10.1007/s10909-015-1404-9</dc:identifier>
+ </oai_dc:dc>
+

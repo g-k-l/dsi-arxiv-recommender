@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Synthetic gauge fields in synthetic dimensions: Interactions and chiral
+  edge modes</dc:title>
+ <dc:creator>Barbarino, Simone</dc:creator>
+ <dc:creator>Taddia, Luca</dc:creator>
+ <dc:creator>Rossini, Davide</dc:creator>
+ <dc:creator>Mazza, Leonardo</dc:creator>
+ <dc:creator>Fazio, Rosario</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Synthetic ladders realized with one-dimensional alkaline-earth(-like)
+fermionic gases and subject to a gauge field represent a promising environment
+for the investigation of quantum Hall physics with ultracold atoms. Using
+density-matrix renormalization group calculations, we study how the quantum
+Hall-like chiral edge currents are affected by repulsive atom-atom
+interactions. We relate the properties of such currents to the asymmetry of the
+spin resolved momentum distribution function, a quantity which is easily
+addressable in state-of-art experiments. We show that repulsive interactions
+significantly stabilize the quantum Hall-like helical region and enhance the
+chiral currents. Our numerical simulations are performed for atoms with two and
+three internal spin states.
+</dc:description>
+ <dc:description>Comment: 16 pages, 8 figures, 1 appendix</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05603</dc:identifier>
+ <dc:identifier>New J. Phys. 18, 035010 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/3/035010</dc:identifier>
+ </oai_dc:dc>
+

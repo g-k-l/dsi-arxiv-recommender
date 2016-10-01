@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Large Magellanic Cloud Near-Infrared Synoptic Survey. II. The Wesenheit
+  relations and their application to the Distance scale</dc:title>
+ <dc:creator>Bhardwaj, Anupam</dc:creator>
+ <dc:creator>Kanbur, Shashi M.</dc:creator>
+ <dc:creator>Macri, Lucas M.</dc:creator>
+ <dc:creator>Singh, Harinder P.</dc:creator>
+ <dc:creator>Ngeow, Chow-Choong</dc:creator>
+ <dc:creator>Wagner-Kaiser, R.</dc:creator>
+ <dc:creator>Sarajedini, Ata</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We present new near-infrared Cepheid Period-Wesenheit relations in the LMC
+using time-series observations from the Large Magellanic Cloud Near-Infrared
+Synoptic Survey. We also derive optical$+$near-infrared P-W relations using $V$
+and $I$~magnitudes from OGLE-III. We employ our new $JHK_s$ data to determine
+an independent distance to the LMC of $\mu_{\rm LMC} = 18.47\pm0.07
+{\textit{(statistical)}}$~mag, using an absolute calibration of the Galactic
+relations based on several distance determination methods and accounting for
+the intrinsic scatter of each technique. We also derive new near-infrared
+Period-Luminosity and Wesenheit relations for Cepheids in M31 using
+observations from the PHAT survey. We use the absolute calibrations of the
+Galactic and LMC $W_{J,H}$ relations to determine the distance modulus of M31,
+$\mu_{\rm M31} = 24.46\pm0.20$~mag. We apply a simultaneous fit to Cepheids in
+several Local Group galaxies covering a range of metallicities
+($7.7&lt;12+\log[O/H]&lt;8.6$~dex) to determine a global slope of
+-$3.244\pm0.016$~mag/dex for the $W_{J,K_s}$ relation and obtain robust
+distance estimates. Our distances are in good agreement with recent TRGB based
+distance estimates and we do not find any evidence for a metallicity dependence
+in the near-infrared P-W relations.
+</dc:description>
+ <dc:description>Comment: 16 pages, 8 figures, Accepted for publication in The Astronomical
+  Journal</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03682</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-6256/151/4/88</dc:identifier>
+ </oai_dc:dc>
+

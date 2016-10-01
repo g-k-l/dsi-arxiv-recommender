@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Satellite Quantum Communication via the Alphasat Laser Communication
+  Terminal</dc:title>
+ <dc:creator>Elser, Dominique</dc:creator>
+ <dc:creator>G&#252;nthner, Kevin</dc:creator>
+ <dc:creator>Khan, Imran</dc:creator>
+ <dc:creator>Stiller, Birgit</dc:creator>
+ <dc:creator>Marquardt, Christoph</dc:creator>
+ <dc:creator>Leuchs, Gerd</dc:creator>
+ <dc:creator>Saucke, Karen</dc:creator>
+ <dc:creator>Tr&#246;ndle, Daniel</dc:creator>
+ <dc:creator>Heine, Frank</dc:creator>
+ <dc:creator>Seel, Stefan</dc:creator>
+ <dc:creator>Greulich, Peter</dc:creator>
+ <dc:creator>Zech, Herwig</dc:creator>
+ <dc:creator>G&#252;tlich, Bj&#246;rn</dc:creator>
+ <dc:creator>Richter, Ines</dc:creator>
+ <dc:creator>Meyer, Rolf</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:subject>Computer Science - Emerging Technologies</dc:subject>
+ <dc:subject>Physics - Atmospheric and Oceanic Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  By harnessing quantum effects, we nowadays can use encryption that is in
+principle proven to withstand any conceivable attack. These fascinating quantum
+features have been implemented in metropolitan quantum networks around the
+world. In order to interconnect such networks over long distances, optical
+satellite communication is the method of choice. Standard telecommunication
+components allow one to efficiently implement quantum communication by
+measuring field quadratures (continuous variables). This opens the possibility
+to adapt our Laser Communication Terminals (LCTs) to quantum key distribution
+(QKD). First satellite measurement campaigns are currently validating our
+approach.
+</dc:description>
+ <dc:description>Comment: International Conference on Space Optical Systems and Applications
+  (IEEE ICSOS 2015), October 27 and 28, 2015, New Orleans, USA, 4 pages, 5
+  figures</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04507</dc:identifier>
+ <dc:identifier>doi:10.1109/ICSOS.2015.7425077</dc:identifier>
+ </oai_dc:dc>
+

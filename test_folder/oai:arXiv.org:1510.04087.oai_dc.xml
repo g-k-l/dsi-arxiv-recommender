@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nuclear polarization effects in Coulomb excitation studies</dc:title>
+ <dc:creator>Orce, Nico</dc:creator>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  New polarization potentials have been determined based on: 1) the latest
+photo-neutron cross section evaluation and a missing factor of two in previous
+work, and 2) the mass dependency of the symmetry energy, $a_{sym}(A)$. The
+magnitude of the first one is 35\% stronger than the currently accepted
+polarization potential. The second one opens up the possibility for a
+parameter-free polarization potential. Both polarization potentials are
+essentially the same for heavy nuclei. The polarization effect on quadrupole
+collectivity is more substantial than previously assumed for light nuclei.
+Particular cases are discussed where long-standing discrepancies between
+high-precision Coulomb-excitation and lifetime measurements still remain. A
+solution to the long-standing discrepancy between $B(E2; 0^+_1\rightarrow
+2^+_1)$ values determined in $^{18}$O by several Coulomb-excitation studies and
+a high-precision lifetime measurement is provided in favor of the latter.
+Polarization effects in light nuclei also influence the determination of
+spectroscopic quadrupole moments in Coulomb-excitation measurements. The
+hindrance of polarizability observed in the photo-neutron cross section for
+single-closed shell nuclei is calculated to have a negligible effect on
+quadrupole collectivity, within the existing experimental uncertainties.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04087</dc:identifier>
+ </oai_dc:dc>
+

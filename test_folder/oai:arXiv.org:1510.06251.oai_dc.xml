@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Satisfaction Problem of Consumers Demands measured by ordinary "Lebesgue
+  measures'' in $R^{\infty}$</dc:title>
+ <dc:creator>Pantsulaia, Gogi</dc:creator>
+ <dc:creator>Giorgadze, Givi</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:subject>37-xx, 28Axx</dc:subject>
+ <dc:subject>G.1.8</dc:subject>
+ <dc:description>  In the present paper we consider the following Satisfaction Problem of
+Consumers Demands (SPCD): {\it The supplier must supply the measurable system
+of the measure $m_k$ to the $k$-th consumer at the moment $t_k$ for $1 \le k
+\le n$. The measure of the supplied measurable system is changed under action
+of some dynamical system; What minimal measure of measurable system must take
+the supplier at the initial moment $t=0$ to satisfy demands of all consumers ?
+} In this paper we consider Satisfaction Problem of Consumers Demands measured
+by ordinary "Lebesgue measures'' in $R^{\infty}$ for various dynamical systems
+in $R^{\infty}$. In order to solve this problem we use Liouville type theorems
+for them which describes the dependence between initial and resulting measures
+of the entire system.
+</dc:description>
+ <dc:description>Comment: 13 pages</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06251</dc:identifier>
+ <dc:identifier>doi:10.13140/RG.2.1.1044.0404</dc:identifier>
+ </oai_dc:dc>
+

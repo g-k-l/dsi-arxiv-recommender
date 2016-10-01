@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Topological semi-metals with line nodes and drumhead surface states</dc:title>
+ <dc:creator>Chan, Y. -H.</dc:creator>
+ <dc:creator>Chiu, Ching-Kai</dc:creator>
+ <dc:creator>Chou, M. Y.</dc:creator>
+ <dc:creator>Schnyder, Andreas P.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  In an ordinary three-dimensional metal the Fermi surface forms a
+two-dimensional closed sheet separating the filled from the empty states.
+Topological semimetals, on the other hand, can exhibit protected
+one-dimensional Fermi lines or zero-dimensional Fermi points, which arise due
+to an intricate interplay between symmetry and topology of the electronic
+wavefunctions. Here, we study how reflection symmetry, time-reversal symmetry,
+SU(2) spin-rotation symmetry, and inversion symmetry lead to the topological
+protection of line nodes in three-dimensional semi-metals. We obtain the
+crystalline invariants that guarantee the stability of the line nodes in the
+bulk and show that a quantized Berry phase leads to the appearance of protected
+surfaces states with a nearly flat dispersion. By deriving a relation between
+the crystalline invariants and the Berry phase, we establish a direct
+connection between the stability of the line nodes and the topological surface
+states. As a representative example of a topological semimetal with line nodes,
+we consider Ca$_3$P$_2$ and discuss the topological properties of its Fermi
+line in terms of a low-energy effective theory and a tight-binding model,
+derived from ab initio DFT calculations. Due to the bulk-boundary
+correspondence, Ca$_3$P$_2$ displays nearly dispersionless surface states,
+which take the shape of a drumhead. These surface states could potentially give
+rise to novel topological response phenomena and provide an avenue for exotic
+correlation physics at the surface.
+</dc:description>
+ <dc:description>Comment: 16 pages, 8 figure. v2 references updated</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02759</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 205132 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.205132</dc:identifier>
+ </oai_dc:dc>
+

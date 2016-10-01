@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spanning k-ended trees of 3-regular connected graphs</dc:title>
+ <dc:creator>Zoeram, Hamed Ghasemian</dc:creator>
+ <dc:creator>Yaqubi, Daniel</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  A tree is called k-ended tree if it has at most k leaves, where a leaf is a
+vertex of degree one. In this paper we prove that every 3-regular connected
+graph with n vertices such that n is greater than 8 has spanning sub tree with
+at most [(2n+4)/9]-ended tree. At the end we give a conjecture about spanning
+k-ended trees on 3-regular connected graphs.
+</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-06-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05246</dc:identifier>
+ </oai_dc:dc>
+

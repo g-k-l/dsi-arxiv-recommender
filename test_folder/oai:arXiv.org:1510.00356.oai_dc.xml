@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A counterexample to the reconstruction of $\omega$-categorical
+  structures from their endomorphism monoids</dc:title>
+ <dc:creator>Bodirsky, Manuel</dc:creator>
+ <dc:creator>Evans, David</dc:creator>
+ <dc:creator>Kompatscher, Michael</dc:creator>
+ <dc:creator>Pinsker, Michael</dc:creator>
+ <dc:subject>Mathematics - Logic</dc:subject>
+ <dc:description>  We present an example of two countable $\omega$-categorical structures, one
+of which has a finite relational language, whose endomorphism monoids are
+isomorphic as abstract monoids, but not as topological monoids -- in other
+words, no isomorphism between these monoids is a homeomorphism. For the same
+two structures, the automorphism groups and polymorphism clones are isomorphic,
+but not topologically isomorphic. In particular, there exists a countable
+$\omega$-categorical structure in a finite relational language which can
+neither be reconstructed up to first-order bi-interpretations from its
+automorphism group, nor up to existential positive bi-interpretations from its
+endomorphism monoid, nor up to primitive positive bi-interpretations from its
+polymorphism clone.
+</dc:description>
+ <dc:description>Comment: 17 pages</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00356</dc:identifier>
+ </oai_dc:dc>
+

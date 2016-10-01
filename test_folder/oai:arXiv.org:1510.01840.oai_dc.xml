@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fermi surface reconstruction in FeSe under high pressure</dc:title>
+ <dc:creator>Terashima, Taichi</dc:creator>
+ <dc:creator>Kikugawa, Naoki</dc:creator>
+ <dc:creator>Kiswandhi, Andhika</dc:creator>
+ <dc:creator>Graf, David</dc:creator>
+ <dc:creator>Choi, Eun-Sang</dc:creator>
+ <dc:creator>Brooks, James S.</dc:creator>
+ <dc:creator>Kasahara, Shigeru</dc:creator>
+ <dc:creator>Watashige, Tatsuya</dc:creator>
+ <dc:creator>Matsuda, Yuji</dc:creator>
+ <dc:creator>Shibauchi, Takasada</dc:creator>
+ <dc:creator>Wolf, Thomas</dc:creator>
+ <dc:creator>B&#246;hmer, Anna E.</dc:creator>
+ <dc:creator>Hardy, Fr&#233;d&#233;ric</dc:creator>
+ <dc:creator>Meingast, Christoph</dc:creator>
+ <dc:creator>L&#246;hneysen, Hilbert v.</dc:creator>
+ <dc:creator>Uji, Shinya</dc:creator>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We report Shubnikov-de Haas (SdH) oscillation measurements on FeSe under high
+pressure up to $P$ = 16.1 kbar. We find a sudden change in SdH oscillations at
+the onset of the pressure-induced antiferromagnetism at $P$ $\sim$ 8 kbar. We
+argue that this change can be attributed to a reconstruction of the Fermi
+surface by the antiferromagnetic order. The negative d$T_c$/d$P$ observed in a
+range between $P$ $\sim$ 8 and 12 kbar may be explained by the reduction in the
+density of states due to the reconstruction. The ratio of the transition
+temperature to the effective Fermi energy remains high under high pressure:
+$k_BT_c/E_F$ $\sim$ 0.1 even at $P$ = 16.1 kbar.
+</dc:description>
+ <dc:description>Comment: 12 pages , 10 figures</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01840</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 094505 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.094505</dc:identifier>
+ </oai_dc:dc>
+

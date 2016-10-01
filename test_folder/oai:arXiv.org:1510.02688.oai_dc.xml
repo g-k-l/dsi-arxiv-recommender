@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Better Band Gaps with Asymptotically Corrected Local Exchange Potentials</dc:title>
+ <dc:creator>Singh, Prashant</dc:creator>
+ <dc:creator>Harbola, Manoj K.</dc:creator>
+ <dc:creator>Hemanadhan, M.</dc:creator>
+ <dc:creator>Mookerjee, Abhijit</dc:creator>
+ <dc:creator>Johnson, D. D.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We formulate a spin-polarized van Leeuwen and Baerends (vLB) correction to
+the local density approximation (LDA) exchange potential [Phys. Rev. A 49, 2421
+(1994)] that enforces the ionization potential (IP) theorem following Stein et
+al. [Phys. Rev. Lett. 105, 266802 (2010)]. For electronic-structure problems,
+the vLB-correction replicates the behavior of exact-exchange potentials, with
+improved scaling and well-behaved asymptotics, but with the computational cost
+of semi-local functionals. The vLB+IP corrections produces large improvement in
+the eigenvalues over that from LDA due to correct asympotic behavior and atomic
+shell structures, as shown on rare-gas, alkaline-earth, zinc-based oxides,
+alkali-halides, sulphides, and nitrides. In half-Heusler alloys, this
+asymptotically-corrected LDA reproduces the spin-polarized properties
+correctly, including magnetism and half-metallicity. We also considered
+finite-sized systems [e.g., ringed boron-nitirde (B$_{12}$N$_{12}$) and
+graphene (C$_{24}$)] to emphasize the wide applicability of the method.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-01-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02688</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 085204 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.085204</dc:identifier>
+ </oai_dc:dc>
+

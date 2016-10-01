@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Renormalization of circle diffeomorphisms with a break-type singularity</dc:title>
+ <dc:creator>Akhadkulov, Habibulla</dc:creator>
+ <dc:creator>Noorani, Mohd Salmi Md</dc:creator>
+ <dc:creator>Akhatkulov, Sokhobiddin</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>37C15, 37C40, 37E10, 37F25</dc:subject>
+ <dc:description>  Let $f$ be an orientation-preserving circle diffeomorphism with irrational
+rotation number and with a break point $\xi_{0},$ that is, its derivative $f'$
+has a jump discontinuity at this point. Suppose that $f'$ satisfies a certain
+Zygmund condition dependent on a parameter $\gamma&gt;0.$ We prove that the
+renormalizations of $f$ are approximated by M\"{o}bius transformations in
+$C^{1}$-norm if $\gamma\in (0,1]$ and they are approximated in $C^{2}$-norm if
+$\gamma\in (1,+\infty).$ It is also shown, that the coefficients of M\"{o}bius
+transformations get asymptotically linearly dependent.
+</dc:description>
+ <dc:description>Comment: 26 pages</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-03-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03202</dc:identifier>
+ </oai_dc:dc>
+

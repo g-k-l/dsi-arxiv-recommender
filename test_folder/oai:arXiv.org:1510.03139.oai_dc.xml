@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Three Point Functions in the N=4 Orthogonal Coset Theory</dc:title>
+ <dc:creator>Ahn, Changhyun</dc:creator>
+ <dc:creator>Kim, Hyunsu</dc:creator>
+ <dc:creator>Paeng, Jinsub</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We construct the lowest higher spin-2 current in terms of the spin-1 and the
+spin-1/2 currents living in the orthogonal SO(N+4)/[SO(N) x SO(4)] Wolf space
+coset theory for general N. The remaining fifteen higher spin currents are
+determined. We obtain the three-point functions of bosonic (higher) spin
+currents with two scalars for finite N and k (the level of the spin-1 current).
+By multiplying SU(2) x U(1) into the above Wolf space coset theory, the other
+fifteen higher spin currents together with the above lowest higher spin-2
+current are realized in the extension of the large N=4 linear superconformal
+algebra. Similarly, the three-point functions of bosonic (higher) spin currents
+with two scalars for finite N and k are obtained. Under the large N 't Hooft
+limit, the two types of three-point functions in the nonlinear and linear
+versions coincide as in the unitary coset theory found previously.
+</dc:description>
+ <dc:description>Comment: 70 pages. arXiv admin note: text overlap with arXiv:1506.00357</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03139</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217751X16500901</dc:identifier>
+ </oai_dc:dc>
+

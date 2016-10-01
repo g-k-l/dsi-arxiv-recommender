@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A general approximation for the dynamics of quantitative traits</dc:title>
+ <dc:creator>Bo&#271;ov&#225;, Katar&#237;na</dc:creator>
+ <dc:creator>Tka&#269;ik, Ga&#353;per</dc:creator>
+ <dc:creator>Barton, Nicholas H.</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:description>  Selection, mutation and random drift affect the dynamics of allele
+frequencies and consequently of quantitative traits. While the macroscopic
+dynamics of quantitative traits can be measured, the underlying allele
+frequencies are typically unobserved. Can we understand how the macroscopic
+observables evolve without following these microscopic processes? The problem
+has previously been studied by analogy with statistical mechanics: the allele
+frequency distribution at each time is approximated by the stationary form,
+which maximizes entropy. We explore the limitations of this method when
+mutation is small ($4N\!\mu&lt;1$) so that populations are typically close to
+fixation and we extend the theory in this regime to account for changes in
+mutation strength. We consider a single diallelic locus under either
+directional selection, or with over-dominance, and then generalise to multiple
+unlinked biallelic loci with unequal effects. We find that the maximum entropy
+approximation is remarkably accurate, even when mutation and selection change
+rapidly.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08344</dc:identifier>
+ <dc:identifier>doi:10.1534/genetics.115.184127</dc:identifier>
+ </oai_dc:dc>
+

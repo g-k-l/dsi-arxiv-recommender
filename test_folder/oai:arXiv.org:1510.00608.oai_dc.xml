@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coherent exciton dynamics in a dissipative environment maintained by an
+  off-resonant vibrational mode</dc:title>
+ <dc:creator>Levi, E. K.</dc:creator>
+ <dc:creator>Irish, E. K.</dc:creator>
+ <dc:creator>Lovett, B. W.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  The interplay between an open quantum system and its environment can lead to
+both coherent and incoherent behaviour. We explore the extent to which strong
+coupling to a single bosonic mode can alter the coherence properties of a
+two-level system in a structured environment. This mode is treated exactly,
+with the rest of the environment comprising a Markovian bath of bosonic modes.
+The strength of the coupling between the two-level system and the single mode
+is varied for a variety of different forms for the bath spectral density in
+order to assess whether the coherent dynamics of the two-level system are
+modified. We find a clear renormalisation of the site population oscillation
+frequency that causes an altered interaction with the bath. This leads to
+enhanced or reduced coherent behaviour of the two-level system depending on the
+form of the spectral density function. We present an intuitive interpretation,
+based on an analytical model, to explain the behaviour.
+</dc:description>
+ <dc:description>Comment: 12 pages, 8 figures; v.2 minor changes to parameters without altering
+  conclusions; v.3 includes further references</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00608</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 042109 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.042109</dc:identifier>
+ </oai_dc:dc>
+

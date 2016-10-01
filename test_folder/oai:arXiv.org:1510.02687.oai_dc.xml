@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On phoretic clustering of particles in turbulence</dc:title>
+ <dc:creator>Schmidt, Lukas</dc:creator>
+ <dc:creator>Fouxon, Itzhak</dc:creator>
+ <dc:creator>Krug, Dominik</dc:creator>
+ <dc:creator>van Reeuwijk, Maarten</dc:creator>
+ <dc:creator>Holzner, Markus</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  We demonstrate that diffusiophoretic, thermophoretic and chemotactic
+phenomena in turbulence lead to clustering of particles on multi-fractal sets
+that can be described using one single framework, valid when the particle size
+is much smaller than the smallest length scale of turbulence $l_0$. To quantify
+the clustering, we derive positive pair correlations and fractal dimensions
+that hold for scales smaller than $l_0$. Statistics of the number of particles
+in a small volume are non-Poissonian manifesting deviations from the case of
+uncorrelated particles. For scales larger than $l_0$ we predict a stretched
+exponential decay to 1 of the pair correlation function. For the case of
+inhomogeneous turbulence we find that the fractal dimension depends on the
+inhomogeneous direction. By performing experiments of clustering of
+diffusiophoretic particles induced by salinity gradients in a turbulent gravity
+current we demonstrate clustering in conformity to the theory. The particle
+size in the experiment is comparable to $l_0$, outside the strict validity
+region of the theory, suggesting that the theoretical predictions transfer to
+this practically relevant regime. This clustering mechanism can provide the key
+to the understanding of a multitude of processes such as formation of marine
+snow in the ocean and population dynamics of chemotactic bacteria.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02687</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 063110 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.063110</dc:identifier>
+ </oai_dc:dc>
+

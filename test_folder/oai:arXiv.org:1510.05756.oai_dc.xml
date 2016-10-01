@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measuring the second order correlation function and the coherence time
+  using random phase modulation</dc:title>
+ <dc:creator>Huang, Chen-How</dc:creator>
+ <dc:creator>Wen, Yung-Hsiang</dc:creator>
+ <dc:creator>Liu, Yi-Wei</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  A new approach to measure the second order correlation function $g^{(2)}$ and
+the coherence time was investigated. The $g^{(2)}$ was calculated from the
+photon pair time interval distribution by direct numerical self-convolution
+with the high order correction. The accuracy of this method was examined using
+an optical fiber based Hanbury-Brown-Twiss interferometer with a pseudo-thermal
+light source. We found that the significance of the high order correction is
+related to the factor $\bar{I}\tau_{c}$, which is the overlapping of the photon
+wave packets. A novel technique was also demonstrated to measure the coherence
+time $\tau_c$ of a light source using the random phase modulation. In
+comparison with the conventional self-heterodyne detection, this method is more
+suitable for a weak light source with a long coherence time.
+</dc:description>
+ <dc:description>Comment: 10 pages, 5 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2015-12-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05756</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.004278</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A new analysis of fine-structure constant measurements and modelling
+  errors from quasar absorption lines</dc:title>
+ <dc:creator>Wilczynska, Michael R.</dc:creator>
+ <dc:creator>Webb, John K.</dc:creator>
+ <dc:creator>King, Julian A.</dc:creator>
+ <dc:creator>Murphy, Michael T.</dc:creator>
+ <dc:creator>Bainbridge, Matthew B.</dc:creator>
+ <dc:creator>Flambaum, Victor V.</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present an analysis of 23 absorption systems along the lines of sight
+towards 18 quasars in the redshift range of $0.4 \leq z_{abs} \leq 2.3$
+observed on the Very Large Telescope (VLT) using the Ultraviolet and Visual
+Echelle Spectrograph (UVES). Considering both statistical and systematic error
+contributions we find a robust estimate of the weighted mean deviation of the
+fine-structure constant from its current, laboratory value of
+$\Delta\alpha/\alpha=\left(0.22\pm0.23\right)\times10^{-5}$, consistent with
+the dipole variation reported in Webb et al. and King et al. This paper also
+examines modelling methodologies and systematic effects. In particular we focus
+on the consequences of fitting quasar absorption systems with too few absorbing
+components and of selectively fitting only the stronger components in an
+absorption complex. We show that using insufficient continuum regions around an
+absorption complex causes a significant increase in the scatter of a sample of
+$\Delta\alpha/\alpha$ measurements, thus unnecessarily reducing the overall
+precision. We further show that fitting absorption systems with too few
+velocity components also results in a significant increase in the scatter of
+$\Delta\alpha/\alpha$ measurements, and in addition causes
+$\Delta\alpha/\alpha$ error estimates to be systematically underestimated.
+These results thus identify some of the potential pitfalls in analysis
+techniques and provide a guide for future analyses.
+</dc:description>
+ <dc:description>Comment: 14 pages, 7 figures. Published by the Monthly Notices of the Royal
+  Astronomical Society. v2: Updated reference Dumont &amp; Webb (2016)</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02536</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stv2148</dc:identifier>
+ </oai_dc:dc>
+

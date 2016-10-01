@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>(Mainly) axion dark matter</dc:title>
+ <dc:creator>Baer, Howard</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  The strong CP problem of QCD is at heart a problem of naturalness: why is the
+F\tilde{F} term highly suppressed in the QCD Lagrangian when it seems necessary
+to explain why there are three and not four light pions? The most elegant
+solution posits a spontaneously broken Peccei-Quinn (PQ) symmetry which
+requires the existence of the axion field a. The axion field settles to the
+minimum of its potential thus removing the offensive term but giving rise to
+the physical axion whose coherent oscillations can make up the cold dark
+matter. Only now are experiments such as ADMX beginning to explore QCD axion
+parameter space. Since a bonafide scalar particle-- the Higgs boson-- has been
+discovered, one might expect its mass to reside at the axion scale f_a~ 10^{11}
+GeV. The Higgs mass is elegantly stabilized by supersymmetry: in this case the
+axion is accompanied by its axino and saxion superpartners. Requiring
+naturalness also in the electroweak sector implies higgsino-like WIMPs so then
+we expect mixed axion-WIMP dark matter. Ultimately we would expect detection of
+both an axion and a WIMP while signals for light higgsinos may show up at LHC
+and must show up at ILC.
+</dc:description>
+ <dc:description>Comment: 6 pages plus 3 figures; transcript of plenary talk given at PPC2015
+  meeting, Deadwood, SD, June 29, 2015</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07501</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4953303</dc:identifier>
+ </oai_dc:dc>
+

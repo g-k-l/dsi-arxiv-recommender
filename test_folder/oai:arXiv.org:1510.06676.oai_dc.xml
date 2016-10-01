@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Holographic Renormalization in Teleparallel Gravity</dc:title>
+ <dc:creator>Kr&#353;&#353;&#225;k, Martin</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We consider the problem of IR divergences of the action in the covariant
+formulation of teleparallel gravity in asymptotically Minkowski spacetimes. We
+show that divergences are caused by inertial effects and can be removed by
+adding an appropriate surface term, leading to the renormalized action. This
+process can be viewed as a teleparallel analogue of holographic
+renormalization. Moreover, we explore the variational problem in teleparallel
+gravity and explain how the variation with respect to the spin connection
+should be performed.
+</dc:description>
+ <dc:description>Comment: 9 pages, v2: revised version</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-07-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06676</dc:identifier>
+ </oai_dc:dc>
+

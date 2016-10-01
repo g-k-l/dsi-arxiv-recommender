@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stable hypersurfaces with zero scalar curvature in Euclidean space</dc:title>
+ <dc:creator>Alencar, Hil&#225;rio</dc:creator>
+ <dc:creator>Carmo, Manfredo do</dc:creator>
+ <dc:creator>Neto, Greg&#243;rio Silva</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>53C42, 53C40</dc:subject>
+ <dc:description>  In this paper we prove some results concerning stability of hypersurfaces in
+the four dimensional Euclidean space with zero scalar curvature. First we prove
+there is no complete stable hypersurface with zero scalar curvature, polynomial
+growth of integral of the mean curvature, and with the Gauss-Kronecker
+curvature bounded away from zero. We conclude this paper giving a sufficient
+condition for a regular domain to be stable in terms of the mean and the
+Gauss-Kronecker curvatures of the hypersurface and the radius of the smallest
+extrinsic ball which contains the domain.
+</dc:description>
+ <dc:description>Comment: 7 pages. Accepted for publication at the Arkiv f\"or Matematik</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-02-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03741</dc:identifier>
+ <dc:identifier>doi:10.1007/s11512-016-0232-8</dc:identifier>
+ </oai_dc:dc>
+

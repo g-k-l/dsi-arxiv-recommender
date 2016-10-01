@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On connection matrices of quantum Knizhnik-Zamolodchikov equations based
+  on Lie super algebras</dc:title>
+ <dc:creator>Galleas, W.</dc:creator>
+ <dc:creator>Stokman, J. V.</dc:creator>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:description>  We propose a new method to compute connection matrices of quantum
+Knizhnik-Zamolodchikov equations associated to integrable vertex models with
+super algebra and Hecke algebra symmetries. The scheme relies on decomposing
+the underlying spin representation of the affine Hecke algebra in principal
+series modules and invoking the known solution of the connection problem for
+quantum affine Knizhnik-Zamolodchikov equations associated to principal series
+modules. We apply the method to the spin representation underlying the
+$\mathcal{U}_q\bigl(\hat{\mathfrak{gl}}(2|1)\bigr)$ Perk-Schultz model. We show
+that the corresponding connection matrices are described by an elliptic
+solution of a supersymmetric version of the dynamical quantum Yang-Baxter
+equation with spectral parameter.
+</dc:description>
+ <dc:description>Comment: 27 pages; v2: typos fixed and references added; v3: small
+  corrections; v4: version accepted for publication in Adv. Stud. Pure Math</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-07-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04318</dc:identifier>
+ </oai_dc:dc>
+

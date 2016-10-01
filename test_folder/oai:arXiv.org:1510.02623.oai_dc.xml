@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An iterative technique for bounding derivatives of solutions of Stein
+  equations</dc:title>
+ <dc:creator>D&#246;bler, Christian</dc:creator>
+ <dc:creator>Gaunt, Robert E.</dc:creator>
+ <dc:creator>Vollmer, Sebastian J.</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>60F05, 35A24</dc:subject>
+ <dc:description>  We introduce a simple iterative technique for bounding derivatives of
+solutions of Stein equations $Lf=h-\mathbb{E}h(Z)$, where $L$ is a linear
+differential operator and $Z$ is the limit random variable. Given bounds on
+just the solutions or certain lower order derivatives of the solution, the
+technique allows one to deduce bounds for derivatives of any order, in terms of
+supremum norms of derivatives of the test function $h$. This approach can be
+readily applied to many Stein equations from the literature. We consider a
+number of applications; in particular, we derive bounds for derivatives of any
+order of the solution of the general variance-gamma Stein equation.
+</dc:description>
+ <dc:description>Comment: 37 pages</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02623</dc:identifier>
+ </oai_dc:dc>
+

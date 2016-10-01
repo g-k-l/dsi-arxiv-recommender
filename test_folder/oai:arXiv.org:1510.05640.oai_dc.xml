@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The impact of model detail on power grid resilience measures</dc:title>
+ <dc:creator>Auer, Sabine</dc:creator>
+ <dc:creator>Kleis, Kirsten</dc:creator>
+ <dc:creator>Schultz, Paul</dc:creator>
+ <dc:creator>Kurths, J&#252;rgen</dc:creator>
+ <dc:creator>Hellmann, Frank</dc:creator>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:description>  Extreme events represent a challenge to natural as well as man-made systems.
+For critical infrastructure like power grids, we need to understand their
+resilience against large disturbances. Recently, new measures of the resilience
+of dynamical systems have been developed in the complex system literature.
+Basin stability and survivability respectively assess the asymptotic and
+transient behavior of a system when subjected to arbitrary, localized but large
+perturbations. To employ these methods to assess the resilience of power grids,
+we need to choose a model of the power grid. So far the most popular model that
+has been studied is the classical swing equation model for the frequency
+response of generators and motors. In this paper we study a more sophisticated
+model of synchronous machines that also takes voltage dynamics into account,
+and compare it to the previously studied model. This model has been found to
+give an accurate picture of the long term evolution of synchronous machines in
+the engineering literature for post fault studies. We find evidence that some
+stable fix points of the swing equation become unstable when we add voltage
+dynamics. If this occurs the asymptotic behavior of the system can be
+dramatically altered, and basin stability estimates obtained with the swing
+equation can be dramatically wrong. We also find that the survivability does
+not change significantly when taking the voltage dynamics into account.
+Further, the limit cycle type asymptotic behaviour is strongly correlated with
+transient voltages that violate typical operational voltage bounds. Thus,
+transient voltage bounds are dominated by transient frequency bounds and play
+no large role for realistic parameters.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05640</dc:identifier>
+ <dc:identifier>doi:10.1140/epjst/e2015-50265-9</dc:identifier>
+ </oai_dc:dc>
+

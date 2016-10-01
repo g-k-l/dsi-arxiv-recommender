@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sintering-induced Dust Ring Formation in Protoplanetary Disks:
+  Application to the HL Tau Disk</dc:title>
+ <dc:creator>Okuzumi, Satoshi</dc:creator>
+ <dc:creator>Momose, Munetake</dc:creator>
+ <dc:creator>Sirono, Sin-iti</dc:creator>
+ <dc:creator>Kobayashi, Hiroshi</dc:creator>
+ <dc:creator>Tanaka, Hidekazu</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  The latest observation of HL Tau by ALMA revealed spectacular concentric dust
+rings in its circumstellar disk. We attempt to explain the multiple ring
+structure as a consequence of aggregate sintering. Sintering is known to reduce
+the sticking efficiency of dust aggregates and occurs at temperatures slightly
+below the sublimation point of their constituent material. We here present a
+dust growth model incorporating sintering and use it to simulate global dust
+evolution due to sintering, coagulation, fragmentation, and radial inward drift
+in a modeled HL Tau disk. We show that aggregates consisting of multiple
+species of volatile ices experience sintering, collisionally disrupt, and pile
+up at multiple locations slightly outside the snow lines of the volatiles. At
+wavelengths of 0.87--1.3 mm, these sintering zones appear as bright, optically
+thick rings with a spectral slope of $\approx 2$, whereas the non-sintering
+zones as darker, optically thinner rings of a spectral slope of $\approx$
+2.3--2.5. The observational features of the sintering and non-sintering zones
+are consistent with those of the major bright and dark rings found in the HL
+Tau disk, respectively. Radial pileup and vertical settling occur
+simultaneously if disk turbulence is weak and if monomers constituting the
+aggregates are $\sim 1~{\rm \mu m}$ in radius. For the radial gas temperature
+profile of $T = 310(r/1~{\rm AU})^{-0.57}~{\rm K}$, our model perfectly
+reproduces the brightness temperatures of the optically thick bright rings, and
+reproduces their orbital distances to an accuracy of $\lesssim$ 30%.
+</dc:description>
+ <dc:description>Comment: 24 pages, 20 figures, discussion section added, accepted for
+  publication in ApJ</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-02-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03556</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/821/2/82</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Termination Analysis of Polynomial Programs with Equality Conditions</dc:title>
+ <dc:creator>Li, Yangjia</dc:creator>
+ <dc:creator>Lu, Hui</dc:creator>
+ <dc:creator>Zhan, Naijun</dc:creator>
+ <dc:creator>Chen, Mingshuai</dc:creator>
+ <dc:creator>Wu, Guohua</dc:creator>
+ <dc:subject>Computer Science - Programming Languages</dc:subject>
+ <dc:subject>Computer Science - Symbolic Computation</dc:subject>
+ <dc:description>  In this paper, we investigate the termination problem of a family of
+polynomial programs, in which all assignments to program variables are
+polynomials, and test conditions of loops and conditional statements are
+polynomial equations. Our main result is that the non-terminating inputs of
+such a polynomial program is algorithmically computable according to a strictly
+descending chain of algebraic sets, which implies that the termination problem
+of these programs is decidable. The complexity of the algorithm follows
+immediately from the length of the chain, which can be computed by Hilbert's
+function and Macaulay's theorem. To the best of our knowledge, the considered
+family of polynomial programs should be the largest one with a decidable
+termination problem so far. The experimental results indicate the efficiency of
+our approach.
+</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-03-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05201</dc:identifier>
+ </oai_dc:dc>
+

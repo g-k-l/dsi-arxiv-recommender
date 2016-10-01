@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement dependent locality</dc:title>
+ <dc:creator>P&#252;tz, Gilles</dc:creator>
+ <dc:creator>Gisin, Nicolas</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The demonstration and use of Bell-nonlocality, a concept that is
+fundamentally striking and is at the core of applications in device independent
+quantum information processing, relies heavily on the assumption of measurement
+independence, also called the assumption of free choice. The latter cannot be
+verified or guaranteed. In this paper, we consider a relaxation of the
+measurement independence assumption. We briefly review the results of Phys.
+Rev. Lett. 113, 190402 (2014), which show that with our relaxation, the set of
+so-called measurement dependent local (MDL) correlations is a polytope, i.e. it
+can be fully described using a finite set of linear inequalities. Here we
+analyze this polytope, first in the simplest case of 2 parties with binary
+inputs and outputs, for which we give a full characterization. We show that
+partially entangled states are preferable to the maximally entangled state when
+dealing with measurement dependence in this scenario. We further present a
+method which transforms any Bell-inequality into an MDL inequality and give
+valid inequalities for the case of arbitrary number of parties as well as one
+for arbitrary number of inputs. We introduce the assumption of independent
+sources in the measurement dependence scenario and give a full analysis for the
+bipartite scenario with binary inputs and outputs. Finally, we establish a link
+between measurement dependence and another strong hindrance in certifying
+nonlocal correlations: nondetection events.
+</dc:description>
+ <dc:description>Comment: 16+7 pages, 2 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-05-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09087</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/5/055006</dc:identifier>
+ </oai_dc:dc>
+

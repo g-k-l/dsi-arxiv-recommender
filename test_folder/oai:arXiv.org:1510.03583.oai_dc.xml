@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Temperature dependence of Coulomb oscillations in a few-layer
+  two-dimensional WS2 quantum dot</dc:title>
+ <dc:creator>Song, Xiang-Xiang</dc:creator>
+ <dc:creator>Zhang, Zhuo-Zhi</dc:creator>
+ <dc:creator>You, Jie</dc:creator>
+ <dc:creator>Liu, Di</dc:creator>
+ <dc:creator>Li, Hai-Ou</dc:creator>
+ <dc:creator>Cao, Gang</dc:creator>
+ <dc:creator>Xiao, Ming</dc:creator>
+ <dc:creator>Guo, Guo-Ping</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Standard semiconductor fabrication techniques are used to fabricate a quantum
+dot (QD) made of WS2, where Coulomb oscillations were found. The
+full-width-at-half-maximum of the Coulomb peaks increases linearly with
+temperature while the height of the peaks remains almost independent of
+temperature, which is consistent with standard semiconductor QD theory. Unlike
+graphene etched QDs, where Coulomb peaks belonging to the same QD can have
+different temperature dependences, these results indicate the absence of the
+disordered confining potential. This difference in the potential-forming
+mechanism between graphene etched QDs and WS2 QDs may be the reason for the
+larger potential fluctuation found in graphene QDs.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03583</dc:identifier>
+ <dc:identifier>Scientific Reports 5, 16113 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep16113</dc:identifier>
+ </oai_dc:dc>
+

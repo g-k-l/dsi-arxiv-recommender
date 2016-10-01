@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coupled beam motion in a storage ring with crab cavities</dc:title>
+ <dc:creator>Huang, Xiaobiao</dc:creator>
+ <dc:subject>Physics - Accelerator Physics</dc:subject>
+ <dc:description>  We studied the coupled beam motion in a storage ring between the transverse
+and longitudinal directions introduced by crab cavities. Analytic form of the
+linear decoupling transformation is derived. The equilibrium bunch distribution
+in an electron storage ring with a crab cavity is given, including contribution
+to the eigen-emittance induced by the crab cavity. Application to the short
+pulse generation scheme using crab cavities is considered.
+</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04964</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevAccelBeams.19.024001</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Frame Scalings: A Condition Number Approach</dc:title>
+ <dc:creator>Casazza, Peter</dc:creator>
+ <dc:creator>Chen, Xuemei</dc:creator>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:description>  Scaling frame vectors is a simple and noninvasive way to construct tight
+frames. However, not all frames can be modifed to tight frames in this fashion,
+so in this case we explore the problem of finding the best conditioned frame by
+scaling, which is crucial for applications like signal processing. We conclude
+that this problem is equivalent to solving a convex optimization problem
+involving the operator norm, which is unconventional since this problem was
+only studied in the perspective of Frobenious norm before. We also further
+study the Frobenious norm case in relation to the condition number of the frame
+operator, and the convexity of optimal scalings.
+</dc:description>
+ <dc:description>Comment: 12 pages</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-02-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01653</dc:identifier>
+ </oai_dc:dc>
+

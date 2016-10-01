@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamic programming approach to principal-agent problems</dc:title>
+ <dc:creator>Cvitani&#263;, Jak&#353;a</dc:creator>
+ <dc:creator>Possama&#239;, Dylan</dc:creator>
+ <dc:creator>Touzi, Nizar</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Quantitative Finance - Economics</dc:subject>
+ <dc:description>  We consider a general formulation of the Principal-Agent problem with a
+lump-sum payment on a finite horizon. Our approach is the following: we first
+find the contract that is optimal among those for which the agent's value
+process allows a dynamic programming representation and for which the agent's
+optimal effort is straightforward to find. We then show that the optimization
+over the restricted family of contracts represents no loss of generality. As a
+consequence, we have reduced this non-zero sum stochastic differential game to
+a standard stochastic control problem which may be addressed by the standard
+tools of control theory. Our proofs rely on the Backward Stochastic
+Differential Equations approach to non-Markovian stochastic control, and more
+specifically, on the recent extensions to the second order case.
+</dc:description>
+ <dc:description>Comment: 29 pages</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:date>2016-06-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07111</dc:identifier>
+ </oai_dc:dc>
+

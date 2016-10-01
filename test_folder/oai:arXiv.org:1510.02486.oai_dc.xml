@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Case Study of the Sensitivity to LFV Operators with Precision
+  Measurements and the LHC</dc:title>
+ <dc:creator>Cai, Yi</dc:creator>
+ <dc:creator>Schmidt, Michael A.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  We compare the sensitivity of precision measurements of lepton flavour
+observables to the reach of the LHC in a case study of lepton-flavour violating
+operators of dimension six with two leptons and two quarks. For light quarks
+precision measurements always yield the more stringent constraints. The LHC
+complements precision measurements for operators with heavier quarks.
+Competitive limits can already be set on the cutoff scale $\Lambda$ &gt; 600 - 800
+GeV for operators with right-handed $\tau$ leptons using the LHC run 1 data.
+</dc:description>
+ <dc:description>Comment: 22 pages, 2 figures, changed from general effective four fermion
+  interactions to gauge invariant operators, matches published version</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-02-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02486</dc:identifier>
+ <dc:identifier>JHEP02(2016)176</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)176</dc:identifier>
+ </oai_dc:dc>
+

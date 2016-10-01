@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Model distances for vine copulas in high dimensions</dc:title>
+ <dc:creator>Killiches, Matthias</dc:creator>
+ <dc:creator>Kraus, Daniel</dc:creator>
+ <dc:creator>Czado, Claudia</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  Vine copulas are a flexible class of dependence models consisting of
+bivariate building blocks and have proven to be particularly useful in high
+dimensions. Classical model distance measures require multivariate integration
+and thus suffer from the curse of dimensionality. In this paper we provide
+numerically tractable methods to measure the distance between two vine copulas
+even in high dimensions. For this purpose, we consecutively develop three new
+distance measures based on the Kullback-Leibler distance, using the result that
+it can be expressed as the sum over expectations of KL distances between
+univariate conditional densities, which can be easily obtained for vine
+copulas. To reduce numerical calculations we approximate these expectations on
+adequately designed grids, outperforming Monte Carlo-integration with respect
+to computational time. In numerous examples and applications we illustrate the
+strengths and weaknesses of the developed distance measures.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-04-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03671</dc:identifier>
+ </oai_dc:dc>
+

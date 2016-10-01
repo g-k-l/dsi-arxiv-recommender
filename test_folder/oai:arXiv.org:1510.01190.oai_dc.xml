@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Formulation of discontinuous Galerkin methods for relativistic
+  astrophysics</dc:title>
+ <dc:creator>Teukolsky, Saul A.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  The DG algorithm is a powerful method for solving pdes, especially for
+evolution equations in conservation form. Since the algorithm involves
+integration over volume elements, it is not immediately obvious that it will
+generalize easily to arbitrary time-dependent curved spacetimes. We show how to
+formulate the algorithm in such spacetimes for applications in relativistic
+astrophysics. We also show how to formulate the algorithm for equations in
+non-conservative form, such as Einstein's field equations themselves. We find
+two computationally distinct formulations in both cases, one of which has
+seldom been used before for flat space in curvilinear coordinates but which may
+be more efficient. We also give a new derivation of the ALE algorithm
+(Arbitrary Lagrangian-Eulerian) using 4-vector methods that is much simpler
+than the usual derivation and explains why the method preserves the
+conservation form of the equations. The various formulations are explored with
+some simple numerical experiments that also explore the effect of the metric
+identities on the results.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01190</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jcp.2016.02.031</dc:identifier>
+ </oai_dc:dc>
+

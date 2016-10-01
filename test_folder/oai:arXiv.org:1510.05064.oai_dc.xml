@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Placement Delivery Array Design in Centralized Coded Caching
+  Scheme</dc:title>
+ <dc:creator>Yan, Qifa</dc:creator>
+ <dc:creator>Cheng, Minquan</dc:creator>
+ <dc:creator>Tang, Xiaohu</dc:creator>
+ <dc:creator>Chen, Qingchun</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  Caching is a promising solution to satisfy the ever-increasing demands for
+the multi-media traffics. In caching networks, coded caching is a recently
+proposed technique that achieves significant performance gains over the uncoded
+caching schemes. However, to implement the coded caching schemes, each file has
+to be split into $F$ packets, which usually increases exponentially with the
+number of users $K$. Thus, designing caching schemes that decrease the order of
+$F$ is meaningful for practical implementations. In this paper, by reviewing
+the Ali-Niesen caching scheme, the placement delivery array (PDA) design
+problem is firstly formulated to characterize the placement issue and the
+delivery issue with a single array. Moreover, it is disclosed that the problem
+of designing a centralized coded caching scheme can be translated into a
+problem of designing an appropriate PDA. Secondly, it is shown that the
+Ali-Niesen scheme corresponds to a special class of PDA, which realizes the
+best coding gain with the least $F$. Thirdly, we present a new construction of
+PDA for the centralized caching system, wherein the cache size of each user
+(identical cache size is assumed at all users) is a fraction $1/q$ or
+${(q-1)}/{q}$ ($q$ is an integer such that $q\geq 2$) of the server. The new
+construction can decrease the required $F$ from the order
+$O\left(e^{K\cdot\left(\frac{1}{q}\ln q+(1-\frac{1}{q})\ln
+\frac{q}{q-1}\right)}\right)$ of Ali-Niesen scheme to
+$O\left(e^{K\cdot\frac{1}{q}\ln q}\right)$, which saves a factor of
+$O\left(e^{K\cdot(1-\frac{1}{q})\ln\frac{q}{q-1}}\right)$ that increases
+exponentially with $K$, while the coding gain loss is only $1$.
+</dc:description>
+ <dc:description>Comment: 18 pages, 2 figures</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-06-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05064</dc:identifier>
+ </oai_dc:dc>
+

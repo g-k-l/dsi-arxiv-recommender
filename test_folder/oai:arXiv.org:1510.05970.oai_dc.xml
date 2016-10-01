@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stereo Matching by Training a Convolutional Neural Network to Compare
+  Image Patches</dc:title>
+ <dc:creator>&#381;bontar, Jure</dc:creator>
+ <dc:creator>LeCun, Yann</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Computer Science - Neural and Evolutionary Computing</dc:subject>
+ <dc:description>  We present a method for extracting depth information from a rectified image
+pair. Our approach focuses on the first stage of many stereo algorithms: the
+matching cost computation. We approach the problem by learning a similarity
+measure on small image patches using a convolutional neural network. Training
+is carried out in a supervised manner by constructing a binary classification
+data set with examples of similar and dissimilar pairs of patches. We examine
+two network architectures for this task: one tuned for speed, the other for
+accuracy. The output of the convolutional neural network is used to initialize
+the stereo matching cost. A series of post-processing steps follow: cross-based
+cost aggregation, semiglobal matching, a left-right consistency check, subpixel
+enhancement, a median filter, and a bilateral filter. We evaluate our method on
+the KITTI 2012, KITTI 2015, and Middlebury stereo data sets and show that it
+outperforms other approaches on all three data sets.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-05-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05970</dc:identifier>
+ <dc:identifier>JMLR 17(65):1-32, 2016</dc:identifier>
+ </oai_dc:dc>
+

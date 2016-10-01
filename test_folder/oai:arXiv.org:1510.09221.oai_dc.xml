@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stabilization by Noise of a $\mathbb{C}^2$-Valued Coupled System</dc:title>
+ <dc:creator>Chen, Joe P.</dc:creator>
+ <dc:creator>Ford, Lance</dc:creator>
+ <dc:creator>Kielty, Derek</dc:creator>
+ <dc:creator>Majumdar, Rajeshwari</dc:creator>
+ <dc:creator>McCain, Heather</dc:creator>
+ <dc:creator>O'Connell, Dylan</dc:creator>
+ <dc:creator>Shum, Fan Ny</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>34F05, 60H10 (primary), 76F20 (secondary)</dc:subject>
+ <dc:description>  Recently Herzog and Mattingly have shown that a $\mathbb{C}$-valued
+polynomial ODE which admits finite-time blow-up solutions may be stabilized by
+the addition of $\mathbb{C}$-valued Brownian noise. In this paper we extend
+their problem to a $\mathbb{C}^2$-valued system of coupled ODEs that also
+admits finite-time blow-up solutions. We show analytically and numerically that
+stabilization can be achieved in our setting by adding a suitable Brownian
+noise, and that the resulting system of SDEs is ergodic. The proof uses
+Girsanov theorem to effect a time change from our $\mathbb{C}^2$-system to a
+quasi-$\mathbb{C}$-system similar to the one studied by Herzog and Mattingly.
+</dc:description>
+ <dc:description>Comment: v3: 17 pages, 5 figures. Figure typos and small typos corrected, refs
+  added, section 3 revised</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09221</dc:identifier>
+ </oai_dc:dc>
+

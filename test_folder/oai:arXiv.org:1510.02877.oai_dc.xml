@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simultaneous Sparse Approximation and Common Component Extraction using
+  Fast Distributed Compressive Sensing</dc:title>
+ <dc:creator>Mahyari, Arash Golibagh</dc:creator>
+ <dc:creator>Aviyente, Selin</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  Simultaneous sparse approximation is a generalization of the standard sparse
+approximation, for simultaneously representing a set of signals using a common
+sparsity model. Generalizing the compressive sensing concept to the
+simultaneous sparse approximation yields distributed compressive sensing (DCS).
+DCS finds the sparse representation of multiple correlated signals using the
+common + innovation signal model. However, DCS is not efficient for joint
+recovery of a large number of signals since it requires large memory and
+computational time. In this paper, we propose a new hierarchical algorithm to
+implement the jointly sparse recovery framework of DCS more efficiently. The
+proposed algorithm is applied to video background extraction problem, where the
+background corresponds to the common sparse activity across frames.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the author because it is not
+  completed</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:date>2016-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02877</dc:identifier>
+ </oai_dc:dc>
+

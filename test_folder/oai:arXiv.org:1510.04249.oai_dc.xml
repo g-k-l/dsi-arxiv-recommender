@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Random Irregular Block-hierarchical Networks: Algorithms for Computation
+  of Main Properties</dc:title>
+ <dc:creator>Samvelyan, Mikayel</dc:creator>
+ <dc:creator>Avetisyan, Svetlana</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:description>  In this paper, the class of random irregular block-hierarchical networks is
+defined and algorithms for generation and calculation of network properties are
+described. The algorithms presented for this class of networks are more
+efficient than known algorithms both in computation time and memory usage and
+can be used to analyze topological properties of random irregular
+block-hierarchical networks. The algorithms are implemented in the system
+created by the authors for the study of topological properties of random
+networks.
+</dc:description>
+ <dc:description>Comment: The original is in Russian</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-08-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04249</dc:identifier>
+ <dc:identifier>Proceedings of the IX Annual Scientific Conference in
+  Russian-Armenian (Slavonic) University (2014) 48-60</dc:identifier>
+ <dc:language>ru</dc:language>
+ </oai_dc:dc>
+

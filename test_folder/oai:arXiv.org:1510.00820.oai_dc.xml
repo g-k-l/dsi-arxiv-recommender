@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum algorithm for obtaining the eigenstates of a physical system</dc:title>
+ <dc:creator>Wang, Hefeng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a quantum algorithm for solving the following problem: given the
+Hamiltonian of a physical system and one of its eigenvalues, how to obtain the
+corresponding eigenstate? The algorithm is based on the resonance phenomena.
+For a probe qubit coupled to a quantum system, the system exhibits a resonance
+dynamics when the frequency of the probe qubit matches a transition frequency
+in the system. Therefore the system can be guided to evolve to the eigenstate
+with known eigenvalue by inducing resonance between the probe qubit and a
+designed transition in the system. This algorithm can also be used to obtain
+the energy spectrum of a physical system and can achieve even a quadratic
+speedup over the phase estimation algorithm.
+</dc:description>
+ <dc:description>Comment: 14 pages, 5 figures</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00820</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 052334 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.052334</dc:identifier>
+ </oai_dc:dc>
+

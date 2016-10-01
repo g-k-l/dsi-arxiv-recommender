@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Some results on deformations of sections of vector bundles</dc:title>
+ <dc:creator>Castorena, Abel</dc:creator>
+ <dc:creator>Pirola, Gian Pietro</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>14B12. 14C20</dc:subject>
+ <dc:description>  Let $E$ be a vector bundle on a smooth complex projective variety $X$. We
+study the family of sections $s_t\in H^0(E\otimes L_t)$ where $L_t\in Pic^0(X)$
+is a family of topologically trivial line bundle and $L_0=\mathcal O_X,$ that
+is, we study deformations of $s=s_0$. By applying the approximation theorem of
+Artin [2] we give a transversality condition that generalizes the
+semi-regularity of an effective Cartier divisor. Moreover, we obtain another
+proof of the Severi-Kodaira-Spencer theorem [4]. We apply our results to give a
+lower bound to the continuous rank of a vector bundle as defined by Miguel
+Barja [3] and a proof of a piece of the generic vanishing theorems [6] and [7]
+for the canonical bundle. We extend also to higher dimension a result given in
+[8] on the base locus of the paracanonical base locus for surfaces.
+</dc:description>
+ <dc:description>Comment: 12 pages. An extra hypothesis is added to the results in last
+  section. Final version will appear in Collectanea Mathematica</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:date>2016-04-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02964</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Intrinsic H\"older continuity of harmonic functions</dc:title>
+ <dc:creator>Hansen, Wolfhard</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>31D05, 60J45, 60J65, 60J75</dc:subject>
+ <dc:description>  In a setting, where only exit measures are given, as they are associated with
+a right continuous strong Markov process on a separable metric space, we
+provide simple criteria for scaling invariant H\"older continuity of bounded
+harmonic functions with respect to a distance function which, in applications,
+may be adapted to the special situation. In particular, already a very weak
+scaling property ensures that Harnack inequalities imply H\"older continuity.
+Our approach covers recent results by M. Kassmann and A. Mimica as well as
+cases, where a Green function leads to an intrinsic metric.
+</dc:description>
+ <dc:description>Comment: Minor changes for compatibility with "Scaling invariant Harnack
+  inequalities in a general setting" (arXiv:1604.01634)</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-04-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05800</dc:identifier>
+ </oai_dc:dc>
+

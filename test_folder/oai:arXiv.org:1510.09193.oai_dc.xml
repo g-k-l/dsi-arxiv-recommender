@@ -1,0 +1,46 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Approximation via Correlation Decay when Strong Spatial Mixing Fails</dc:title>
+ <dc:creator>Bezakova, Ivona</dc:creator>
+ <dc:creator>Galanis, Andreas</dc:creator>
+ <dc:creator>Goldberg, Leslie Ann</dc:creator>
+ <dc:creator>Guo, Heng</dc:creator>
+ <dc:creator>Stefankovic, Daniel</dc:creator>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:description>  Approximate counting via correlation decay is the core algorithmic technique
+used in the sharp delineation of the computational phase transition that arises
+in the approximation of the partition function of anti-ferromagnetic two-spin
+models.
+  Previous analyses of correlation-decay algorithms implicitly depended on the
+occurrence of strong spatial mixing (SSM). This means that one uses worst-case
+analysis of the recursive procedure that creates the sub-instances. We develop
+a new analysis method that is more refined than the worst-case analysis. We
+take the shape of instances in the computation tree into consideration and
+amortise against certain "bad" instances that are created as the recursion
+proceeds. This enables us to show correlation decay and to obtain an FPTAS even
+when SSM fails.
+  We apply our technique to the problem of approximately counting independent
+sets in hypergraphs with degree upper-bound Delta and with a lower bound k on
+the arity of hyperedges. Liu and Lin gave an FPTAS for k&gt;=2 and Delta&lt;=5 (lack
+of SSM was the obstacle preventing this algorithm from being generalised to
+Delta=6). Our technique gives a tight result for Delta=6, showing that there is
+an FPTAS for k&gt;=3 and Delta&lt;=6. The best previously-known approximation scheme
+for Delta=6 is the Markov-chain simulation based FPRAS of Bordewich, Dyer and
+Karpinski, which only works for k&gt;=8.
+  Our technique also applies for larger values of k, giving an FPTAS for
+k&gt;=Delta. This bound is not substantially stronger than existing randomised
+results in the literature. Nevertheless, it gives the first deterministic
+approximation scheme in this regime. Moreover, unlike existing results, it
+leads to an FPTAS for counting dominating sets in regular graphs with
+sufficiently large degree.
+  We further demonstrate that approximately counting independent sets in
+hypergraphs is NP-hard even within the uniqueness regime.
+</dc:description>
+ <dc:description>Comment: This version improves the bound in Theorem 3 from k&gt;=1.66Delta to
+  k&gt;=Delta, which is used in the proof of the (new) Corollary 4</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09193</dc:identifier>
+ </oai_dc:dc>
+

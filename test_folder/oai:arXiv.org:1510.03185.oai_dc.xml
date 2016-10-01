@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Continuum discretized BCS approach for weakly bound nuclei</dc:title>
+ <dc:creator>Lay, J. A.</dc:creator>
+ <dc:creator>Alonso, C. E.</dc:creator>
+ <dc:creator>Fortunato, L.</dc:creator>
+ <dc:creator>Vitturi, A.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  The Bardeen-Cooper-Schrieffer (BCS) formalism is extended by including the
+single-particle continuum in order to analyse the evolution of pairing in an
+isotopic chain from stability up to the drip line. We propose a continuum
+discretized generalized BCS based on single-particle pseudostates (PS). These
+PS are generated from the diagonalization of the single-particle Hamiltonian
+within a Transformed Harmonic Oscillator (THO) basis. The consistency of the
+results versus the size of the basis is studied. The method is applied to
+neutron rich Oxygen and Carbon isotopes and compared with similar previous
+works and available experimental data. We make use of the flexibility of the
+proposed model in order to study the evolution of the occupation of the
+low-energy continuum when the system becomes weakly bound. We find a larger
+influence of the non-resonant continuum as long as the Fermi level approaches
+zero.
+</dc:description>
+ <dc:description>Comment: 20 pages, 16 figures, to be submitted</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03185</dc:identifier>
+ <dc:identifier>J. Phys. G: Nucl. Part. Phys. 43 (2016) 085103</dc:identifier>
+ <dc:identifier>doi:10.1088/0954-3899/43/8/085103</dc:identifier>
+ </oai_dc:dc>
+

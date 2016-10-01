@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Prediction, dynamics, and visualization of antigenic phenotypes of
+  seasonal influenza viruses</dc:title>
+ <dc:creator>Neher, Richard A.</dc:creator>
+ <dc:creator>Bedford, Trevor</dc:creator>
+ <dc:creator>Daniels, Rodney S.</dc:creator>
+ <dc:creator>Russell, Colin A.</dc:creator>
+ <dc:creator>Shraiman, Boris I.</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:description>  Human seasonal influenza viruses evolve rapidly, enabling the virus
+population to evade immunity and re-infect previously infected individuals.
+Antigenic properties are largely determined by the surface glycoprotein
+hemagglutinin (HA) and amino acid substitutions at exposed epitope sites in HA
+mediate loss of recognition by antibodies. Here, we show that antigenic
+differences measured through serological assay data are well described by a sum
+of antigenic changes along the path connecting viruses in a phylogenetic tree.
+This mapping onto the tree allows prediction of antigenicity from HA sequence
+data alone. The mapping can further be used to make predictions about the
+makeup of the future seasonal influenza virus population, and we compare
+predictions between models with serological and sequence data. To make timely
+model output readily available, we developed a web browser based application
+that visualizes antigenic data on a continuously updated phylogeny.
+</dc:description>
+ <dc:description>Comment: visualization available at http://HI.nextflu.org</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01195</dc:identifier>
+ <dc:identifier>doi:10.1073/pnas.1525578113</dc:identifier>
+ </oai_dc:dc>
+

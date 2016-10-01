@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The RADI algorithm for solving large-scale algebraic Riccati equations</dc:title>
+ <dc:creator>Benner, Peter</dc:creator>
+ <dc:creator>Bujanovi&#263;, Zvonimir</dc:creator>
+ <dc:creator>K&#252;rschner, Patrick</dc:creator>
+ <dc:creator>Saak, Jens</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>15A24, 15A18, 65F15, 65F30, 93B52</dc:subject>
+ <dc:description>  In recent years, several new approaches for solving the large-scale
+continuous-time algebraic Riccati equation have appeared in the literature.
+Amodei and Buchot suggest computing a low-dimensional invariant subspace of the
+associated Hamiltonian matrix. Simoncini and Lin also target the Hamiltonian
+matrix, but in a different way: they iterate on the Cayley-transformed matrix
+with various shifts. Wong and Balakrishnan directly generalize the Lyapunov
+ADI-method to the Riccati equation. In this paper we introduce another method,
+inspired by the Cholesky-factored variant of the Lyapunov ADI-method. The
+advantage of the new algorithm is in its immediate and efficient low-rank
+formulation, and a simpler implementation compared to the three algorithms
+mentioned above. We discuss the theoretical properties of the new method, as
+well as various shift selection strategies. Finally, we show that all of the
+seemingly different methods listed above in fact produce exactly the same
+iterates when used with the same parameters: they are algorithmically different
+descriptions of the same approximation sequence to the Riccati solution.
+</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2015-11-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00040</dc:identifier>
+ </oai_dc:dc>
+

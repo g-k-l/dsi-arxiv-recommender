@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mean Field Analysis of Quantum Annealing Correction</dc:title>
+ <dc:creator>Matsuura, Shunji</dc:creator>
+ <dc:creator>Nishimori, Hidetoshi</dc:creator>
+ <dc:creator>Albash, Tameem</dc:creator>
+ <dc:creator>Lidar, Daniel A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum annealing correction (QAC) is a method that combines encoding with
+energy penalties and decoding to suppress and correct errors that degrade the
+performance of quantum annealers in solving optimization problems. While QAC
+has been experimentally demonstrated to successfully error-correct a range of
+optimization problems, a clear understanding of its operating mechanism has
+been lacking. Here we bridge this gap using tools from quantum statistical
+mechanics. We study analytically tractable models using a mean-field analysis,
+specifically the $p$-body ferromagnetic infinite-range transverse-field Ising
+model as well as the quantum Hopfield model. We demonstrate that for $p=2$,
+where the phase transition is of second order, QAC pushes the transition to
+increasingly larger transverse field strengths. For $p\ge3$, where the phase
+transition is of first order, QAC softens the closing of the gap for small
+energy penalty values and prevents its closure for sufficiently large energy
+penalty values. Thus QAC provides protection from excitations that occur near
+the quantum critical point. We find similar results for the Hopfield model,
+thus demonstrating that our conclusions hold in the presence of disorder.
+</dc:description>
+ <dc:description>Comment: 23 pages, 13 figures. v2: updated to published version</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-06-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07709</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 220501 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.220501</dc:identifier>
+ </oai_dc:dc>
+

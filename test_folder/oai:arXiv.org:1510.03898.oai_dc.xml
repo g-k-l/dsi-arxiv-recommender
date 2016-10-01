@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The probability distribution of spectral moments for the Gaussian
+  beta-ensembles</dc:title>
+ <dc:creator>Maci&#261;&#380;ek, Tomasz</dc:creator>
+ <dc:creator>Joyner, Christopher H.</dc:creator>
+ <dc:creator>Smilansky, Uzy</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:description>  We derive the joint probability distribution of the first two spectral
+moments for the G$\beta$E random matrix ensembles in N dimensions for any N.
+This is achieved by making use of two complementary invariants of the domain in
+$\mathbb{R}^N$ where the spectral moments are defined. Our approach is
+significantly different from those employed previously to answer related
+questions and potentially offers new insights. We also discuss the problems
+faced when attempting to include higher spectral moments.
+</dc:description>
+ <dc:description>Comment: 13 pages</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2015-12-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03898</dc:identifier>
+ <dc:identifier>Acta Physica Polonica A, vol. 128, no.6, pp 983, December 2015</dc:identifier>
+ <dc:identifier>doi:10.12693/APhysPolA.128.983</dc:identifier>
+ </oai_dc:dc>
+

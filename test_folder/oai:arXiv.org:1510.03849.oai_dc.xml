@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>NELIOTA: ESA's new NEO lunar impact monitoring project with the 1.2m
+  telescope at the National Observatory of Athens</dc:title>
+ <dc:creator>Bonanos, A. Z.</dc:creator>
+ <dc:creator>Xilouris, M.</dc:creator>
+ <dc:creator>Boumis, P.</dc:creator>
+ <dc:creator>Bellas-Velidis, I.</dc:creator>
+ <dc:creator>Maroussis, A.</dc:creator>
+ <dc:creator>Dapergolas, A.</dc:creator>
+ <dc:creator>Fytsilis, A.</dc:creator>
+ <dc:creator>Charmandaris, V.</dc:creator>
+ <dc:creator>Tsiganis, K.</dc:creator>
+ <dc:creator>Tsinganos, K.</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  NELIOTA is a new ESA activity launched at the National Observatory of Athens
+in February 2015 aiming to determine the distribution and frequency of small
+near-earth objects (NEOs) via lunar monitoring. The project involves upgrading
+the 1.2m Kryoneri telescope at the National Observatory of Athens, procuring
+two fast-frame cameras, and developing a software system, which will control
+the telescope and the cameras, process the images and automatically detect NEO
+impacts. NELIOTA will provide a web-based user interface, where the impact
+events will be reported and made available to the scientific community and the
+general public. The objective of this 3.5 year activity is to design, develop
+and implement a highly automated lunar monitoring system, which will conduct an
+observing campaign for 2 years in search of NEO impact flashes on the Moon. The
+impact events will be verified, characterised and reported. The 1.2m telescope
+will be capable of detecting flashes much fainter than current, small-aperture,
+lunar monitoring telescopes. NELIOTA is therefore expected to characterise the
+frequency and distribution of NEOs weighing as little as a few grams.
+</dc:description>
+ <dc:description>Comment: 3 pages, 1 figure, IAU GA Symposium 318 proceedings</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03849</dc:identifier>
+ <dc:identifier>doi:10.1017/S1743921315006973</dc:identifier>
+ </oai_dc:dc>
+

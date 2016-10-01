@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Triangular Alignment (TAME): A Tensor-based Approach for Higher-order
+  Network Alignment</dc:title>
+ <dc:creator>Mohammadi, Shahin</dc:creator>
+ <dc:creator>Gleich, David</dc:creator>
+ <dc:creator>Kolda, Tamara</dc:creator>
+ <dc:creator>Grama, Ananth</dc:creator>
+ <dc:subject>Computer Science - Computational Engineering, Finance, and Science</dc:subject>
+ <dc:description>  Network alignment has extensive applications in comparative interactomics.
+Traditional approaches aim to simultaneously maximize the number of conserved
+edges and the underlying similarity of aligned entities. We propose a novel
+formulation of the network alignment problem that extends topological
+similarity to higher-order structures and provides a new objective function
+that maximizes the number of aligned substructures. This objective function
+corresponds to an integer programming problem, which is NP-hard. Consequently,
+we identify a closely related surrogate function whose maximization results in
+a tensor eigenvector problem. Based on this formulation, we present an
+algorithm called Triangular AlignMEnt (TAME), which attempts to maximize the
+number of aligned triangles across networks. Using a case study on the
+NAPAbench dataset, we show that triangular alignment is capable of producing
+mappings with high node correctness. We further evaluate our method by aligning
+yeast and human interactomes. Our results indicate that TAME outperforms the
+state-of-art alignment methods in terms of conserved triangles. In addition, we
+show that the number of conserved triangles is more significantly correlated,
+compared to the conserved edge, with node correctness and co-expression of
+edges. Our formulation and resulting algorithms can be easily extended to
+arbitrary motifs.
+</dc:description>
+ <dc:description>Comment: Submitted to the IEEE/ACM Transactions on Computational Biology and
+  Bioinformatics (TCBB) for review</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-07-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06482</dc:identifier>
+ </oai_dc:dc>
+

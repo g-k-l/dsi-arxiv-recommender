@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Luminosity functions in the CLASH-VLT cluster MACS J1206.2-0847: the
+  importance of tidal interactions</dc:title>
+ <dc:creator>Mercurio, A.</dc:creator>
+ <dc:creator>Annunziatella, M.</dc:creator>
+ <dc:creator>Biviano, A.</dc:creator>
+ <dc:creator>Nonino, M.</dc:creator>
+ <dc:creator>Rosati, P.</dc:creator>
+ <dc:creator>Balestra, I.</dc:creator>
+ <dc:creator>Brescia, M.</dc:creator>
+ <dc:creator>Girardi, M.</dc:creator>
+ <dc:creator>Gobat, R.</dc:creator>
+ <dc:creator>Grillo, C.</dc:creator>
+ <dc:creator>Lombardi, M.</dc:creator>
+ <dc:creator>Sartoris, B.</dc:creator>
+ <dc:creator>team, the CLASH-VLT</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present the optical luminosity functions (LFs) of galaxies for the
+CLASH-VLT cluster MACS J1206.2-0847 at z=0.439, based on HST and SUBARU data,
+including ~600 spectroscopically confirmed member galaxies. The LFs on the wide
+SUBARU FoV are well described by a single Schechter function down to M~M*+3,
+whereas this fit is poor for HST data, due to a faint-end upturn visible down
+M~M*+7, suggesting a bimodal behaviour. We also investigate the effect of local
+environment by deriving the LFs in four different regions, according to the
+distance from the centre, finding an increase in the faint-end slope going from
+the core to the outer rings. Our results confirm and extend our previous
+findings on the analysis of mass functions, which showed that the galaxies with
+stellar mass below 10^10.5, M_sun have been significantly affected by tidal
+interaction effects, thus contributing to the intra cluster light.
+</dc:description>
+ <dc:description>Comment: 5 pages, 2 figures, Proceeding of the talk at the conference "The
+  Universe of Digital Sky Surveys" held in Naples (Italy) on 25-28 November
+  2014</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08097</dc:identifier>
+ <dc:identifier>doi:10.1007/978-3-319-19330-4_35</dc:identifier>
+ </oai_dc:dc>
+

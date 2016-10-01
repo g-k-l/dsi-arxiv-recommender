@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>User Attitudes Toward the Inspection of Encrypted Traffic</dc:title>
+ <dc:creator>Ruoti, Scott</dc:creator>
+ <dc:creator>O'Neil, Mark</dc:creator>
+ <dc:creator>Zappala, Daniel</dc:creator>
+ <dc:creator>Seamons, Kent</dc:creator>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:subject>Computer Science - Computers and Society</dc:subject>
+ <dc:subject>Computer Science - Human-Computer Interaction</dc:subject>
+ <dc:description>  This paper reports the results of a survey of 1,976 individuals regarding
+their opinions on TLS inspection, a controversial technique that can be used
+for both benevolent and malicious purposes. Responses indicate that
+participants hold nuanced opinions on security and privacy trade-offs, with
+most recognizing legitimate uses for the practice, but also concerned about
+threats from hackers or government surveillance. There is strong support for
+notification and consent when a system is intercepting their encrypted traffic,
+although this support varies depending on the situation. A significant concern
+about malicious uses of TLS inspection is identity theft, and many would react
+negatively and some would change their behavior if they discovered inspection
+occurring without their knowledge. We also find that there are a small but
+significant number of participants who are jaded by the current state of
+affairs and have no expectation of privacy.
+</dc:description>
+ <dc:description>Comment: 12th Annual Symposium on Usable Privacy and Security (SOUPS 2016)</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-06-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04921</dc:identifier>
+ </oai_dc:dc>
+

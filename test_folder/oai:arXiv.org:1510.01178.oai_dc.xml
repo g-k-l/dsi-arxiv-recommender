@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analytic functions on tubes of non-Archimedean analytic spaces</dc:title>
+ <dc:creator>Martin, Florent</dc:creator>
+ <dc:creator>Kappen, Christian</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:description>  Let $k$ be a discretely valued non-Archimedean field. We give an explicit
+description of analytic functions whose norm is bounded by a given real number
+$r$ on tubes of reduced $k$-analytic spaces associated to special formal
+schemes (those include $k$-affinoid spaces as well as open polydiscs). As an
+application we study the connectedness of these tubes. This generalizes (in the
+discretely valued case) a result of Siegfried Bosch. We use as a main tool a
+result of A.J. de Jong relating formal and analytic functions on special formal
+schemes and a generalization of de Jong's result which is proved in the
+appendix by Christian Kappen.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01178</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The site frequency spectrum for general coalescents</dc:title>
+ <dc:creator>Spence, Jeffrey P.</dc:creator>
+ <dc:creator>Kamm, John A.</dc:creator>
+ <dc:creator>Song, Yun S.</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  General genealogical processes such as $\Lambda$- and $\Xi$-coalescents,
+which respectively model multiple and simultaneous mergers, have important
+applications in studying marine species, strong positive selection, recurrent
+selective sweeps, strong bottlenecks, large sample sizes, and so on. Recently,
+there has been significant progress in developing useful inference tools for
+such general models. In particular, inference methods based on the site
+frequency spectrum (SFS) have received noticeable attention. Here, we derive a
+new formula for the expected SFS for general $\Lambda$- and $\Xi$-coalescents,
+which leads to an efficient algorithm. For time-homogeneous coalescents, the
+runtime of our algorithm for computing the expected SFS is $O(n^2)$, where $n$
+is the sample size. This is a factor of $n^2$ faster than the state-of-the-art
+method. Furthermore, in contrast to existing methods, our method generalizes to
+time-inhomogeneous $\Lambda$- and $\Xi$-coalescents with measures that
+factorize as $\Lambda(dx)/\zeta(t)$ and $\Xi(dx)/\zeta(t)$, respectively, where
+$\zeta$ denotes a strictly positive function of time. The runtime of our
+algorithm in this setting is $O(n^3)$. We also obtain general theoretical
+results for the identifiability of the $\Lambda$ measure when $\zeta$ is a
+constant function, as well as for the identifiability of the function $\zeta$
+under a fixed $\Xi$ measure.
+</dc:description>
+ <dc:description>Comment: 20 pages, 4 figure</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-02-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05631</dc:identifier>
+ <dc:identifier>Genetics, Vol. 202 No. 4 (2016) 1549-1561</dc:identifier>
+ <dc:identifier>doi:10.1534/genetics.115.184101</dc:identifier>
+ </oai_dc:dc>
+

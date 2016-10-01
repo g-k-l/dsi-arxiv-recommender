@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Computing with functions in spherical and polar geometries I. The sphere</dc:title>
+ <dc:creator>Townsend, Alex</dc:creator>
+ <dc:creator>Wilber, Heather</dc:creator>
+ <dc:creator>Wright, Grady B.</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  A collection of algorithms is described for numerically computing with smooth
+functions defined on the unit sphere. Functions are approximated to essentially
+machine precision by using a structure-preserving iterative variant of Gaussian
+elimination together with the double Fourier sphere method. We show that this
+procedure allows for stable differentiation, reduces the oversampling of
+functions near the poles, and converges for certain analytic functions.
+Operations such as function evaluation, differentiation, and integration are
+particularly efficient and can be computed by essentially one-dimensional
+algorithms. A highlight is an optimal complexity direct solver for Poisson's
+equation on the sphere using a spectral method. Without parallelization, we
+solve Poisson's equation with $100$ million degrees of freedom in one minute on
+a standard laptop. Numerical results are presented throughout. In a companion
+paper (part II) we extend the ideas presented here to computing with functions
+on the disk.
+</dc:description>
+ <dc:description>Comment: 23 pages</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08094</dc:identifier>
+ </oai_dc:dc>
+

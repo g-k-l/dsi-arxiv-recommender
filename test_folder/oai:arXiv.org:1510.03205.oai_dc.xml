@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Price response in correlated financial markets: empirical results</dc:title>
+ <dc:creator>Wang, Shanshan</dc:creator>
+ <dc:creator>Sch&#228;fer, Rudi</dc:creator>
+ <dc:creator>Guhr, Thomas</dc:creator>
+ <dc:subject>Quantitative Finance - Statistical Finance</dc:subject>
+ <dc:subject>Quantitative Finance - Trading and Market Microstructure</dc:subject>
+ <dc:description>  Previous studies of the stock price response to individual trades focused on
+single stocks. We empirically investigate the price response of one stock to
+the trades of other stocks. How large is the impact of one stock on others and
+vice versa? -- This impact of trades on the price change across stocks appears
+to be transient instead of permanent. Performing different averages, we
+distinguish active and passive responses. The two average responses show
+different characteristic dependences on the time lag. The passive response
+exhibits a shorter response period with sizeable volatilities, and the active
+response a longer period. We also study the response for a given stock with
+respect to different sectors and to the whole market. Furthermore, we compare
+the self-response with the various cross-responses. The correlation of the
+trade signs is a short-memory process for a pair of stocks, but it turns into a
+long-memory process when averaged over different pairs of stocks.
+</dc:description>
+ <dc:description>Comment: improved analysis and new versions in arXiv:1603.01580 and
+  arXiv:1603.01586</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03205</dc:identifier>
+ </oai_dc:dc>
+

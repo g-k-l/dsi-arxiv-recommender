@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Green's Function Monte Carlo Calculations with Two- and Three-Nucleon
+  Interactions from Chiral Effective Field Theory</dc:title>
+ <dc:creator>Lynn, J. E.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  I discuss our recent work on Green's function Monte Carlo (GFMC) calculations
+of light nuclei using local nucleon-nucleon interactions derived from chiral
+effective field theory (EFT) up to next-to-next-to-leading order (N$^2$LO). I
+present the natural extension of this work to include the consistent
+three-nucleon (3N) forces at the same order in the chiral expansion. I discuss
+our choice of observables to fit the two low-energy constants which enter in
+the 3N sector at N$^2$LO and present some results for light nuclei.
+</dc:description>
+ <dc:description>Comment: Contribution to the Proceedings of the 21st International Conference
+  on Few-Body Problems in Physics. May 18-22, 2015. Chicago, Illinois, USA</dc:description>
+ <dc:date>2015-09-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05450</dc:identifier>
+ <dc:identifier>doi:10.1051/epjconf/201611308011</dc:identifier>
+ </oai_dc:dc>
+

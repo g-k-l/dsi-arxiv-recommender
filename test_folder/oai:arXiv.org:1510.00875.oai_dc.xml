@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Rossby Wave Green's Functions in an Azimuthal Wind</dc:title>
+ <dc:creator>Webb, G. M.</dc:creator>
+ <dc:creator>Duba, C. T.</dc:creator>
+ <dc:creator>Hu, Q.</dc:creator>
+ <dc:subject>Physics - Atmospheric and Oceanic Physics</dc:subject>
+ <dc:description>  Green's functions for Rossby waves in an azimuthal wind are obtained, in
+which the stream-function $\psi$ depends on $r$, $\phi$ and $t$, where $r$ is
+cylindrical radius and $\phi$ is the azimuthal angle in the $\beta$-plane
+relative to the easterly direction, in which the $x$-axis points east and the
+$y$-axis points north. The Rossby wave Green's function with no wind is
+obtained using Fourier transform methods, and is related to the previously
+known Green's function obtained for this case, which has a different but
+equivalent form to the Green's function obtained in the present paper. We
+emphasize the role of the wave eikonal solution, which plays an important role
+in the form of the solution. The corresponding Green's function for a rotating
+wind with azimuthal wind velocity ${\bf u}=\Omega r{\bf e}_\phi$
+($\Omega=$const.) is also obtained by Fourier methods, in which the advective
+rotation operator in position space is transformed to a rotation operator in
+${\bf k}$ transform space. The finite Rossby deformation radius is included in
+the analysis. The physical characteristics of the Green's functions are
+delineated and applications are discussed. In the limit as $\Omega\to 0$, the
+rotating wind Green's function reduces to the Rossby wave Green function with
+no wind.
+</dc:description>
+ <dc:description>Comment: 40 pages, 7 figures</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00875</dc:identifier>
+ <dc:identifier>doi:10.1080/03091929.2016.1165810</dc:identifier>
+ </oai_dc:dc>
+

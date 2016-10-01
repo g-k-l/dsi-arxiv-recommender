@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Explicit computations of Hida families via overconvergent modular
+  symbols</dc:title>
+ <dc:creator>Dummit, Evan P.</dc:creator>
+ <dc:creator>Hablicsek, M&#225;rton</dc:creator>
+ <dc:creator>Harron, Robert</dc:creator>
+ <dc:creator>Jain, Lalit</dc:creator>
+ <dc:creator>Pollack, Robert</dc:creator>
+ <dc:creator>Ross, Daniel</dc:creator>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:subject>11F33, 11R23, 11F67, 11F85</dc:subject>
+ <dc:description>  In [Pollack-Stevens 2011], efficient algorithms are given to compute with
+overconvergent modular symbols. These algorithms then allow for the fast
+computation of $p$-adic $L$-functions and have further been applied to compute
+rational points on elliptic curves (e.g. [Darmon-Pollack 2006, Trifkovi\'c
+2006]). In this paper, we generalize these algorithms to the case of families
+of overconvergent modular symbols. As a consequence, we can compute $p$-adic
+families of Hecke-eigenvalues, two-variable $p$-adic $L$-functions,
+$L$-invariants, as well as the shape and structure of ordinary Hida-Hecke
+algebras.
+</dc:description>
+ <dc:description>Comment: 51 pages. To appear in Research in Number Theory. This version has
+  added some comments and clarifications, a new example, and further
+  explanations of the previous examples</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-08-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05795</dc:identifier>
+ </oai_dc:dc>
+

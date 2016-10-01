@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamic Factor Models, Cointegration, and Error Correction Mechanisms</dc:title>
+ <dc:creator>Barigozzi, Matteo</dc:creator>
+ <dc:creator>Lippi, Marco</dc:creator>
+ <dc:creator>Luciani, Matteo</dc:creator>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  The paper studies Non-Stationary Dynamic Factor Models such that: (1)~the
+factors $\mathbf F_t$ are $I(1)$ and singular, i.e. $\mathbf F_t$ has dimension
+$r$ and is driven by a $q$-dimensional white noise, the common shocks, with
+$q&lt;r$, and (2)~the idiosyncratic components are $I(1)$. We show that $\mathbf
+F_t$ is driven by $r-c$ permanent shocks, where $c$ is the cointegration rank
+of $\mathbf F_t$, and $q-(r-c)&lt;c$ transitory shocks, thus the same result as in
+the non-singular case for the permanent shocks but not for the transitory
+shocks. Our main result is obtained by combining the classic Granger
+Representation Theorem with recent results by Anderson and Deistler on singular
+stochastic vectors: if $(1-L)\mathbf F_t$ is singular and has rational spectral
+density then, for generic values of the parameters, $\mathbf F_t$ has an
+autoregressive representation with a finite-degree matrix polynomial fulfilling
+the restrictions of a Vector Error Correction Mechanism with $c$ error terms.
+This result is the basis for consistent estimation of Non-Stationary Dynamic
+Factor Models. The relationship between cointegration of the factors and
+cointegration of the observable variables is also discussed.
+</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-03-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02399</dc:identifier>
+ </oai_dc:dc>
+

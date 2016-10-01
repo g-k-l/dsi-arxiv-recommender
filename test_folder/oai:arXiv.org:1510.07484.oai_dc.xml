@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Caldero-Chapoton map depending on a torsion class</dc:title>
+ <dc:creator>Fisher, Thomas A.</dc:creator>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>16E45, 16G20, 16G70</dc:subject>
+ <dc:description>  Frieze patterns of integers were studied by Conway and Coxeter. Let
+$\mathscr{C}$ be the cluster category of Dynkin type $A_n$. Indecomposables in
+$\mathscr{C}$ correspond to diagonals in an $(n+3)$-gon. Work done by Caldero
+and Chapoton showed that the Caldero-Chapoton map (which is a map dependent on
+a fixed object $R$ of a category, and which goes from the set of objects of
+that category to $\mathbb{Z}$), when applied to the objects of $\mathscr{C}$
+can recover these friezes. This happens precisely when $R$ corresponds to a
+triangulation of the $(n+3)$-gon. Later work by authors such as Bessenrodt,
+Holm, Jorgensen and Rubey generalised this connection with friezes further, now
+to $d$-angulations of the $(n+3)$-gon with $R$ basic and rigid. In this paper,
+we extend these generalisations further still, to the case where the object $R$
+corresponds to a general Ptolemy diagram, i.e. $R$ is basic and
+$\textrm{add}(R)$ is the most general possible torsion class.
+</dc:description>
+ <dc:description>Comment: 21 pages, corrected grant reference in acknowledgements</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-02-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07484</dc:identifier>
+ </oai_dc:dc>
+

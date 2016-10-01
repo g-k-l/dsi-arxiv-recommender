@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A semi-global model-based state estimator for the quadrotor using only
+  inertial measurements</dc:title>
+ <dc:creator>Martin, Philippe</dc:creator>
+ <dc:creator>Sarras, Ioannis</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  We propose a nonlinear observer to estimate the state (orientation and
+in-plane velocity vector) of the quadrotor, based on a drag-force-enhanced
+model. It is an alternative to recent works using a similar model together with
+an Extended Kalman Filter (EKF). But while enjoying the benefits of an enhanced
+model, it does not have the usual drawbacks of an EKF: indeed, the
+computational cost is much lower, the tuning is easier, and above all the
+guaranteed domain of convergence is very large.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-04-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03249</dc:identifier>
+ </oai_dc:dc>
+

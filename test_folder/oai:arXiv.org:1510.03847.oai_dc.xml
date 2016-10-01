@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lowering the lasing threshold of distributed feedback lasers with loss</dc:title>
+ <dc:creator>Shishkov, V. Yu.</dc:creator>
+ <dc:creator>Zyablovsky, A. A.</dc:creator>
+ <dc:creator>Andrianov, E. S.</dc:creator>
+ <dc:creator>Pukhov, A. A.</dc:creator>
+ <dc:creator>Vinogradov, A. P.</dc:creator>
+ <dc:creator>Dorofeenko, A. V.</dc:creator>
+ <dc:creator>Lisyansky, A. A.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We study laser generation in 1D distributed feedback lasers with amplifying
+and lossy layers. We show that when the lasing frequency differs from the
+transition frequencies of the amplifying medium, loss induced lasing may occur
+due to the broadening of the resonator mode with increasing loss in the
+absorbing layers. This broadening leads to a shift in the lasing frequency
+towards the transition frequency. As a result, the cavity mode interaction with
+the amplifying medium is enhanced, and the lasing threshold is lowered.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2015-11-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03847</dc:identifier>
+ <dc:identifier>Phys. Rev. B 92, 245420 (2015)</dc:identifier>
+ </oai_dc:dc>
+

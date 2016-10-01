@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analysis of Markovian Competitive Situations using Nonatomic Games---the
+  Shock-driven Case and Its Dynamic Pricing Application</dc:title>
+ <dc:creator>Yang, Jian</dc:creator>
+ <dc:subject>Quantitative Finance - Economics</dc:subject>
+ <dc:description>  We show that equilibria derived for nonatomic games (NGs) can be used by
+large finite games to achieve near-equilibrium performances. Rather than
+single-period games, we deal with dynamic games in which the evolution of a
+player's state is influenced by his own action as well as other players' states
+and actions. We focus on the case where both random state transitions and
+random actions are driven by independently generated shocks. The NG equilibria
+we consider are random state-to-action maps. The simple NG equilibria are
+adoptable to a variety of real situations where awareness of other players'
+states can be anywhere between full and none. Transient results here also form
+the basis for a link between an NG's stationary equilibrium (SE) and good
+stationary profiles for large finite games. Our approach works well for certain
+dynamic pricing games, both without and with production.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-06-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06813</dc:identifier>
+ </oai_dc:dc>
+

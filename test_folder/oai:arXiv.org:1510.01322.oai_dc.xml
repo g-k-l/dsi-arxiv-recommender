@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Status of Chiral-Scale Perturbation Theory</dc:title>
+ <dc:creator>Crewther, R. J.</dc:creator>
+ <dc:creator>Tunstall, Lewis C.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  Chiral-scale perturbation theory $\chi$PT$_\sigma$ has been proposed as an
+alternative to chiral $SU(3)_L\times SU(3)_R$ perturbation theory which
+explains the $\Delta I = 1/2$ rule for kaon decays. It is based on a low-energy
+expansion about an infrared fixed point in three-flavor QCD. In
+$\chi$PT$_\sigma$, quark condensation $\langle\bar q q \rangle_\mathrm{vac}
+\neq 0$ induces nine Nambu-Goldstone bosons: $\pi, K, \eta$ and a QCD dilaton
+$\sigma$ which we identify with the $f_0(500)$ resonance. Partial conservation
+of the dilatation and chiral currents constrains low-energy constants which
+enter the effective Lagrangian of $\chi$PT$_\sigma$. These constraints allow us
+to obtain new phenomenological bounds on the dilaton decay constant via the
+coupling of $\sigma/f_0$ to pions, whose value is known precisely from
+dispersive analyses of $\pi\pi$ scattering. Improved predictions for $\sigma
+\to \gamma \gamma$ and the $\sigma NN$ coupling are also noted. To test
+$\chi$PT$_\sigma$ for kaon decays, we revive a 1985 proposal for lattice
+methods to be applied to $K \to \pi$ on-shell.
+</dc:description>
+ <dc:description>Comment: 10 pages, 1 figure. Presented at the 8th International Workshop on
+  Chiral Dynamics, 29 June 2015 - 03 July 2015, Pisa, Italy. Revision:
+  references and comment added</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-06-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01322</dc:identifier>
+ </oai_dc:dc>
+

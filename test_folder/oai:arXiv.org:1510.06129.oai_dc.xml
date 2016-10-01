@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Structure in Galaxy Distribution. III. Fourier Transforming the Universe</dc:title>
+ <dc:creator>Scargle, Jeffrey D.</dc:creator>
+ <dc:creator>Way, Michael</dc:creator>
+ <dc:creator>Gazis, Paul</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We demonstrate the effectiveness of straightforward but never heretofore used
+analysis of the complex 3D Fourier transform of galaxy coordinates derived from
+redshift surveys. Numerical demonstrations of this approach are carried out on
+a volume-limited sample of the Sloan Digital Sky Survey redshift survey. The
+direct unbinned transform yields a complex 3D data cube quite similar to that
+from the Fast Fourier Transform (FFT) of finely binned galaxy positions. In
+both cases deconvolution of the sampling window function yields estimates of
+the true transform. Simple power spectrum estimates from these transforms are
+roughly consistent with those using more sophisticated methods. However we
+concentrate on the rarely studied Fourier phase spectrum, a simple and general
+framework for characterizing non-Gaussianity, more easily interpretable than
+the tangled, incomplete multi-point methods conventionally used. Supported by
+modern large scale inference methodology, this approach casts a wider net than
+one-parameter methods based on $F_{NL}$ for example.
+</dc:description>
+ <dc:description>Comment: 34 pages, 14 figures, Paper III in the series; major revision. NB
+  some pdf viewers may show spurious patterns in Fig. 6-10</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-08-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06129</dc:identifier>
+ </oai_dc:dc>
+

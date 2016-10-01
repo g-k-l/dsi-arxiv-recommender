@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Competition between Kondo screening and quantum Hall edge reconstruction</dc:title>
+ <dc:creator>Heine, A. W.</dc:creator>
+ <dc:creator>Tutuc, D.</dc:creator>
+ <dc:creator>Zwicknagl, G.</dc:creator>
+ <dc:creator>Haug, R. J.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We report on a Kondo correlated quantum dot connected to two-dimensional
+leads where we demonstrate the renormalization of the g-factor in the pure
+Zeeman case i.e, for magnetic fields parallel to the plane of the quantum dot.
+For the same system we study the influence of orbital effects by investigating
+the quantum Hall regime i.e. a perpendicular magnetic field is applied. In this
+case an unusual behaviour of the suppression of the Kondo effect and of the
+split zero-bias anomaly is observed. The splitting decreases with magnetic
+field and shows discontinuous changes which are attributed to the intricate
+interplay between Kondo screening and the quantum Hall edge structure
+originating from electrostatic screening. This edge structure made up of
+compressible and incompressible stripes strongly affects the Kondo temperature
+of the quantum dot and thereby influences the renormalized g-factor.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05805</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.096802</dc:identifier>
+ </oai_dc:dc>
+

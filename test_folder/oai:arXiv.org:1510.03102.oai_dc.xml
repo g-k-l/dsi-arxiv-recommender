@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-stationary Robust Transmission Expansion Planning</dc:title>
+ <dc:creator>Garc&#237;a-Bertrand, R.</dc:creator>
+ <dc:creator>M&#237;nguez, R.</dc:creator>
+ <dc:subject>Computer Science - Computational Engineering, Finance, and Science</dc:subject>
+ <dc:description>  Recent breakthroughs in Transmission Network Expansion Planning (TNEP) have
+demonstrated that the use of robust optimization, as opposed to stochastic
+programming methods, renders the expansion planning problem computationally
+tractable for real systems. State-of-the-art robust methods treat this problem
+as stationary throughout the study period, with all the required investments on
+expansion of lines being made at the beginning of the project horizon. However,
+it is common knowledge that socioeconomic and environmental constraints might
+change considerably during the network life, such as planned increases in
+wind-power generation capacities, variations of environmental conditions due to
+climate change, or changing trends in consumption patterns, and these changes
+might also affect optimal capacity expansion planning. In this paper the
+classical stationarity assumption is dispensed with and the existing adaptive
+robust transmission expansion planning formulation for non-stationary
+approaches is expanded. The solution for this problem provides information not
+only about what additional lines must be installed but the construction timing
+during the study horizon as well. Moreover, the more evenly spread scheduling
+of construction, which, with the method put forward in this paper, is
+distributed throughout the life of the network, enables corrective measures to
+be taken in case the variables involved change in a manner different from that
+initially conceived. Numerical results from an illustrative example and the
+IEEE 118-bus system are presented and discussed, demonstrating the benefits of
+this non-stationary approach with respect to classical methods.
+</dc:description>
+ <dc:description>Comment: 10 pages, 3 figures</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2016-05-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03102</dc:identifier>
+ </oai_dc:dc>
+

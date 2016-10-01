@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quark deconfinement and the duration of short Gamma Ray Bursts</dc:title>
+ <dc:creator>Drago, Alessandro</dc:creator>
+ <dc:creator>Lavagno, Andrea</dc:creator>
+ <dc:creator>Metzger, Brian</dc:creator>
+ <dc:creator>Pagliara, Giuseppe</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We propose a model for short duration gamma-ray bursts (sGRBs) based on the
+formation of a quark star after the merger of two neutron stars. We assume that
+the sGRB central engine is a proto-magnetar, which has been previously invoked
+to explain the plateau-like X-ray emission observed following both long and
+short GRBs. Here, we show that: i) a few milliseconds after the merger it is
+possible to form a stable and massive star made in part of quarks; ii) during
+the early cooling phase of the incompletely formed quark star, the flux of
+baryons ablated from the surface by neutrinos is large and it does not allow
+the outflow to achieve a bulk Lorentz factor high enough to produce a GRB; iii)
+after the quark burning front reaches the stellar surface, baryon ablation
+ceases and the jet becomes too baryon poor to produce a GRB; iv) however,
+between these two phases a GRB can be produced over the finite timescale
+required for the baryon pollution to cease; a characteristic timescale of the
+order of $\sim 0.1 $ s naturally results from the time the conversion front
+needs to cover the distance between the rotational pole and the latitude of the
+last closed magnetic field line; v) we predict a correlation between the
+luminosity of the sGRB and its duration, consistent with the data; vi) our
+model also predicts a delay of the order of ten seconds between the time of the
+merger event and the sGRB, allowing for the possibility of precursor emission
+and implying that the jet will encounter the dense cocoon formed immediately
+after the merger.
+</dc:description>
+ <dc:description>Comment: 4 pages, 3 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05581</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 103001 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.103001</dc:identifier>
+ </oai_dc:dc>
+

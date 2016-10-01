@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Equilibrium, Metastability, and Hysteresis in a Model Spin-crossover
+  Material with Nearest-neighbor Antiferromagnetic-like and Long-range
+  Ferromagnetic-like Interactions</dc:title>
+ <dc:creator>Rikvold, P. A.</dc:creator>
+ <dc:creator>Brown, G.</dc:creator>
+ <dc:creator>Miyashita, S.</dc:creator>
+ <dc:creator>Omand, C.</dc:creator>
+ <dc:creator>Nishino, M.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  Phase diagrams and hysteresis loops were obtained by Monte Carlo simulations
+and a mean-field method for a simplified model of a spin-crossover material
+with a two-step transition between the high-spin and low-spin states. This
+model is a mapping onto a square-lattice $S=1/2$ Ising model with
+antiferromagnetic nearest-neighbor and ferromagnetic Husimi-Temperley
+(equivalent-neighbor) long-range interactions. Phase diagrams obtained by the
+two methods for weak and strong long-range interactions are found to be
+similar. However, for intermediate-strength long-range interactions, the Monte
+Carlo simulations show that tricritical points decompose into pairs of critical
+endpoints and mean-field critical points surrounded by horn-shaped regions of
+metastability. Hysteresis loops along paths traversing the horn regions are
+strongly reminiscent of thermal two-step transition loops with hysteresis,
+recently observed experimentally in several spin-crossover materials. We
+believe analogous phenomena should be observable in experiments and simulations
+for many systems that exhibit competition between local antiferromagnetic-like
+interactions and long-range ferromagnetic-like interactions caused by elastic
+distortions.
+</dc:description>
+ <dc:description>Comment: 20 pages, 9 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-02-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06357</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 064109 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.064109</dc:identifier>
+ </oai_dc:dc>
+

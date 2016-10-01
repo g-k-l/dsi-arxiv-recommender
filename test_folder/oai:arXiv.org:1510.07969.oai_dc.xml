@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Umbrella-coplanar transition in the triangular XXZ model with arbitrary
+  spin</dc:title>
+ <dc:creator>Marmorini, Giacomo</dc:creator>
+ <dc:creator>Yamamoto, Daisuke</dc:creator>
+ <dc:creator>Danshita, Ippei</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  The quantum triangular XXZ model has recently enjoyed a wealth of new
+theoretical results, especially in relation to the modeling of the
+Ba$_3$CoSb$_2$O$_9$ compound. In particular, it has been understood that in a
+longitudinal magnetic field the umbrella (cone) phase, classically stable in
+all the easy-plane region of the ground-state phase diagram, is considerably
+reduced by the effect of quantum fluctuations. We provide more quantitative
+information for this phenomenon at arbitrary value of the site spin $S$, by
+employing the dilute Bose gas expansion, valid in the high-field regime; our
+results improve the available estimates of the $1/S$ expansion. We quantify the
+extent to which a higher spin suppresses the effect of quantum fluctuations.
+Besides, we show how in three-dimensional layered systems a relatively small
+antiferromagnetic interlayer coupling has a similar consequence of bringing
+back the umbrella phase in some part of the phase diagram.
+</dc:description>
+ <dc:description>Comment: 8 pages, 7 figures; v2 results unchanged, title and abstract slightly
+  modified, introduction expanded, presentation generally improved, references
+  added, matches published version</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-06-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07969</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 224402 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.224402</dc:identifier>
+ </oai_dc:dc>
+

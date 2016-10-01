@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tidal Disruption Events by a Massive Black Hole Binary</dc:title>
+ <dc:creator>Ricarte, Angelo</dc:creator>
+ <dc:creator>Natarajan, Priyamvada</dc:creator>
+ <dc:creator>Dai, Lixin</dc:creator>
+ <dc:creator>Coppi, Paolo</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  Massive black hole binaries (MBHBs) are a natural byproduct of galaxy
+mergers. Previous studies have shown that flares from stellar tidal disruption
+events (TDEs) are modified by the presence of a secondary perturber, causing
+interruptions in the light curve. We study the dynamics of TDE debris in the
+presence of a milliparsec-separated MBHB by integrating ballistic particle
+orbits in the time-varying potential of the binary. We find that gaps in the
+light curve appear when material misses the accretion radius on its first
+return to pericentre. Subsequent recurrences can be decomposed into
+"continuous" and "delayed" components, which exhibit different behaviour. We
+find that this potential can substantially alter the locations of stream
+self-intersections. When debris is confined to the plane, we find that close
+encounters with the secondary BH leave noticeable signatures on the fallback
+rate and can result in significant accretion onto the secondary BH. Tight,
+equal-mass MBHBs accrete equally, periodically trading the infalling stream.
+</dc:description>
+ <dc:description>Comment: Submitted to MNRAS. 19 pages, 16 figures, 1 table</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04693</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw355</dc:identifier>
+ </oai_dc:dc>
+

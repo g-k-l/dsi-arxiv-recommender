@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bregman storage functions for microgrid control</dc:title>
+ <dc:creator>De Persis, Claudio</dc:creator>
+ <dc:creator>Monshizadeh, Nima</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:description>  In this paper we contribute a theoretical framework that sheds a new light on
+the problem of microgrid analysis and control. The starting point is an energy
+function comprising the kinetic energy associated with the elements that
+emulate the rotating machinery and terms taking into account the reactive power
+stored in the lines and dissipated on shunt elements. We then shape this energy
+function with the addition of an adjustable voltage-dependent term, and
+construct incremental storage functions satisfying suitable dissipation
+inequalities. Our choice of the voltage-dependent term depends on the voltage
+dynamics/controller under investigation. Several microgrids dynamics that have
+similarities or coincide with dynamics already considered in the literature are
+captured in our incremental energy analysis framework. The twist with respect
+to existing results is that our incremental storage functions allow for a large
+signal analysis of the coupled microgrid obviating the need for simplifying
+linearization techniques and for the restrictive decoupling assumption in which
+the frequency dynamics is fully separated from the voltage one. A complete
+Lyapunov stability analysis of the various systems is carried out along with a
+discussion on their active and reactive power sharing properties.
+</dc:description>
+ <dc:description>Comment: Submitted for publication</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-08-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05811</dc:identifier>
+ </oai_dc:dc>
+

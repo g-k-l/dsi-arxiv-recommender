@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Self-modulated laser wakefield accelerators as x-ray sources</dc:title>
+ <dc:creator>Lemos, N.</dc:creator>
+ <dc:creator>Martins, J. L.</dc:creator>
+ <dc:creator>Tsung, F. S.</dc:creator>
+ <dc:creator>Shaw, J. L.</dc:creator>
+ <dc:creator>Marsh, K. A.</dc:creator>
+ <dc:creator>Albert, F.</dc:creator>
+ <dc:creator>Pollock, B. B.</dc:creator>
+ <dc:creator>Joshi, C.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  The development of a directional, small-divergence, and short-duration
+picosecond x-ray probe beam with an energy greater than 50 keV is desirable for
+high energy density science experiments. We therefore explore through
+particle-in-cell (PIC) computer simulations the possibility of using x-rays
+radiated by betatron-like motion of electrons from a self-modulated laser
+wakefield accelerator as a possible candidate to meet this need. Two OSIRIS 2D
+PIC simulations with mobile ions are presented, one with a normalized vector
+potential a0 = 1.5 and the other with an a0 = 3. We find that in both cases
+direct laser acceleration (DLA) is an important additional acceleration
+mechanism in addition to the longitudinal electric field of the plasma wave.
+Together these mechanisms produce electrons with a continuous energy spectrum
+with a maximum energy of 300 MeV for a0 = 3 case and 180 MeV in the a0 = 1.5
+case. Forward-directed x-ray radiation with a photon energy up to 100 keV was
+calculated for the a0 = 3 case and up to 12 keV for the a0 = 1.5 case. The
+x-ray spectrum can be fitted with a sum of two synchrotron spectra with
+critical photon energy of 13 and 45 keV for the a0 of 3 and critical photon
+energy of 0.3 and 1.4 keV for a0 of 1.5 in the plane of polarization of the
+laser. The full width at half maximum divergence angle of the x-rays was 62 x
+1.9 mrad for a0 = 3 and 77 x 3.8 mrad for a0 = 1.5.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01029</dc:identifier>
+ <dc:identifier>doi:10.1088/0741-3335/58/3/034018</dc:identifier>
+ </oai_dc:dc>
+

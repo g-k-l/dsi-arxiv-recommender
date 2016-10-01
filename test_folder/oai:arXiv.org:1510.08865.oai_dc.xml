@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mixed Robust/Average Submodular Partitioning: Fast Algorithms,
+  Guarantees, and Applications to Parallel Machine Learning and Multi-Label
+  Image Segmentation</dc:title>
+ <dc:creator>Wei, Kai</dc:creator>
+ <dc:creator>Iyer, Rishabh</dc:creator>
+ <dc:creator>Wang, Shengjie</dc:creator>
+ <dc:creator>Bai, Wenruo</dc:creator>
+ <dc:creator>Bilmes, Jeff</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  We study two mixed robust/average-case submodular partitioning problems that
+we collectively call Submodular Partitioning. These problems generalize both
+purely robust instances of the problem (namely max-min submodular fair
+allocation (SFA) and min-max submodular load balancing (SLB) and also
+generalize average-case instances (that is the submodular welfare problem (SWP)
+and submodular multiway partition (SMP). While the robust versions have been
+studied in the theory community, existing work has focused on tight
+approximation guarantees, and the resultant algorithms are not, in general,
+scalable to very large real-world applications. This is in contrast to the
+average case, where most of the algorithms are scalable. In the present paper,
+we bridge this gap, by proposing several new algorithms (including those based
+on greedy, majorization-minimization, minorization-maximization, and relaxation
+algorithms) that not only scale to large sizes but that also achieve
+theoretical approximation guarantees close to the state-of-the-art, and in some
+cases achieve new tight bounds. We also provide new scalable algorithms that
+apply to additive combinations of the robust and average-case extreme
+objectives. We show that these problems have many applications in machine
+learning (ML). This includes: 1) data partitioning and load balancing for
+distributed machine algorithms on parallel machines; 2) data clustering; and 3)
+multi-label image segmentation with (only) Boolean submodular functions via
+pixel partitioning. We empirically demonstrate the efficacy of our algorithms
+on real-world problems involving data partitioning for distributed optimization
+of standard machine learning objectives (including both convex and deep neural
+network objectives), and also on purely unsupervised (i.e., no supervised or
+semi-supervised learning, and no interactive segmentation) image segmentation.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-08-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08865</dc:identifier>
+ </oai_dc:dc>
+

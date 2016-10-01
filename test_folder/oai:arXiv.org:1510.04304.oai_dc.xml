@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Voyager 2 solar plasma and magnetic field spectral analysis for
+  intermediate data sparsity</dc:title>
+ <dc:creator>Gallana, Luca</dc:creator>
+ <dc:creator>Fraternale, Federico</dc:creator>
+ <dc:creator>Iovieno, Michele</dc:creator>
+ <dc:creator>Fosson, Sophie M.</dc:creator>
+ <dc:creator>Magli, Enrico</dc:creator>
+ <dc:creator>Opher, Merav</dc:creator>
+ <dc:creator>Richardson, John D.</dc:creator>
+ <dc:creator>Tordella, Daniela</dc:creator>
+ <dc:subject>Physics - Space Physics</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  The Voyager probes are the furthest, still active, spacecraft ever launched
+from Earth. During their 38-year trip, they have collected data regarding solar
+wind properties (such as the plasma velocity and magnetic field intensity).
+Unfortunately, a complete time evolution of the measured physical quantities is
+not available. The time series contains many gaps which increase in frequency
+and duration at larger distances. The aim of this work is to perform a spectral
+and statistical analysis of the solar wind plasma velocity and magnetic field
+using Voyager 2 data measured in 1979, when the gaps/signal ratio is of order
+of unity. This analysis is achieved using four different data reconstruction
+techniques: averages on linearly interpolated subsets, correlation of linearly
+interpolated data, compressed sensing spectral estimation, and maximum
+likelihood data reconstruction. With five frequency decades, the spectra we
+obtained have the largest frequency range ever computed at 5 astronomical units
+from the Sun; spectral exponents have been determined for all the components of
+the velocity and magnetic field fluctuations. Void analysis is also useful in
+recovering other spectral properties such as integral scales (see for instance
+Table 4) and, if the confidence level of the measurements is sufficiently high,
+the decay variation in the small scale range due, for instance, to dissipative
+effects.
+</dc:description>
+ <dc:description>Comment: 11 pages, 7 figures</dc:description>
+ <dc:date>2015-08-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04304</dc:identifier>
+ <dc:identifier>doi:10.1002/2015JA021830</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Synchronic coronal hole mapping using multi-instrument EUV images: Data
+  preparation and detection method</dc:title>
+ <dc:creator>Caplan, R. M.</dc:creator>
+ <dc:creator>Downs, C.</dc:creator>
+ <dc:creator>Linker, J. L.</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We describe a method for the automatic mapping of coronal holes (CH) using
+simultaneous multi-instrument EUV imaging data. Synchronized EUV images from
+STEREO/EUVI A&amp;B 195A and SDO/AIA 193A are preprocessed, including PSF
+deconvolution and the application of data-derived intensity corrections that
+account for center-to-limb variations (limb brightening) and inter-instrument
+intensity normalization. We systematically derive a robust limb-brightening
+correction that takes advantage of unbiased long-term averages of data and
+respects the physical nature of the problem. The new preprocessing greatly
+assists in CH detection, allowing for the use of a simplified
+variable-connectivity two-threshold region growing image segmentation algorithm
+to obtain consistent detection results. We generate synchronic EUV and CH maps,
+and show a preliminary analysis of CH evolution.
+  Several data and code products are made available to the community
+(www.predsci.com/chd): For the period of this study (06/10/2010 to 08/18/14) we
+provide synchronic EUV and coronal hole map data at 6-hour cadence,
+data-derived limb-brightening corrections for STEREO/EUVI A&amp;B 195A and SDO/AIA
+193A, and inter-instrument correction factors to equate their intensities. We
+also provide the coronal hole image segmentation code module (ezseg)
+implemented in both FORTRAN OpenMP and GPU-accelerated C-CUDA. A complete
+implementation of our coronal hole detection pipeline in the form of a
+ready-to-use MATLAB driver script euv2chm utilizing ezseg is also made
+available.
+</dc:description>
+ <dc:description>Comment: 37 pages, 24 figures</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-05-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04718</dc:identifier>
+ <dc:identifier>2016 ApJ 823 53</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/823/1/53</dc:identifier>
+ </oai_dc:dc>
+

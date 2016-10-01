@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Dual Method for Computing Power Transfer Distribution Factors</dc:title>
+ <dc:creator>Ronellenfitsch, Henrik</dc:creator>
+ <dc:creator>Timme, Marc</dc:creator>
+ <dc:creator>Witthaut, Dirk</dc:creator>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:subject>Computer Science - Computational Engineering, Finance, and Science</dc:subject>
+ <dc:description>  Power Transfer Distribution Factors (PTDFs) play a crucial role in power grid
+security analysis, planning, and redispatch. Fast calculation of the PTDFs is
+therefore of great importance. In this paper, we present a non-approximative
+dual method of computing PTDFs. It uses power flows along topological cycles of
+the network but still relies on simple matrix algebra. At the core, our method
+changes the size of the matrix that needs to be inverted to calculate the PTDFs
+from $N\times N$, where $N$ is the number of buses, to $(L-N+1)\times (L-N+1)$,
+where $L$ is the number of lines and $L-N+1$ is the number of independent
+cycles (closed loops) in the network while remaining mathematically fully
+equivalent. For power grids containing a relatively small number of cycles, the
+method can offer a speedup of numerical calculations.
+</dc:description>
+ <dc:description>Comment: 9 pages, 6 figures; IEEE Transactions on Power Systems 2016
+  (Volume:PP, Issue: 99)</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-07-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04645</dc:identifier>
+ <dc:identifier>doi:10.1109/TPWRS.2016.2589464</dc:identifier>
+ </oai_dc:dc>
+

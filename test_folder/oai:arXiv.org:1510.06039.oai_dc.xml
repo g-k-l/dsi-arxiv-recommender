@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Roy-Steiner-equation analysis of pion-nucleon scattering</dc:title>
+ <dc:creator>Hoferichter, Martin</dc:creator>
+ <dc:creator>de Elvira, Jacobo Ruiz</dc:creator>
+ <dc:creator>Kubis, Bastian</dc:creator>
+ <dc:creator>Mei&#223;ner, Ulf-G.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We review the structure of Roy-Steiner equations for pion-nucleon scattering,
+the solution for the partial waves of the t-channel process $\pi\pi\to \bar N
+N$, as well as the high-accuracy extraction of the pion-nucleon S-wave
+scattering lengths from data on pionic hydrogen and deuterium. We then proceed
+to construct solutions for the lowest partial waves of the s-channel process
+$\pi N\to \pi N$ and demonstrate that accurate solutions can be found if the
+scattering lengths are imposed as constraints. Detailed error estimates of all
+input quantities in the solution procedure are performed and explicit
+parameterizations for the resulting low-energy phase shifts as well as results
+for subthreshold parameters and higher threshold parameters are presented.
+Furthermore, we discuss the extraction of the pion-nucleon $\sigma$-term via
+the Cheng-Dashen low-energy theorem, including the role of isospin-breaking
+corrections, to obtain a precision determination consistent with all
+constraints from analyticity, unitarity, crossing symmetry, and pionic-atom
+data. We perform the matching to chiral perturbation theory in the subthreshold
+region and detail the consequences for the chiral convergence of the threshold
+parameters and the nucleon mass.
+</dc:description>
+ <dc:description>Comment: 101 pages, 28 figures; journal version</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06039</dc:identifier>
+ <dc:identifier>Phys. Rept. 625 (2016) 1-88</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physrep.2016.02.002</dc:identifier>
+ </oai_dc:dc>
+

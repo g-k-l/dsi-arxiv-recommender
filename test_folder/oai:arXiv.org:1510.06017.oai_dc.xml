@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two-Locus Likelihoods under Variable Population Size and Fine-Scale
+  Recombination Rate Estimation</dc:title>
+ <dc:creator>Kamm, John A.</dc:creator>
+ <dc:creator>Spence, Jeffrey P.</dc:creator>
+ <dc:creator>Chan, Jeffrey</dc:creator>
+ <dc:creator>Song, Yun S.</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  Two-locus sampling probabilities have played a central role in devising an
+efficient composite likelihood method for estimating fine-scale recombination
+rates. Due to mathematical and computational challenges, these sampling
+probabilities are typically computed under the unrealistic assumption of a
+constant population size, and simulation studies have shown that resulting
+recombination rate estimates can be severely biased in certain cases of
+historical population size changes. To alleviate this problem, we develop here
+new methods to compute the sampling probability for variable population size
+functions that are piecewise constant. Our main theoretical result, implemented
+in a new software package called LDpop, is a novel formula for the sampling
+probability that can be evaluated by numerically exponentiating a large but
+sparse matrix. This formula can handle moderate sample sizes ($n \leq 50$) and
+demographic size histories with a large number of epochs ($\mathcal{D} \geq
+64$). In addition, LDpop implements an approximate formula for the sampling
+probability that is reasonably accurate and scales to hundreds in sample size
+($n \geq 256$). Finally, LDpop includes an importance sampler for the posterior
+distribution of two-locus genealogies, based on a new result for the optimal
+proposal distribution in the variable-size setting. Using our methods, we study
+how a sharp population bottleneck followed by rapid growth affects the
+correlation between partially linked sites. Then, through an extensive
+simulation study, we show that accounting for population size changes under
+such a demographic model leads to substantial improvements in fine-scale
+recombination rate estimation. LDpop is freely available for download at
+https://github.com/popgenmethods/ldpop
+</dc:description>
+ <dc:description>Comment: 32 pages, 13 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06017</dc:identifier>
+ </oai_dc:dc>
+

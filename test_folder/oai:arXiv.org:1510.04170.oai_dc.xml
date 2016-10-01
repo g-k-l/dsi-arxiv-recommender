@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Imaging a boson star at the Galactic center</dc:title>
+ <dc:creator>Vincent, F. H.</dc:creator>
+ <dc:creator>Meliani, Z.</dc:creator>
+ <dc:creator>Grandclement, P.</dc:creator>
+ <dc:creator>Gourgoulhon, E.</dc:creator>
+ <dc:creator>Straub, O.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  Millimeter very long baseline interferometry will soon produce accurate
+images of the closest surroundings of the supermassive compact object at the
+center of the Galaxy, Sgr A*. These images may reveal the existence of a
+central faint region, the so-called shadow, which is often interpreted as the
+observable consequence of the event horizon of a black hole. In this paper, we
+compute images of an accretion torus around Sgr A* assuming this compact object
+is a boson star, i.e. an alternative to black holes within general relativity,
+with no event horizon and no hard surface. We show that very relativistic
+rotating boson stars produce images extremely similar to Kerr black holes,
+showing in particular shadow-like and photon-ring-like structures. This result
+highlights the extreme difficulty of unambiguously telling the existence of an
+event horizon from strong-field images.
+</dc:description>
+ <dc:description>Comment: 21 pages, 9 figures, accepted in CQG; main difference wrt previous
+  version is the last paragraph of the conclusion</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04170</dc:identifier>
+ <dc:identifier>doi:10.1088/0264-9381/33/10/105015</dc:identifier>
+ </oai_dc:dc>
+

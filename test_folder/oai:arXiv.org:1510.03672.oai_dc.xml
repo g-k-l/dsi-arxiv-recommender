@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Radio-Gamma Correlation In Starburst Galaxies</dc:title>
+ <dc:creator>Eichmann, Bj&#246;rn</dc:creator>
+ <dc:creator>Tjus, Julia Becker</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present a systematic study of the non-thermal electron-proton plasma and
+its emission processes in starburst galaxies in order to explain the
+correlation between the luminosity in the radio band and the recently observed
+gamma luminosity. In doing so, a steady state description of the cosmic ray
+electrons and protons within the spatially homogeneous starburst is considered
+where continuous momentum losses are included as well as catastrophic losses
+due to diffusion and advection. The primary source of the relativistic cosmic
+rays, e.g. supernova remnants, provides a quasi-neutral plasma with a power law
+spectrum in momentum where we account for rigidity dependent differences
+between the electron and proton spectrum. We examine the resulting leptonic and
+hadronic radiation processes by synchrotron radiation, inverse Compton
+scattering, Bremsstrahlung and hadronic pion production. Finally, the
+observations of NGC 253, M82, NGC 4945 and NGC 1068 in the radio and gamma-ray
+band as well as the observed supernova rate are used to constrain a best-fit
+model. In the case of NGC 253, M82, NGC 4945 our model is able to accurately
+describe the data, showing that: (i) Supernovae are the dominant particle
+accelerators for NGC 253, M82 and NGC 4945, but not in the case of NGC 1068.
+(ii) All considered starburst galaxies are poor proton calorimeters in which
+for NGC 253 the escape is predominantly driven by the galactic wind, whereas
+the diffusive escape dominates in NGC 4945 and M82 (at energies &gt; 1TeV). (iii)
+Secondary electrons from hadronic pion production are important to model the
+radio flux, but the associated neutrino flux is below the current observation
+limit.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-05-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03672</dc:identifier>
+ <dc:identifier>Astrophysical Journal (ApJ), 821, 87 (2016)</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/821/2/87</dc:identifier>
+ </oai_dc:dc>
+

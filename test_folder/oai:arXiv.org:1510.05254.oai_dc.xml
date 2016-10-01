@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Le Chatelier principle for out of equilibrium and boundary driven
+  systems : application to dynamical phase transitions</dc:title>
+ <dc:creator>Shpielberg, Ohad</dc:creator>
+ <dc:creator>Akkermans, Eric</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  A stability analysis of out of equilibrium and boundary driven systems is
+presented. It is performed in the framework of the hydrodynamic macroscopic
+fluctuation theory and assuming the additivity principle whose interpretation
+is discussed with the help of a Hamiltonian description. An extension of Le
+Chatelier principle for out of equilibrium situations is presented which allows
+to formulate the conditions of validity of the additivity principle. Examples
+of application of these results in the realm of classical and quantum systems
+are provided.
+</dc:description>
+ <dc:description>Comment: 9 pages, no figures, supplemental material included</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05254</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 240603 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.240603</dc:identifier>
+ </oai_dc:dc>
+

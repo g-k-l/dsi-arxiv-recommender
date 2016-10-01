@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optomechanical test of the Schr\"odinger-Newton equation</dc:title>
+ <dc:creator>Gro&#223;ardt, Andr&#233;</dc:creator>
+ <dc:creator>Bateman, James</dc:creator>
+ <dc:creator>Ulbricht, Hendrik</dc:creator>
+ <dc:creator>Bassi, Angelo</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  The Schr\"odinger-Newton equation has been proposed as an experimentally
+testable alternative to quantum gravity, accessible at low energies. It
+contains self-gravitational terms, which slightly modify the quantum dynamics.
+Here we show that it distorts the spectrum of a harmonic system. Based on this
+effect, we propose an optomechanical experiment with a trapped microdisc to
+test the Schr\"odinger-Newton equation, and we show that it can be realized
+with existing technology.
+</dc:description>
+ <dc:description>Comment: 13 pages, 4 figures, 1 table, 1 page of supplemental material</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01696</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 096003 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.096003</dc:identifier>
+ </oai_dc:dc>
+

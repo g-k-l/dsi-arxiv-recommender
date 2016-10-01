@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Securing the MIMO Wiretap Channel with Polar Codes and Encryption</dc:title>
+ <dc:creator>Karas, Dimitrios S.</dc:creator>
+ <dc:creator>Boulogeorgos, Alexandros-Apostolos A.</dc:creator>
+ <dc:creator>Mihos, Sotirios K.</dc:creator>
+ <dc:creator>Kapinas, Vasileios M.</dc:creator>
+ <dc:creator>Karagiannidis, George K.</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  Polar codes have been proven to be capacity achieving for any binary-input
+discrete memoryless channel, while at the same time they can reassure secure
+and reliable transmission over the single-input single-output wireless channel.
+However, the use of polar codes to secure multiple-antenna transmission and
+reception has not yet been reported in the open literature. In this paper, we
+assume a multiple-input multiple-output wiretap channel, where the legitimate
+receiver and the eavesdropper are equipped with the same number of antennas. We
+introduce a protocol that exploits the properties of both physical and media
+access control layer security by employing polar coding and encryption
+techniques in a hybrid manner in order to guarantee secure transmission. A
+novel security technique is also proposed, where a cryptographic key is
+generated based on the information transmitted and renewed every transmission
+block without the need for a separate key exchange method. Finally, to
+illustrate the effectiveness of the proposed protocol, we prove the weak and
+strong security conditions, and we provide a practical method to achieve
+computational security for the cases where these conditions cannot be
+established.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the authors due to unrealistic
+  system model assumptions and other gaps in the theoretical reasoning of the
+  achieved security</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-03-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06578</dc:identifier>
+ </oai_dc:dc>
+

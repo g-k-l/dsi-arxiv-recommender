@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Max-margin Metric Learning for Speaker Recognition</dc:title>
+ <dc:creator>Li, Lantian</dc:creator>
+ <dc:creator>Wang, Dong</dc:creator>
+ <dc:creator>Xing, Chao</dc:creator>
+ <dc:creator>Zheng, Thomas Fang</dc:creator>
+ <dc:subject>Computer Science - Sound</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  Probabilistic linear discriminant analysis (PLDA) is a popular normalization
+approach for the i-vector model, and has delivered state-of-the-art performance
+in speaker recognition. A potential problem of the PLDA model, however, is that
+it essentially assumes Gaussian distributions over speaker vectors, which is
+not always true in practice. Additionally, the objective function is not
+directly related to the goal of the task, e.g., discriminating true speakers
+and imposters. In this paper, we propose a max-margin metric learning approach
+to solve the problems. It learns a linear transform with a criterion that the
+margin between target and imposter trials are maximized. Experiments conducted
+on the SRE08 core test show that compared to PLDA, the new approach can obtain
+comparable or even better performance, though the scoring is simply a cosine
+computation.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05940</dc:identifier>
+ </oai_dc:dc>
+

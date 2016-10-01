@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Flat coordinates for Saito Frobenius manifolds and String theory</dc:title>
+ <dc:creator>Belavin, Alexander</dc:creator>
+ <dc:creator>Gepner, Doron</dc:creator>
+ <dc:creator>Kononov, Yakov</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:description>  It was shown in \cite{DVV} for $2d$ topological Conformal field theory (TCFT)
+\cite{EY,W} and more recently in \cite{BSZ}-\cite{BB2} for the non-critical
+String theory \cite{P}-\cite{BAlZ} that a number of models of these two types
+can be exactly solved using their connection with the Frobenius manifold (FM)
+structure introduced by Dubrovin\cite{Dub}. More precisely these models are
+connected with a special case of FMs, so called Saito Frobenius manifolds
+(SFM)\cite{Saito} (originally called Flat structure together with the Flat
+coordinate system), which arise on the space of the versal deformations of the
+isolated Singularities after choosing of a suitabe so-called Primitive form,
+and which also arises on the quotient spaces by reflection groups. In this
+paper we explore the connection of the models of TCFT and non-critical String
+theory with SFM. The crucial point for obtaining an explicit expression for the
+correlators is finding the flat coordinates of SFMs as functions of the
+parameters of the deformed singularity. We suggest a direct way to find the
+flat coordinates, using the integral representation for the solutions of
+Gauss-Manin system connected with the corresponding SFM for a simple
+singularity. Also, we address the possible generalization of our approach for
+the models investigated in \cite{Gep} which are ${SU(N)_k}/({SU(N-1)_{k+1}
+\times U(1)})$ Kazama-Suzuki theories \cite{KS}.
+</dc:description>
+ <dc:description>Comment: 18 pages, 2 figures, typos corrected</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-02-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06970</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A nonlocal stochastic Cahn-Hilliard equation</dc:title>
+ <dc:creator>Cornalba, Federico</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>60H15, 35R60</dc:subject>
+ <dc:description>  We consider a stochastic extension of the nonlocal convective Cahn-Hilliard
+equation containing an additive Wiener process noise. We first introduce a
+suitable analytical setting and make some mathematical and physical
+assumptions. We then establish, in a variational context, the existence of a
+weak statistical solution for this problem. Finally we prove existence and
+uniqueness of a strong solution.
+</dc:description>
+ <dc:description>Comment: 22 pages, no figures. Typos corrected, split Section 7 in two to
+  better outline strategy of proof</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07923</dc:identifier>
+ </oai_dc:dc>
+

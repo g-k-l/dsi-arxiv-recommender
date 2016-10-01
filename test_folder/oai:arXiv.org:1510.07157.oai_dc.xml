@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Absence of Horizon in Black-Hole Formation</dc:title>
+ <dc:creator>Ho, Pei-Ming</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  With the back-reaction of Hawking radiation taken into consideration, the
+work of Kawai, Matsuo and Yokokura has shown that, under a few assumptions, the
+collapse of matter does not lead to event horizon nor apparent horizon. In this
+paper, we relax their assumptions and elaborate on the space-time geometry of a
+generic collapsing body with spherical symmetry. The geometry outside the
+collapsing sphere is found to be approximated by the geometry outside the
+white-hole horizon, hence the collapsing matter remains outside the
+Schwarzschild radius. As particles in Hawking radiation are created in the
+vicinity of the collapsing matter, the information loss paradox is alleviated.
+Assuming that the collapsing body evaporates within finite time, there is no
+event horizon.
+</dc:description>
+ <dc:description>Comment: 28 pages, minor modification</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:date>2016-05-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07157</dc:identifier>
+ <dc:identifier>doi:10.1016/j.nuclphysb.2016.05.016</dc:identifier>
+ </oai_dc:dc>
+

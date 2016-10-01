@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Computing the dielectric constant of liquid water at constant dielectric
+  displacement</dc:title>
+ <dc:creator>Zhang, Chao</dc:creator>
+ <dc:creator>Sprik, Michiel</dc:creator>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  The static dielectric constant of liquid water is computed using classical
+force field based molecular dynamics simulation at fixed electric displacement
+D. The method to constrain the electric displacement is the finite temperature
+classical variant of the constant-D method developed by Stengel, Spaldin and
+Vanderbilt (Nat. Phys. 2009, 5: 304). There is also a modification of this
+scheme imposing fixed values of the macroscopic field E. The method is applied
+to the popular SPC/E model of liquid water. We compare four different estimates
+of the dielectric constant, two obtained from fluctuations of the polarization
+at D = 0 and E = 0 and two from the variation of polarization with finite D and
+E. It is found that all four estimates agree when properly converged. The
+computational effort to achieve convergence varies however, with constant D
+calculations being substantially more efficient. We attribute this difference
+to the much shorter relaxation time of longitudinal polarization compared to
+transverse polarization accelerating constant D calculations.
+</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-04-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00643</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 144201 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.144201</dc:identifier>
+ </oai_dc:dc>
+

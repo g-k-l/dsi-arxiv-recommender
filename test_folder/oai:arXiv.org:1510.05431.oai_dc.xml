@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exact non-magnetic ground state and residual entropy of S = 1/2
+  Heisenberg diamond spin lattices</dc:title>
+ <dc:creator>Morita, K.</dc:creator>
+ <dc:creator>Shibata, N.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Exactly solvable frustrated quantum spin models consisting of a diamond unit
+structure are presented. The ground states are characterized by tetramer-dimer
+states with a macroscopic degeneracy in a certain range of isotropic exchange
+interaction. The lower bound of the excitation gap is exactly calculated to be
+finite and the bulk entropy in the limit of zero temperature remains finite
+depending on the shape of the boundary of system. Residual entropy is in a
+range of 0~6.1% of the entropy at high temperature for hexagonal diamond
+lattice and 0~8.4% for square diamond lattice. These diamond lattices are
+generalized to any dimensions and it is likely to be synthesized
+experimentally.
+</dc:description>
+ <dc:description>Comment: 4 pages, 5 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05431</dc:identifier>
+ <dc:identifier>J. Phys. Soc. Jpn. 85, 033705 (2016)</dc:identifier>
+ <dc:identifier>doi:10.7566/JPSJ.85.033705</dc:identifier>
+ </oai_dc:dc>
+

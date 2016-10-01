@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Co-sputtered MoRe thin films for carbon nanotube growth-compatible
+  superconducting coplanar resonators</dc:title>
+ <dc:creator>G&#246;tz, K. J. G.</dc:creator>
+ <dc:creator>Blien, S.</dc:creator>
+ <dc:creator>Stiller, P. L.</dc:creator>
+ <dc:creator>Vavra, O.</dc:creator>
+ <dc:creator>Mayer, T.</dc:creator>
+ <dc:creator>Huber, T.</dc:creator>
+ <dc:creator>Meier, T. N. G.</dc:creator>
+ <dc:creator>Kronseder, M.</dc:creator>
+ <dc:creator>Strunk, Ch.</dc:creator>
+ <dc:creator>H&#252;ttel, A. K.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:description>  Molybdenum rhenium alloy thin films can exhibit superconductivity up to
+critical temperatures of $T_c=15\mathrm{K}$. At the same time, the films are
+highly stable in the high-temperature methane / hydrogen atmosphere typically
+required to grow single wall carbon nanotubes. We characterize molybdenum
+rhenium alloy films deposited via simultaneous sputtering from two sources,
+with respect to their composition as function of sputter parameters and their
+electronic dc as well as GHz properties at low temperature. Specific emphasis
+is placed on the effect of the carbon nanotube growth conditions on the film.
+Superconducting coplanar waveguide resonators are defined lithographically; we
+demonstrate that the resonators remain functional when undergoing nanotube
+growth conditions, and characterize their properties as function of
+temperature. This paves the way for ultra-clean nanotube devices grown in situ
+onto superconducting coplanar waveguide circuit elements.
+</dc:description>
+ <dc:description>Comment: 8 pages, 6 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00278</dc:identifier>
+ <dc:identifier>Nanotechnology 27, 135202 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1088/0957-4484/27/13/135202</dc:identifier>
+ </oai_dc:dc>
+

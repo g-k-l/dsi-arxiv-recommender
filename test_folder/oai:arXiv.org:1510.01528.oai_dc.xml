@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Higher ramification and the local Langlands correspondence</dc:title>
+ <dc:creator>Bushnell, Colin J.</dc:creator>
+ <dc:creator>Henniart, Guy</dc:creator>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>22E50, 11S37, 11S15</dc:subject>
+ <dc:description>  Let $F$ be a non-Archimedean locally compact field. We show that the local
+Langlands correspondence over $F$ has a strong property generalizing the higher
+ramification theorem of local class field theory. If $\pi$ is an irreducible
+cuspidal representation of a general linear group $GL_n(F)$ and $\sigma$ the
+corresponding irreducible representation of the Weil group $W_F$ of $F$, the
+restriction of $\sigma$ to a ramification subgroup of $W_F$ is determined by a
+truncation of the simple character $\theta_\pi$ contained in $\pi$, and
+conversely. Numerical aspects of the relation are governed by a Herbrand-like
+function $\Psi_\Theta$ depending on the endo-class $\Theta$ of $\theta_\pi$. We
+give a method for determining $\Psi_\Theta$. Consequently, the
+ramification-theoretic structure of $\sigma$ can be predicted from the simple
+character $\theta_\pi$ alone.
+</dc:description>
+ <dc:description>Comment: Revised version</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-07-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01528</dc:identifier>
+ </oai_dc:dc>
+

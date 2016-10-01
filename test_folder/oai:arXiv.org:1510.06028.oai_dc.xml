@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simulated {\Lambda}CDM analogues of the thin Plane of Satellites around
+  the Andromeda galaxy are not kinematically coherent structures</dc:title>
+ <dc:creator>Buck, Tobias</dc:creator>
+ <dc:creator>Dutton, Aaron A.</dc:creator>
+ <dc:creator>Macci&#242;, Andrea V.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  A large fraction of the dwarf satellites orbiting the Andromeda galaxy are
+surprisingly aligned in a thin, extended and apparently kinematically coherent
+planar structure. Such a structure is not easily found in simulations based on
+the Cold Dark Matter model ({\Lambda}CDM). Using 21 high resolution
+cosmological simulations we analyse the kinematics of planes of satellites
+similar to the one around Andromeda. We find good agreement when co-rotation is
+characterized by the line-of-sight velocity. At the same time, when co-rotation
+is inferred by the angular momenta of the satellites, the planes are in
+agreement with the plane around our Galaxy. We find such planes to be common in
+our high concentration haloes. The number of co-rotating satellites obtained
+from the sign of the line-of-sight velocity shows large variations depending on
+the viewing angle and is consistent with that obtained from a sample with
+random velocities. We find that the clustering of angular momentum vectors of
+the satellites in the plane is a better measure of the kinematic coherence.
+Thus we conclude that the line-of- sight velocity is not well suited as a proxy
+for the kinematical coherence of the plane. Analysis of the kinematics of our
+planes shows a fraction of $\sim$30% chance aligned satellites. Tracking the
+satellites in the plane back in time reveals that these planes are a transient
+feature and not kinematically coherent as would appear at first sight. Thus we
+expect some of the satellites in the plane around Andromeda to have high
+velocities perpendicular to the plane.
+</dc:description>
+ <dc:description>Comment: 19 pages, 15 figures, MNRAS accepted, Analysis strongly improved,
+  paper shortened but main conclusions unchanged</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-05-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06028</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1232</dc:identifier>
+ </oai_dc:dc>
+

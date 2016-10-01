@@ -1,0 +1,47 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two-dimensional disorder in black phosphorus and monochalcogenide
+  monolayers</dc:title>
+ <dc:creator>Mehboudi, Mehrshad</dc:creator>
+ <dc:creator>Dorio, Alex M.</dc:creator>
+ <dc:creator>Zhu, Wenjuan</dc:creator>
+ <dc:creator>van der Zande, Arend</dc:creator>
+ <dc:creator>Churchill, Hugh O. H.</dc:creator>
+ <dc:creator>Pacheco-Sanjuan, Alejandro A.</dc:creator>
+ <dc:creator>Harriss, Edmund O.</dc:creator>
+ <dc:creator>Kumar, Pradeep</dc:creator>
+ <dc:creator>Barraza-Lopez, Salvador</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Ridged, orthorhombic two-dimensional atomic crystals with a bulk {\em Pnma}
+structure such as black phosphorus and monochalcogenide monolayers are an
+exciting and novel material platform for a host of applications. Key to their
+crystallinity, monolayers of these materials have a four-fold degenerate
+structural ground state, and a single energy scale $E_C$ (representing the
+elastic energy required to switch the longer lattice vector along the $x-$ or
+$y-$direction) determines how disordered these monolayers are at finite
+temperature. Disorder arises when nearest neighboring atoms become gently
+reassigned as the system is thermally excited beyond a critical temperature
+$T_c$ that is proportional to $E_C/k_B$. $E_C$ is tunable by chemical
+composition and it leads to a classification of these materials into two
+categories: (i) Those for which $E_C\ge k_BT_m$, and (ii) those having
+$k_BT_m&gt;E_C\ge 0$, where $T_m$ is a given material's melting temperature. Black
+phosphorus and SiS monolayers belong to category (i): these materials do not
+display an intermediate order-disorder transition and melt directly. All other
+monochalcogenide monolayers with $E_C&gt;0$ belonging to class (ii) will undergo a
+two-dimensional transition prior to melting. $E_C/k_B$ is slightly larger than
+room temperature for GeS and GeSe, and smaller than 300 K for SnS and SnSe
+monolayers, so that these materials transition near room temperature. The onset
+of this generic atomistic phenomena is captured by a planar Potts model up to
+the order-disorder transition. The order-disorder phase transition in two
+dimensions described here is at the origin of the {\em Cmcm} phase being
+discussed within the context of bulk layered SnSe.
+</dc:description>
+ <dc:description>Comment: Accepted on 01/11/2016. This document is the Submitted Manuscript
+  version of a Published Work that appeared in final form in Nano Letters,
+  copyright [2016]</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09153</dc:identifier>
+ <dc:identifier>doi:10.1021/acs.nanolett.5b04613</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tests of sunspot number sequences: 3. Effects of regression procedures
+  on the calibration of historic sunspot data</dc:title>
+ <dc:creator>Lockwood, M.</dc:creator>
+ <dc:creator>Owens, M. J</dc:creator>
+ <dc:creator>Barnard, L.</dc:creator>
+ <dc:creator>Usoskin, I. G.</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We use sunspot group observations from the Royal Greenwich Observatory (RGO)
+to investigate the effects of intercalibrating data from observers with
+different visual acuities. The tests are made by counting the number of groups
+$R_B$ above a variable cut-off threshold of observed total whole-spot area
+(uncorrected for foreshortening) to simulate what a lower acuity observer would
+have seen. The synthesised annual means of $R_B$ are then re-scaled to the
+observed RGO group number $R_A$ using a variety of regression techniques. It is
+found that a very high correlation between $R_A$ and $R_B$ ($r_{AB}$ &gt; 0.98)
+does not prevent large errors in the intercalibration (e.g. sunspot maximum
+values can be over 30% too large even for such levels of $r_{AB}$). In
+generating the backbone sunspot number, Svalgaard and Schatten [2015] force
+regression fits to pass through the scatter plot origin which generates
+unreliable fits (the residuals do not form a normal distribution) and causes
+sunspot cycle amplitudes to be exaggerated in the intercalibrated data. It is
+demonstrated that the use of Quantile-Quantile (Q-Q) plots to test for a normal
+distribution is a useful indicator of erroneous and misleading regression fits.
+Ordinary least squares linear fits, not forced to pass through the origin, are
+sometimes reliable (although the optimum method used is shown to be different
+when matching peak and average sunspot group numbers). However other fits are
+only reliable if non-linear regression is used. From these results it is
+entirely possible that the inflation of solar cycle amplitudes in the backbone
+group sunspot number as one goes back in time, relative to related
+solar-terrestrial parameters, is entirely caused by the use of inappropriate
+and non-robust regression techniques to calibrate the sunspot data.
+</dc:description>
+ <dc:description>Comment: 14 pages, 1 Table, 11 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-01-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07809</dc:identifier>
+ <dc:identifier>doi:10.1007/s11207-015-0829-2</dc:identifier>
+ </oai_dc:dc>
+

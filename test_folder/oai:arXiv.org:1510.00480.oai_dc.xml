@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Complete integrability of Nonlocal Nonlinear Schr\"odinger equation</dc:title>
+ <dc:creator>Gerdjikov, V. S.</dc:creator>
+ <dc:creator>Saxena, A.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Exactly Solvable and Integrable Systems</dc:subject>
+ <dc:description>  Based on the completeness relation for the squared solutions of the Lax
+operator $L$ we show that a subset of nonlocal equations from the hierarchy of
+nonlocal nonlinear Schr\"odinger equations (NLS) is a completely integrable
+system. The spectral properties of the Lax operator indicate that there are two
+types of soliton solutions. The relevant action-angle variables are
+parametrized by the scattering data of the Lax operator. The notion of the
+symplectic basis, which directly maps the variations of the potential of $L$ to
+the variations of the action-angle variables has been generalized to the
+nonlocal case. We also show that the inverse scattering method can be viewed as
+a generalized Fourier transform. Using the trace identities and the symplectic
+basis we construct the hierarchy Hamiltonian structures for the nonlocal NLS
+equations.
+</dc:description>
+ <dc:description>Comment: 22 pages, one figure, additional motivation included and an error
+  corrected</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-06-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00480</dc:identifier>
+ </oai_dc:dc>
+

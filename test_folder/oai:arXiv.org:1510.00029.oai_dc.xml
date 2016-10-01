@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Constraining the lifetime and opening angle of quasars using fluorescent
+  Lyman $\alpha$ emission: the case of Q0420-388</dc:title>
+ <dc:creator>Borisova, Elena</dc:creator>
+ <dc:creator>Lilly, Simon J.</dc:creator>
+ <dc:creator>Cantalupo, Sebastiano</dc:creator>
+ <dc:creator>Prochaska, J. Xavier</dc:creator>
+ <dc:creator>Rakic, Olivera</dc:creator>
+ <dc:creator>Worseck, Gabor</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  A toy model is developed to understand how the spatial distribution of
+fluorescent emitters in the vicinity of bright quasars could be affected by the
+geometry of the quasar bi-conical radiation field and by its lifetime. The
+model is then applied to the distribution of high equivalent width Lyman
+$\alpha$ emitters (with rest-frame equivalent widths above 100 A, threshold
+used in e.g. Trainor &amp; Steidel, 2013) identified in a deep narrow-band 36x36
+arcmin$^2$ image centered on the luminous quasar Q0420-388. These emitters are
+found to the edge of the field and show some evidence of an azimuthal asymmetry
+on the sky of the type expected if the quasar is radiating in a bipolar cone.
+If these sources are being fluorescently illuminated by the quasar, the two
+most distant objects require a lifetime of at least 15 Myr for an opening angle
+of 60 degrees or more, increasing to more than 40 Myr if the opening angle is
+reduced to a minimum 30 degrees. However, few of the other expected signatures
+of boosted fluorescence are seen at the current survey limits, e.g. a fall off
+in Lyman $\alpha$ brightness, or equivalent width, with distance. Furthermore,
+to have most of the Lyman $\alpha$ emission of the two distant sources to be
+fluorescently boosted would require the quasar to have been significantly
+brighter in the past. This suggests that these particular sources may not be
+fluorescent, invalidating the above lifetime constraints. This would cast doubt
+on the use of this relatively low equivalent width threshold and thus on the
+lifetime analysis in Trainor &amp; Steidel (2013).
+</dc:description>
+ <dc:description>Comment: 10 pages, 10 figures, 1 table, accepted to ApJ</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00029</dc:identifier>
+ </oai_dc:dc>
+

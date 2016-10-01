@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reconfigurable spin wave band structure of artificial square spin ice</dc:title>
+ <dc:creator>Iacocca, Ezio</dc:creator>
+ <dc:creator>Gliga, Sebastian</dc:creator>
+ <dc:creator>Stamps, Robert L.</dc:creator>
+ <dc:creator>Heinonen, Olle</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Artificial square spin ices are structures composed of magnetic elements
+arranged on a geometrically frustrated lattice and located on the sites of a
+two-dimensional square lattice, such that there are four interacting magnetic
+elements at each vertex. Using a semi-analytical approach, we show that square
+spin ices exhibit a rich spin wave band structure that is tunable both by
+external magnetic fields and the configuration of individual elements. Internal
+degrees of freedom can give rise to equilibrium states with bent magnetization
+at the edges leading to characteristic excitations; in the presence of
+magnetostatic interactions these form separate bands analogous to impurity
+bands in semiconductors. Full-scale micromagnetic simulations corroborate our
+semi-analytical approach. Our results show that artificial square spin ices can
+be viewed as reconfigurable and tunable magnonic crystals that can be used as
+metamaterials for spin-wave-based applications at the nanoscale.
+</dc:description>
+ <dc:description>Comment: 20 pages, 6 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-03-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06385</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.134420</dc:identifier>
+ </oai_dc:dc>
+

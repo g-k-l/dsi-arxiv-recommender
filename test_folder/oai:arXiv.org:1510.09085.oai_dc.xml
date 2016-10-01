@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Accelerating coordination in temporal networks by engineering the link
+  order</dc:title>
+ <dc:creator>Masuda, Naoki</dc:creator>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:description>  Social dynamics on a network may be accelerated or decelerated depending on
+which pairs of individuals in the network communicate early and which pairs do
+later. The order with which the links in a given network are sequentially used,
+which we call the link order, may be a strong determinant of dynamical
+behaviour on networks, potentially adding a new dimension to effects of
+temporal networks relative to static networks. Here we study the effect of the
+link order on linear coordination (i.e., synchronisation) dynamics. We show
+that the coordination speed considerably depends on specific orders of links.
+In addition, applying each single link for a long time to ensure strong
+pairwise coordination before moving to a next pair of individuals does not
+often enhance coordination of the entire network. We also implement a simple
+greedy algorithm to optimise the link order in favour of fast coordination.
+</dc:description>
+ <dc:description>Comment: 5 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-03-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09085</dc:identifier>
+ <dc:identifier>Scientific Reports, 6, 22105 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep22105</dc:identifier>
+ </oai_dc:dc>
+

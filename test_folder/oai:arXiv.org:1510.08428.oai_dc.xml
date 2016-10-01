@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Imaging Photon Lattice States by Scanning Defect Microscopy</dc:title>
+ <dc:creator>Underwood, D. L.</dc:creator>
+ <dc:creator>Shanks, W. E.</dc:creator>
+ <dc:creator>Li, Andy C. Y.</dc:creator>
+ <dc:creator>Ateshian, Lamia</dc:creator>
+ <dc:creator>Koch, Jens</dc:creator>
+ <dc:creator>Houck, A. A.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Microwave photons inside lattices of coupled resonators and superconducting
+qubits can exhibit surprising matter-like behavior. Realizing such open-system
+quantum simulators presents an experimental challenge and requires new tools
+and measurement techniques. Here, we introduce Scanning Defect Microscopy as
+one such tool and illustrate its use in mapping the normal-mode structure of
+microwave photons inside a 49-site Kagome lattice of coplanar waveguide
+resonators. Scanning is accomplished by moving a probe equipped with a sapphire
+tip across the lattice. This locally perturbs resonator frequencies and induces
+shifts of the lattice resonance frequencies which we determine by measuring the
+transmission spectrum. From the magnitude of mode shifts we can reconstruct
+photon field amplitudes at each lattice site and thus create spatial images of
+the photon-lattice normal modes.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08428</dc:identifier>
+ <dc:identifier>Phys. Rev. X 6, 021044 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevX.6.021044</dc:identifier>
+ </oai_dc:dc>
+

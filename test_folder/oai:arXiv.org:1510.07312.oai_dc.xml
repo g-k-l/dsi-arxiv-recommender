@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Packing densities of layered permutations and the minimum number of
+  monotone sequences in layered permutations</dc:title>
+ <dc:creator>Bastos, Josefran de Oliveira</dc:creator>
+ <dc:creator>Coregliano, Leonardo Nagami</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Computer Science - Discrete Mathematics</dc:subject>
+ <dc:subject>05A05 (Primary), 05D99 (Secondary)</dc:subject>
+ <dc:description>  In this paper, we present two new results of layered permutation densities.
+The first one generalizes theorems from H\"{a}st\"{o} (2003) and Warren (2004)
+to compute the permutation packing of permutations whose layer sequence
+is~$(1^a,\ell_1,\ell_2,\ldots,\ell_k)$ with~$2^a-a-1\geq k$ (and similar
+permutations). As a second result, we prove that the minimum density of
+monotone sequences of length~$k+1$ in an arbitrarily large layered permutation
+is asymptotically~$1/k^k$. This value is compatible with a conjecture from
+Myers (2003) for the problem without the layered restriction (the same problem
+where the monotone sequences have different lengths is also studied).
+</dc:description>
+ <dc:description>Comment: 24 pages</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-06-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07312</dc:identifier>
+ <dc:identifier>Discrete Mathematics &amp; Theoretical Computer Science, vol. 18 no.
+  2, Permutation Patterns 2015, Permutation Patterns 2015 (June 23, 2016)
+  dmtcs:1516</dc:identifier>
+ </oai_dc:dc>
+

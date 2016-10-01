@@ -1,0 +1,88 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Advanced ACTPol Cryogenic Detector Arrays and Readout</dc:title>
+ <dc:creator>Henderson, S. W.</dc:creator>
+ <dc:creator>Allison, R.</dc:creator>
+ <dc:creator>Austermann, J.</dc:creator>
+ <dc:creator>Baildon, T.</dc:creator>
+ <dc:creator>Battaglia, N.</dc:creator>
+ <dc:creator>Beall, J. A.</dc:creator>
+ <dc:creator>Becker, D.</dc:creator>
+ <dc:creator>De Bernardis, F.</dc:creator>
+ <dc:creator>Bond, J. R.</dc:creator>
+ <dc:creator>Calabrese, E.</dc:creator>
+ <dc:creator>Choi, S. K.</dc:creator>
+ <dc:creator>Coughlin, K. P.</dc:creator>
+ <dc:creator>Crowley, K. T.</dc:creator>
+ <dc:creator>Datta, R.</dc:creator>
+ <dc:creator>Devlin, M. J.</dc:creator>
+ <dc:creator>Duff, S. M.</dc:creator>
+ <dc:creator>Dunner, R.</dc:creator>
+ <dc:creator>Dunkley, J.</dc:creator>
+ <dc:creator>van Engelen, A.</dc:creator>
+ <dc:creator>Gallardo, P. A.</dc:creator>
+ <dc:creator>Grace, E.</dc:creator>
+ <dc:creator>Hasselfield, M.</dc:creator>
+ <dc:creator>Hills, F.</dc:creator>
+ <dc:creator>Hilton, G. C.</dc:creator>
+ <dc:creator>Hincks, A. D.</dc:creator>
+ <dc:creator>Hlozek, R.</dc:creator>
+ <dc:creator>Ho, S. P.</dc:creator>
+ <dc:creator>Hubmayr, J.</dc:creator>
+ <dc:creator>Huffenberger, K.</dc:creator>
+ <dc:creator>Hughes, J. P.</dc:creator>
+ <dc:creator>Irwin, K. D.</dc:creator>
+ <dc:creator>Koopman, B. J.</dc:creator>
+ <dc:creator>Kosowsky, A. B.</dc:creator>
+ <dc:creator>Li, D.</dc:creator>
+ <dc:creator>McMahon, J.</dc:creator>
+ <dc:creator>Munson, C.</dc:creator>
+ <dc:creator>Nati, F.</dc:creator>
+ <dc:creator>Newburgh, L.</dc:creator>
+ <dc:creator>Niemack, M. D.</dc:creator>
+ <dc:creator>Niraula, P.</dc:creator>
+ <dc:creator>Page, L. A.</dc:creator>
+ <dc:creator>Pappas, C. G.</dc:creator>
+ <dc:creator>Salatino, M.</dc:creator>
+ <dc:creator>Schillaci, A.</dc:creator>
+ <dc:creator>Schmitt, B. L.</dc:creator>
+ <dc:creator>Sehgal, N.</dc:creator>
+ <dc:creator>Sherwin, B. D.</dc:creator>
+ <dc:creator>Sievers, J. L.</dc:creator>
+ <dc:creator>Simon, S. M.</dc:creator>
+ <dc:creator>Spergel, D. N.</dc:creator>
+ <dc:creator>Staggs, S. T.</dc:creator>
+ <dc:creator>Stevens, J. R.</dc:creator>
+ <dc:creator>Thornton, R.</dc:creator>
+ <dc:creator>Van Lanen, J.</dc:creator>
+ <dc:creator>Vavagiakis, E. M.</dc:creator>
+ <dc:creator>Ward, J. T.</dc:creator>
+ <dc:creator>Wollack, E. J.</dc:creator>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Advanced ACTPol is a polarization-sensitive upgrade for the 6 m aperture
+Atacama Cosmology Telescope (ACT), adding new frequencies and increasing
+sensitivity over the previous ACTPol receiver. In 2016, Advanced ACTPol will
+begin to map approximately half the sky in five frequency bands (28-230 GHz).
+Its maps of primary and secondary cosmic microwave background (CMB)
+anisotropies -- imaged in intensity and polarization at few arcminute-scale
+resolution -- will enable precision cosmological constraints and also a wide
+array of cross-correlation science that probes the expansion history of the
+universe and the growth of structure via gravitational collapse. To accomplish
+these scientific goals, the Advanced ACTPol receiver will be a significant
+upgrade to the ACTPol receiver, including four new multichroic arrays of
+cryogenic, feedhorn-coupled AlMn transition edge sensor (TES) polarimeters
+(fabricated on 150 mm diameter wafers); a system of continuously rotating
+meta-material silicon half-wave plates; and a new multiplexing readout
+architecture which uses superconducting quantum interference devices (SQUIDs)
+and time division to achieve a 64-row multiplexing factor. Here we present the
+status and scientific goals of the Advanced ACTPol instrument, emphasizing the
+design and implementation of the Advanced ACTPol cryogenic detector arrays.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures, conference proceedings submitted to Journal of
+  Low Temperature Physics</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02809</dc:identifier>
+ <dc:identifier>doi:10.1007/s10909-016-1575-z</dc:identifier>
+ </oai_dc:dc>
+

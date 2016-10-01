@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Koopman invariant subspaces and finite linear representations of
+  nonlinear dynamical systems for control</dc:title>
+ <dc:creator>Brunton, Steven L.</dc:creator>
+ <dc:creator>Brunton, Bingni W.</dc:creator>
+ <dc:creator>Proctor, Joshua L.</dc:creator>
+ <dc:creator>Kutz, J. Nathan</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:description>  In this work, we explore finite-dimensional linear representations of
+nonlinear dynamical systems by restricting the Koopman operator to an invariant
+subspace. The Koopman operator is an infinite-dimensional linear operator that
+evolves observable functions of the state-space of a dynamical system [Koopman
+1931, PNAS]. Dominant terms in the Koopman expansion are typically computed
+using dynamic mode decomposition (DMD). DMD uses linear measurements of the
+state variables, and it has recently been shown that this may be too
+restrictive for nonlinear systems [Williams et al. 2015, JNLS]. Choosing
+nonlinear observable functions to form an invariant subspace where it is
+possible to obtain linear models, especially those that are useful for control,
+is an open challenge.
+  Here, we investigate the choice of observable functions for Koopman analysis
+that enable the use of optimal linear control techniques on nonlinear problems.
+First, to include a cost on the state of the system, as in linear quadratic
+regulator (LQR) control, it is helpful to include these states in the
+observable subspace, as in DMD. However, we find that this is only possible
+when there is a single isolated fixed point, as systems with multiple fixed
+points or more complicated attractors are not globally topologically conjugate
+to a finite-dimensional linear system, and cannot be represented by a
+finite-dimensional linear Koopman subspace that includes the state. We then
+present a data-driven strategy to identify relevant observable functions for
+Koopman analysis using a new algorithm to determine terms in a dynamical system
+by sparse regression of the data in a nonlinear function space [Brunton et al.
+2015, arxiv]; we show how this algorithm is related to DMD. Finally, we
+demonstrate how to design optimal control laws for nonlinear systems using
+techniques from linear optimal control on Koopman invariant subspaces.
+</dc:description>
+ <dc:description>Comment: 20 pages, 5 figures, 2 codes</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:date>2015-12-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03007</dc:identifier>
+ <dc:identifier>doi:10.1371/journal.pone.0150171</dc:identifier>
+ </oai_dc:dc>
+

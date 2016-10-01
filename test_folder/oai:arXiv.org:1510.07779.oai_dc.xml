@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Probing the statistical properties of CMB $B$-mode polarization through
+  Minkowski Functionals</dc:title>
+ <dc:creator>Santos, Larissa</dc:creator>
+ <dc:creator>Wang, Kai</dc:creator>
+ <dc:creator>Zhao, Wen</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  The detection of the magnetic type $B$-mode polarization is the main goal of
+future cosmic microwave background (CMB) experiments. In the standard model,
+the $B$-mode map is a strongly non-gaussian field due to the lensed component.
+Besides the two-point correlation function, the other statistics are also very
+important to dig the information of the polarization map. In this paper, we
+employ the Minkowski functionals to study the morphological properties of the
+lensed $B$-mode maps. We find that the deviations from Gaussianity are very
+significant for both full and partial-sky surveys. As an application of the
+analysis, we investigate the morphological imprints of the foreground residuals
+in the $B$-mode map. We find that even for very tiny foreground residuals, the
+effects on the map can be detected by the Minkowski functional analysis.
+Therefore, it provides a complementary way to investigate the foreground
+contaminations in the CMB studies.
+</dc:description>
+ <dc:description>Comment: 29 pages, 22 figures, 7 tables, JCAP accepted</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-07-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07779</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/07/029</dc:identifier>
+ </oai_dc:dc>
+

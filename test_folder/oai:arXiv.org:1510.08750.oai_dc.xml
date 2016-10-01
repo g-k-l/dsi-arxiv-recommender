@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Low regularity solutions for Chern-Simons-Dirac systems in the temporal
+  and Coulomb gauge</dc:title>
+ <dc:creator>Pecher, Hartmut</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35Q40, 35L70</dc:subject>
+ <dc:description>  We prove low regularity local well-posedness results in
+Bourgain-Klainerman-Machedon spaces for the Chern-Simons-Dirac system in the
+temporal gauge and the Coulomb gauge. Under slightly stronger assumptions on
+the data we also obtain "unconditional" uniqueness in the natural solution
+spaces.
+</dc:description>
+ <dc:description>Comment: 15 pages. arXiv admin note: text overlap with arXiv:1409.4588</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-07-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08750</dc:identifier>
+ <dc:identifier>Electr. J. Diff. Equ. 2016(2016), No. 174, 1-16</dc:identifier>
+ </oai_dc:dc>
+

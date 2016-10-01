@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Effect of monomer-monomer interactions on the phase diagrams of the
+  S=1/2 distorted diamond type quantum spin chain</dc:title>
+ <dc:creator>Okamoto, Kiyomi</dc:creator>
+ <dc:creator>Tonegawa, Takashi</dc:creator>
+ <dc:creator>Sakai, T&#244;ru</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  By use of mainly the exact diagonalization and the level spectroscopy method,
+we investigate the ground-state phase diagrams of the $S=1/2$ distorted diamond
+type quantum spin chain with the monomer-monomer interactions and/or
+ferromagnetic interactions for the zero magnetic field case, as well as the
+$M=M_{\rm s}/3$ case and the $M=(2/3)M_{\rm s}$ case, where $M$ is the total
+magnetization and $M_{\rm s}$ is the saturation magnetization. The
+magnetization plateau at $M=M_{\rm s}/3$ vanishes in the region where the
+ferromagnetic interaction is rather strong. The monomer-monomer interaction
+remarkably stabilizes the magnetization plateau at $M=(2/3)M_{\rm s}$.
+</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04913</dc:identifier>
+ <dc:identifier>Journal of Physics: Conference Series 683 (2016) 012038</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/683/1/012038</dc:identifier>
+ </oai_dc:dc>
+

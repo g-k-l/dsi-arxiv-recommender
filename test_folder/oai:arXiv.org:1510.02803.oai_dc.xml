@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bulk Topological Proximity Effect</dc:title>
+ <dc:creator>Hsieh, Timothy H.</dc:creator>
+ <dc:creator>Ishizuka, Hiroaki</dc:creator>
+ <dc:creator>Balents, Leon</dc:creator>
+ <dc:creator>Hughes, Taylor L.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Existing proximity effects stem from systems with a local order parameter,
+such as a local magnetic moment or a local superconducting pairing amplitude.
+Here, we demonstrate that despite lacking a local order parameter, topological
+phases also may give rise to a proximity effect of a distinctively inverted
+nature. We focus on a general construction in which a topological phase is
+extensively coupled to a second system, and we argue that in many cases, the
+inverse topological order will be induced on the second system. To support our
+arguments, we rigorously establish this "bulk topological proximity effect" for
+all gapped free fermion topological phases and representative integrable models
+of interacting topological phases. We present a terrace construction which
+illustrates the phenomenological consequences of this proximity effect.
+Finally, we discuss generalizations beyond our framework, including how
+intrinsic topological order may also exhibit this effect.
+</dc:description>
+ <dc:description>Comment: 5 pages, 3 figures</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02803</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 086802 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.086802</dc:identifier>
+ </oai_dc:dc>
+

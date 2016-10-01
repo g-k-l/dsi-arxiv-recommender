@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantifying Concordance in Cosmology</dc:title>
+ <dc:creator>Seehars, Sebastian</dc:creator>
+ <dc:creator>Grandis, Sebastian</dc:creator>
+ <dc:creator>Amara, Adam</dc:creator>
+ <dc:creator>Refregier, Alexandre</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Quantifying the concordance between different cosmological experiments is
+important for testing the validity of theoretical models and systematics in the
+observations. In earlier work, we thus proposed the Surprise, a concordance
+measure derived from the relative entropy between posterior distributions. We
+revisit the properties of the Surprise and describe how it provides a general,
+versatile, and robust measure for the agreement between datasets. We also
+compare it to other measures of concordance that have been proposed for
+cosmology. As an application, we extend our earlier analysis and use the
+Surprise to quantify the agreement between WMAP 9, Planck 13 and Planck 15
+constraints on the $\Lambda$CDM model. Using a principle component analysis in
+parameter space, we find that the large Surprise between WMAP 9 and Planck 13
+(S = 17.6 bits, implying a deviation from consistency at 99.8% confidence) is
+due to a shift along a direction that is dominated by the amplitude of the
+power spectrum. The Planck 15 constraints deviate from the Planck 13 results (S
+= 56.3 bits), primarily due to a shift in the same direction. The Surprise
+between WMAP and Planck consequently disappears when moving to Planck 15 (S =
+-5.1 bits). This means that, unlike Planck 13, Planck 15 is not in tension with
+WMAP 9. These results illustrate the advantages of the relative entropy and the
+Surprise for quantifying the disagreement between cosmological experiments and
+more generally as an information metric for cosmology.
+</dc:description>
+ <dc:description>Comment: 10 pages, 4 figures, 1 table. Accepted for publication in PRD. Code
+  available at https://github.com/seeh/surprise</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08483</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 103507 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.103507</dc:identifier>
+ </oai_dc:dc>
+

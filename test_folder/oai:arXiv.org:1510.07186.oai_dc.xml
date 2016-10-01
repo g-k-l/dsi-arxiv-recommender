@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spectral bounds for the $k$-independence number of a graph</dc:title>
+ <dc:creator>Abiad, Aida</dc:creator>
+ <dc:creator>Cioab&#259;, Sebastian</dc:creator>
+ <dc:creator>Tait, Michael</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  In this paper, we obtain two spectral upper bounds for the $k$-independence
+number of a graph which is is the maximum size of a set of vertices at pairwise
+distance greater than $k$. We construct graphs that attain equality for our
+first bound and show that our second bound compares favorably to previous
+bounds on the $k$-independence number.
+</dc:description>
+ <dc:description>Comment: The manuscript has been improved by comments from the referees. To
+  appear in Linear Algebra and its Applications</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:date>2016-08-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07186</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimizing electrically controlled echo sequences for the exchange-only
+  qubit</dc:title>
+ <dc:creator>Rohling, Niklas</dc:creator>
+ <dc:creator>Burkard, Guido</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Recently, West and Fong [New J. Phys. 14, 083002 (2012)] introduced an echo
+scheme for an exchange-only qubit, which relies entirely on the
+exchange-interaction. Here, we compare two different exchange-based sequences
+and two optimization strategies, Uhrig dynamical decoupling (UDD) and optimized
+filter function dynamical decoupling (OFDD), which were introduced for a
+single-spin qubit and are applied in this paper to the three-spin exchange-only
+qubit. The calculation shows that the adaption of the optimization concepts can
+be achieved by straight-forward calculation. We consider two types of noise
+spectra, Lorentzian and Ohmic noise. For both spectra, the results reveal a
+slight dependence of the performance on the choice of the echo sequence.
+</dc:description>
+ <dc:description>Comment: 7 pages, 4 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04098</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 205434 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.205434</dc:identifier>
+ </oai_dc:dc>
+

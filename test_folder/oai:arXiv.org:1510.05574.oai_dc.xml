@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Physics of base-pairing dynamics in DNA</dc:title>
+ <dc:creator>Manghi, Manoel</dc:creator>
+ <dc:creator>Destainville, Nicolas</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  As a key molecule of Life, Deoxyribonucleic acid (DNA) is the focus of
+numbers of investigations with the help of biological, chemical and physical
+techniques. From a physical point of view, both experimental and theoretical
+works have brought quantitative insights into DNA base-pairing dynamics that we
+review in this Report, putting emphasis on theoretical developments. We discuss
+the dynamics at the base-pair scale and its pivotal coupling with the polymer
+one, with a polymerization index running from a few nucleotides to tens of
+kilo-bases. This includes opening and closure of short hairpins and oligomers
+as well as zipping and unwinding of long macromolecules. We review how
+different physical mechanisms are either used by Nature or utilized in
+biotechnological processes to separate the two intertwined DNA strands, by
+insisting on quantitative results. They go from thermally-assisted denaturation
+bubble nucleation to force- or torque- driven mechanisms. We show that the
+helical character of the molecule, possibly supercoiled, can play a key role in
+many denaturation and renaturation processes. We categorize the mechanisms
+according to the relative timescales associated with base-pairing and chain
+degrees of freedom such as bending and torsional elastic ones. In some specific
+situations, these chain degrees of freedom can be integrated out, and the
+quasi- static approximation is valid. The complex dynamics then reduces to the
+diffusion in a low-dimensional free-energy landscape. In contrast, some
+important cases of experimental interest necessarily appeal to
+far-from-equilibrium statistical mechanics and hydrodynamics.
+</dc:description>
+ <dc:description>Comment: Review Article, revised version</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-05-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05574</dc:identifier>
+ <dc:identifier>Physics Reports vol. 631 (2016) 1-41</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physrep.2016.04.001</dc:identifier>
+ </oai_dc:dc>
+

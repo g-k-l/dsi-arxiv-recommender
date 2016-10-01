@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimental system design for the integration of trapped-ion and
+  superconducting qubit systems</dc:title>
+ <dc:creator>De Motte, D.</dc:creator>
+ <dc:creator>Grounds, A. R.</dc:creator>
+ <dc:creator>Reh&#225;k, M.</dc:creator>
+ <dc:creator>Blanco, A. Rodriguez</dc:creator>
+ <dc:creator>Lekitsch, B.</dc:creator>
+ <dc:creator>Giri, G. S.</dc:creator>
+ <dc:creator>Neilinger, P.</dc:creator>
+ <dc:creator>Oelsner, G.</dc:creator>
+ <dc:creator>Il'ichev, E.</dc:creator>
+ <dc:creator>Grajcar, M.</dc:creator>
+ <dc:creator>Hensinger, W. K.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  We present a design for the experimental integration of ion trapping and
+superconducting qubit systems as a step towards the realization of a quantum
+hybrid system. The scheme addresses two key difficulties in realizing such a
+system; a combined microfabricated ion trap and superconducting qubit
+architecture, and the experimental infrastructure to facilitate both
+technologies. Developing upon work by Kielpinski et al. [1] we describe the
+design, simulation and fabrication process for a microfabricated ion trap
+capable of coupling an ion to a superconducting microwave LC circuit with a
+coupling strength in the tens of kHz. We also describe existing difficulties in
+combining the experimental infrastructure of an ion trapping setup into a
+dilution fridge with superconducting qubits and present solutions that can be
+immediately implemented using current technology.
+</dc:description>
+ <dc:date>2015-10-25</dc:date>
+ <dc:date>2016-06-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07298</dc:identifier>
+ </oai_dc:dc>
+

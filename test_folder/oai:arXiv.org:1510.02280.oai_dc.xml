@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Temperature Variation in the Dark Cosmic Fluid in the Late Universe</dc:title>
+ <dc:creator>Brevik, Iver</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  A one-component dark energy fluid model of the late universe is considered
+($w&lt;-1$) when the fluid, initially assumed laminar, makes a transition into a
+turbulent state of motion. Spatial isotropy is assumed so that only the bulk
+viscosities are included ($\zeta$ in the laminar epoch and $\zeta_{\rm turb}$
+in the turbulent epoch). Both viscosities are assumed to be constants. We
+derive a formula, new as far as we know, for the time dependence of the
+temperature $T(t)$ in the laminar case when viscosity is included. Assuming
+that the laminar/turbulent transition takes place at some time $t_s$ before the
+big rip is reached, we then analyze the positive temperature jump experienced
+by the fluid at $t=t_*$ if $\zeta_{\rm turb} &gt; \zeta$. This is just as one
+would expect physically. The corresponding entropy production is also
+considered. A special point emphasized in the paper is the analogy that exists
+between the cosmic fluid and a so-called Maxwell fluid in viscoelasticity.
+</dc:description>
+ <dc:description>Comment: 16 pages latex, no figures, to appear in Mod. Phys. Lett. A. Note:
+  this file was previously posted incorrectly as arXiv:1509.06995v2</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-02-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02280</dc:identifier>
+ <dc:identifier>Mod. Phys. Lett. A, Vol. 31, No. 8 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1142/S0217732316500504</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Explicit high-order non-canonical symplectic particle-in-cell algorithms
+  for Vlasov-Maxwell systems</dc:title>
+ <dc:creator>Xiao, Jianyuan</dc:creator>
+ <dc:creator>Qin, Hong</dc:creator>
+ <dc:creator>Liu, Jian</dc:creator>
+ <dc:creator>He, Yang</dc:creator>
+ <dc:creator>Zhang, Ruili</dc:creator>
+ <dc:creator>Sun, Yajuan</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  Explicit high-order non-canonical symplectic particle-in-cell algorithms for
+classical particle-field systems governed by the Vlasov-Maxwell equations are
+developed. The algorithm conserves a discrete non-canonical symplectic
+structure derived from the Lagrangian of the particle-field system, which is
+naturally discrete in particles. The electromagnetic field is
+spatially-discretized using the method of discrete exterior calculus with
+high-order interpolating differential forms for a cubic grid. The resulting
+time-domain Lagrangian assumes a non-canonical symplectic structure. It is also
+gauge invariant and conserves charge. The system is then solved using a
+splitting method discovered by He et al., which produces five exactly-soluable
+sub-systems, and high-order structure- preserving algorithms follow by
+combinations. The explicit, high-order, and conservative nature of the
+algorithms is especially suitable for long-term simulations of particle-field
+systems with extremely large number of degrees of freedom on massively parallel
+supercomputers. The algorithms have been tested and verified by the two physics
+problems, i.e., the nonlinear Landau damping and the electron Bernstein wave.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-03-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06972</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4935904</dc:identifier>
+ </oai_dc:dc>
+

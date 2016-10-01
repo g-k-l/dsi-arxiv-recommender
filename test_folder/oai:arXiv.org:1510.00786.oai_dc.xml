@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Astrophysical S-factor for $^6$Li$(p,\gamma)$$^7$Be in the
+  coupled-channel Gamow shell model</dc:title>
+ <dc:creator>Dong, G. X.</dc:creator>
+ <dc:creator>Fossez, K.</dc:creator>
+ <dc:creator>Michel, N.</dc:creator>
+ <dc:creator>P&#322;oszajczak, M.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We have applied the Gamow shell model (GSM) in the coupled-channel
+representation to study the astrophysical $S$-factor for the proton radiative
+capture reaction of $^6$Li. Reaction channels are built by coupling the proton
+wave function expanded in different partial waves with the GSM wave functions
+of the ground state ($1^+$) and the excited states ($3^+_1$, $0^+_1$ and
+$2^+_1$) of $^6$Li. All relevant $E1$, $M1$, and $E2$ transitions from the
+initial continuum states in $^7$Be to the final bound states (${3/2}^-_1$ and
+${1/2}^-_1$) states are included. It is found that the calculated total
+astrophysical $S$ factor for this reaction agrees well with the experimental
+data.
+</dc:description>
+ <dc:description>Comment: Presented at the 13th Int. Symposium on Origin of Matter and
+  Evolution of Galaxies (OMEG2015, June 24-27, 2015, Beijing, China</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00786</dc:identifier>
+ <dc:identifier>EPJ Web of Conferences 109, 05003 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1051/epjconf/201610905003</dc:identifier>
+ </oai_dc:dc>
+

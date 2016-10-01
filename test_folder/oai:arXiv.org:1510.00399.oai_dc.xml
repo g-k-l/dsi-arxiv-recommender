@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A recurrence for an expression involving double factorials</dc:title>
+ <dc:creator>Cooper III, Joseph E.</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>05A10</dc:subject>
+ <dc:description>  We find a closed-form solution to the recurrence $\ z_{n+2} =
+\frac{1}{z_{n+1}} + z_n$, where $n \in \mathbb Z_{\geq 1}$ and $z_1 \in \mathbb
+R_{&gt; 0},\ z_2 \in \mathbb R_{&gt; 0}$. As a corollary, we derive an alternate
+proof of a recurrence for an expression involving double factorials which first
+appeared in the 2004 Putnam Contest. We subsequently pose several open
+questions suitable for motivated undergraduate students.
+</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-06-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00399</dc:identifier>
+ </oai_dc:dc>
+

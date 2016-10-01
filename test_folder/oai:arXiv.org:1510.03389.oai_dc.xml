@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Predicting Flow Reversals in a Computational Fluid Dynamics Simulated
+  Thermosyphon using Data Assimilation</dc:title>
+ <dc:creator>Reagan, Andrew J.</dc:creator>
+ <dc:creator>Dubief, Yves</dc:creator>
+ <dc:creator>Dodds, Peter Sheridan</dc:creator>
+ <dc:creator>Danforth, Christopher M.</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:description>  A thermal convection loop is a annular chamber filled with water, heated on
+the bottom half and cooled on the top half. With sufficiently large forcing of
+heat, the direction of fluid flow in the loop oscillates chaotically, dynamics
+analogous to the Earth's weather. As is the case for state-of-the-art weather
+models, we only observe the statistics over a small region of state space,
+making prediction difficult. To overcome this challenge, data assimilation (DA)
+methods, and specifically ensemble methods, use the computational model itself
+to estimate the uncertainty of the model to optimally combine these
+observations into an initial condition for predicting the future state. Here,
+we build and verify four distinct DA methods, and then, we perform a twin model
+experiment with the computational fluid dynamics simulation of the loop using
+the Ensemble Transform Kalman Filter (ETKF) to assimilate observations and
+predict flow reversals. We show that using adaptively shaped localized
+covariance outperforms static localized covariance with the ETKF, and allows
+for the use of less observations in predicting flow reversals. We also show
+that a Dynamic Mode Decomposition (DMD) of the temperature and velocity fields
+recovers the low dimensional system underlying reversals, finding specific
+modes which together are predictive of reversal direction.
+</dc:description>
+ <dc:description>Comment: 9 pages, 11 figures. Update: author middle initial added</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-06-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03389</dc:identifier>
+ <dc:identifier>doi:10.1371/journal.pone.0148134</dc:identifier>
+ </oai_dc:dc>
+

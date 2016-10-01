@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universal quantum criticality in the metal-insulator transition of
+  two-dimensional interacting Dirac electrons</dc:title>
+ <dc:creator>Otsuka, Yuichi</dc:creator>
+ <dc:creator>Yunoki, Seiji</dc:creator>
+ <dc:creator>Sorella, Sandro</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:description>  The metal-insulator transition has been a subject of intense research since
+Nevil Mott has first proposed that the metallic behavior of interacting
+electrons could turn to the insulating one as electron correlations increase.
+Here, we consider electrons with massless Dirac-like dispersion in two spatial
+dimensions, described by the Hubbard models on two geometrically different
+lattices, and perform numerically exact calculations on unprecedentedly large
+systems that, combined with a careful finite size scaling analysis, allow us to
+explore the quantum critical behavior in the vicinity of the interaction-driven
+metal-insulator transition. We find thereby that the transition is continuous
+and determine the quantum criticality for the corresponding universality class,
+which is described in the continuous limit by the Gross-Neveu model, a model
+extensively studied in quantum field theory. We furthermore discuss a
+fluctuation-driven scenario for the metal-insulator transition in the
+interacting Dirac electrons: the metal-insulator transition is triggered only
+by the vanishing of the quasiparticle weight but not the Dirac Fermi velocity,
+which instead remains finite near the transition. This important feature cannot
+be captured by a simple mean-field or Gutzwiller-type approximate picture, but
+is rather consistent with the low energy behavior of the Gross-Neveu model.
+</dc:description>
+ <dc:description>Comment: 18 pages, 17 figures; to be published in Phys. Rev. X</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-02-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08593</dc:identifier>
+ <dc:identifier>Phys. Rev. X 6, 011029 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevX.6.011029</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Asymptotic Dirichlet problem for $\mathcal{A}$-harmonic functions on
+  manifolds with pinched curvature</dc:title>
+ <dc:creator>Heinonen, Esko</dc:creator>
+ <dc:subject>Mathematics - Differential Geometry</dc:subject>
+ <dc:subject>58J32, 53C21, 31C45</dc:subject>
+ <dc:description>  We study the asymptotic Dirichlet problem for $\mathcal{A}$-harmonic
+functions on a Cartan-Hadamard manifold whose radial sectional curvatures
+outside a compact set satisfy an upper bound
+  $$
+  K(P)\le - \frac{1+\varepsilon}{r(x)^2 \log r(x)}
+  $$ and a pointwise pinching condition
+  $$
+  |K(P)|\le C_K |K(P')|
+  $$ for some constants $\varepsilon&gt;0$ and $C_K\ge 1$, where $P$ and $P'$ are
+any 2-dimensional subspaces of $T_xM$ containing the (radial) vector $\nabla
+r(x)$ and $r(x)=d(o,x)$ is the distance to a fixed point $o\in M$. We solve the
+asymptotic Dirichlet problem with any continuous boundary data $f\in
+C(\partial_{\infty} M)$. The results apply also to the Laplacian and
+$p$-Laplacian, $1&lt;p&lt;\infty,$ as special cases.
+</dc:description>
+ <dc:description>Comment: arXiv admin note: substantial text overlap with arXiv:1504.05378</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01525</dc:identifier>
+ <dc:identifier>doi:10.1007/s11118-016-9569-7</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Initial conditions from the shadowed Glauber model</dc:title>
+ <dc:creator>Chatterjee, Sandeep</dc:creator>
+ <dc:creator>Singh, Sushant K.</dc:creator>
+ <dc:creator>Ghosh, Snigdha</dc:creator>
+ <dc:creator>Hasanujjaman, Md</dc:creator>
+ <dc:creator>Alam, Jane</dc:creator>
+ <dc:creator>Sarkar, Sourav</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  The two component Monte-Carlo Glauber model predicts a knee-like structure in
+the centrality dependence of elliptic flow $v_2$ in Uranium+Uranium collisions
+at $\sqrt{s_{NN}}=193$ GeV. It also produces a strong anti-correlation between
+$v_2$ and $dN_{ch}/dy$ in the case of top ZDC events. However, none of these
+features have been observed in data. We address these discrepancies by
+including the effect of nucleon shadowing to the two component Monte-Carlo
+Glauber model. Apart from addressing successfully the above issues, we find
+that the nucleon shadow suppresses the event by event fluctuation of various
+quantities, e.g. $\varepsilon_2$ which is in accordance with expectation from
+the dynamical models of initial condition based on gluon saturation physics.
+</dc:description>
+ <dc:description>Comment: version accepted for publication in Physics Letters B</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-05-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01311</dc:identifier>
+ <dc:identifier>Phys. Lett. B758 (2016) 269-273</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.05.022</dc:identifier>
+ </oai_dc:dc>
+

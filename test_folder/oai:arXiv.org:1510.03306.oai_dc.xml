@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>LayerOptics: Microscopic modeling of optical coefficients in layered
+  materials</dc:title>
+ <dc:creator>Vorwerk, Christian</dc:creator>
+ <dc:creator>Cocchi, Caterina</dc:creator>
+ <dc:creator>Draxl, Claudia</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Theoretical spectroscopy is a powerful tool to describe and predict optical
+properties of materials. While nowadays routinely performed, first-principles
+calculations only provide bulk dielectric tensors in Cartesian coordinates.
+These outputs are hardly comparable with experimental data, which are typically
+given by macroscopic quantities, crucially depending on the laboratory setup.
+Even more serious discrepancies can arise for anisotropic materials, e.g.,
+organic crystals, where off-diagonal elements of the dielectric tensor can
+significantly contribute to the spectral features. Here, we present
+LayerOptics, a versatile and user-friendly implementation, based on the
+solution of the Maxwell's equations for anisotropic materials, to compute
+optical coefficients in anisotropic layered materials. We apply this tool for
+post-processing full dielectric tensors of molecular materials, including
+excitonic effects, as computed from many-body perturbation theory using the
+exciting code. For prototypical examples, ranging from optical to X-ray
+frequencies, we show the importance of combining accurate ab initio methods to
+obtain dielectric tensors, with the solution of the Maxwell's equations to
+compute optical coefficients accounting for optical anisotropy of layered
+systems. Good agreement with experimental data supports the potential of our
+approach, in view of achieving microscopic understanding of spectroscopic
+properties in complex materials.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03306</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cpc.2016.01.004</dc:identifier>
+ </oai_dc:dc>
+

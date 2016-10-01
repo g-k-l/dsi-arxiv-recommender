@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A molecule that detects the length of DNA by using chain fluctuations</dc:title>
+ <dc:creator>Iwasa, Kuni H.</dc:creator>
+ <dc:creator>Florescu, Ana Maria</dc:creator>
+ <dc:subject>Physics - Biological Physics</dc:subject>
+ <dc:description>  A class of nucleosome remodeling motors translocate nucleosomes, to which
+they are attached, toward the middle of DNA chain in the presence of ATP during
+in vitro experiments. Such a biological activity is likely based on a physical
+mechanism for detecting and comparing the lengths of the flanking polymer
+chains. Here we propose that a pivoting mode of DNA fluctuation near the
+surface of the nucleosome coupled with binding reaction with a DNA binding site
+of the motor provides a physical basis for length detection. Since the mean
+frequency of fluctuation is higher for a shorter chain than a longer one due to
+its lower drag coefficient, a shorter chain has a higher rate of receptor
+binding, which triggers the ATP-dependent activity of the remodeling motor.
+Dimerization of such units allows the motor to compare the length of the
+flanking DNA chains, enabling the translocation of the nucleosome toward the
+center of the DNA.
+</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00011</dc:identifier>
+ <dc:identifier>J. Stat. Mech. (2016) 054030</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/05/054030</dc:identifier>
+ </oai_dc:dc>
+

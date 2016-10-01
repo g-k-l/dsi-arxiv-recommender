@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stop Decay with LSP Gravitino in the final state:
+  $\tilde{t}_1\to\widetilde{G}\,W\,b$</dc:title>
+ <dc:creator>Cruz, J. Lorenzo D&#237;az</dc:creator>
+ <dc:creator>Larios, Bryan O.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  In MSSM scenarios where the gravitino is the lightest supersymmetric particle
+(LSP), and therefore a viable dark matter candidate, the stop $\tilde{t}_1$
+could be the next-to-lightest superpartner (NLSP). For a mass spectrum
+satisfying: $m_{\widetilde{G}}+m_t&gt;m_{\tilde{t}_1}&gt;m_{\widetilde{G}}+m_b+m_W$,
+the stop decay is dominated by the 3-body mode $\tilde{t}_1\rightarrow
+b\,W\,\tilde{G}$. We calculate the stop life-time, including the full
+contributions from top, sbottom and chargino as intermediate states. We also
+evaluate the stop lifetime for the case when the gravitino can be approximated
+by the goldstino state. Our analytical results are conveniently expressed using
+an expansion in terms of the intermediate state mass, which helps to identify
+the massless limit.
+  In the region of low gravitino mass ($m_{\widetilde{G}}\ll m_{\tilde{t}_1}$)
+the results obtained using the gravitino and goldstino cases turns out to be
+similar, as expected. However for higher gravitino masses $m_{\widetilde{G}}
+\lesssim m_{\tilde{t}_1}$ the results for the lifetime could show a difference
+of O(100)\%.
+</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-02-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01447</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-016-3977-0</dc:identifier>
+ </oai_dc:dc>
+

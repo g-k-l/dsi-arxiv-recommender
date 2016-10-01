@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Regularity and Planarity of Token Graphs</dc:title>
+ <dc:creator>Carballosa, Walter</dc:creator>
+ <dc:creator>Fabila-Monroy, Ruy</dc:creator>
+ <dc:creator>Lea&#241;os, Jes&#250;s</dc:creator>
+ <dc:creator>Rivera, Luis Manuel</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>05C10, 05C69</dc:subject>
+ <dc:description>  Let $G=(V,E)$ be a graph of order $n$ and let $1\leq k&lt; n$ be an integer. The
+$k$-token graph of $G$ is the graph whose vertices are all the $k$-subsets of
+$V$, two of which are adjacent whenever their symmetric difference is a pair of
+adjacent vertices in $G$. In this paper we characterize precisely, for each
+value of $k$, which graphs have a regular $k$-token graph and which connected
+graphs have a planar $k$-token graph.
+</dc:description>
+ <dc:description>Comment: 13 pages, 5 figures. Referee suggestions and corrections incorporated
+  (in particular, a mistake in the proof of Theorem 2.9 was fixed). One
+  reference added. Accepted for publication in "Discussiones Mathematicae Graph
+  Theory"</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-06-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00424</dc:identifier>
+ </oai_dc:dc>
+

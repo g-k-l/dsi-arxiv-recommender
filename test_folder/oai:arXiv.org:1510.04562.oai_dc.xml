@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>MPL - a program for computations with iterated integrals on moduli
+  spaces of curves of genus zero</dc:title>
+ <dc:creator>Bogner, Christian</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We introduce the computer program MPL for computations with homotopy
+invariant iterated integrals on moduli spaces $\mathcal{M}_{0,n}$ of curves of
+genus 0 with $n$ ordered marked points. The program is an implementation of the
+algorithms presented in [13], based on Maple. It includes the symbol map and
+procedures for the analytic computation of period integrals on
+$\mathcal{M}_{0,n}.$ It supports the automated computation of a certain class
+of Feynman integrals.
+</dc:description>
+ <dc:description>Comment: 35 pages</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04562</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cpc.2016.02.033</dc:identifier>
+ </oai_dc:dc>
+

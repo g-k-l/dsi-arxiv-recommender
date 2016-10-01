@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimizing StackSlide setup and data selection for
+  continuous-gravitational-wave searches in realistic detector data</dc:title>
+ <dc:creator>Shaltev, Miroslav</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:description>  The search for continuous gravitational waves in a wide parameter space at
+fixed computing cost is most efficiently done with semicoherent methods, e.g.
+StackSlide, due to the prohibitive computing cost of the fully coherent search
+strategies. Prix&amp;Shaltev arXiv:1201.4321 have developed a semi-analytic method
+for finding \emph{optimal} StackSlide parameters at fixed computing cost under
+ideal data conditions, i.e. gap-less data and constant noise floor. In this
+work we consider more realistic conditions by allowing for gaps in the data and
+changes in noise level. We show how the sensitivity optimization can be
+decoupled from the data selection problem. To find optimal semicoherent search
+parameters we apply a numerical optimization using as example the semicoherent
+StackSlide search. We also describe three different data selection algorithms.
+Thus the outcome of the numerical optimization consists of the optimal search
+parameters and the selected dataset. We first test the numerical optimization
+procedure under ideal conditions and show that we can reproduce the results of
+the analytical method. Then we gradually relax the conditions on the data and
+find that a compact data selection algorithm yields higher sensitivity compared
+to a greedy data selection procedure.
+</dc:description>
+ <dc:description>Comment: 14 pages, 6 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-04-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06427</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 044058 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.044058</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Postprocessing of Compressed Images via Sequential Denoising</dc:title>
+ <dc:creator>Dar, Yehuda</dc:creator>
+ <dc:creator>Bruckstein, Alfred M.</dc:creator>
+ <dc:creator>Elad, Michael</dc:creator>
+ <dc:creator>Giryes, Raja</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:description>  In this work we propose a novel postprocessing technique for
+compression-artifact reduction. Our approach is based on posing this task as an
+inverse problem, with a regularization that leverages on existing
+state-of-the-art image denoising algorithms. We rely on the recently proposed
+Plug-and-Play Prior framework, suggesting the solution of general inverse
+problems via Alternating Direction Method of Multipliers (ADMM), leading to a
+sequence of Gaussian denoising steps. A key feature in our scheme is a
+linearization of the compression-decompression process, so as to get a
+formulation that can be optimized. In addition, we supply a thorough analysis
+of this linear approximation for several basic compression procedures. The
+proposed method is suitable for diverse compression techniques that rely on
+transform coding. Specifically, we demonstrate impressive gains in image
+quality for several leading compression methods - JPEG, JPEG2000, and HEVC.
+</dc:description>
+ <dc:description>Comment: Submitted to IEEE Transactions on Image Processing</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-03-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09041</dc:identifier>
+ <dc:identifier>doi:10.1109/TIP.2016.2558825</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Band gap anomaly and topological properties in lead chalcogenides</dc:title>
+ <dc:creator>Nie, Simin</dc:creator>
+ <dc:creator>Xu, Xiao Yan</dc:creator>
+ <dc:creator>Xu, Gang</dc:creator>
+ <dc:creator>Fang, Zhong</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Band gap anomaly is a well-known issue in lead chalcogenides PbX (X=S, Se,
+Te, Po). Combining ab initio calculations and tight-binding (TB) method, we
+have studied the band evolution in PbX, and found that the band gap anomaly in
+PbTe is mainly related to the high onsite energy of Te 5s orbital and the large
+s-p hopping originated from the irregular extended distribution of Te 5s
+electrons. Furthermore, our calculations show that PbPo is an indirect band gap
+(6.5 meV) semiconductor with band inversion at L point, which clearly indicates
+that PbPo is a topological crystalline insulator (TCI). The calculated mirror
+Chern number and surface states double confirm this conclusion.
+</dc:description>
+ <dc:description>Comment: 7 pages and 4 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07823</dc:identifier>
+ <dc:identifier>Chinese Physics B 25 (2016) 037311</dc:identifier>
+ <dc:identifier>doi:10.1088/1674-1056/25/3/037311</dc:identifier>
+ </oai_dc:dc>
+

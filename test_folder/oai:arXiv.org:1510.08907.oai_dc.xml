@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Detection of the first infra-red quasi periodic oscillation in a black
+  hole X-ray binary</dc:title>
+ <dc:creator>Kalamkar, M.</dc:creator>
+ <dc:creator>Casella, P.</dc:creator>
+ <dc:creator>Uttley, P.</dc:creator>
+ <dc:creator>O'Brien, K.</dc:creator>
+ <dc:creator>Russell, D.</dc:creator>
+ <dc:creator>Maccarone, T.</dc:creator>
+ <dc:creator>van der Klis, M.</dc:creator>
+ <dc:creator>Vincentelli, F.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We present analysis of fast variability of Very Large Telescope/ISAAC
+(infra-red), \textit{XMM-Newton}/OM (optical) and EPIC-pn (X-ray), and RXTE/PCA
+(X-ray) observations of the black hole X-ray binary GX 339-4 in a rising hard
+state of its outburst in 2010. We report the first detection of a Quasi
+Periodic Oscillation (QPO) in the infra-red band (IR) of a black hole X-ray
+binary. The QPO is detected at 0.08 Hz in the IR as well as two optical bands
+(U and V). Interestingly, these QPOs are at half the X-ray QPO frequency at
+0.16 Hz, which is classified as the type-C QPO; a weak sub-harmonic close to
+the IR and optical QPO frequency is also detected in X-rays. The broad band
+sub-second time scale variability is strongly correlated in IR/X-ray bands,
+with X-rays leading the IR by over 100 ms. This short time delay, shape of the
+cross correlation function and spectral energy distribution strongly indicate
+that this broad band variable IR emission is the synchrotron emission from the
+jet. A jet origin for the IR QPO is strongly favoured, but cannot be
+definitively established with the current data. The spectral energy
+distribution indicates a thermal disc origin for the bulk of the optical
+emission, but the origin of the optical QPO is unclear. We discuss our findings
+in the context of the existing models proposed to explain the origin of
+variability.
+</dc:description>
+ <dc:description>Comment: 9 pages, 3 figures, Accepted for publication in the MNRAS</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-05-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08907</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1211</dc:identifier>
+ </oai_dc:dc>
+

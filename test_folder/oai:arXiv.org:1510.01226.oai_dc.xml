@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Discovery of an outflow from radio observations of the tidal disruption
+  event ASASSN-14li</dc:title>
+ <dc:creator>Alexander, Kate D.</dc:creator>
+ <dc:creator>Berger, Edo</dc:creator>
+ <dc:creator>Guillochon, James</dc:creator>
+ <dc:creator>Zauderer, Bevin A.</dc:creator>
+ <dc:creator>Williams, Peter K. G.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We report the discovery of transient radio emission from the nearby
+optically-discovered TDE ASASSN-14li (distance of 90 Mpc), making it the first
+typical TDE detected in the radio, and unambiguously pointing to the formation
+of a non-relativistic outflow with a kinetic energy of $\approx
+(4-10)\times10^{47}$ erg, a velocity of $\approx 12,000-36,000$ km s$^{-1}$,
+and a mass of $\approx 3\times10^{-5}-7\times10^{-4}$ M$_{\odot}$. We show that
+the outflow was ejected on 2014 August 11--25, in agreement with an independent
+estimate of the timing of super-Eddington accretion based on the optical, UV,
+and X-ray observations, and that the ejected mass corresponds to about $1-10\%$
+of the mass accreted in the super-Eddington phase. The temporal evolution of
+the radio emission also uncovers the circumnuclear density profile,
+$\rho(R)\propto R^{-2.5}$ on a scale of about 0.01 pc, a scale that cannot be
+probed via direct measurements even in the nearest SMBHs. Our discovery of
+radio emission from the nearest well-studied TDE to date, with a radio
+luminosity lower than all previous limits, indicates that non-relativistic
+outflows are ubiquitous in TDEs, and that future, more sensitive, radio surveys
+will uncover similar events.
+</dc:description>
+ <dc:description>Comment: 10 pages, 6 figures, 2 tables; published in ApJ Letters. Fixes an
+  error in our density calculation and expands discussion, major conclusions
+  unchanged from previous version</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01226</dc:identifier>
+ <dc:identifier>ApJ, 819, L25 (2016)</dc:identifier>
+ <dc:identifier>doi:10.3847/2041-8205/819/2/L25</dc:identifier>
+ </oai_dc:dc>
+

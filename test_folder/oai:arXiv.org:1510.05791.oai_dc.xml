@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Upper bounds on spontaneous wave-function collapse models using
+  millikelvin-cooled nanocantilevers</dc:title>
+ <dc:creator>Vinante, A.</dc:creator>
+ <dc:creator>Bahrami, M.</dc:creator>
+ <dc:creator>Bassi, A.</dc:creator>
+ <dc:creator>Usenko, O.</dc:creator>
+ <dc:creator>Wijts, G.</dc:creator>
+ <dc:creator>Oosterkamp, T. H.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Collapse models predict a tiny violation of energy conservation, as a
+consequence of the spontaneous collapse of the wave function. This property
+allows to set experimental bounds on their parameters. We consider an ultrasoft
+magnetically tipped nanocantilever cooled to millikelvin temperature. The
+thermal noise of the cantilever fundamental mode has been accurately estimated
+in the range $0.03-1$ K, and any other excess noise is found to be negligible
+within the experimental uncertainty. From the measured data and the cantilever
+geometry, we estimate the upper bound on the Continuous Spontaneous
+Localization (CSL) collapse rate in a wide range of the correlation length
+$r_C$. Our upper bound improves significantly previous constraints for
+$r_C&gt;10^{-6}$ m, and partially excludes the enhanced collapse rate suggested by
+Adler. We discuss future improvements.
+</dc:description>
+ <dc:description>Comment: 11 pages, 9 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05791</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 090402 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.090402</dc:identifier>
+ </oai_dc:dc>
+

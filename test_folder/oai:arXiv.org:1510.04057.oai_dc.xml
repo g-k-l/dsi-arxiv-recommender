@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Computing the laser beam path in optical cavities: a geometric Newton's
+  method based approach</dc:title>
+ <dc:creator>Cuccato, Davide</dc:creator>
+ <dc:creator>Saccon, Alessandro</dc:creator>
+ <dc:creator>Ortolan, Antonello</dc:creator>
+ <dc:creator>Beghi, Alessandro</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  In the last decade, increasing attention has been drawn to high precision
+optical experiments, which push resolution and accuracy of the measured
+quantities beyond their current limits. This challenge requires to place
+optical elements (e.g. mirrors, lenses, etc.) and to steer light beams with
+sub-nanometer precision. Existing methods for beam direction computing in
+resonators, e.g. iterative ray tracing or generalized ray transfer matrices,
+are either computationally expensive or rely on overparametrized models of
+optical elements. By exploiting Fermat's principle, we develop a novel method
+to compute the steady-state beam configurations in resonant optical cavities
+formed by spherical mirrors, as a function of mirror positions and curvature
+radii. The proposed procedure is based on the geometric Newton method on matrix
+manifold, a tool with second order convergence rate that relies on a second
+order model of the cavity optical length. As we avoid coordinates to
+parametrize the beam position on mirror surfaces, the computation of the second
+order model does not involve the second derivatives of the parametrization.
+With the help of numerical tests, we show that the convergence properties of
+our procedure hold for non-planar polygonal cavities, and we assess the
+effectiveness of the geometric Newton method in determining their
+configurations with high degree of accuracy and negligible computational
+effort.
+</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04057</dc:identifier>
+ </oai_dc:dc>
+

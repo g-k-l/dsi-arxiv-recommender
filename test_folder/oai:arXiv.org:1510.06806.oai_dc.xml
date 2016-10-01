@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spectral analysis of a complex Schr\"odinger operator in the
+  semiclassical limit</dc:title>
+ <dc:creator>Almog, Yaniv</dc:creator>
+ <dc:creator>Henry, Rapha&#235;l</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We consider the Dirichlet realization of the operator $-h^2\Delta+iV$ in the
+semi-classical limit $h\to0$, where $V$ is a smooth real potential with no
+critical points. For a one dimensional setting, we obtain the complete
+asymptotic expansion, in powers of $h$, of each eigenvalue. In two dimensions
+we obtain the left margin of the spectrum, under some additional conditions.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-06-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06806</dc:identifier>
+ </oai_dc:dc>
+

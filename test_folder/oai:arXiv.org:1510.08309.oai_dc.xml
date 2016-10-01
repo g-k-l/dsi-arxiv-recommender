@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>How much cosmological information can be measured?</dc:title>
+ <dc:creator>Ma, Yin-Zhe</dc:creator>
+ <dc:creator>Scott, Douglas</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  It has become common to call this the "era of precision cosmology," and hence
+one rarely hears about the finiteness of the amount of information that is
+available for constraining cosmological parameters. Under the assumption that
+the perturbations are purely Gaussian, the amount of extractable information
+(in terms of total signal-to-noise ratio for power spectrum measurements) is
+the same (up to a small numerical factor) as an accounting of the number of
+observable modes. For studies of the microwave sky, we are probably within a
+factor of a few of the amount of accessible information. To dramatically reduce
+the uncertainties on parameters will require three-dimensional probes, such as
+ambitious future redshifted 21-cm surveys. However, even there the available
+information is still finite, with the total effective signal-to-noise ratio on
+parameters probably not exceeding $10^7$. The amount of observable information
+will increase with time (but very slowly) into the extremely distant future.
+</dc:description>
+ <dc:description>Comment: 8 pages, 3 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08309</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 083510 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.083510</dc:identifier>
+ </oai_dc:dc>
+

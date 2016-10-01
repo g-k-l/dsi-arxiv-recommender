@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantitative affine approximation for UMD targets</dc:title>
+ <dc:creator>Hyt&#246;nen, Tuomas</dc:creator>
+ <dc:creator>Li, Sean</dc:creator>
+ <dc:creator>Naor, Assaf</dc:creator>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:subject>Mathematics - Metric Geometry</dc:subject>
+ <dc:description>  It is shown here that if $(Y,\|\cdot\|_Y)$ is a Banach space in which
+martingale differences are unconditional (a UMD Banach space) then there exists
+$c=c(Y)\in (0,\infty)$ with the following property. For every $n\in \mathbb{N}$
+and $\varepsilon\in (0,1/2]$, if $(X,\|\cdot\|_X)$ is an $n$-dimensional normed
+space with unit ball $B_X$ and $f:B_X\to Y$ is a $1$-Lipschitz function then
+there exists an affine mapping $\Lambda:X\to Y$ and a sub-ball $B^*=y+\rho
+B_X\subseteq B_X$ of radius $\rho\ge \exp(-(1/\varepsilon)^{cn})$ such that
+$\|f(x)-\Lambda(x)\|_Y\le \varepsilon \rho$ for all $x\in B^*$. This estimate
+on the macroscopic scale of affine approximability of vector-valued Lipschitz
+functions is an asymptotic improvement (as $n\to \infty$) over the best
+previously known bound even when $X$ is $\mathbb{R}^n$ equipped with the
+Euclidean norm and $Y$ is a Hilbert space.
+</dc:description>
+ <dc:description>Comment: Reference [38] was broken in the previous version and is now fixed.
+  The arxiv link of reference [39] was added. The displayed equation in
+  Question 9 was previously quoted incorrectly and is now fixed. Journal
+  reference: Discrete Analysis 2016(6):1-37, 2016</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-08-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00276</dc:identifier>
+ </oai_dc:dc>
+

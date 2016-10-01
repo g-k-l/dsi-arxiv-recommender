@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonequilibrium meson production in strong fields</dc:title>
+ <dc:creator>Juchnowski, L.</dc:creator>
+ <dc:creator>Blaschke, D.</dc:creator>
+ <dc:creator>Fischer, T.</dc:creator>
+ <dc:creator>Smolyansky, S. A.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We develop a kinetic equation approach to nonequilibrium pion and sigma meson
+production in a time-dependent, chiral symmetry breaking field (inertial
+mechanism). We investigate the question to what extent the low-momentum pion
+enhancement observed in heavy-ion collisions at CERN - LHC can be addressed
+within this formalism. In a first step, we consider the inertial mechanism for
+nonequilibrium production of $\sigma-$mesons and their simultaneous decay into
+pion pairs for two cases of $\sigma$ mass evolution. The resulting pion
+distribution shows a strong low-momentum enhancement which can be approximated
+by a thermal Bose distribution with a chemical potential that appears as a
+trace of the nonequilibrium process of its production.
+</dc:description>
+ <dc:description>Comment: 5 pages, 2 figures</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09196</dc:identifier>
+ <dc:identifier>J. Phys.: Conf. Ser. 673 (2016) 012009</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/673/1/012009</dc:identifier>
+ </oai_dc:dc>
+

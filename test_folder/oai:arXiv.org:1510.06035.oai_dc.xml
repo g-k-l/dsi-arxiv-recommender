@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Aperiodic Weak Topological Superconductors</dc:title>
+ <dc:creator>Fulga, I. C.</dc:creator>
+ <dc:creator>Pikulin, D. I.</dc:creator>
+ <dc:creator>Loring, T. A.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Weak topological phases are usually described in terms of protection by the
+lattice translation symmetry. Their characterization explicitly relies on
+periodicity since weak invariants are expressed in terms of the momentum-space
+torus. We prove the compatibility of weak topological superconductors with
+aperiodic systems, such as quasicrystals. We go beyond usual descriptions of
+weak topological phases and introduce a novel, real-space formulation of the
+weak invariant, based on the Clifford pseudospectrum. A non-trivial value of
+this index implies a non-trivial bulk phase, which is robust against disorder
+and hosts localized zero-energy modes at the edge. Our recipe for determining
+the weak invariant is directly applicable to any finite-sized system, including
+disordered lattice models. This direct method enables a quantitative analysis
+of the level of disorder the topological protection can withstand.
+</dc:description>
+ <dc:description>Comment: 5 pages, 2 figures + 4 pages, 4 figures appendix. This is the final,
+  published version</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-06-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06035</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 257002 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.257002</dc:identifier>
+ </oai_dc:dc>
+

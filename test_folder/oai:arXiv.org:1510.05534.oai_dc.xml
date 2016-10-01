@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Case Against Dark Matter and Modified Gravity: Flat Rotation Curves
+  Are a Rigorous Requirement in Rotating Self-Gravitating Newtonian Gaseous
+  Disks</dc:title>
+ <dc:creator>Christodoulou, Dimitris M.</dc:creator>
+ <dc:creator>Kazanas, Demosthenes</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  By solving analytically the various types of Lane-Emden equations with
+rotation, we have discovered two new coupled fundamental properties of
+rotating, self-gravitating, gaseous disks in equilibrium: Isothermal disks
+must, on average, exhibit strict power-law density profiles in radius $x$ on
+their equatorial planes of the form $A x^{k-1}$, where $A$ and $k-1$ are the
+integration constants, and "flat" rotation curves precisely such as those
+observed in spiral galaxy disks. Polytropic disks must, on average, exhibit
+strict density profiles of the form $\left[\ln(A x^k)\right]^n$, where $n$ is
+the polytropic index, and "flat" rotation curves described by square roots of
+upper incomplete gamma functions. By "on average," we mean that, irrespective
+of the chosen boundary conditions, the actual profiles must oscillate around
+and remain close to the strict mean profiles of the analytic singular
+equilibrium solutions. We call such singular solutions the "intrinsic"
+solutions of the differential equations because they are demanded by the
+second-order equations themselves with no regard to the Cauchy problem. The
+results are directly applicable to gaseous galaxy disks that have long been
+known to be isothermal and to protoplanetary disks during the extended
+isothermal and adiabatic phases of their evolution. In galactic gas dynamics,
+they have the potential to resolve the dark matter--modified gravity
+controversy in a sweeping manner, as they render both of these hypotheses
+unnecessary. In protoplanetary disk research, they provide observers with
+powerful new probing tool, as they predict a clear and simple connection
+between the radial density profiles and the rotation curves of self-gravitating
+disks in their very early (pre-Class 0 and perhaps the youngest Class Young
+Stellar Objects) phases of evolution.
+</dc:description>
+ <dc:description>Comment: Appendix was added to address vigorous objections against using
+  cylindrical coordinates to model the equatorial planes of vertically thin
+  disks</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05534</dc:identifier>
+ <dc:identifier>Journal of Modern Physics, 7, 680-698 (2016)</dc:identifier>
+ <dc:identifier>doi:10.4236/jmp.2016.77067</dc:identifier>
+ </oai_dc:dc>
+

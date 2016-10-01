@@ -1,0 +1,19 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Complexity of scheduling jobs on parallel machines under precedence
+  constraints: a survey</dc:title>
+ <dc:creator>Prot, Damien</dc:creator>
+ <dc:creator>Bellenguez-Morineau, Odile</dc:creator>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:description>  This survey aims at demonstrating that the structure of precedence
+constraints plays a tremendous role on the complexity of scheduling problems.
+Indeed many problems can be NP-hard when considering general precedence
+constraints, while they become polynomially solvable for particular precedence
+constraints. We also show that there still are many very exciting challenges in
+this research area.
+</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-04-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04833</dc:identifier>
+ </oai_dc:dc>
+

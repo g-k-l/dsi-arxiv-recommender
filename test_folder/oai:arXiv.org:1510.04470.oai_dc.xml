@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Ring and module structures on $K$-theory of leaf spaces and their
+  application to longitudinal index theory</dc:title>
+ <dc:creator>Wulff, Christopher</dc:creator>
+ <dc:subject>Mathematics - K-Theory and Homology</dc:subject>
+ <dc:subject>Primary 19K56, Secondary 46L80, 46L87, 57R30, 58J22</dc:subject>
+ <dc:description>  Pursuing conjectures of John Roe, we use the stable Higson corona of foliated
+cones to construct a new $K$-theory model for the leaf space of a foliation.
+This new $K$-theory model is -- in contrast to Alain Connes' $K$-theory model
+-- a ring. We show that Connes' $K$-theory model is a module over this ring and
+develop an interpretation of the module multiplication in terms of indices of
+twisted longitudinally elliptic operators.
+</dc:description>
+ <dc:description>Comment: Accepted for publication by the Journal of Topology</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-06-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04470</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Patchwork Sampling of Stochastic Differential Equations</dc:title>
+ <dc:creator>K&#252;rsten, R&#252;diger</dc:creator>
+ <dc:creator>Behn, Ulrich</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We propose a method to sample stationary properties of solutions of
+stochastic differential equations, which is accurate and efficient if there are
+rarely visited regions or rare transitions between distinct regions of the
+state space. The method is based on a complete, non-overlapping partition of
+the state space into patches on which the stochastic process is ergodic. On
+each of these patches we run simulations of the process strictly truncated to
+the corresponding patch, which allows effective simulations also in rarely
+visited regions. The correct weight for each patch is obtained by counting the
+attempted transitions between all different patches. The results are
+patchworked to cover the whole state space. We extend the concept of truncated
+Markov chains which is originally formulated for processes which obey detailed
+balance to processes not fulfilling detailed balance. The method is illustrated
+by three examples, describing the one-dimensional diffusion of an overdamped
+particle in a double-well potential, a system of many globally coupled
+overdamped particles in double-well potentials subject to additive Gaussian
+white noise, and the overdamped motion of a particle on the circle in a
+periodic potential subject to a deterministic drift and additive noise. In the
+appendix we explain how other well-known Markov chain Monte Carlo algorithms
+can be related to truncated Markov chains.
+</dc:description>
+ <dc:description>Comment: 14 pages, 6 figures</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00597</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 033307 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.033307</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Global analysis of $b\to s\ell\ell$ anomalies</dc:title>
+ <dc:creator>Descotes-Genon, S&#233;bastien</dc:creator>
+ <dc:creator>Hofer, Lars</dc:creator>
+ <dc:creator>Matias, Joaquim</dc:creator>
+ <dc:creator>Virto, Javier</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We present a detailed discussion of the current theoretical and experimental
+situation of the anomaly in the angular distribution of $B \to K^*(\to
+K\pi)\mu^+\mu^-$, observed at LHCb in the $1~\text{fb}^{-1}$ dataset and
+recently confirmed by the $3~\text{fb}^{-1}$ dataset. The impact of this data
+and other recent measurements on $b\to s\ell^+\ell^-$ transitions
+($\ell=e,\mu$) is considered. We review the observables of interest, focusing
+on their theoretical uncertainties and their sensitivity to New Physics, based
+on an analysis employing the QCD factorisation approach including several
+sources of hadronic uncertainties (form factors, power corrections, charm-loop
+effects). We perform fits to New Physics contributions including experimental
+and theoretical correlations. The solution that we proposed in 2013 to solve
+the $B\to K^*\mu^+\mu^-$ anomaly, with a contribution ${\mathcal C}_9^{\rm
+NP}\simeq -1$, is confirmed and reinforced. A wider range of New-Physics
+scenarios with high significances (between 4 and 5 $\sigma$) emerges from the
+fit, some of them being particularly relevant for model building. More data is
+needed to discriminate among them conclusively. The inclusion of $b\to s e^+
+e^-$ observables increases the significance of the favoured scenarios under the
+hypothesis of New Physics breaking lepton flavour universality. Several tests
+illustrate the robustness of our conclusions.
+</dc:description>
+ <dc:description>Comment: 54 pages + appendices, plenty of figures. Minor corrections,
+  references added, version published in JHEP</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-06-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04239</dc:identifier>
+ <dc:identifier>JHEP 06 (2016) 092</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP06(2016)092</dc:identifier>
+ </oai_dc:dc>
+

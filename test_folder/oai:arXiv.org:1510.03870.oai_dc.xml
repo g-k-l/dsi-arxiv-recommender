@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The bulge-disk decomposition of AGN host galaxies</dc:title>
+ <dc:creator>Bruce, V. A.</dc:creator>
+ <dc:creator>Dunlop, J. S.</dc:creator>
+ <dc:creator>Mortlock, A.</dc:creator>
+ <dc:creator>Kocevski, D. D.</dc:creator>
+ <dc:creator>McGrath, E. J.</dc:creator>
+ <dc:creator>Rosario, D. J.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present the results from a study of the morphologies of moderate
+luminosity X-ray selected AGN host galaxies in comparison to a carefully
+mass-matched control sample at 0.5 &lt; z &lt; 3 in the CANDELS GOODS-S field. We
+apply a multi-wavelength morphological decomposition analysis to these two
+samples and report on the differences between the morphologies as fitted from
+single Sersic and multiple Sersic models, and models which include an
+additional nuclear point-source component. Thus, we are able to compare the
+widely adopted single Sersic fits from previous studies to the results from a
+full morphological decomposition, and address the issue of how biased the
+inferred properties of AGN hosts are by a potential nuclear contribution from
+the AGN itself. We find that the AGN hosts are mixed systems which have higher
+bulge fractions than the control sample in our highest redshift bins at the
+&gt;99.7% confidence level, according to all model fits even those which adopt a
+point-source component. This serves to alleviate concerns that previous, purely
+single Sersic, analyses of AGN hosts could have been spuriously biased towards
+higher bulge fractions. This dataset allows us to further probe the physical
+nature of these point-source components; we find no strong correlation between
+the point-source component and AGN activity, and that these point-source
+components are best modelled physically by nuclear starbursts. Our analysis of
+the bulge and disk fractions of these AGN hosts in comparison to a mass-matched
+control sample reveals a similar morphological evolutionary track for both the
+active and non-active populations, providing further evidence in favour of a
+model where AGN activity is triggered by secular processes.
+</dc:description>
+ <dc:description>Comment: 14 pages, 16 figures, submitted to MNRAS</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03870</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw467</dc:identifier>
+ </oai_dc:dc>
+

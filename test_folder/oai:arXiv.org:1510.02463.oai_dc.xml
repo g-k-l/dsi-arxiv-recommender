@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Faraday Rotation, Band Splitting, and One-Way Propagation of Plasmon
+  Waves on a Nanoparticle Chain</dc:title>
+ <dc:creator>Pike, Nicholas A.</dc:creator>
+ <dc:creator>Stroud, David</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We calculate the dispersion relations of plasmonic waves propagating along a
+chain of semiconducting or metallic nanoparticles in the presence of both a
+static magnetic field ${\bf B}$ and a liquid crystalline host. The dispersion
+relations are obtained using the quasistatic approximation and a dipole-dipole
+approximation to treat the interaction between surface plasmons on different
+nanoparticles. For a plasmons propagating along a particle chain in a nematic
+liquid crystalline host with both ${\bf B}$ and the director parallel to the
+chain, we find a small, but finite, Faraday rotation angle. For ${\bf B}$
+perpendicular to the chain, but director still parallel to the chain, the field
+couples the longitudinal and one of the two transverse plasmonic branches. This
+coupling is shown to split the two branches at the zero field crossing by an
+amount proportional to $|{\bf B}|$. In a cholesteric liquid crystal host and an
+applied magnetic field parallel to the chain, the dispersion relations for
+left- and right-moving waves are found to be different. For some frequencies,
+the plasmonic wave propagates only in one of the two directions.
+</dc:description>
+ <dc:description>Comment: 6 pages, 4 figures. arXiv admin note: substantial text overlap with
+  arXiv:1502.04960</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02463</dc:identifier>
+ <dc:identifier>J. Appl. Phys. 119, 113103 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4943647</dc:identifier>
+ </oai_dc:dc>
+

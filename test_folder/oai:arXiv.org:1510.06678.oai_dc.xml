@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Burau maps and twisted Alexander polynomials</dc:title>
+ <dc:creator>Conway, Anthony</dc:creator>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:subject>57M25</dc:subject>
+ <dc:description>  The Burau representation of the braid group can be used to recover the
+Alexander polynomial of the closure of a braid. We define twisted Burau maps
+and use them to compute twisted Alexander polynomials.
+</dc:description>
+ <dc:description>Comment: 20 pages, 3 figures; v2: minor changes, to appear in Proc. Edinburgh
+  Math. Soc</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-08-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06678</dc:identifier>
+ </oai_dc:dc>
+

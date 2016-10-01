@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Surface energy calculations from Zinc blende (111)/(-1-1-1) to Wurtzite
+  (0001)/(000-1):a study of ZnO and GaN</dc:title>
+ <dc:creator>Zhang, Jingzhao</dc:creator>
+ <dc:creator>Zhang, Yiou</dc:creator>
+ <dc:creator>Tse, Kinfai</dc:creator>
+ <dc:creator>Deng, Bei</dc:creator>
+ <dc:creator>Xu, Hu</dc:creator>
+ <dc:creator>Zhu, Junyi</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:description>  The accurate absolute surface energies of (0001)/(000-1) surfaces of wurtzite
+structures are crucial in determining the thin film growth mode of important
+energy materials. However, the surface energies still remain to be solved due
+to the intrinsic difficulty of calculating dangling bond energy of
+asymmetrically bonded surface atoms. In this study, we used a pseudo-hydrogen
+passivation method to estimate the dangling bond energy and calculate the polar
+surfaces of ZnO and GaN. The calculations were based on the pseudo chemical
+potentials obtained from a set of tetrahedral clusters or simple
+pseudo-molecules, using density functional theory approaches. And the surface
+energies of (0001)/(000-1) surfaces of wurtzite ZnO and GaN we obtained showed
+relatively high self-consistencies. A wedge structure calculation with a new
+bottom surface passivation scheme of group I and group VII elements was also
+proposed and performed to show converged absolute surface energy of wurtzite
+ZnO polar surfaces, and the result were also compared with the above method.
+These calculations and comparisons may provide important insights to crystal
+growths of the above materials, thereby leading to significant performance
+enhancements of semiconductor devices.
+</dc:description>
+ <dc:description>Comment: 14 pages,5 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08961</dc:identifier>
+ <dc:identifier>J. Appl. Phys. 119, 205302 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4952395</dc:identifier>
+ </oai_dc:dc>
+

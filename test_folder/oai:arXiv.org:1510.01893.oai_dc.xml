@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The role of the diffusive protons in the gamma-ray emission of supernova
+  remnant RX J1713.7$-$3946 --- a two-zone model</dc:title>
+ <dc:creator>Zhang, Xiao</dc:creator>
+ <dc:creator>Chen, Yang</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  RX~J1713.7$-$3946 is a prototype in the $\gamma$-ray-bright supernova
+remnants (SNRs) and is in continuing debates on its hadronic versus leptonic
+origin of the $\gamma$-ray emission. We explore the role played by the
+diffusive relativistic protons that escape from the SNR shock wave in the
+$\gamma$-ray emission, apart from the high-energy particles' emission from the
+inside of the SNR. In the scenario that the SNR shock propagates in a clumpy
+molecular cavity, we consider that the$\gamma$-ray emission from the inside of
+the SNR may arise either from the inverse Compton scattering or from the
+interaction between the trapped energetic protons and the shocked clumps. The
+dominant origin between them depends on the electron-to-proton number ratio.
+The diffusive protons that escaped from the shock wave during the expansion
+history can provide an outer hadronic $\gamma$-ray component by bombarding the
+surrounding dense matter. The broadband spectrum can be well explained by this
+two-zone model, in which the $\gamma$-ray emission from the inside governs the
+TeV band, while the outer emission component substantially contributes to the
+GeV $\gamma$-rays. The two-zone model can also explain the TeV $\gamma$-ray
+radial brightness profile that significantly stretches beyond the nonthermal
+X-ray-emitting region. In the calculation, we present a simplified algorithm
+for Li &amp; Chen's (2010) "accumulative diffusion" model for escaping protons and
+apply the Markov Chain Monte Carlo method to constrain the physical parameters.
+</dc:description>
+ <dc:description>Comment: 18 pages (including 3 figures and 2 tables), accepted for publication
+  in ApJ</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-03-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01893</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/821/1/43</dc:identifier>
+ </oai_dc:dc>
+

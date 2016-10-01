@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Creating S0s with major mergers: a 3D view</dc:title>
+ <dc:creator>Querejeta, Miguel</dc:creator>
+ <dc:creator>Eliche-Moral, M. Carmen</dc:creator>
+ <dc:creator>Tapia, Trinidad</dc:creator>
+ <dc:creator>Borlaff, Alejandro</dc:creator>
+ <dc:creator>van de Ven, Glenn</dc:creator>
+ <dc:creator>Lyubenova, Mariya</dc:creator>
+ <dc:creator>Martig, Marie</dc:creator>
+ <dc:creator>Falc&#243;n-Barroso, Jes&#250;s</dc:creator>
+ <dc:creator>M&#233;ndez-Abreu, Jairo</dc:creator>
+ <dc:creator>Zamorano, Jaime</dc:creator>
+ <dc:creator>Gallego, Jes&#250;s</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  A number of simulators have argued that major mergers can sometimes preserve
+discs (e.g. Springel &amp; Hernquist 2005), but the possibility that they could
+explain the emergence of lenticular galaxies (S0s) has been generally
+neglected. In fact, observations of S0s reveal a strong structural coupling
+between their bulges and discs, which seems difficult to reconcile with the
+idea that they come from major mergers. However, in Querejeta et al. (2015a) we
+have used N-body simulations of binary mergers to show that, under favourable
+conditions, discs are first destroyed but soon regrow out of the leftover
+debris, matching observational photometric scaling relations (e.g. Laurikainen
+et al. 2010). Additionally, in Querejeta et al. (2015b) we have shown how the
+merger scenario agrees with the recent discovery that S0s and most spirals are
+not compatible in an angular momentum--concentration plane. This important
+result from CALIFA constitutes a serious objection to the idea that spirals
+transform into S0s mainly by fading (e.g. via ram-pressure stripping, as that
+would not explain the observed simultaneous change in $\lambda_\mathrm{Re}$ and
+concentration), but our simulations of major mergers do explain that mismatch.
+From such a 3D comparison we conclude that mergers must be a relevant process
+in the build-up of the current population of S0s.
+</dc:description>
+ <dc:description>Comment: 10 pages, 3 figures. Proceedings from the European Week of Astronomy
+  (EWASS), Tenerife, June 2015 (Sp3)</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04973</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analog Spatial Cancellation for Tackling the Near-Far Problem in
+  Wirelessly Powered Communications (Extended Version)</dc:title>
+ <dc:creator>Zhu, Guangxu</dc:creator>
+ <dc:creator>Huang, Kaibin</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  The implementation of wireless power transfer in wireless communication
+systems opens up a new research area, known as wirelessly powered
+communications (WPC). In next-generation heterogeneous networks where
+ultra-dense small-cell base stations are deployed,
+simultaneous-wireless-information-and-power-transfer (SWIPT) is feasible over
+short ranges. One challenge for designing a WPC system is the severe near-far
+problem where a user attempts to decode an information-transfer (IT) signal in
+the presence of extremely strong SWIPT signals. Jointly quantizing the mixed
+signals causes the IT signal to be completely corrupted by quantization noise
+and thus the SWIPT signals have to be suppressed in the analog domain. This
+motivates the design of a framework in this paper for analog spatial
+cancellation in a multi-antenna WPC system. In the framework, an analog circuit
+consisting of simple phase shifters and adders, is adapted to cancel the SWIPT
+signals by multiplying it with a cancellation matrix having unit-modulus
+elements and full rank, where the full rank retains the spatial-multiplexing
+gain of the IT channel. The unit-modulus constraints render the conventional
+zero-forcing method unsuitable. Therefore, the paper presents a novel
+systematic approach for constructing cancellation matrices. For the
+single-SWIPT-interferer case, the matrices are obtained as truncated
+Fourier/Hadamard matrices after compensating for propagation phase shifts over
+the SWIPT channel. For the more challenging multiple-SWIPT-interferer case, it
+is proposed that each row of the cancellation matrix is constructed as a
+Kronecker-product of component vectors, with each component vectors designed to
+null the signal from a corresponding SWIPT interferer similarly as in the
+preceding case.
+</dc:description>
+ <dc:description>Comment: Extended version of the paper with the same title accepted by IEEE
+  JSAC</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-08-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09124</dc:identifier>
+ </oai_dc:dc>
+

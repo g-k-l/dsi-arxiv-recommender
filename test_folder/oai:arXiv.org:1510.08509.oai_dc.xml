@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlinear thermoelectric response due to energy-dependent transport
+  properties of a quantum dot</dc:title>
+ <dc:creator>Svilans, Artis</dc:creator>
+ <dc:creator>Burke, Adam M.</dc:creator>
+ <dc:creator>Svensson, Sofia Fahlvik</dc:creator>
+ <dc:creator>Leijnse, Martin</dc:creator>
+ <dc:creator>Linke, Heiner</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Quantum dots are useful model systems for studying quantum thermoelectric
+behavior because of their highly energy-dependent electron transport
+properties, which are tunable by electrostatic gating. As a result of this
+strong energy dependence, the thermoelectric response of quantum dots is
+expected to be nonlinear with respect to an applied thermal bias. However,
+until now this effect has been challenging to observe because, first, it is
+experimentally difficult to apply a sufficiently large thermal bias at the
+nanoscale and, second, it is difficult to distinguish thermal bias effects from
+purely temperature-dependent effects due to overall heating of a device. Here
+we take advantage of a novel thermal biasing technique and demonstrate a
+nonlinear thermoelectric response in a quantum dot which is defined in a
+heterostructured semiconductor nanowire. We also show that a theoretical model
+based on the Master equations fully explains the observed nonlinear
+thermoelectric response given the energy-dependent transport properties of the
+quantum dot.
+</dc:description>
+ <dc:description>Comment: Cite as: A. Svilans, et al., Physica E (2015),
+  http://dx.doi.org/10.1016/j.physe.2015.10.007</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08509</dc:identifier>
+ <dc:identifier>Physica E 82 (2015) 34-38</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physe.2015.10.007</dc:identifier>
+ </oai_dc:dc>
+

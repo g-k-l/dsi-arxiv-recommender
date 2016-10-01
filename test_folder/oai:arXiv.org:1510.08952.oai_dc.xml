@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An Information Theoretic Analysis of Sequential Decision-Making</dc:title>
+ <dc:creator>D&#246;rpinghaus, Meik</dc:creator>
+ <dc:creator>Rold&#225;n, &#201;dgar</dc:creator>
+ <dc:creator>Neri, Izaak</dc:creator>
+ <dc:creator>Meyr, Heinrich</dc:creator>
+ <dc:creator>J&#252;licher, Frank</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  We provide a novel analysis of Wald's sequential probability ratio test based
+on information theoretic measures. This test is optimal in the sense that it
+yields the minimum mean decision time. To analyze the decision-making process
+we consider information densities enabling to represent the stochastic
+information content of the observations yielding a stochastic termination time
+of the test. We study the consequences of the optimality of the test on the
+change of the information density in time. As a corollary, we find that the
+optimality of the test implies that the conditional probability to decide for
+hypothesis $\mathcal{H}_1$ (or the counter-hypothesis $\mathcal{H}_0$) given
+that the test terminates at time instant $k$ is independent of time. Moreover,
+we evaluate the evolution of the mutual information between the binary variable
+to be tested and the decision variable of the Wald test.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-03-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08952</dc:identifier>
+ </oai_dc:dc>
+

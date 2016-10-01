@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bethe Ansatz and exact form factors of the O(N) Gross Neveu-model</dc:title>
+ <dc:creator>Babujian, Hrachya M.</dc:creator>
+ <dc:creator>Foerster, Angela</dc:creator>
+ <dc:creator>Karowski, Michael</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We apply previous results on the O(N) Bethe Ansatz [1 to 3] to construct a
+general form factor formula for the O(N) Gross-Neveu model. We examine this
+formula for several operators, such as the energy momentum, the spin-field and
+the current. We also compare these results with the 1/N expansion of this model
+and obtain full agreement. We discuss bound state form factors, in particular
+for the three particle form factor of the field. In addition for the two
+particle case we prove a recursion relation for the K-functions of the higher
+level Bethe Ansatz.
+</dc:description>
+ <dc:description>Comment: 33 pages, minor corrections, some references have been included,
+  published version. This article draws from arXiv:1308.1459 and
+  arXiv:1204.3479</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08784</dc:identifier>
+ <dc:identifier>JHEP 02 (2016) 042</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP02(2016)042</dc:identifier>
+ </oai_dc:dc>
+

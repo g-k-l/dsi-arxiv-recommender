@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A regularity class for the roots of non-negative functions</dc:title>
+ <dc:creator>Ray, Kolyan</dc:creator>
+ <dc:creator>Schmidt-Hieber, Johannes</dc:creator>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:subject>26A16, 26A27</dc:subject>
+ <dc:description>  We investigate the regularity of the positive roots of a non-negative
+function of one-variable. A modified H\"older space $\mathcal{H}^\beta$ is
+introduced such that if $f\in \mathcal{H}^\beta$ then $f^\alpha \in C^{\alpha
+\beta}$. This provides sufficient conditions to overcome the usual limitation
+in the square root case ($\alpha = 1/2$) for H\"older functions that $f^{1/2}$
+need be no more than $C^1$ in general. Using a wavelet decomposition of
+$f^\alpha$, we derive norm bounds that quantify this relationship.
+</dc:description>
+ <dc:description>Comment: 16 pages</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-05-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09054</dc:identifier>
+ </oai_dc:dc>
+

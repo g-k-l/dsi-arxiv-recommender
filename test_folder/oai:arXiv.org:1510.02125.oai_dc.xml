@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Resolving References to Objects in Photographs using the
+  Words-As-Classifiers Model</dc:title>
+ <dc:creator>Schlangen, David</dc:creator>
+ <dc:creator>Zarriess, Sina</dc:creator>
+ <dc:creator>Kennington, Casey</dc:creator>
+ <dc:subject>Computer Science - Computation and Language</dc:subject>
+ <dc:description>  A common use of language is to refer to visually present objects. Modelling
+it in computers requires modelling the link between language and perception.
+The "words as classifiers" model of grounded semantics views words as
+classifiers of perceptual contexts, and composes the meaning of a phrase
+through composition of the denotations of its component words. It was recently
+shown to perform well in a game-playing scenario with a small number of object
+types. We apply it to two large sets of real-world photographs that contain a
+much larger variety of types and for which referring expressions are available.
+Using a pre-trained convolutional neural network to extract image features, and
+augmenting these with in-picture positional information, we show that the model
+achieves performance competitive with the state of the art in a reference
+resolution task (given expression, find bounding box of its referent), while,
+as we argue, being conceptually simpler and more flexible.
+</dc:description>
+ <dc:description>Comment: 11 pages; as in Proceedings of ACL 2016, Berlin, 2016</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:date>2016-06-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02125</dc:identifier>
+ </oai_dc:dc>
+

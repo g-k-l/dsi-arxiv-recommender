@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Large Enforced Sparse Non-Negative Matrix Factorization</dc:title>
+ <dc:creator>Gavin, Brendan</dc:creator>
+ <dc:creator>Gadepally, Vijay</dc:creator>
+ <dc:creator>Kepner, Jeremy</dc:creator>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Computer Science - Numerical Analysis</dc:subject>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:description>  Non-negative matrix factorization (NMF) is a common method for generating
+topic models from text data. NMF is widely accepted for producing good results
+despite its relative simplicity of implementation and ease of computation. One
+challenge with applying NMF to large datasets is that intermediate matrix
+products often become dense, stressing the memory and compute elements of a
+system. In this article, we investigate a simple but powerful modification of a
+common NMF algorithm that enforces the generation of sparse intermediate and
+output matrices. This method enables the application of NMF to large datasets
+through improved memory and compute performance. Further, we demonstrate
+empirically that this method of enforcing sparsity in the NMF either preserves
+or improves both the accuracy of the resulting topic model and the convergence
+rate of the underlying algorithm.
+</dc:description>
+ <dc:description>Comment: 9 pages</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05237</dc:identifier>
+ <dc:identifier>doi:10.1109/IPDPSW.2016.58</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On a generalized identity connecting theta series associated with
+  discriminants $\Delta$ and $\Delta p^2$</dc:title>
+ <dc:creator>Patane, Frank</dc:creator>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:subject>11E16, 11E25, 11F27, 11H55, 11R29</dc:subject>
+ <dc:description>  When the discriminants $\Delta$ and $\Delta p^2$ are idoneal, Patane proved a
+theorem which connects the theta series associated to binary quadratic forms of
+each discriminant. This paper generalizes the main theorem of Patane by no
+longer requiring $\Delta$ and $\Delta p^2$ to be idoneal. In particular, we
+state and prove an identity which connects the theta series associated to a
+single binary quadratic form of discriminant $\Delta$ to a theta series
+associated to a subset of binary quadratic forms of discriminant $\Delta p^2$.
+Here and everywhere $p$ is a prime.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-05-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03882</dc:identifier>
+ </oai_dc:dc>
+

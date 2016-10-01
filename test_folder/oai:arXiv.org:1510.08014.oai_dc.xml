@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Enhancement of Two-photon Absorption in Quantum Wells for Extremely
+  Nondegenerate Photon Pairs</dc:title>
+ <dc:creator>Pattanaik, Himansu S.</dc:creator>
+ <dc:creator>Reichert, Matthew</dc:creator>
+ <dc:creator>Khurgin, Jacob B.</dc:creator>
+ <dc:creator>Hagan, David J.</dc:creator>
+ <dc:creator>Van Stryland, Eric W.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We recently demonstrated orders of magnitude enhancement of two-photon
+absorption (2PA) in direct gap semiconductors due to intermediate state
+resonance enhancement for photons of very different energies. It can be
+expected that further enhancement of nondegenerate 2PA will be observed in
+quantum wells (QWs) since the intraband matrix elements do not vanish near the
+band center as they do in the bulk, and the density of states in QWs is larger
+near the band edge. Here we present a perturbation-theory based theoretical
+description of nondegenerate 2PA in semiconductor QWs, where both frequency and
+polarization of two incident waves can vary independently. Analytical
+expressions for all possible permutations of frequencies and polarizations have
+been obtained, and the results are compared with degenerate 2PA in quantum
+wells along with degenerate and nondegenerate 2PA in bulk semiconductors. We
+show that using QWs in place of bulk semiconductors with both beams in the
+TM-polarized mode leads to an additional order of magnitude increase in the
+nondegenerate 2PA. Explicit calculations for GaAs QWs are presented.
+</dc:description>
+ <dc:description>Comment: 24 pages, 13 figures</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2015-11-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08014</dc:identifier>
+ <dc:identifier>doi:10.1109/JQE.2016.2526611</dc:identifier>
+ </oai_dc:dc>
+

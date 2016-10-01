@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sensitive radio-frequency measurements of a quantum dot by tuning to
+  perfect impedance matching</dc:title>
+ <dc:creator>Ares, N.</dc:creator>
+ <dc:creator>Schupp, F. J.</dc:creator>
+ <dc:creator>Mavalankar, A.</dc:creator>
+ <dc:creator>Rogers, G.</dc:creator>
+ <dc:creator>Griffiths, J.</dc:creator>
+ <dc:creator>Jones, G. A. C.</dc:creator>
+ <dc:creator>Farrer, I.</dc:creator>
+ <dc:creator>Ritchie, D. A.</dc:creator>
+ <dc:creator>Smith, C. G.</dc:creator>
+ <dc:creator>Cottet, A.</dc:creator>
+ <dc:creator>Briggs, G. A. D.</dc:creator>
+ <dc:creator>Laird, E. A.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Electrical readout of spin qubits requires fast and sensitive measurements,
+but these are hindered by poor impedance matching to the device. We demonstrate
+perfect impedance matching in a radio-frequency readout circuit, realized by
+incorporating voltage-tunable varactors to cancel out parasitic capacitances.
+In the optimized setup, a capacitance sensitivity of
+$1.6~\mathrm{aF}/\sqrt{\mathrm{Hz}}$ is achieved at a maximum source-drain bias
+of $170~\mu$V root-mean-square and with bandwidth above $15~$MHz. Coulomb
+blockade is measured via both conductance and capacitance in a quantum dot, and
+the two contributions are found to be proportional, as expected from a
+quasistatic tunneling model. We benchmark our results against the requirements
+for single-shot qubit readout using quantum capacitance, a goal that has so far
+been elusive.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2015-11-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06944</dc:identifier>
+ <dc:identifier>Phys. Rev. Applied 5, 034011 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevApplied.5.034011</dc:identifier>
+ </oai_dc:dc>
+

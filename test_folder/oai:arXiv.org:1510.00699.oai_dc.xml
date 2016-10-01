@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Perfect Quantum Cosmological Bounce</dc:title>
+ <dc:creator>Gielen, Steffen</dc:creator>
+ <dc:creator>Turok, Neil</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We study quantum cosmology with conformal matter comprising a perfect
+radiation fluid and a number of conformally coupled scalar fields. Focusing
+initially on the collective coordinates (minisuperspace) associated with
+homogeneous, isotropic backgrounds, we are able to perform the quantum gravity
+path integral exactly. The evolution describes a "perfect bounce", in which the
+Universe passes smoothly through the singularity. We extend the analysis to
+spatially flat, anisotropic universes, treated exactly, and to generic
+inhomogeneous, anisotropic perturbations treated at linear and nonlinear order.
+This picture provides a natural, unitary description of quantum mechanical
+evolution across a cosmological bounce. We provide evidence for a semiclassical
+description in which all fields pass "around" the cosmological singularity
+along complex classical paths.
+</dc:description>
+ <dc:description>Comment: 5 pages, revtex, APS style, 1 figure. v4: minor changes in
+  presentation, new title, matches published version</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-07-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00699</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 117, 021301 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.117.021301</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Functional delta-method for the bootstrap of quasi-Hadamard
+  differentiable functionals</dc:title>
+ <dc:creator>Beutner, Eric</dc:creator>
+ <dc:creator>Z&#228;hle, Henryk</dc:creator>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:subject>62G05, 62G09, 62G20, 62G30</dc:subject>
+ <dc:description>  The functional delta-method provides a convenient tool for deriving the
+asymptotic distribution of a plug-in estimator of a statistical functional from
+the asymptotic distribution of the respective empirical process. Moreover, it
+provides a tool to derive bootstrap consistency for plug-in estimators from
+bootstrap consistency of empirical processes. It has recently been shown that
+the range of applications of the functional delta-method for the asymptotic
+distribution can be considerably enlarged by employing the notion of
+quasi-Hadamard differentiability. Here we show in a general setting that this
+enlargement carries over to the bootstrap. That is, for quasi-Hadamard
+differentiable functionals bootstrap consistency of the plug-in estimator
+follows from bootstrap consistency of the respective empirical process. This
+enlargement often requires convergence in distribution of the bootstrapped
+empirical process w.r.t.\ a nonuniform sup-norm. The latter is not problematic
+as will be illustrated by means of examples.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-05-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06207</dc:identifier>
+ </oai_dc:dc>
+

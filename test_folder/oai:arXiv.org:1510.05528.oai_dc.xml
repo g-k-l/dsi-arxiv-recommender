@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Generic Microscopic Theory for the Universality of TTLS Model
+  Meissner-Berret Ratio in Low-Temperature Glasses</dc:title>
+ <dc:creator>Zhou, Di</dc:creator>
+ <dc:creator>Leggett, Anthony J.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  Tunneling-two-level-system (TTLS) model has successfully explained several
+low-temperature glass universal properties which do not exist in their
+crystalline counterparts. The coupling constants between longitudinal and
+transverse phonon strain fields and two-level-systems are denoted as $\gamma_l$
+and $\gamma_t$. The ratio $\gamma_l/\gamma_t$ was observed to lie between
+$1.44$ and $1.84$ for 18 different kinds of glasses. Such universal property
+cannot be explained within TTLS model. In this paper by developing a
+microscopic generic coupled block model, we show that the ratio
+$\gamma_l/\gamma_t$ is proportinal to the ratio of sound velocity $c_l/c_t$. We
+prove that the universality of $\gamma_l/\gamma_t$ essentially comes from the
+mutual interaction between different glass blocks, independent of the
+microscopic structure and chemical compound of the amorphous materials. In the
+appendix we also give a detailed correction on the coefficient of non-elastic
+stress-stress interaction $\Lambda_{ijkl}^{(ss')}$ which was obtained by
+Joffrin and Levelut\cite{Joffrin1976}.
+</dc:description>
+ <dc:description>Comment: 16 pages, 4 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-07-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05528</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Open quotients of trivial vector bundles</dc:title>
+ <dc:creator>Resende, Pedro</dc:creator>
+ <dc:creator>Santos, Jo&#227;o Paulo</dc:creator>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:subject>Mathematics - Algebraic Topology</dc:subject>
+ <dc:subject>46A99, 46M20, 54B20, 55R65</dc:subject>
+ <dc:description>  Given an arbitrary topological complex vector space $A$, a quotient vector
+bundle for $A$ is a quotient of a trivial vector bundle $\pi_2:A\times X\to X$
+by a fiberwise linear continuous open surjection. We show that this notion
+subsumes that of a Banach bundle over a locally compact Hausdorff space $X$.
+Hyperspaces consisting of linear subspaces of $A$, topologized with natural
+topologies that include the lower Vietoris topology and the Fell topology,
+provide classifying spaces for various classes of quotient vector bundles, in a
+way that generalizes the classification of locally trivial vector bundles by
+Grassmannians. If $A$ is normed, a finer hyperspace topology is introduced that
+classifies bundles with continuous norm, including Banach bundles, and such
+that bundles of constant finite rank must be locally trivial.
+</dc:description>
+ <dc:description>Comment: 30 pages (A4, 10pt). Version 2 fixed a problem with the definition of
+  the closed balls topology (section 5)</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-03-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06329</dc:identifier>
+ </oai_dc:dc>
+

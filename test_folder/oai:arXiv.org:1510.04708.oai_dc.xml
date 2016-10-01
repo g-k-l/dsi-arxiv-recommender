@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimality of General Lattice Transformations with Applications to the
+  Bain Strain in Steel</dc:title>
+ <dc:creator>Koumatos, Konstantinos</dc:creator>
+ <dc:creator>Muehlemann, Anton</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:subject>74N05, 74N10</dc:subject>
+ <dc:description>  This article provides a rigorous proof of a conjecture by E.C. Bain in 1924
+on the optimality of the so-called "Bain strain" based on a criterion of least
+atomic movement. A general framework that explores several such optimality
+criteria is introduced and employed to show the existence of optimal
+transformations between any two Bravais lattices. A precise algorithm and a GUI
+to determine this optimal transformation is provided. Apart from the Bain
+conjecture concerning the transformation from face-centred cubic to
+body-centred cubic, applications include the face-centred cubic to body-centred
+tetragonal transition as well as the transformation between two triclinic
+phases of Terephthalic Acid.
+  The GUI can be accessed under
+http://uk.mathworks.com/matlabcentral/fileexchange/55554-optlat
+</dc:description>
+ <dc:description>Comment: 27 pages, 4 figures, 3 tables</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-06-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04708</dc:identifier>
+ <dc:identifier>doi:10.1098/rspa.2015.0865</dc:identifier>
+ </oai_dc:dc>
+

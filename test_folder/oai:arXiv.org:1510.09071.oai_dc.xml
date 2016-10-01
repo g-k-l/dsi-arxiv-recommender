@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Fractional Topological Insulators- A Bosonization Approach</dc:title>
+ <dc:creator>Schmeltzer, D.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:description>  A metallic disk with strong spin orbit interaction is investigated . The
+finite disk geometry introduces a confining potential. Due to the strong
+spin-orbit interaction and confining potential the metal disk is described by
+an effective one dimensional with a harmonic potential. The harmonic potential
+gives rise to classical turning points. As a result open boundary conditions
+must be used. We Bosonize the model and obtain chiral Bosons for each spin on
+the edge of the disk. When the filling fraction is reduced to
+$\nu=\frac{k_{F}}{k_{so}}=\frac{1}{3}$ the electron- electron interactions are
+studied using the Jordan Wigner phase for composite fermions which gives rise
+to a Luttinger liquid. When the metallic disk is in the proximity with a
+superconductor a Fractional Topological Insulators is obtained.
+  An experimental realization is proposed. We show that by tunning the chemical
+potential we control the classical turning points for which a Fractional
+Topological Insulator is realized.
+</dc:description>
+ <dc:description>Comment: Keywords: spin-orbit, chiral bosons, chains, metallic disk,
+  topological insulators</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09071</dc:identifier>
+ <dc:identifier>doi:10.4236/jmp.2016.71012</dc:identifier>
+ </oai_dc:dc>
+

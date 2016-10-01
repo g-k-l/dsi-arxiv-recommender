@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generation of real algebraic loci via complex detours</dc:title>
+ <dc:creator>Kranich, Stefan</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Computer Science - Computational Geometry</dc:subject>
+ <dc:subject>Mathematics - Complex Variables</dc:subject>
+ <dc:description>  We discuss the locus generation algorithm used by the dynamic geometry
+software Cinderella, and how it uses complex detours to resolve singularities.
+We show that the algorithm is independent of the orientation of its complex
+detours. We conjecture that the algorithm terminates if it takes small enough
+complex detours and small enough steps on every complex detour. Moreover, we
+introduce a variant of the algorithm that possibly generates entire real
+connected components of real algebraic loci. Several examples illustrate its
+use for organic generation of real algebraic loci. Another example shows how we
+can apply the algorithm to simulate mechanical linkages. Apparently, the use of
+complex detours produces physically reasonable motion of such linkages.
+</dc:description>
+ <dc:description>Comment: minor revisions; 16 pages, 5 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-05-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05464</dc:identifier>
+ </oai_dc:dc>
+

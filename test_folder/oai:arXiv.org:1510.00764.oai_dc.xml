@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Information-Theoretic Approach to Strategic Communication as a
+  Hierarchical Game</dc:title>
+ <dc:creator>Akyol, Emrah</dc:creator>
+ <dc:creator>Langbort, Cedric</dc:creator>
+ <dc:creator>Basar, Tamer</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Computer Science - Computer Science and Game Theory</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  This paper analyzes the information disclosure problems originated in
+economics through the lens of information theory. Such problems are radically
+different from the conventional communication paradigms in information theory
+since they involve different objectives for the encoder and the decoder, which
+are aware of this mismatch and act accordingly. This leads, in our setting, to
+a hierarchical communication game, where the transmitter announces an encoding
+strategy with full commitment, and its distortion measure depends on a private
+information sequence whose realization is available at the transmitter. The
+receiver decides on its decoding strategy that minimizes its own distortion
+based on the announced encoding map and the statistics. Three problem settings
+are considered, focusing on the quadratic distortion measures, and jointly
+Gaussian source and private information: compression, communication, and the
+simple equilibrium conditions without any compression or communication. The
+equilibrium strategies and associated costs are characterized. The analysis is
+then extended to the receiver side information setting and the major changes in
+the structure of optimal strategies are identified. Finally, an extension of
+the results to the broader context of decentralized stochastic control is
+presented.
+</dc:description>
+ <dc:description>Comment: in press, the Proceedings of the IEEE, Special Issue on Principles
+  and Applications of Science of Information</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-07-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00764</dc:identifier>
+ </oai_dc:dc>
+

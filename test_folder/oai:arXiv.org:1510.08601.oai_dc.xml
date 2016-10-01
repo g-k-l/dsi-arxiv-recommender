@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measuring the Aharonov-Anandan phase in photonics</dc:title>
+ <dc:creator>Wang, Kai</dc:creator>
+ <dc:creator>Weimann, Steffen</dc:creator>
+ <dc:creator>Perez-Leija, Armando</dc:creator>
+ <dc:creator>Szameit, Alexander</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The Aharonov-Anandan phase is a description of the geometric nature in
+non-adiabatic cyclic evolutions of quantum states. Here we report on a
+measurement of the Aharonov-Anandan phase in photonics. We consider a
+time-independent quantum driven harmonic oscillator that is initially prepared
+at the vacuum state. We utilize evanescently coupled waveguides to realize this
+physical model and achieve a measurement of the Aharonov-Anandan phase via
+integrated interferometry.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08601</dc:identifier>
+ <dc:identifier>doi:10.1364/OL.41.001889</dc:identifier>
+ </oai_dc:dc>
+

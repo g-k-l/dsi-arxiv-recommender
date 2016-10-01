@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Bio-Synthetic Modulator Model for Diffusion-based Molecular
+  Communications</dc:title>
+ <dc:creator>Arjmandi, Hamidreza</dc:creator>
+ <dc:creator>Ahmadzadeh, Arman</dc:creator>
+ <dc:creator>Schober, Robert</dc:creator>
+ <dc:creator>Kenari, Masoumeh Nasiri</dc:creator>
+ <dc:subject>Computer Science - Emerging Technologies</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  In diffusion-based molecular communication (DMC), one important functionality
+of a transmitter nano-machine is signal modulation. In particular, the
+transmitter has to be able to control the release of signaling molecules for
+modulation of the information bits. An important class of control mechanisms in
+natural cells for releasing molecules is based on ion channels which are
+pore-forming proteins across the cell membrane whose opening and closing may be
+controlled by a gating parameter. In this paper, a modulator for DMC based on
+ion channels is proposed which controls the rate at which molecules are
+released from the transmitter by modulating a gating parameter signal.
+Exploiting the capabilities of the proposed modulator, an on-off keying
+modulation scheme is introduced and the corresponding average modulated signal,
+i.e., the average release rate of the molecules from the transmitter, is
+derived in the Laplace domain. By making a simplifying assumption, a
+closed-form expression for the average modulated signal in the time domain is
+obtained which constitutes an upper bound on the total number of released
+molecules regardless of this assumption. The derived average modulated signal
+is compared to results obtained with a particle based simulator. The numerical
+results show that the derived upper bound is tight if the number of ion
+channels distributed across the transmitter (cell) membrane is small.
+</dc:description>
+ <dc:description>Comment: This paper is an extended version of a paper submitted to IEEE
+  Globecom 2016</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-04-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07410</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spatial correlation of two-dimensional Bosonic multi-mode condensates</dc:title>
+ <dc:creator>Nitsche, Wolfgang H.</dc:creator>
+ <dc:creator>Kim, Na Young</dc:creator>
+ <dc:creator>Roumpos, Georgios</dc:creator>
+ <dc:creator>Schneider, Christian</dc:creator>
+ <dc:creator>Hoefling, Sven</dc:creator>
+ <dc:creator>Forchel, Alfred</dc:creator>
+ <dc:creator>Yamamoto, Yoshihisa</dc:creator>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  We studied the spatial coherence of a Bosonic two-dimensional multi-mode
+condensate both through measurements and simulations. It is shown that
+condensates with a constant spatial density must be described as the
+superposition of several quantized modes which reduces the overall coherence.
+In this case, the spatial coherence can appear to decay faster than allowed by
+the Berezinskii-Kosterlitz-Thouless (BKT) theory. However, we find through
+spectroscopic measurements that the individual modes show a slower decay of the
+spatial coherence than the overall system.
+</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03096</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 053622 (May 2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.053622</dc:identifier>
+ </oai_dc:dc>
+

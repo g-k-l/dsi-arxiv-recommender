@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the rotation of co-orbital bodies in eccentric orbits</dc:title>
+ <dc:creator>Leleu, A.</dc:creator>
+ <dc:creator>Robutel, P.</dc:creator>
+ <dc:creator>Correia, A. C. M.</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  We investigate the resonant rotation of co-orbital bodies in eccentric and
+planar orbits. We develop a simple analytical model to study the impact of the
+eccentricity and orbital perturbations on the spin dynamics. This model is
+relevant in the entire domain of horseshoe and tadpole orbit, for moderate
+eccentricities. We show that there are three different families of spin-orbit
+resonances, one depending on the eccentricity, one depending on the orbital
+libration frequency, and another depending on the pericenter's dynamics. We can
+estimate the width and the location of the different resonant islands in the
+phase space, predicting which are the more likely to capture the spin of the
+rotating body. In some regions of the phase space the resonant islands may
+overlap, giving rise to chaotic rotation.
+</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-03-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09165</dc:identifier>
+ <dc:identifier>doi:10.1007/s10569-016-9681-4</dc:identifier>
+ </oai_dc:dc>
+

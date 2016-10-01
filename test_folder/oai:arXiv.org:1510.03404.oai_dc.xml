@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Microscopic Theory of the Refractive Index</dc:title>
+ <dc:creator>Starke, R.</dc:creator>
+ <dc:creator>Schober, G. A. H.</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We examine the bulk refractive index from the viewpoint of modern
+first-principles materials physics. We first argue that the standard formula,
+$n^2 = \varepsilon_{\mathrm r} \mu_{\mathrm r}$, is generally in conflict with
+fundamental principles on the microscopic level. Instead, it turns out that an
+allegedly approximate relation, $n^2 = \varepsilon_{\mathrm r}$, which is
+already being used for most practical purposes, can be justified theoretically
+in the long-wavelength limit. More generally, starting from the fundamental,
+Lorentz-covariant electromagnetic wave equation in materials as used in plasma
+physics, we rederive a well-known, three-dimensional form of the wave equation
+in materials and thereby clarify the connection between the covariant
+fundamental response tensor and the various cartesian tensors used to describe
+optical properties. Finally, we prove a general theorem by which the
+fundamental, covariant wave equation can be reformulated concisely in terms of
+the microscopic dielectric tensor.
+</dc:description>
+ <dc:description>Comment: minor improvements</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-06-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03404</dc:identifier>
+ </oai_dc:dc>
+

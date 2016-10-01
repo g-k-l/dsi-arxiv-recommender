@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Hemispheric Differences in the Response of the Upper Atmosphere to the
+  August 2011 Geomagnetic Storm: A Simulation Study</dc:title>
+ <dc:creator>Yi&#287;it, Erdal</dc:creator>
+ <dc:creator>Frey, Harald U.</dc:creator>
+ <dc:creator>Moldwin, Mark B.</dc:creator>
+ <dc:creator>Immel, Thomas J.</dc:creator>
+ <dc:creator>Ridley, Aaron J.</dc:creator>
+ <dc:subject>Physics - Space Physics</dc:subject>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:subject>Physics - Geophysics</dc:subject>
+ <dc:description>  Using a three-dimensional nonhydrostatic general circulation model, we
+investigate the response of the thermosphere-ionosphere system to the 5-6
+August 2011 major geomagnetic storm. The model is driven by measured storm-time
+input data of the Interplanetary Magnetic Field (IMF), solar activity, and
+auroral activity. Simulations for quiet steady conditions over the same period
+are performed as well in order to assess the response of the neutral and plasma
+parameters to the storm. During the storm, the high-latitude mean ion flows are
+enhanced by up to 150-180%. Largest ion flows are found in the main phase of
+the storm. Overall, the global mean neutral temperature increases by up to 15%,
+while the maximum thermal response is higher in the winter Southern Hemisphere
+at high-latitudes than the summer Northern Hemisphere: 40% vs. 20%increase in
+high-latitude mean temperature, respectively. The global mean Joule heating
+increases by more than a factor of three. There are distinct hemispheric
+differences in the magnitude and morphology of the horizontal ion flows and
+thermospheric flows during the different phases of the storm. The largest
+hemispheric difference in the thermospheric circulation is found during the
+main and recovery phases of the storm, demonstrating appreciable geographical
+variations. The advective forcing is found to contribute to the modeled
+hemispheric differences.
+</dc:description>
+ <dc:description>Comment: Accepted for publication in Journal of Atmospheric and
+  Solar-Terrestrial Physics (JASTP)</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05298</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jastp.2015.10.002</dc:identifier>
+ </oai_dc:dc>
+

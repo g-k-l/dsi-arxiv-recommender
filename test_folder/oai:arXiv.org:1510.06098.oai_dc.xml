@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Perfect Zitterbewegung oscillations in the Kitaev chain system</dc:title>
+ <dc:creator>Zhang, Qi</dc:creator>
+ <dc:creator>Gong, Jiangbin</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Superconducting systems such as those modeled by the Kitaev Hamiltonian are
+found to exhibit the Zitterbewegung (ZB) oscillations. Remarkably, the
+dispersion relation in one-dimensional Kitaev systems allows for wavepackets of
+arbitrary size undergoing non-decaying ZB without any distortion, with the
+typical ZB amplitude being one lattice site. To motivate possible experimental
+interest in this dynamical aspect of superconducting systems, we further show
+that certain on-resonance modulation of the Hamiltonian parameter can be
+exploited to convert ZB oscillations to net drifting of particle's wavepacket
+and hole's wavepacket along opposite directions, leading to long-distance
+particle-hole separation.
+</dc:description>
+ <dc:description>Comment: 7 pages, 3 figures, comments are welcome</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06098</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 032117 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.032117</dc:identifier>
+ </oai_dc:dc>
+

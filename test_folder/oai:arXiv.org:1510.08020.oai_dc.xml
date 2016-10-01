@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Radiative corrections of $O(\alpha)$ to $B^- \rightarrow V^0 \ell^-
+  \bar{\nu}_{\ell}$ decays</dc:title>
+ <dc:creator>Tostado, S. L.</dc:creator>
+ <dc:creator>Castro, G. L&#243;pez</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  The $O(\alpha)$ electromagnetic radiative corrections to the $B^- \rightarrow
+V^0 \ell^- \bar{\nu}_{\ell}$ ($V$ is a vector meson and $\ell$ a charged
+lepton) decay rates are evaluated using the cutoff method to regularize virtual
+corrections and incorporating intermediate resonance states in the real-photon
+amplitude to extend the region of validity of the soft-photon approximation.
+The electromagnetic and weak form factors of hadrons are assumed to vary
+smoothly over the energies of virtual and real photons under consideration. The
+cutoff dependence of radiative corrections upon the scale $\Lambda$ that
+separates the long- and short-distance regimes is found to be mild and is
+considered as an uncertainty of the calculation. Owing to partial cancellations
+of electromagnetic corrections evaluated over the three- and four-body regions
+of phase space, the photon-inclusive corrected rates are found to be dominated
+by the short-distance contribution. These corrections will be relevant for a
+precise determination of the $b$ quark mixing angles by testing isospin
+symmetry when measurements of semileptonic rates of charged and neutral $B$
+mesons at the few percent level become available. For completeness, we also
+provide numerical values of radiative corrections in the three-body region of
+the Dalitz plot distributions of these decays.
+</dc:description>
+ <dc:description>Comment: Further comments and two references added</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-07-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08020</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Gouy phase in non-classical paths in triple-slit interference experiment</dc:title>
+ <dc:creator>da Paz, Irismar</dc:creator>
+ <dc:creator>Vieira, Carlos</dc:creator>
+ <dc:creator>Ducharme, Robert</dc:creator>
+ <dc:creator>Cabral, Luis</dc:creator>
+ <dc:creator>Alexander, Helder</dc:creator>
+ <dc:creator>Sampaio, Marcos</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a simple model to study the Gouy phase effect in the triple-slit
+experiment in which we consider a non-classical path. The Gouy phase differs
+for classical or non-classical paths as it depends on the propagation time. In
+this case the Gouy phase difference changes the Sorkin parameter $\kappa$ used
+to estimate non-classical path contribution in a nontrivial way shedding some
+light in the implementation of experiments to detect non-classical path
+contributions.
+</dc:description>
+ <dc:description>Comment: 7 pages, 6 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04186</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 033621 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.033621</dc:identifier>
+ </oai_dc:dc>
+

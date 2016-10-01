@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Stochastic Beamformed Amplify-and-Forward Scheme in a Multigroup
+  Multicast MIMO Relay Network with Per-Antenna Power Constraints</dc:title>
+ <dc:creator>Wu, Sissi Xiaoxiao</dc:creator>
+ <dc:creator>Li, Qiang</dc:creator>
+ <dc:creator>So, Anthony Man-Cho</dc:creator>
+ <dc:creator>Ma, Wing-Kin</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  In this paper, we consider a two-hop one-way relay network for multigroup
+multicast transmission between long-distance users, in which the relay is
+equipped with multiple antennas, while the transmitters and receivers are all
+with a single antenna. Assuming that perfect channel state information is
+available, we study amplify-and-forward (AF) schemes that aim at optimizing the
+max-min-fair (MMF) rate. We begin by considering the classic beamformed AF
+(BF-AF) scheme, whose corresponding MMF design problem can be formulated as a
+rank-constrained fractional semidefinite program (SDP). We show that the gap
+between the BF-AF rate and the SDR rate associated with an optimal SDP solution
+is sensitive to the number of users as well as the number of power constraints
+in the relay system. This reveals that the BF-AF scheme may not be well suited
+for large-scale systems. We therefore propose the stochastic beamformed AF
+(SBF-AF) schemes, which differ from the BF-AF scheme in that time-varying AF
+weights are used. We prove that the MMF rates of the proposed SBF-AF schemes
+are at most $0.8317$ bits/s/Hz less than the SDR rate, irrespective of the
+number of users or power constraints. Thus, SBF-AF can outperform BF-AF
+especially in large-scale systems. Finally, we present numerical results to
+demonstrate the viability of our proposed schemes.
+</dc:description>
+ <dc:description>Comment: This paper was first submitted for possible journal publication on
+  24-May-2015. A preliminary version of this paper has been published in IEEE
+  SPAWC'15</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-03-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02448</dc:identifier>
+ </oai_dc:dc>
+

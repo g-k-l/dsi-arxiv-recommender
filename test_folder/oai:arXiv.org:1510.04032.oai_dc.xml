@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Limits on the Dark Matter from AMS-02 antiproton and positron fraction
+  data</dc:title>
+ <dc:creator>Lu, Bo-Qiang</dc:creator>
+ <dc:creator>Zong, Hong-Shi</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We derive limits on the dark matter annihilation cross section and lifetime
+using measurements of the AMS-02 antiproton ratio and positron fraction data.
+In deriving the limits, we consider the scenario of secondary particles
+accelerated in supernova remnants (SNRs) which has been argued to be able to
+reasonably account for the AMS-02 high energy positron/antiproton fraction
+data. We parameterize the contribution of secondary particles accelerated in
+SNRs and then fit the observational data within the conventional cosmic ray
+propagation model by adopting the GALPROP code. We use the likelihood ratio
+test to determine the 95$\%$ confidence level upper limits of the possible dark
+matter (DM) contribution to the antiproton/positron fractions measured by
+AMS-02. Our limits are stronger than that set by the Fermi-LAT gamma-ray Pass 8
+data of the dwarf spheroidal satellite galaxies. We also show that the solar
+modulation (cosmic ray propagation) parameters can play a non-negligible role
+in modifying the constraints on the dark matter annihilation cross section and
+lifetime for $m_\chi&lt;100$ GeV ($m_\chi&gt;100$ GeV), where $m_\chi$ is the rest
+mass of the dark matter particles. Using this results, we also put limits on
+the effective field theory of dark matter.
+</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2015-10-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04032</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 103517 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.103517</dc:identifier>
+ </oai_dc:dc>
+

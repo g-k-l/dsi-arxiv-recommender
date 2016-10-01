@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the average uncertainty for systems with nonlinear coupling</dc:title>
+ <dc:creator>Nelson, Kenric P.</dc:creator>
+ <dc:creator>Umarov, Sabir</dc:creator>
+ <dc:creator>Kon, Mark A.</dc:creator>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  The increased uncertainty and complexity of nonlinear systems have motivated
+investigators to consider generalized approaches to defining an entropy
+function. New insights are achieved by defining the average uncertainty in the
+probability domain as a transformation of entropy functions. The Shannon
+entropy when transformed to the probability domain is the weighted geometric
+mean of the probabilities. For the exponential and Gaussian distributions, we
+show that the weighted geometric mean of the distribution is equal to the
+density of the distribution at the location plus the scale, i.e. at the width
+of the distribution. The average uncertainty is generalized via the weighted
+generalized mean, in which the moment is a function of the nonlinear source.
+Both the Renyi and Tsallis entropies transform to this definition of the
+generalized average uncertainty in the probability domain. For the generalized
+Pareto and Student's t-distributions, which are the maximum entropy
+distributions for these generalized entropies, the appropriate weighted
+generalized mean also equals the density of the distribution at the location
+plus scale. A coupled entropy function is proposed, which is equal to the
+normalized Tsallis entropy divided by one plus the coupling.
+</dc:description>
+ <dc:description>Comment: 24 pages, including 4 figures and 1 table</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-05-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06951</dc:identifier>
+ </oai_dc:dc>
+

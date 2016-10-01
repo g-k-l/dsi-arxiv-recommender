@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bright Solid State Source of Photon Triplets</dc:title>
+ <dc:creator>Khoshnegar, Milad</dc:creator>
+ <dc:creator>Huber, Tobias</dc:creator>
+ <dc:creator>Predojevi&#263;, Ana</dc:creator>
+ <dc:creator>Dalacu, Dan</dc:creator>
+ <dc:creator>Prilm&#252;ller, Maximilian</dc:creator>
+ <dc:creator>Lapointe, Jean</dc:creator>
+ <dc:creator>Wu, Xiaohua</dc:creator>
+ <dc:creator>Tamarat, Philippe</dc:creator>
+ <dc:creator>Lounis, Brahim</dc:creator>
+ <dc:creator>Poole, Philip</dc:creator>
+ <dc:creator>Weihs, Gregor</dc:creator>
+ <dc:creator>Majedi, Hamed</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  Producing advanced quantum states of light is a priority in quantum
+information technologies. While remarkable progress has been made on single
+photons and photon pairs, multipartite correlated photon states are usually
+produced in purely optical systems by post-selection or cascading, with
+extremely low efficiency and exponentially poor scaling. Multipartite states
+enable improved tests of the foundations of quantum mechanics as well as
+implementations of complex quantum optical networks and protocols. It would be
+favorable to directly generate these states using solid state systems, for
+better scaling, simpler handling, and the promise of reversible transfer of
+quantum information between stationary and flying qubits. Here we use the
+ground states of two optically active coupled quantum dots to directly produce
+photon triplets. The wavefunctions of photogenerated excitons localized in
+these ground states are correlated via molecular hybridization and Coulomb
+interactions. The formation of a triexciton leads to a triple cascade
+recombination and sequential emission of three photons with strong
+correlations. The quantum dot molecule is embedded in an epitaxially grown
+nanowire engineered for single-mode waveguiding and improved extraction
+efficiency at the emission wavelength. We record 65.62 photon triplets per
+minute, surpassing rates of all earlier reported sources, in spite of the
+moderate efficiency of our detectors. Our structure and data represent a
+breakthrough towards implementing multipartite photon entanglement and
+multi-qubit readout schemes in solid state devices, suitable for integrated
+quantum information processing.
+</dc:description>
+ <dc:description>Comment: 32 pages, 11 figures, supplementary indormation</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-06-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05898</dc:identifier>
+ </oai_dc:dc>
+

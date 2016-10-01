@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bounds to the normal for proximity region graphs</dc:title>
+ <dc:creator>Goldstein, Larry</dc:creator>
+ <dc:creator>Johnson, Tobias</dc:creator>
+ <dc:creator>Lachi&#232;ze-Rey, Rapha&#235;l</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>60D05, 52A22, 60F05</dc:subject>
+ <dc:description>  In a proximity region graph ${\cal G}$ in $\mathbb{R}^d$, two distinct points
+$x,y$ of a point process $\mu$ are connected when the 'forbidden region'
+$S(x,y)$ these points determine has empty intersection with $\mu$. The Gabriel
+graph, where $S(x,y)$ is the open disc with diameter the line segment
+connecting $x$ and $y$, is one canonical example. Under broad conditions on the
+process $\mu$ and regions $S(x,y)$, bounds on the Kolmogorov and Wasserstein
+distances to the normal are produced for functionals of ${\cal G}$, including
+the total number of edges, and total length.
+</dc:description>
+ <dc:description>Comment: 31 pages; minor changes for the sake of clarity</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-07-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09188</dc:identifier>
+ </oai_dc:dc>
+

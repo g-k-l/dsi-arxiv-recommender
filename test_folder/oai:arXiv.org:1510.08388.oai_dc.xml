@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum walks on embedded hypercubes: Nonsymmetric and nonlocal cases</dc:title>
+ <dc:creator>Makmal, Adi</dc:creator>
+ <dc:creator>Tiersch, Markus</dc:creator>
+ <dc:creator>Ganahl, Clemens</dc:creator>
+ <dc:creator>Briegel, Hans J.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The expected hitting time of discrete quantum walks on a hypercube (HC) is
+numerically known to be exponentially shorter than that of their classical
+analogs in terms of the scaling with the HC dimension. Recent numerical
+analyses illustrated that this scaling exists not only on the bare HC, but also
+when the HC graph is symmetrically and locally embedded into larger graphs. The
+present work investigates the necessity of symmetry and locality for the
+speed-up by considering embeddings that are nonsymmetric or nonlocal. We
+provide numerical evidence that the exponential speed-up survives also in these
+cases. Furthermore, our numerical simulations demonstrate that removing a
+single edge from the HC also does not destroy the exponential speed-up. In the
+nonlocal embedding of the HC we encounter dark states, which we analyze. We
+provide a general and detailed presentation of the mapping that reduces the
+exponentially large Hilbert space of the quantum walk to an effective subspace
+of polynomial scaling. This mapping is our essential tool to numerically study
+quantum walks in such high-dimensional structures.
+</dc:description>
+ <dc:description>Comment: published version, 13 pages, 8 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08388</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 022322 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.022322</dc:identifier>
+ </oai_dc:dc>
+

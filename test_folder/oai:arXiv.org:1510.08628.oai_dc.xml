@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>WarpLDA: a Cache Efficient O(1) Algorithm for Latent Dirichlet
+  Allocation</dc:title>
+ <dc:creator>Chen, Jianfei</dc:creator>
+ <dc:creator>Li, Kaiwei</dc:creator>
+ <dc:creator>Zhu, Jun</dc:creator>
+ <dc:creator>Chen, Wenguang</dc:creator>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>Computer Science - Distributed, Parallel, and Cluster Computing</dc:subject>
+ <dc:subject>Computer Science - Information Retrieval</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>H.3.4</dc:subject>
+ <dc:subject>G.3</dc:subject>
+ <dc:subject>G.4</dc:subject>
+ <dc:description>  Developing efficient and scalable algorithms for Latent Dirichlet Allocation
+(LDA) is of wide interest for many applications. Previous work has developed an
+O(1) Metropolis-Hastings sampling method for each token. However, the
+performance is far from being optimal due to random accesses to the parameter
+matrices and frequent cache misses.
+  In this paper, we first carefully analyze the memory access efficiency of
+existing algorithms for LDA by the scope of random access, which is the size of
+the memory region in which random accesses fall, within a short period of time.
+We then develop WarpLDA, an LDA sampler which achieves both the best O(1) time
+complexity per token and the best O(K) scope of random access. Our empirical
+results in a wide range of testing conditions demonstrate that WarpLDA is
+consistently 5-15x faster than the state-of-the-art Metropolis-Hastings based
+LightLDA, and is comparable or faster than the sparsity aware F+LDA. With
+WarpLDA, users can learn up to one million topics from hundreds of millions of
+documents in a few hours, at an unprecedentedly throughput of 11G tokens per
+second.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08628</dc:identifier>
+ </oai_dc:dc>
+

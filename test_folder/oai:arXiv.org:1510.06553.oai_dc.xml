@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Observability analysis and state estimation of lithium-ion batteries in
+  the presence of sensor biases</dc:title>
+ <dc:creator>Zhao, Shi</dc:creator>
+ <dc:creator>Duncan, Stephen R.</dc:creator>
+ <dc:creator>Howey, David A.</dc:creator>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:description>  This paper investigates the observability of one of the most commonly used
+equivalent circuit models (ECMs) for lithium-ion batteries and presents a
+method to estimate the state of charge (SOC) in the presence of sensor biases,
+highlighting the importance of observability analysis for choosing appropriate
+state estimation algorithms. Using a differential geometric approach, necessary
+and sufficient conditions for the nonlinear ECM to be observable are derived
+and are shown to be different from the conditions for the observability of the
+linearised model. It is then demonstrated that biases in the measurements, due
+to sensor ageing or calibration errors, can be estimated by applying a
+nonlinear Kalman filter to an augmented model where the biases are incorporated
+into the state vector. Experiments are carried out on a lithium-ion pouch cell
+and three types of nonlinear filters, the first-order extended Kalman filter
+(EKF), the second-order EKF and the unscented Kalman filter (UKF) are applied
+using experimental data. The different performances of the filters are
+explained from the point of view of observability.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-03-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06553</dc:identifier>
+ <dc:identifier>doi:10.1109/TCST.2016.2542115</dc:identifier>
+ </oai_dc:dc>
+

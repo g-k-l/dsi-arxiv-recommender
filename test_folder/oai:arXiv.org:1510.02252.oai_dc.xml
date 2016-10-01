@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Variety of strange pseudohyperbolic attractors in three-dimensional
+  generalized H'enon maps</dc:title>
+ <dc:creator>Gonchenko, Alexander</dc:creator>
+ <dc:creator>Gonchenko, Sergey</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>37C05, 37D45, 37G35</dc:subject>
+ <dc:description>  In the present paper we focus on the problem of the existence of strange
+pseudohyperbolic attractors for three-dimensional diffeomorphisms. Such
+attractors are genuine strange attractors in that sense that each orbit in the
+attractor has a positive maximal Lyapunov exponents and this property is
+robust, i.e. it holds for all close systems. We restrict attention to the study
+of pseudohyperbolic attractors that contain only one fixed point. Then we show
+that three-dimensional maps may have only 5 different types of such attractors,
+which we call the discrete Lorenz, figure-8, double-figure-8, super-figure-8,
+and super-Lorenz attractors. We find the first four types of attractors in
+three-dimensional generalized H\'enon maps of form $\bar x = y, \; \bar y = z,
+\; \bar z = Bx + Az + Cy + g(y,z)$, where $A,B$ and $C$ are parameters ($B$ is
+the Jacobian) and $g(0,0) = g^\prime(0,0) =0$.
+</dc:description>
+ <dc:description>Comment: 32 pages, 15 figures</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-04-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02252</dc:identifier>
+ </oai_dc:dc>
+

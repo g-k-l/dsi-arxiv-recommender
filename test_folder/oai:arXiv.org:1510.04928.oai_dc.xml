@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Ground-state phase diagram of an anisotropic S=1/2 ladder with
+  alternating rung interactions</dc:title>
+ <dc:creator>Tonegawa, Takashi</dc:creator>
+ <dc:creator>Okamoto, Kiyomi</dc:creator>
+ <dc:creator>Hikihara, Toshiya</dc:creator>
+ <dc:creator>Sakai, T&#244;ru</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Employing mainly numerical methods, we explore the ground-state phase diagram
+of an anisotropic $S=1/2$ ladder, in which leg interactions are uniform and
+isotropic, while rung interactions are alternating and have a common Ising-type
+anisotropy. We determine the phase diagram in the case where $J_{\rm leg}=0.2$
+(antiferromagnetic), $J_{\rm rung}=-1.0$ (ferromagnetic) and $|J_{\rm
+rung}'|\!\leq\!1.0$, the first one being the magnitude of the leg interaction
+and the second and third ones those of the rung interactions, which are
+alternating. It is emphasized that the system has a frustration when $J_{\rm
+rung}'$ is positive. We find that, in the frustrated region, the Haldane state
+appears as the ground state even when the Ising character of rung interactions
+is strong. This appearance of the Haldane phase is contrary to the ordinary
+situation, and it is called the inversion phenomenon concerning the interaction
+anisotropy. We also find that an incommensurate state becomes the ground state
+in a portion of the Haldane phase region.
+</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04928</dc:identifier>
+ <dc:identifier>Journal of Physics: Conference Series 683 (2016) 012039</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-6596/683/1/012039</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,42 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Inverse magnetic catalysis from the properties of the QCD coupling in a
+  magnetic field</dc:title>
+ <dc:creator>Ayala, Alejandro</dc:creator>
+ <dc:creator>Dominguez, C. A.</dc:creator>
+ <dc:creator>Hernandez, L. A.</dc:creator>
+ <dc:creator>Loewe, M.</dc:creator>
+ <dc:creator>Zamora, R.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Lattice</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We compute the vacuum one-loop quark-gluon vertex correction at zero
+temperature in the presence of a magnetic field. From the vertex function we
+extract the effective quark-gluon coupling and show that it grows with
+increasing magnetic field strength. The effect is due to a subtle competition
+between the color charge associated to gluons and the color charge associated
+to quarks, the former being larger than the latter. In contrast, at high
+temperature the effective thermo-magnetic coupling results exclusively from the
+contribution of the color charge associated to quarks. This produces a decrease
+of the coupling with increasing field strength. We interpret the results in
+terms of a geometrical effect whereby the magnetic field induces, on average, a
+closer distance between the (electrically charged) quarks and antiquarks. At
+high temperature, since the effective coupling is proportional only to the
+color charge associated to quarks, such proximity with increasing field
+strength makes the effective coupling decrease due to asymptotic freedom. In
+turn, this leads to a decreasing quark condensate. In contrast, at zero
+temperature both the effective strong coupling and the quark condensate
+increase with increasing magnetic field. This is due to the color charge
+associated to gluons dominating over that associated to quarks, with both
+having the opposite sign. Thus, the gluons induce a kind of screening of the
+quark color charge, in spite of the quark-antiquark proximity. The implications
+of these results for the inverse magnetic catalysis phenomenon are discussed.
+</dc:description>
+ <dc:description>Comment: Expanded discussion, references added. Version to appear in Phys.
+  Lett. B</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-05-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09134</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.05.058</dc:identifier>
+ </oai_dc:dc>
+

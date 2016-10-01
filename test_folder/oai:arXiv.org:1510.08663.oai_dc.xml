@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Permutations sortable by two stacks in series</dc:title>
+ <dc:creator>Elvey-Price, Andrew</dc:creator>
+ <dc:creator>Guttmann, Anthony J</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>05Axx</dc:subject>
+ <dc:description>  We address the problem of the number of permutations that can be sorted by
+two stacks in series. We do this by first counting all such permutations of
+length less than 20 exactly, then using a numerical technique to obtain
+nineteen further coefficients approximately. Analysing these coefficients by a
+variety of methods we conclude that the OGF behaves as $$S(z) \sim A (1 - \mu
+\cdot z)^\gamma,$$ where $\mu =12.45 \pm 0.15,$ $\gamma= 1.5 \pm 0.3,$ and $A
+\approx 0.02$.
+</dc:description>
+ <dc:description>Comment: 17 pages, 7 figures. Improved analysis, updated references</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-05-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08663</dc:identifier>
+ </oai_dc:dc>
+

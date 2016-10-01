@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Poloidal tilting symmetry of high order tokamak flux surface shaping in
+  gyrokinetics</dc:title>
+ <dc:creator>Ball, Justin</dc:creator>
+ <dc:creator>Parra, Felix I.</dc:creator>
+ <dc:creator>Barnes, Michael</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  A poloidal tilting symmetry of the local nonlinear $\delta f$ gyrokinetic
+model is demonstrated analytically and verified numerically. This symmetry
+shows that poloidally rotating all the flux surface shaping effects with large
+poloidal mode number by a single tilt angle has an exponentially small effect
+on the transport properties of a tokamak. This is shown using a generalization
+of the Miller local equilibrium model to specify an arbitrary flux surface
+geometry. With this geometry specification we find that, when performing an
+expansion in large flux surface shaping mode number, the governing equations of
+gyrokinetics are symmetric in the poloidal tilt of the high order shaping
+effects. This allows us to take the fluxes from a single configuration and
+calculate the fluxes in any configuration that can be produced by tilting the
+large mode number shaping effects. This creates a distinction between tokamaks
+with mirror symmetric flux surfaces and tokamaks without mirror symmetry, which
+is expected to have important consequences for generating toroidal rotation
+using up-down asymmetry.
+</dc:description>
+ <dc:description>Comment: 31 pages, 8 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-02-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08923</dc:identifier>
+ <dc:identifier>Plasma Phys. Control. Fusion 58 (2016) 045023</dc:identifier>
+ <dc:identifier>doi:10.1088/0741-3335/58/4/045023</dc:identifier>
+ </oai_dc:dc>
+

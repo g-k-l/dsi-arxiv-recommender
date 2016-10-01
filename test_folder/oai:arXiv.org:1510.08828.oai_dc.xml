@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Non-singular rotating black hole with a time delay in the center</dc:title>
+ <dc:creator>De Lorenzo, Tommaso</dc:creator>
+ <dc:creator>Giusti, Andrea</dc:creator>
+ <dc:creator>Speziale, Simone</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  As proposed by Bambi and Modesto, rotating non-singular black holes can be
+constructed via the Newman-Janis algorithm. Here we show that if one starts
+with a modified Hayward black hole with a time delay in the centre, the
+algorithm succeeds in producing a rotating metric, but curvature divergences
+reappear. To preserve finiteness, the time delay must be introduced directly at
+the level of the non-singular rotating metric. This is possible thanks to the
+deformation of the inner stationarity limit surface caused by the
+regularisation, and in more than one way. We outline three different
+possibilities, distinguished by the angular velocity of the event horizon.
+Along the way, we provide additional results on the Bambi-Modesto rotating
+Hayward metric, such as the structure of the regularisation occurring at the
+centre, the behaviour of the quantum gravity scale alike an electric charge in
+decreasing the angular momentum of the extremal black hole configuration, or
+details on the deformation of the ergosphere.
+</dc:description>
+ <dc:description>Comment: 15 pages, many figures; v2: updated references</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-02-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08828</dc:identifier>
+ <dc:identifier>General Relativity and Gravitation 48 (March 2016)</dc:identifier>
+ <dc:identifier>doi:10.1007/s10714-016-2105-7</dc:identifier>
+ </oai_dc:dc>
+

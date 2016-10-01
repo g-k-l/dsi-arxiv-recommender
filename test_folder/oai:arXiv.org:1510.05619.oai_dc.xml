@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Minimal physical requirements for crystal growth self-poisoning</dc:title>
+ <dc:creator>Whitelam, Stephen</dc:creator>
+ <dc:creator>Dahal, Yuba Raj</dc:creator>
+ <dc:creator>Schmit, Jeremy D.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  Self-poisoning is a kinetic trap that can impair or prevent crystal growth in
+a wide variety of physical settings. Here we use dynamic mean-field theory and
+computer simulation to argue that poisoning is ubiquitous because its emergence
+requires only the notion that a molecule can bind in two (or more) ways to a
+crystal; that those ways are not energetically equivalent; and that the
+associated binding events occur with sufficiently unequal probability. If these
+conditions are met then the steady-state growth rate is in general a
+non-monotonic function of the thermodynamic driving force for crystal growth,
+which is the characteristic of poisoning. Our results also indicate that
+relatively small changes of system parameters could be used to induce recovery
+from poisoning.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-01-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05619</dc:identifier>
+ <dc:identifier>J. Chem. Phys. 144, 064903 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4941457</dc:identifier>
+ </oai_dc:dc>
+

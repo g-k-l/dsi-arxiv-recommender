@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entanglement Renormalization and Two Dimensional String Theory</dc:title>
+ <dc:creator>Molina-Vilaplana, Javier</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  The entanglement renormalization flow of a (1+1) free boson is formulated as
+a path integral over some auxiliary scalar fields. The resulting effective
+theory for these fields amounts to the dilaton term of non-critical string
+theory in two spacetime dimensions. A connection between the scalar fields in
+the two theories is provided, allowing to acquire novel insights into how a
+theory of gravity emerges from the entanglement structure of another one
+without gravity.
+</dc:description>
+ <dc:description>Comment: 20 pages. v3 minor corrections. Accepted for publication in Physics
+  Letters B</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-02-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09020</dc:identifier>
+ <dc:identifier>Phys.Lett. B755 (2016) 421-425</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.02.050</dc:identifier>
+ </oai_dc:dc>
+

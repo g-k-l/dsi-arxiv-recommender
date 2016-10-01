@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Testing for Heteroscedasticity in High-dimensional Regressions</dc:title>
+ <dc:creator>Li, Zhaoyuan</dc:creator>
+ <dc:creator>Yao, Jianfeng</dc:creator>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  Testing heteroscedasticity of the errors is a major challenge in
+high-dimensional regressions where the number of covariates is large compared
+to the sample size. Traditional procedures such as the White and the
+Breusch-Pagan tests typically suffer from low sizes and powers. This paper
+proposes two new test procedures based on standard OLS residuals. Using the
+theory of random Haar orthogonal matrices, the asymptotic normality of both
+test statistics is obtained under the null when the degree of freedom tends to
+infinity. This encompasses both the classical low-dimensional setting where the
+number of variables is fixed while the sample size tends to infinity, and the
+proportional high-dimensional setting where these dimensions grow to infinity
+proportionally. These procedures thus offer a wide coverage of dimensions in
+applications. To our best knowledge, this is the first procedures in the
+literature for testing heteroscedasticity which are valid for medium and
+high-dimensional regressions. The superiority of our proposed tests over the
+existing methods are demonstrated by extensive simulations and by several real
+data analyses as well.
+</dc:description>
+ <dc:description>Comment: 34 pages</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-03-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00097</dc:identifier>
+ </oai_dc:dc>
+

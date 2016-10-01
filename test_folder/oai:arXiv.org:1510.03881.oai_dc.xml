@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Surface Area Deviation of the Euclidean Ball and a Polytope</dc:title>
+ <dc:creator>Hoehner, Steven D.</dc:creator>
+ <dc:creator>Schuett, Carsten</dc:creator>
+ <dc:creator>Werner, Elisabeth M.</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  While there is extensive literature on approximation of convex bodies by
+inscribed or circumscribed polytopes, much less is known in the case of
+generally positioned polytopes. Here we give upper and lower bounds for
+approximation of convex bodies by arbitrarily positioned polytopes with a fixed
+number of vertices in the symmetric surface area deviation.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-06-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03881</dc:identifier>
+ </oai_dc:dc>
+

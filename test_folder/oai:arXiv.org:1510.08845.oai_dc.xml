@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Energy flows in thick accretion disks and their consequences for black
+  hole feedback</dc:title>
+ <dc:creator>Sadowski, Aleksander</dc:creator>
+ <dc:creator>Lasota, Jean-Pierre</dc:creator>
+ <dc:creator>Abramowicz, Marek A.</dc:creator>
+ <dc:creator>Narayan, Ramesh</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  We study energy flows in geometrically thick accretion discs, both optically
+thick and thin, using general relativistic, three-dimensional simulations of
+black hole accretion flows. We find that for non-rotating black holes the
+efficiency of the total feedback from thick accretion discs is $3\%$ - roughly
+half of the thin disc efficiency. This amount of energy is ultimately
+distributed between outflow and radiation, the latter scaling weakly with the
+accretion rate for super-critical accretion rates, and returned to the
+interstellar medium. Accretion on to rotating black holes is more efficient
+because of the additional extraction of rotational energy. However, the jet
+component is collimated and likely to interact only weakly with the
+environment, whereas the outflow and radiation components cover a wide solid
+angle.
+</dc:description>
+ <dc:description>Comment: 14 pages, 11 figures, published in MNRAS</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-06-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08845</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stv2854</dc:identifier>
+ </oai_dc:dc>
+

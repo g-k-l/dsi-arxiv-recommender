@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Generalizations of the Sweedler dual</dc:title>
+ <dc:creator>Porst, Hans-E.</dc:creator>
+ <dc:creator>Street, Ross</dc:creator>
+ <dc:subject>Mathematics - Category Theory</dc:subject>
+ <dc:subject>18D10, 16T15</dc:subject>
+ <dc:description>  As left adjoint to the dual algebra functor, Sweedler's finite dual
+construction is an important tool in the theory of Hopf algebras over a field.
+We show in this note that the left adjoint to the dual algebra functor, which
+exists over arbitrary rings, shares a number of properties with the finite
+dual. Nonetheless the requirement that it should map Hopf algebras to Hopf
+algebras needs the extra assumption that this left adjoint should map an
+algebra into its linear dual. We identify a condition guaranteeing that
+Sweedler's construction works when generalized to noetherian commutative rings.
+We establish the following two apparently previously unnoticed dual
+adjunctions: For every commutative ring $R$ the left adjoint of the dual
+algebra functor on the category of $R$-bialgebras has a right adjoint. This
+dual adjunction can be restricted to a dual adjunction on the category of Hopf
+$R$-algebras, provided that $R$ is noetherian and absolutely flat.
+</dc:description>
+ <dc:description>Comment: 27 pages. We are grateful to the referee who noticed that Lemma 18 in
+  the old version was false. This prompted a full reorganisation of the paper</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-04-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01797</dc:identifier>
+ </oai_dc:dc>
+

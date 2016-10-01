@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>"Big Bang'' as a result of first-order phase transition driven by
+  changing scalar curvature in expanding early Universe: "hyperinflation''
+  scenario</dc:title>
+ <dc:creator>Pashitskii, E. A.</dc:creator>
+ <dc:creator>Pentegov, V. I.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We suggest that the "Big Bang" may be a result of the first-order phase
+transition driven by changing scalar curvature of the 4D space-time in
+expanding cold Universe, filled with nonlinear scalar field $\phi $ and neutral
+matter with equation of state $p=\nu \varepsilon $ (where $p$ and $\varepsilon
+$ are pressure and energy density of matter). We consider a Lagrangian for
+scalar field in curved space-time with nonlinearity $\phi ^{4} $, which along
+with the quadratic term $-\xi R\left|\phi \right|^{2} $ (where $\xi $ is the
+interaction constant and $R$ is scalar curvature) contains a term $\sim \xi
+R\left(\phi +\phi ^{+} \right)$ linear in $\phi $. Due to this term the
+condition for the extrema of the potential energy of scalar field is given by a
+cubic equation. Provided $\nu &gt; 1/3$ the scalar curvature $R=[\kappa (3\nu
+-1)\varepsilon -4\Lambda ]$ (where $\kappa $ and $\Lambda $ are Einstein's
+gravitational and cosmological constants) decreases along with decreasing
+$\varepsilon $ in the process of the Universe's expansion, and at some critical
+value $R_{c} &lt; 0$ a first-order phase transition occurs, induced by an
+"external field" parameter proportional to $R$. Given certain conditions the
+critical radius of the early Universe at the point of the first-order phase
+transition may reach arbitrary large values, so this scenario of unrestricted
+"inflation" of the Universe may be called "hyperinflation". Beyond the point of
+phase transition the system is rolling down into the potential minimum with the
+release of the potential energy of scalar field, accompanied by oscillations of
+its amplitude $\phi $. The powerful heating of the Universe in the course of
+attenuation of these oscillations plays the role of "Big Bang".
+</dc:description>
+ <dc:description>Comment: 10 pages, 6 figures; to be published in JETP V.149, No.1 (2016)</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02608</dc:identifier>
+ <dc:identifier>doi:10.1134/S1063776116010076</dc:identifier>
+ </oai_dc:dc>
+

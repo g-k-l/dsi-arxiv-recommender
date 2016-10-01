@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Breaking symmetry in propagation of radially and azimuthally polarized
+  high power laser pulses in underdense plasma</dc:title>
+ <dc:creator>Pathak, Naveen</dc:creator>
+ <dc:creator>Zhidkov, Alexei</dc:creator>
+ <dc:creator>Nakanii, Nobuhiko</dc:creator>
+ <dc:creator>Masuda, Shinichi</dc:creator>
+ <dc:creator>Hosokai, Tomonao</dc:creator>
+ <dc:creator>Kodama, R.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  Propagation of relativistically intense azimuthally or radially polarized
+laser pulses (RPP) in underdense plasmas is demonstrated to be unstable, via 3D
+particle-in-cell simulation and disregarding the Kerr non-linearity. Strong
+pulse filamentation occurs for RPP in transversely uniform plasma with an
+increment, $\Gamma$, close to the well-known one depending on acceleration,
+$\alpha$, and modulated density gradient length, $L$, as $\Gamma \approx
+(\alpha/L)^{1/2}$. In deep plasma channels the instability vanishes. Electron
+self-injection and acceleration by the resulting laser pulse wake is explored.
+</dc:description>
+ <dc:description>Comment: 34 pages, 21 figures</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07374</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4942942</dc:identifier>
+ </oai_dc:dc>
+

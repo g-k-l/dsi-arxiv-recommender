@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electron back scattering in CNTFETs</dc:title>
+ <dc:creator>Bejenari, Igor</dc:creator>
+ <dc:creator>Claus, Martin</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  A new non-ballistic analytical model for the intrinsic channel region of
+MOSFET-like single-walled carbon-nanotube field-effect transistors with ohmic
+contacts has been developed which overcomes the limitations of existing models
+and extends their applicability toward high bias voltages needed for analog
+applications. The new model comprises an improved description of
+electron-phonon scattering mechanism taking into account the accumulation of
+electrons at the bottom of conduction subband due to back scattering by optical
+phonons. The model has been justified by a Boltzmann transport equation solver.
+The simulation results are found to be in agreement with experimental data for
+highly doped CNTFETs.
+</dc:description>
+ <dc:description>Comment: 6 pages, 6 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2015-12-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03716</dc:identifier>
+ <dc:identifier>IEEE Trans. Electron Devices 63, No. 3, pp. 1340-1345, March 2016</dc:identifier>
+ <dc:identifier>doi:10.1109/TED.2015.2512180</dc:identifier>
+ </oai_dc:dc>
+

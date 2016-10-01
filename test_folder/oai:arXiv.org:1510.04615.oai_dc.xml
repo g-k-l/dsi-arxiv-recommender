@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Compact Binary Merger Rates: Comparison with LIGO/Virgo Upper Limits</dc:title>
+ <dc:creator>Belczynski, Krzysztof</dc:creator>
+ <dc:creator>Repetto, Serena</dc:creator>
+ <dc:creator>Holz, Daniel E.</dc:creator>
+ <dc:creator>O'Shaughnessy, Richard</dc:creator>
+ <dc:creator>Bulik, Tomasz</dc:creator>
+ <dc:creator>Berti, Emanuele</dc:creator>
+ <dc:creator>Fryer, Christopher</dc:creator>
+ <dc:creator>Dominik, Michal</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We compare evolutionary predictions of double compact object merger rate
+densities with initial and forthcoming LIGO/Virgo upper limits. We find that:
+(i) Due to the cosmological reach of advanced detectors, current conversion
+methods of population synthesis predictions into merger rate densities are
+insufficient. (ii) Our optimistic models are a factor of 18 below the initial
+LIGO/Virgo upper limits for BH-BH systems, indicating that a modest increase in
+observational sensitivity (by a factor of 2.5) may bring the first detections
+or first gravitational wave constraints on binary evolution. (iii)
+Stellar-origin massive BH-BH mergers should dominate event rates in advanced
+LIGO/Virgo and can be detected out to redshift z=2 with templates including
+inspiral, merger, and ringdown. Normal stars (&lt;150 Msun) can produce such
+mergers with total redshifted mass up to 400 Msun. (iv) High black hole natal
+kicks can severely limit the formation of massive BH-BH systems (both in
+isolated binary and in dynamical dense cluster evolution), and thus would
+eliminate detection of these systems even at full advanced LIGO/Virgo
+sensitivity. We find that low and high black hole natal kicks are allowed by
+current observational electromagnetic constraints. (v) The majority of our
+models yield detections of all types of mergers (NS-NS, BH-NS, BH-BH) with
+advanced detectors. Numerous massive BH-BH merger detections will indicate
+small (if any) natal kicks for massive BHs.
+</dc:description>
+ <dc:description>Comment: 2016, ApJ 819, 108 (to match the published version)</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04615</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/819/2/108</dc:identifier>
+ </oai_dc:dc>
+

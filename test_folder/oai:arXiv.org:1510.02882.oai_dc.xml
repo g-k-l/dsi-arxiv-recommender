@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Lempel-Ziv Computation In Compressed Space (LZ-CICS)</dc:title>
+ <dc:creator>K&#246;ppl, Dominik</dc:creator>
+ <dc:creator>Sadakane, Kunihiko</dc:creator>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:description>  We show that both the Lempel Ziv 77- and the 78-factorization of a text of
+length $n$ on an integer alphabet of size $\sigma$ can be computed in $O(n \lg
+\lg \sigma)$ time (linear time if we allow randomization) using $O(n \lg
+\sigma)$ bits of working space. Given that a compressed representation of the
+suffix tree is loaded into RAM, we can compute both factorizations in $O(n)$
+time using $z \lg n + O(n)$ bits of space, where $z$ is the number of factors.
+</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:date>2016-05-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02882</dc:identifier>
+ </oai_dc:dc>
+

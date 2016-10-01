@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Pathwise duals of monotone and additive Markov processes</dc:title>
+ <dc:creator>Sturm, Anja</dc:creator>
+ <dc:creator>Swart, Jan M.</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Primary: 82C22, Secondary: 60J27, 06A06, 06B10</dc:subject>
+ <dc:description>  This paper develops a systematic treatment of monotonicity-based pathwise
+dualities for Markov processes taking values in partially ordered sets. We show
+that every Markov process that takes values in a finite partially ordered set
+and whose generator can be represented in monotone maps has a pathwise dual
+process. In the special setting of attractive spin systems this has been
+discovered earlier by Gray.
+  We show that the dual simplifies a lot when the state space is a lattice (in
+the order-theoretic meaning of the word) and all monotone maps satisfy an
+additivity condition. This leads to a unified treatment of several well-known
+dualities, including Siegmund's dual for processes with a totally ordered state
+space, duality of additive spin systems, and a duality due to Krone for the
+two-stage contact process, and allows for the construction of new dualities as
+well.
+  We show that the well-known representation of additive spin systems in terms
+of open paths in a graphical representation can be generalized to additive
+Markov processes taking values in general lattices, but for the process and its
+dual to be representable on the same underlying space, we need to assume that
+the lattice is distributive.
+  In the final section, we show how our results can be generalized from finite
+state spaces to interacting particle systems with finite local state spaces.
+</dc:description>
+ <dc:description>Comment: 41 pages, 2 figures, shortened version, more extensive literature
+  review</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-02-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06284</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,69 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Solar neutrino detection in a large volume double-phase liquid argon
+  experiment</dc:title>
+ <dc:creator>Franco, D.</dc:creator>
+ <dc:creator>Giganti, C.</dc:creator>
+ <dc:creator>Agnes, P.</dc:creator>
+ <dc:creator>Agostino, L.</dc:creator>
+ <dc:creator>Bottino, B.</dc:creator>
+ <dc:creator>Canci, N.</dc:creator>
+ <dc:creator>Davini, S.</dc:creator>
+ <dc:creator>De Cecco, S.</dc:creator>
+ <dc:creator>Fan, A.</dc:creator>
+ <dc:creator>Fiorillo, G.</dc:creator>
+ <dc:creator>Galbiati, C.</dc:creator>
+ <dc:creator>Goretti, A. M.</dc:creator>
+ <dc:creator>Hungerford, E. V.</dc:creator>
+ <dc:creator>Ianni, Al.</dc:creator>
+ <dc:creator>Ianni, An.</dc:creator>
+ <dc:creator>Jollet, C.</dc:creator>
+ <dc:creator>Marini, L.</dc:creator>
+ <dc:creator>Martoff, C. J.</dc:creator>
+ <dc:creator>Meregaglia, A.</dc:creator>
+ <dc:creator>Pagani, L.</dc:creator>
+ <dc:creator>Pallavicini, M.</dc:creator>
+ <dc:creator>Pantic, E.</dc:creator>
+ <dc:creator>Pocar, A.</dc:creator>
+ <dc:creator>Razeti, M.</dc:creator>
+ <dc:creator>Renshaw, A. L.</dc:creator>
+ <dc:creator>Rossi, B.</dc:creator>
+ <dc:creator>Rossi, N.</dc:creator>
+ <dc:creator>Suvorov, Y.</dc:creator>
+ <dc:creator>Testera, G.</dc:creator>
+ <dc:creator>Tonazzo, A.</dc:creator>
+ <dc:creator>Wang, H.</dc:creator>
+ <dc:creator>Zavatarelli, S.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Astrophysics - Instrumentation and Methods for Astrophysics</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  Precision measurements of solar neutrinos emitted by specific nuclear
+reaction chains in the Sun are of great interest for developing an improved
+understanding of star formation and evolution. Given the expected neutrino
+fluxes and known detection reactions, such measurements require detectors
+capable of collecting neutrino-electron scattering data in exposures on the
+order of 1 ktonne yr, with good energy resolution and extremely low background.
+Two-phase liquid argon time projection chambers (LAr TPCs) are under
+development for direct Dark Matter WIMP searches, which possess very large
+sensitive mass, high scintillation light yield, good energy resolution, and
+good spatial resolution in all three cartesian directions. While enabling Dark
+Matter searches with sensitivity extending to the "neutrino floor" (given by
+the rate of nuclear recoil events from solar neutrino coherent scattering),
+such detectors could also enable precision measurements of solar neutrino
+fluxes using the neutrino-electron elastic scattering events. Modeling results
+are presented for the cosmogenic and radiogenic backgrounds affecting solar
+neutrino detection in a 300 tonne (100 tonne fiducial) LAr TPC operating at
+LNGS depth (3,800 meters of water equivalent). The results show that such a
+detector could measure the CNO neutrino rate with ~15% precision, and
+significantly improve the precision of the 7Be and pep neutrino rates compared
+to the currently available results from the Borexino organic liquid
+scintillator detector.
+</dc:description>
+ <dc:description>Comment: 21 pages, 7 figures, 6 tables</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-08-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04196</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/08/017</dc:identifier>
+ </oai_dc:dc>
+

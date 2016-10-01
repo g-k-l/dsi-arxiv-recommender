@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Diversity-Promoting Objective Function for Neural Conversation Models</dc:title>
+ <dc:creator>Li, Jiwei</dc:creator>
+ <dc:creator>Galley, Michel</dc:creator>
+ <dc:creator>Brockett, Chris</dc:creator>
+ <dc:creator>Gao, Jianfeng</dc:creator>
+ <dc:creator>Dolan, Bill</dc:creator>
+ <dc:subject>Computer Science - Computation and Language</dc:subject>
+ <dc:description>  Sequence-to-sequence neural network models for generation of conversational
+responses tend to generate safe, commonplace responses (e.g., "I don't know")
+regardless of the input. We suggest that the traditional objective function,
+i.e., the likelihood of output (response) given input (message) is unsuited to
+response generation tasks. Instead we propose using Maximum Mutual Information
+(MMI) as the objective function in neural models. Experimental results
+demonstrate that the proposed MMI models produce more diverse, interesting, and
+appropriate responses, yielding substantive gains in BLEU scores on two
+conversational datasets and in human evaluations.
+</dc:description>
+ <dc:description>Comment: In. Proc of NAACL 2016</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2016-06-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03055</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Data-driven computational mechanics</dc:title>
+ <dc:creator>Kirchdoerfer, Trenton</dc:creator>
+ <dc:creator>Ortiz, Michael</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  We develop a new computing paradigm, which we refer to as data-driven
+computing, according to which calculations are carried out directly from
+experimental material data and pertinent constraints and conservation laws,
+such as compatibility and equilibrium, thus bypassing the empirical material
+modeling step of conventional computing altogether. Data-driven solvers seek to
+assign to each material point the state from a prespecified data set that is
+closest to satisfying the conservation laws. Equivalently, data-driven solvers
+aim to find the state satisfying the conservation laws that is closest to the
+data set. The resulting data-driven problem thus consists of the minimization
+of a distance function to the data set in phase space subject to constraints
+introduced by the conservation laws. We motivate the data-driven paradigm and
+investigate the performance of data-driven solvers by means of two examples of
+application, namely, the static equilibrium of nonlinear three-dimensional
+trusses and linear elasticity. In these tests, the data-driven solvers exhibit
+good convergence properties both with respect to the number of data points and
+with regard to local data assignment. The variational structure of the
+data-driven problem also renders it amenable to analysis. We show that, as the
+data set approximates increasingly closely a classical material law in phase
+space, the data-driven solutions converge to the classical solution. We also
+illustrate the robustness of data-driven solvers with respect to spatial
+discretization. In particular, we show that the data-driven solutions of
+finite-element discretizations of linear elasticity converge jointly with
+respect to mesh size and approximation by the data set.
+</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04232</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cma.2016.02.001</dc:identifier>
+ </oai_dc:dc>
+

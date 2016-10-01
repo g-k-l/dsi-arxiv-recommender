@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>New Limits on the Dark Matter Lifetime from Dwarf Spheroidal Galaxies
+  using Fermi-LAT</dc:title>
+ <dc:creator>Baring, Matthew G.</dc:creator>
+ <dc:creator>Ghosh, Tathagata</dc:creator>
+ <dc:creator>Queiroz, Farinaldo S.</dc:creator>
+ <dc:creator>Sinha, Kuver</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  Dwarf spheroidal galaxies (dSphs) are promising targets for the indirect
+detection of dark matter through gamma-ray emission due to their proximity,
+lack of astrophysical backgrounds and high dark matter density. They are often
+used to place restrictive bounds on the dark matter annihilation cross section.
+In this paper, we analyze six years of {\it Fermi}-LAT gamma-ray data from 19
+dSphs that are satellites of the Milky Way, and derive from a stacked analysis
+of 15 dSphs, robust 95\% confidence level lower limits on the dark matter
+lifetime for several decay channels and dark matter masses between $\sim 1$GeV
+and $10$TeV. Our findings are based on a bin-by-bin maximum likelihood analysis
+treating the J-factor as a nuisance parameter using PASS 8 event-class. Our
+constraints from this ensemble are among the most stringent and solid in the
+literature, and competitive with existing ones coming from the extragalactic
+gamma-ray background, galaxy clusters, AMS-02 cosmic ray data, Super-K and
+ICECUBE neutrino data, while rather insensitive to systematic uncertainties. In
+particular, among gamma-ray searches, we improve existing limits for dark
+matter decaying into $\bar{b}b$, ($\mu^+\mu^-$) for DM masses below $\sim 30\,
+(200)$~GeV, demonstrating that dSphs are compelling targets for constraining
+dark matter decay lifetimes.
+</dc:description>
+ <dc:description>Comment: 4 figures, 7 pages. Inclusion of PASS 8 event-class, maximum
+  likelihood analysis and a new figure concerning Reticulum-II. Accepted in
+  Physical Review D</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-04-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00389</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 103009 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.103009</dc:identifier>
+ </oai_dc:dc>
+

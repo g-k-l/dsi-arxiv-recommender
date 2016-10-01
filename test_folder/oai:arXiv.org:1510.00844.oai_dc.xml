@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Exploiting Multiple Levels of Parallelism in Sparse Matrix-Matrix
+  Multiplication</dc:title>
+ <dc:creator>Azad, Ariful</dc:creator>
+ <dc:creator>Ballard, Grey</dc:creator>
+ <dc:creator>Buluc, Aydin</dc:creator>
+ <dc:creator>Demmel, James</dc:creator>
+ <dc:creator>Grigori, Laura</dc:creator>
+ <dc:creator>Schwartz, Oded</dc:creator>
+ <dc:creator>Toledo, Sivan</dc:creator>
+ <dc:creator>Williams, Samuel</dc:creator>
+ <dc:subject>Computer Science - Distributed, Parallel, and Cluster Computing</dc:subject>
+ <dc:subject>Computer Science - Numerical Analysis</dc:subject>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  Sparse matrix-matrix multiplication (or SpGEMM) is a key primitive for many
+high-performance graph algorithms as well as for some linear solvers, such as
+algebraic multigrid. The scaling of existing parallel implementations of SpGEMM
+is heavily bound by communication. Even though 3D (or 2.5D) algorithms have
+been proposed and theoretically analyzed in the flat MPI model on Erdos-Renyi
+matrices, those algorithms had not been implemented in practice and their
+complexities had not been analyzed for the general case. In this work, we
+present the first ever implementation of the 3D SpGEMM formulation that also
+exploits multiple (intra-node and inter-node) levels of parallelism, achieving
+significant speedups over the state-of-the-art publicly available codes at all
+levels of concurrencies. We extensively evaluate our implementation and
+identify bottlenecks that should be subject to further research.
+</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-08-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00844</dc:identifier>
+ </oai_dc:dc>
+

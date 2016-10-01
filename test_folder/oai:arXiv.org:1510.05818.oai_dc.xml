@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Arithmetic Chern-Simons Theory I</dc:title>
+ <dc:creator>Kim, Minhyong</dc:creator>
+ <dc:subject>Mathematics - Number Theory</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Mathematics - Algebraic Topology</dc:subject>
+ <dc:subject>14G10, 11G40, 81T45</dc:subject>
+ <dc:description>  In this paper, we apply ideas of Dijkgraaf and Witten on 2+1 dimensional
+topological quantum field theory to arithmetic curves, that is, the spectra of
+rings of integers in algebraic number fields. In the first three sections, we
+define classical Chern-Simons functionals on spaces of Galois representations.
+In the highly speculative section 5, we consider the far-fetched possibility of
+using Chern-Simons theory to construct L-functions.
+</dc:description>
+ <dc:description>Comment: with Appendix B by Behrang Noohi. A section added with brief sketch
+  of a glueing formula</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-05-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05818</dc:identifier>
+ </oai_dc:dc>
+

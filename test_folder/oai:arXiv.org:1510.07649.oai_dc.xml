@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Can helium envelopes change the outcome of direct white dwarf
+  collisions?</dc:title>
+ <dc:creator>Holcomb, Cole</dc:creator>
+ <dc:creator>Kushnir, Doron</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  Collisions of white dwarfs (WDs) have recently been invoked as a possible
+mechanism for type Ia supernovae (SNIa). A pivotal feature for the viability of
+WD collisions as SNIa progenitors is that a significant fraction of the mass is
+highly compressed to the densities required for efficient $^{56}$Ni production
+before the ignition of the detonation wave. Previous studies have predominantly
+employed model WDs composed entirely of carbon-oxygen (CO), whereas WDs are
+expected to have a non-negligible helium envelope. Given that helium is more
+susceptible to explosive burning than CO under the conditions characteristic of
+WD collision, a legitimate concern is whether or not early time He detonation
+ignition can translate to early time CO detonation, thereby drastically
+reducing $^{56}$Ni synthesis. We investigate the role of He in determining the
+fate of WD collisions by performing a series of two-dimensional hydrodynamics
+calculations. We find that a necessary condition for non-trivial reduction of
+the CO ignition time is that the He detonation birthed in the contact region
+successfully propagates into the unshocked shell. We determine the minimal He
+shell mass as a function of the total WD mass that upholds this condition.
+Although we utilize a simplified reaction network similar to those used in
+previous studies, our findings are in good agreement with detailed
+investigations concerning the impact of network size on He shell detonations.
+This allows us to extend our results to the case with more realistic burning
+physics. Based on the comparison of these findings against evolutionary
+calculations of WD compositions, we conclude that most, if not all, WD
+collisions will not be drastically impacted by their intrinsic He components.
+</dc:description>
+ <dc:description>Comment: 5 Pages, 2 Figure, 3 Tables</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07649</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/826/2/169</dc:identifier>
+ </oai_dc:dc>
+

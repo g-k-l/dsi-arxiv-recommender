@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimized Setup for 2D Convection Experiments in Thin Liquid Films</dc:title>
+ <dc:creator>Winkler, Michael</dc:creator>
+ <dc:creator>Abel, Markus</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  We present a novel experimental setup to investigate two-dimensional thermal
+convection in a freestanding thin liquid film. We develop a setup for the
+reproducible generation of freestanding thin liquid films. Such films can be
+produced in a controlled way on the scale of 5 to 1000 nanometers. Our primary
+goal is to investigate the statistics of reversals in Rayleigh-B\'enard
+convection with varying aspect ratio; here numerical works are quite expensive
+and 3D experiments prohibitively complicated and costly. However, as well
+questions regarding the physics of liquid films under controlled conditions can
+be investigated, like surface forces, or stability under varying
+thermodynamical parameters. The thin liquid film has a well-defined and -chosen
+chemistry in order to fit our particular requirements, it has a thickness to
+area ratio of approximately 10^8 and is supported by a frame which is
+adjustable in height and width to vary the aspect ratio from 0.16 to 10. The
+top and bottom frame elements can be set to specific temperature within T=
+15-55{\deg}C. The ambient parameters of the thin film are carefully controlled
+to achieve reproducible results and allow a comparison to experimental and
+numerical data.
+</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09097</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4950871</dc:identifier>
+ </oai_dc:dc>
+

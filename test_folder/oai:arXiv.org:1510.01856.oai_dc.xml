@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Polarimetric microlensing of circumstellar disks</dc:title>
+ <dc:creator>Sajadian, Sedighe</dc:creator>
+ <dc:creator>Rahvar, Sohrab</dc:creator>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  We study the benefits of polarimetry observations of microlensing events to
+detect and characterize circumstellar disks around the microlensed stars
+located at the Galactic bulge. These disks which are unresolvable from their
+host stars make a net polarization effect due to their projected elliptical
+shapes. Gravitational microlensing can magnify these signals and make them be
+resolved. The main aim of this work is to determine what extra information
+about these disks can be extracted from polarimetry observations of
+microlensing events in addition to those given by photometry ones. Hot disks
+which are closer to their host stars are more likely to be detected by
+microlensing, owing to more contributions in the total flux. By considering
+this kind of disks, we show that although the polarimetric efficiency for
+detecting disks is similar to the photometric observation, but polarimetry
+observations can help to constraint the disk geometrical parameters e.g. the
+disk inner radius and the lens trajectory with respect to the disk semimajor
+axis. On the other hand, the time scale of polarimetric curves of these
+microlensing events generally increases while their photometric time scale does
+not change. By performing a Monte Carlo simulation, we show that almost 4
+optically-thin disks around the Galactic bulge sources are detected (or even
+characterized) through photometry (or polarimetry) observations of
+high-magnification microlensing events during 10 years monitoring of 150
+million objects.
+</dc:description>
+ <dc:description>Comment: 11 pages, 10 figures, accepted for publication in MNRAS</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01856</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stv2297</dc:identifier>
+ </oai_dc:dc>
+

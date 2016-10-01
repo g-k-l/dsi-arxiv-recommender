@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Permutations of $\mathbb{Z}^d$ with restricted movement</dc:title>
+ <dc:creator>Schmidt, Klaus</dc:creator>
+ <dc:creator>Strasser, Gabriel</dc:creator>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>37A35, 37B10, 37B50</dc:subject>
+ <dc:description>  We investigate dynamical properties of the set of permutations of
+$\mathbb{Z}^d$ with restricted movement, i.e., permutations $\pi $ of
+$\mathbb{Z}^d$ such that $\pi (\mathbf{n})-\mathbf{n}$ lies, for every
+$\mathbf{n}\in \mathbb{Z}^d$, in a prescribed finite set $A\subset
+\mathbb{Z}^d$. For $d=1$, such permutations occur, for example, in restricted
+orbit equivalence, or in the calculation of determinants of certain bi-infinite
+multi-diagonal matrices. For $d\ge2$ these sets of permutations provide natural
+classes of examples of multidimensional shifts of finite type.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-03-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01068</dc:identifier>
+ </oai_dc:dc>
+

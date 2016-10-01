@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Taming the dynamical sign problem in real-time evolution of quantum
+  many-body problems</dc:title>
+ <dc:creator>Cohen, Guy</dc:creator>
+ <dc:creator>Gull, Emanuel</dc:creator>
+ <dc:creator>Reichman, David. R.</dc:creator>
+ <dc:creator>Millis, Andrew J.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Current nonequilibrium Monte Carlo methods suffer from a dynamical sign
+problem that makes simulating real-time dynamics for long times exponentially
+hard. We propose a new `Inchworm Algorithm', based on iteratively reusing
+information obtained in previous steps to extend the propagation to longer
+times. The algorithm largely overcomes the dynamical sign problem, changing the
+scaling from exponential to quadratic. We use the method to solve the Anderson
+impurity model in the Kondo and mixed valence regimes, obtaining results both
+for quenches and for spin dynamics in the presence of an oscillatory magnetic
+field.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03534</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 115, 266802 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.115.266802</dc:identifier>
+ </oai_dc:dc>
+

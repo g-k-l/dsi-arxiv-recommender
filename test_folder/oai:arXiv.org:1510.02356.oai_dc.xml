@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Clustering genes of common evolutionary history</dc:title>
+ <dc:creator>Gori, Kevin</dc:creator>
+ <dc:creator>Suchan, Tomasz</dc:creator>
+ <dc:creator>Alvarez, Nadir</dc:creator>
+ <dc:creator>Goldman, Nick</dc:creator>
+ <dc:creator>Dessimoz, Christophe</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Quantitative Biology - Genomics</dc:subject>
+ <dc:description>  Phylogenetic inference can potentially result in a more accurate tree using
+data from multiple loci. However, if the loci are incongruent--due to events
+such as incomplete lineage sorting or horizontal gene transfer--it can be
+misleading to infer a single tree. To address this, many previous contributions
+have taken a mechanistic approach, by modelling specific processes.
+Alternatively, one can cluster loci without assuming how these incongruencies
+might arise. Such "process-agnostic" approaches typically infer a tree for each
+locus and cluster these. There are, however, many possible combinations of tree
+distance and clustering methods; their comparative performance in the context
+of tree incongruence is largely unknown. Furthermore, because standard model
+selection criteria such as AIC cannot be applied to problems with a variable
+number of topologies, the issue of inferring the optimal number of clusters is
+poorly understood. Here, we perform a large-scale simulation study of
+phylogenetic distances and clustering methods to infer loci of common
+evolutionary history. We observe that the best-performing combinations are
+distances accounting for branch lengths followed by spectral clustering or
+Ward's method. We also introduce two statistical tests to infer the optimal
+number of clusters and show that they strongly outperform the silhouette
+criterion, a general-purpose heuristic. We illustrate the usefulness of the
+approach by (i) identifying errors in a previous phylogenetic analysis of yeast
+species and (ii) identifying topological incongruence among newly sequenced
+loci of the globeflower fly genus Chiastocheta. We release treeCl, a new
+program to cluster genes of common evolutionary history (http://git.io/treeCl).
+</dc:description>
+ <dc:description>Comment: accepted at Molecular Biology and Evolution</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-03-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02356</dc:identifier>
+ <dc:identifier>doi:10.1093/molbev/msw038</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On determining absolute entropy without quantum theory or the Third Law
+  of thermodynamics</dc:title>
+ <dc:creator>Steane, Andrew</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - History and Philosophy of Physics</dc:subject>
+ <dc:description>  We employ classical thermodynamics to gain information about absolute
+entropy, without recourse to statistical methods, quantum mechanics or the
+Third Law of thermodynamics. The Gibbs-Duhem equation yields various simple
+methods to determine the absolute entropy of a fluid. We also study the entropy
+of an ideal gas and the ionization of a plasma in thermal equilibrium. A single
+measurement of the degree of ionization can be used to determine an unknown
+constant in the entropy equation, and thus determine the absolute entropy of a
+gas. It follows from all these examples that the value of entropy at absolute
+zero temperature does not need to be assigned by postulate, but can be deduced
+empirically.
+</dc:description>
+ <dc:description>Comment: 16 pages, 2 figures; minor clarifications in v.2; additional ref in
+  v.3</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-01-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02311</dc:identifier>
+ <dc:identifier>doi:10.1088/1367-2630/18/4/043022</dc:identifier>
+ </oai_dc:dc>
+

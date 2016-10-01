@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stellar and Gaseous Disk Structures in Cosmological Galaxy Equilibrium
+  Models</dc:title>
+ <dc:creator>Rathaus, Ben</dc:creator>
+ <dc:creator>Sternberg, Amiel</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  We present "radially-resolved-equilibrium-models" for the growth of stellar
+and gaseous disks in cosmologically accreting massive halos. Our focus is on
+objects that evolve to redshifts $z\sim 2$. We solve the time-dependent
+equations that govern the radially dependent star-formation rates, inflows and
+outflows from and to the inter- and circum-galactic medium, and inward radial
+gas flows within the disks. The stellar and gaseous disks reach equilibrium
+configurations on dynamical time scales much shorter than variations in the
+cosmological dark matter halo growth and baryonic accretions rates. We show
+analytically that mass and global angular momentum conservation naturally give
+rise to exponential gas and stellar disks over many radial length scales. As
+expected, the gaseous disks are more extended as set by the condition Toomre
+$Q&lt;1$ for star-formation. The disks rapidly become baryon dominated. For
+massive, $5\times 10^{12}M_\odot$ halos at redshift $z=2$, we reproduced the
+typical observed star-formation rates of $\sim 100 \, M_\odot \, {\rm
+yr}^{-1}$, stellar masses $\sim 9\times 10^{10}\, M_\odot$, gas contents $\sim
+10^{11}\, M_\odot$, half mass sizes of 4.5 and 5.8 kpc for the stars and gas,
+and characteristic surface densities of $500$ and $ 400\, M_\odot \, {\rm
+pc}^{-2}$ for the stars and gas.
+</dc:description>
+ <dc:description>Comment: 13 pages, 28 figures, to appear in MNRAS</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-02-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01238</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw416</dc:identifier>
+ </oai_dc:dc>
+

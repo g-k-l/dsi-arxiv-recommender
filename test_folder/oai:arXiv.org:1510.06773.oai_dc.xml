@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Stratification for module categories of finite group schemes</dc:title>
+ <dc:creator>Benson, Dave</dc:creator>
+ <dc:creator>Iyengar, Srikanth B.</dc:creator>
+ <dc:creator>Krause, Henning</dc:creator>
+ <dc:creator>Pevtsova, Julia</dc:creator>
+ <dc:subject>Mathematics - Representation Theory</dc:subject>
+ <dc:subject>16G10 (primary), 20C20, 20G10 20J06 (secondary)</dc:subject>
+ <dc:description>  The tensor ideal localising subcategories of the stable module category of
+all, including infinite dimensional, representations of a finite group scheme
+over a field of positive characteristic are classified. Various applications
+concerning the structure of the stable module category and the behavior of
+support and cosupport under restriction and induction are presented.
+</dc:description>
+ <dc:description>Comment: 36 pages. The revision corrects an error in the statement of Theorem
+  7.7, and also in the proof of Theorem 4.1. The main results of the paper
+  remain unchanged</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06773</dc:identifier>
+ </oai_dc:dc>
+

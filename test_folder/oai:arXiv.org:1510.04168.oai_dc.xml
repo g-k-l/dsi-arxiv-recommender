@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Creation of a squeezed photon distribution using artificial atoms with
+  broken inversion symmetry</dc:title>
+ <dc:creator>Koppenh&#246;fer, Martin</dc:creator>
+ <dc:creator>Marthaler, Michael</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We consider a two level system with both a transversal and a longitudinal
+coupling to the electromagnetic field of a resonator. Using a polaron
+transformation, this Hamiltonian can be mapped onto a Jaynes-Cummings
+Hamiltonian with generalized field operators acting on the electromagnetic
+field in the resonator. In contrast to the usual ladder operators $a$ and
+$a^\dagger$, these operators exhibit a non-monotous coupling strength with
+respect to the number $n$ of photons in the resonator. Especially, there are
+roots of the coupling between qubit and resonator at certain photon numbers
+$n_0$. We show, that this effect can be exploited to generate photon-number
+squeezed light, characterized by a Fano factor $F \ll 1$, with a large number
+of photons (e.g. of the order of $10^4$).
+</dc:description>
+ <dc:description>Comment: 8 pages, 4 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2015-11-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04168</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 023831 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.023831</dc:identifier>
+ </oai_dc:dc>
+

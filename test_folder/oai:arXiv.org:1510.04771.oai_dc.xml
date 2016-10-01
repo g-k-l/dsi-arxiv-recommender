@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Enhanced asymmetrically-clipped optical OFDM</dc:title>
+ <dc:creator>Lowery, Arthur James</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  Asymmetrically clipped optical orthogonal frequency-division multiplexing
+(ACO-OFDM) is a technique that sacrifices spectral efficiency in order to
+transmit an orthogonally frequency-division multiplexed signal over a unipolar
+channel, such as a directly modulated direct-detection fiber or free-space
+channel. Several methods have been proposed to regain this spectral efficiency,
+including: asymmetrically clipped DC-biased optical OFDM (ADO-OFDM), enhanced
+U-OFDM (EU-OFDM), and spectral and energy efficient OFDM (SEE-OFDM). This paper
+presents a new method that offers the highest receiver sensitivity for a given
+optical power at spectral efficiencies above 3 bit/s/Hz, having a 7-dB
+sensitivity advantage over DC-biased OFDM for 1024-QAM at 87.5% of its spectral
+efficiency, at the same bit rate and optical power.
+</dc:description>
+ <dc:description>Comment: 13 pages, 9 Figures (Addition of Author's Note referring to recent
+  publications on Layered ACO-OFDM and SEE-OFDM Arxiv version of 28th Oct
+  2015). (Addition of Author's note 9th Mar 16 with citations to Opt. Express
+  version and others)</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-03-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04771</dc:identifier>
+ <dc:identifier>Opt. Express 24, 3950-3966 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.003950</dc:identifier>
+ </oai_dc:dc>
+

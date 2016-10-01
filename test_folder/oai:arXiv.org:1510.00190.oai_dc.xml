@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Thermodynamics of information exchange between two coupled quantum dots</dc:title>
+ <dc:creator>Kutvonen, Aki</dc:creator>
+ <dc:creator>Sagawa, Takahiro</dc:creator>
+ <dc:creator>Ala-Nissil&#228;, Tapio</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We propose a setup based on two coupled quantum dots where thermodynamics of
+a measurement can be quantitatively characterized. The information obtained in
+the measurement can be utilized by performing feedback in a manner apparently
+breaking the second law of thermodynamics. In this way the setup can be
+operated as a Maxwell's Demon where both the measurement and feedback are
+performed separately by controlling an external parameter. This is analogous to
+the case of the original Szilard engine. Since the setup contains both the
+microscopic demon and the engine itself, the operation of the whole
+measurement-feedback cycle can be explained in detail at the level of single
+realizations. In addition, we derive integral fluctuation relations for both
+the bare and coarse-grained entropy productions in the setup.
+</dc:description>
+ <dc:description>Comment: 8 pages 4 figures</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00190</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 032147 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.032147</dc:identifier>
+ </oai_dc:dc>
+

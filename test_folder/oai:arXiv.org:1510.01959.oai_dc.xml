@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Can galaxy growth be sustained through HI-rich minor mergers?</dc:title>
+ <dc:creator>Lehnert, M. D.</dc:creator>
+ <dc:creator>van Driel, W.</dc:creator>
+ <dc:creator>Minchin, R.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  Local galaxies with specific star-formation rates (star-formation rate per
+unit mass; sSFR~0.2-10/Gyr) as high as distant galaxies (z~1-3), are very rich
+in HI. Those with low stellar masses, log M_star (M_sun)=8-9, for example, have
+M_HI/M_star~5-30. Using continuity arguments of Peng et al. (2014), whereby the
+specific merger rate is hypothesized to be proportional to the specific
+star-formation rate, and HI gas mass measurements for local galaxies with high
+sSFR, we estimate that moderate mass galaxies, log M_star (M_sun)=9-10.5, can
+acquire sufficient gas through minor mergers (stellar mass ratios ~4-100) to
+sustain their star formation rates at z~2. The relative fraction of the gas
+accreted through minor mergers declines with increasing stellar mass and for
+the most massive galaxies considered, log M_star (M_sun)=10.5-11, this
+accretion rate is insufficient to sustain their star formation. We checked our
+minor merger hypothesis at z=0 using the same methodology but now with
+relations for local normal galaxies and find that minor mergers cannot account
+for their specific growth rates, in agreement with observations of HI-rich
+satellites around nearby spirals. We discuss a number of attractive features,
+like a natural down-sizing effect, in using minor mergers with extended HI
+disks to support star formation at high redshift. The answer to the question
+posed by the title, "Can galaxy growth be sustained through \HI-rich minor
+mergers?", is maybe, but only for relatively low mass galaxies and at high
+redshift.
+</dc:description>
+ <dc:description>Comment: 6 pages, 3 figures; in final acceptance by A&amp;A</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01959</dc:identifier>
+ <dc:identifier>A&amp;A 590, A51 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1051/0004-6361/201525743</dc:identifier>
+ </oai_dc:dc>
+

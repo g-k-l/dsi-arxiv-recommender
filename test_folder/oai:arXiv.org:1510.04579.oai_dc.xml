@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Investigating the Selectivity of KcsA Channel by an Image Charge
+  Solvation Method (ICSM) in Molecular Dynamics Simulations</dc:title>
+ <dc:creator>Baker, Katherine</dc:creator>
+ <dc:creator>Chen, Duan</dc:creator>
+ <dc:creator>Cai, Wei</dc:creator>
+ <dc:subject>Quantitative Biology - Biomolecules</dc:subject>
+ <dc:description>  In this paper, we study the selectivity of the potassium channel KcsA by a
+recently developed image-charge solvation method(ICSM) combined with molecular
+dynamics simulations. The hybrid solvation model in the ICSM is able to
+demonstrate atomistically the function of the selectivity filter of the KcsA
+channel when potassium and sodium ions are considered and their distributions
+inside the filter are simulated. Our study also shows that the reaction field
+effect, explicitly accounted for through image charge approximation in the ICSM
+model, is necessary in reproducing the correct selectivity property of the
+potassium channels.
+</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04579</dc:identifier>
+ <dc:identifier>doi:10.4208/cicp.130315.310815a</dc:identifier>
+ </oai_dc:dc>
+

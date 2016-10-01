@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The algebraic de Rham cohomology of representation varieties</dc:title>
+ <dc:creator>Xia, Eugene Z.</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>13D03, 14F40, 14L24, 14Q10, 14R20</dc:subject>
+ <dc:description>  The SL(2,C)-representation varieties of punctured surfaces form natural
+families parameterized by holonomies at the punctures. In this paper, we first
+compute the loci where these varieties are singular for the cases of one-holed
+and two-holed tori and the four-holed sphere. We then compute the de Rham
+cohomologies of these varieties of the one-holed torus and the four-holed
+sphere when the varieties are smooth via the Grothendieck theorem. Furthermore,
+we produce the explicit Gauss-Manin connection on the natural family of the
+smooth SL(2,C)-representation variety of the one-holed torus.
+</dc:description>
+ <dc:description>Comment: Minor stylistic revision from version 1, 21 pages</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-04-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08222</dc:identifier>
+ </oai_dc:dc>
+

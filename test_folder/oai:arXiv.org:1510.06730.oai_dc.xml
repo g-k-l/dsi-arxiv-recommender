@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On Hypoelliptic Bridge</dc:title>
+ <dc:creator>Li, Xue-Mei</dc:creator>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:description>  We prove that if the Markov generator of a diffusion process satisfies the
+two step strong H\"ormander condition, the conditioned hypoelliptic bridge
+satisfies an integral bound and is a continuous semi-martingale.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2015-11-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06730</dc:identifier>
+ <dc:identifier>Electronic Communications in Probability. Vol 24, no 20, 1-12
+  (2016)</dc:identifier>
+ </oai_dc:dc>
+

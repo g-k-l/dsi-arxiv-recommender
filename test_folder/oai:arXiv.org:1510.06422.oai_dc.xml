@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Information Gains from Cosmological Probes</dc:title>
+ <dc:creator>Grandis, S.</dc:creator>
+ <dc:creator>Seehars, S.</dc:creator>
+ <dc:creator>Refregier, A.</dc:creator>
+ <dc:creator>Amara, A.</dc:creator>
+ <dc:creator>Nicola, A.</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  In light of the growing number of cosmological observations, it is important
+to develop versatile tools to quantify the constraining power and consistency
+of cosmological probes. Originally motivated from information theory, we use
+the relative entropy to compute the information gained by Bayesian updates in
+units of bits. This measure quantifies both the improvement in precision and
+the 'surprise', i.e. the tension arising from shifts in central values. Our
+starting point is a WMAP9 prior which we update with observations of the
+distance ladder, supernovae (SNe), baryon acoustic oscillations (BAO), and weak
+lensing as well as the 2015 Planck release. We consider the parameters of the
+flat $\Lambda$CDM concordance model and some of its extensions which include
+curvature and Dark Energy equation of state parameter $w$. We find that,
+relative to WMAP9 and within these model spaces, the probes that have provided
+the greatest gains are Planck (10 bits), followed by BAO surveys (5.1 bits) and
+SNe experiments (3.1 bits). The other cosmological probes, including weak
+lensing (1.7 bits) and {$\rm H_0$} measures (1.7 bits), have contributed
+information but at a lower level. Furthermore, we do not find any significant
+surprise when updating the constraints of WMAP9 with any of the other
+experiments, meaning that they are consistent with WMAP9. However, when we
+choose Planck15 as the prior, we find that, accounting for the full
+multi-dimensionality of the parameter space, the weak lensing measurements of
+CFHTLenS produce a large surprise of 4.4 bits which is statistically
+significant at the 8 $\sigma$ level. We discuss how the relative entropy
+provides a versatile and robust framework to compare cosmological probes in the
+context of current and future surveys.
+</dc:description>
+ <dc:description>Comment: 26 pages, 5 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-04-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06422</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/05/034</dc:identifier>
+ </oai_dc:dc>
+

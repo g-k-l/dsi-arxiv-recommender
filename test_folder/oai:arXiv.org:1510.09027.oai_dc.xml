@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>An Exploration of the Black Hole Entropy via the Weyl Tensor</dc:title>
+ <dc:creator>Li, Nan</dc:creator>
+ <dc:creator>Li, Xiao-Long</dc:creator>
+ <dc:creator>Song, Shu-Peng</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  The Weyl tensor is the trace-free part of the Riemann tensor. Therefore, it
+is independent of the energy-momentum tensor and is thus not linked to the
+dynamics of gravitational fields. In this paper, we explore its possible
+thermodynamical property (i.e. its relationship with the black hole entropy).
+For a Schwarzschild black hole, the Weyl scalar invariant,
+$C_{\mu\nu\lambda\rho}C^{\mu\nu\lambda\rho}$, is proportional to its
+Bekenstein--Hawking entropy. This observation inspires us to interpret
+$C_{\mu\nu\lambda\rho}C^{\mu\nu\lambda\rho}$ as the entropy density of the
+gravitational fields of black holes. A dimensional analysis indicates that this
+interpretation is only valid in 5-dimensional space-time. We calculate the
+volume integrals of $C_{\mu\nu\lambda\rho}C^{\mu\nu\lambda\rho}$ for the
+5-dimensional Schwarzschild and Schwarzschild--anti-de Sitter black holes, and
+find that these integrals indeed lead to the correct entropy formulae, only up
+to some coefficients.
+</dc:description>
+ <dc:description>Comment: 5 pages</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.09027</dc:identifier>
+ <dc:identifier>doi:10.1140/epjc/s10052-016-3960-9</dc:identifier>
+ </oai_dc:dc>
+

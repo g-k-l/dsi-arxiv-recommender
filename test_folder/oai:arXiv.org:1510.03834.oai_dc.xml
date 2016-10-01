@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Josephson current between topological and conventional superconductors</dc:title>
+ <dc:creator>Ioselevich, P. A.</dc:creator>
+ <dc:creator>Ostrovsky, P. M.</dc:creator>
+ <dc:creator>Feigelman, M. V.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We study the stationary Josephson current in a junction between a topological
+and an ordinary (topologically trivial) superconductor. Such an S-TS junction
+hosts a Majorana zero mode that significantly influences the current-phase
+relation. The presence of the Majorana state is intimately related with the
+breaking of the time-reversal symmetry in the system. We derive a general
+expression for the supercurrent for a class of short topological junctions in
+terms of the normal state scattering matrix. The result is strongly asymmetric
+with respect to the superconducting gaps in the ordinary ($\Delta_0$) and
+topological ($\Delta_{\mathrm{top}}$) leads. We apply the general result to a
+simple model of a nanowire setup with strong spin-orbit coupling in an external
+magnetic field and proximity-induced superconductivity. The system shows
+parametrically strong suppression of the critical current $I_c \propto
+\Delta_{\mathrm{top}}/R_N^2$ in the tunneling limit ($R_N$ is the normal state
+resistance). This is in strong contrast with the Ambegaokar-Baratoff relation
+applicable to junctions with preserved time-reversal symmetry. We also consider
+the case of a generic junction with a random scattering matrix and obtain a
+more conventional scaling law $I_c \propto \Delta_{\mathrm{top}}/R_N$.
+</dc:description>
+ <dc:description>Comment: 7 pages, 2 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03834</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 125435 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.125435</dc:identifier>
+ </oai_dc:dc>
+

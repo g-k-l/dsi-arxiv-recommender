@@ -1,0 +1,17 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sphericity of a real hypersurface via projective geometry</dc:title>
+ <dc:creator>Kossovskiy, Ilya</dc:creator>
+ <dc:subject>Mathematics - Complex Variables</dc:subject>
+ <dc:description>  In this work, we obtain an unexpected geometric characterization of
+sphericity of a real-analytic Levi-nondegenerate hypersurface $M\subset\mathbb
+C^{2}$. We prove that $M$ is spherical if and only if its Segre\,(-Webster)
+varieties satisfy an elementary combinatorial property, identical to a property
+of straight lines on the plane and known in Projective Geometry as the {\em
+Desargues Theorem}.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-06-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03323</dc:identifier>
+ </oai_dc:dc>
+

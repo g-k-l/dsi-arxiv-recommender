@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Preconditioned iterative methods for space-time fractional
+  advection-diffusion equations</dc:title>
+ <dc:creator>Zhao, Zhi</dc:creator>
+ <dc:creator>Jin, Xiao-Qing</dc:creator>
+ <dc:creator>Lin, Matthew M.</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  In this paper we want to propose practical numerical methods to solve a class
+of initial-boundary problem of space-time fractional advection-diffusion
+equations. To start with, an implicit method based on two-sided Gr\"unwald
+formulae is proposed with a discussion of the stability and consistency. Then,
+the preconditioned generalized minimal residual (preconditioned GMRES) method
+and the preconditioned conjugate gradient normal residual ({preconditioned}
+CGNR) method, with an easily constructed preconditioner, are developed.
+Importantly, because the resulting systems are Topelitz-like, the fast Fourier
+transform can be applied to significantly reduce the computational cost.
+Numerical experiments are implemented to show the efficiency of our
+preconditioner, even with cases of variable coefficients.
+</dc:description>
+ <dc:description>Comment: 21 pages, 4 figures</dc:description>
+ <dc:date>2015-10-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05089</dc:identifier>
+ <dc:identifier>doi:10.1016/j.jcp.2016.05.021</dc:identifier>
+ </oai_dc:dc>
+

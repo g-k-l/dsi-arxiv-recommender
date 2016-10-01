@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Discrepancy Bound for Deterministic Acceptance-Rejection Samplers
+  Beyond $N^{-1/2}$ in Dimension 1</dc:title>
+ <dc:creator>Zhu, Houying</dc:creator>
+ <dc:creator>Dick, Josef</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:description>  In this paper we consider an acceptance-rejection (AR) sampler based on
+deterministic driver sequences. We prove that the discrepancy of an $N$ element
+sample set generated in this way is bounded by $\mathcal{O} (N^{-2/3}\log N)$,
+provided that the target density is twice continuously differentiable with
+non-vanishing curvature and the AR sampler uses the driver sequence
+$$\mathcal{K}_M= \{( j \alpha, j \beta ) ~~ mod~~1 \mid j = 1,\ldots,M\}, $$
+where $\alpha,\beta$ are real algebraic numbers such that $1,\alpha,\beta$ is a
+basis of a number field over $\mathbb{Q}$ of degree $3$. For the driver
+sequence $$\mathcal{F}_k= \{ ({j}/{F_k}, \{{jF_{k-1}}/{F_k}\} ) \mid
+j=1,\ldots, F_k\},$$ where $F_k$ is the $k$-th Fibonacci number and
+$\{x\}=x-\lfloor x \rfloor$ is the fractional part of a non-negative real
+number $x$, we can remove the $\log$ factor to improve the convergence rate to
+$\mathcal{O}(N^{-2/3})$, where again $N$ is the number of samples we accepted.
+  We also introduce a criterion for measuring the goodness of driver sequences.
+The proposed approach is numerically tested by calculating the star-discrepancy
+of samples generated for some target densities using $\mathcal{K}_M$ and
+$\mathcal{F}_k$ as driver sequences. These results confirm that achieving a
+convergence rate beyond $N^{-1/2}$ is possible in practice using
+$\mathcal{K}_M$ and $\mathcal{F}_k$ as driver sequences in the
+acceptance-rejection sampler.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-04-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05351</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Combustion waves in hydraulically resistant porous media in a special
+  parameter regime</dc:title>
+ <dc:creator>Ghazaryan, Anna</dc:creator>
+ <dc:creator>Lafortune, Stephane</dc:creator>
+ <dc:creator>McLarnan, Peter</dc:creator>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  In this paper we study the stability of fronts in a reduction of a well-known
+PDE system that is used to model the combustion in hydraulically resistant
+porous media. More precisely, we consider the original PDE system under the
+assumption that one of the parameters of the model, the Lewis number, is chosen
+in a specific way and with initial conditions of a specific form. {For a class
+of initial conditions, then the number of unknown functions is reduced from
+three to two. For the reduced system, the existence of combustion fronts
+follows from the existence results for the original system. The stability of
+these fronts is studied here by a combination of energy estimates and numerical
+Evans function computations and nonlinear analysis when applicable. We then
+lift the restriction on the initial conditions and show that the stability
+results obtained for the reduced system extend to the fronts in the full system
+considered for that specific value of the Lewis number. The fronts that we
+{investigate} are proved to be either absolutely unstable or convectively
+unstable on the nonlinear level.
+</dc:description>
+ <dc:description>Comment: 21 pages, 5 figures</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04739</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physd.2016.05.016</dc:identifier>
+ </oai_dc:dc>
+

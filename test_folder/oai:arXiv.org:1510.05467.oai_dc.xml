@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Autocorrelation values and Linear complexity of generalized cyclotomic
+  sequence of order four, and construction of cyclic codes</dc:title>
+ <dc:creator>Kumari, Priti</dc:creator>
+ <dc:creator>Kewat, Pramod Kumar</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  Let $n_1$ and $n_2$ be two distinct primes with
+$\mathrm{gcd}(n_1-1,n_2-1)=4$. In this paper, we compute the autocorrelation
+values of generalized cyclotomic sequence of order $4$. Our results show that
+this sequence can have very good autocorrelation property. We determine the
+linear complexity and minimal polynomial of the generalized cyclotomic sequence
+over $\mathrm{GF}(q)$ where $q=p^m$ and $p$ is an odd prime. Our results show
+that this sequence possesses large linear complexity. So, the sequence can be
+used in many domains such as cryptography and coding theory. We employ this
+sequence of order $4$ to construct several classes of cyclic codes over
+$\mathrm{GF}(q)$ with length $n_1n_2$. We also obtain the lower bounds on the
+minimum distance of these cyclic codes.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the author due to this work has been
+  done by the other author</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05467</dc:identifier>
+ </oai_dc:dc>
+

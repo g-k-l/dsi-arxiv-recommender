@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient, fast and principled mean-field inference for strongly coupled
+  data</dc:title>
+ <dc:creator>Jacquin, Hugo</dc:creator>
+ <dc:creator>Rancon, A.</dc:creator>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:subject>Physics - Data Analysis, Statistics and Probability</dc:subject>
+ <dc:description>  We present a new resummed mean field approximation for inferring the
+parameters of an Ising or a Potts model from empirical, noisy, one- and
+two-point correlation functions. Based on a resummation of a class of diagrams
+of the small correlation expansion of the log-likelihood, the method
+outperforms standard mean-field inference methods, even when they are
+regularized. The inference is stable with respect to sampling noise, contrarily
+to previous works based either on the small correlation expansion, on the Bethe
+free-energy, or on the mean-field and Gaussian models. Because it is mostly
+analytic, its complexity is still $\OO(N^3)$, requiring only matrix inversions
+and multiplications. We test our algorithm on the Sherrington-Kirkpatrick model
+submitted to a random external field and large random couplings, and
+demonstrate that even without regularization, the inference is stable across
+the whole phase diagram. In addition, the calculation leads to a consistent
+estimation of the entropy of the data, and allows to sample form the inferred
+distribution to obtain artificial data that are consistent with the empirical
+distribution.
+</dc:description>
+ <dc:description>Comment: v1) 5+6 pages, 3+6 figures; v2) slight changes of the text, typos
+  corrected. v3) Expanded version, 21 pages, 14 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-05-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04005</dc:identifier>
+ </oai_dc:dc>
+

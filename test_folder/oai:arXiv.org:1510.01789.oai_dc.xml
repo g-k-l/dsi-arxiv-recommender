@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dalitz plot distributions in presence of triangle singularities</dc:title>
+ <dc:creator>Szczepaniak, Adam P.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  We discuss properties of three-particle Dalitz distributions in coupled
+channel systems in presence of triangle singularities. The single channel case
+was discussed long ago where it was found that as a consequence of unitarity,
+effects of a triangle singularity seen in the Dalitz plot are not seen in
+Dalitz plot projections. In the coupled channel case we find the same is true
+for the sum of intensities of all interacting channels. Unlike the single
+channel case, however, triangle singularities do remain visible in Dalitz plot
+projections of individual channels.
+</dc:description>
+ <dc:description>Comment: 6 pages, 2 figures</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01789</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.03.064</dc:identifier>
+ </oai_dc:dc>
+

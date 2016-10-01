@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Density-Matching for Turbomachinery Optimization Under Uncertainty</dc:title>
+ <dc:creator>Seshadri, Pranay</dc:creator>
+ <dc:creator>Parks, Geoffrey</dc:creator>
+ <dc:creator>Shahpar, Shahrokh</dc:creator>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  A monotonic, non-kernel density variant of the density-matching technique for
+optimization under uncertainty is developed. The approach is suited for
+turbomachinery problems which, by and large, tend to exhibit monotonic
+variations in the circumferentially and radially mass-averaged quantities--such
+as pressure ratio, efficiency and capacity--with common aleatory turbomachinery
+uncertainties. The method is successfully applied to de-sensitize the effect of
+an uncertainty in rear-seal leakage flows on the fan stage of a modern jet
+engine.
+</dc:description>
+ <dc:description>Comment: 9 pages</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04162</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cma.2016.03.006</dc:identifier>
+ </oai_dc:dc>
+

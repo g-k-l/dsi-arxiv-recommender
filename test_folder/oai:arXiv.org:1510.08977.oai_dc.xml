@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Efficient noiseless linear amplification for light fields with larger
+  amplitudes</dc:title>
+ <dc:creator>Park, Jinwoo</dc:creator>
+ <dc:creator>Joo, Jaewoo</dc:creator>
+ <dc:creator>Zavatta, Alessandro</dc:creator>
+ <dc:creator>Bellini, Marco</dc:creator>
+ <dc:creator>Jeong, Hyunseok</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We suggest and investigate a scheme for non-deterministic noiseless linear
+amplification of coherent states using successive photon addition, $(\hat
+a^{\dagger})^2$, where $\hat a^\dagger$ is the photon creation operator. We
+compare it with a previous proposal using the photon addition-then-subtraction,
+$\hat a \hat a^\dagger$, where $\hat a$ is the photon annihilation operator,
+that works as an appropriate amplifier only for weak light fields. We show that
+when the amplitude of a coherent state is $|\alpha| \gtrsim 0.91$, the $(\hat
+a^{\dagger})^2$ operation serves as a more efficient amplifier compared to the
+$\hat a \hat a^\dagger$ operation in terms of equivalent input noise. Using
+$\hat a \hat a^\dagger$ and $(\hat a^{\dagger})^2$ as basic building blocks, we
+compare combinatorial amplifications of coherent states using $(\hat a \hat
+a^\dagger)^2$, $\hat a^{\dagger 4}$, $\hat a \hat a^\dagger\hat a^{\dagger 2}$,
+and $\hat a^{\dagger 2}\hat a \hat a^\dagger$, and show that $(\hat a \hat
+a^\dagger)^2$, $\hat a^{\dagger 2}\hat a \hat a^\dagger$, and $\hat a^{\dagger
+4}$ exhibit strongest noiseless properties for $|\alpha| \lesssim 0.51$, $0.51
+\lesssim |\alpha| \lesssim 1.05 $, and $|\alpha|\gtrsim 1.05 $, respectively.
+We further show that the $(\hat a^{\dagger})^2$ operation can be used for
+amplifying superpositions of the coherent states. In contrast to previous
+studies, our work provides efficient schemes to implement a noiseless amplifier
+for light fields with medium and large amplitudes.
+</dc:description>
+ <dc:description>Comment: 16 pages, 5 figures, to be published in Optics Express</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2015-12-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08977</dc:identifier>
+ <dc:identifier>doi:10.1364/OE.24.001331</dc:identifier>
+ </oai_dc:dc>
+

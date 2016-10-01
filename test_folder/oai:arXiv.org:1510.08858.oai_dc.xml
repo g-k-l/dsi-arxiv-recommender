@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A light particle solution to the cosmic lithium problem</dc:title>
+ <dc:creator>Goudelis, Andreas</dc:creator>
+ <dc:creator>Pospelov, Maxim</dc:creator>
+ <dc:creator>Pradler, Josef</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We point out that the cosmological abundance of ${}^7$Li can be reduced down
+to observed values if during its formation Big Bang Nucleosynthesis is modified
+by the presence of light electrically neutral particles $X$ that have
+substantial interactions with nucleons. We find that the lithium problem can be
+solved without affecting the precisely measured abundances of deuterium and
+helium if the following conditions are satisfied: the mass and lifetimes of
+such particles are bounded by $ 1.6~{\rm MeV}\leq m_X \leq 20~{\rm MeV}$ and $
+{\rm few}~100~{\rm s} \lesssim \tau_X \lesssim 10^4~{\rm s}$, and the abundance
+times the absorption cross section by either deuterium or ${}^7$Be are
+comparable to the Hubble rate, $n_X \sigma_{\rm abs} v \sim H$, at the time of
+${}^7$Be formation. We include $X$-initiated reactions into the primordial
+nucleosynthesis framework, observe that it leads to a substantial reduction of
+the freeze-out abundances of ${}^7$Li+${}^7$Be, and find specific model
+realizations of this scenario. Concentrating on the axion-like-particle case,
+$X=a$, we show that all these conditions can be satisifed if the coupling to
+$d$-quarks is in the range of $f_d^{-1} \sim {\rm TeV}^{-1}$, which can be
+probed at intensity frontier experiments.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures; v2: minor improvements, matches published version</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-05-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08858</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 211303 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.211303</dc:identifier>
+ </oai_dc:dc>
+

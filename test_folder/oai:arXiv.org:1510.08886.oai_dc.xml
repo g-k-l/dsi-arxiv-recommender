@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>High-order lattice Boltzmann models for wall-bounded flows at finite
+  Knudsen numbers</dc:title>
+ <dc:creator>Feuchter, C.</dc:creator>
+ <dc:creator>Schleifenbaum, W.</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  We analyze a large number of high-order discrete velocity models for solving
+the Boltzmann-BGK equation for finite Knudsen number flows. Using the
+Chapman-Enskog formalism, we prove for isothermal flows a relation identifying
+the resolved flow regimes for low Mach numbers. Although high-order lattice
+Boltzmann models recover flow regimes beyond the Navier-Stokes level we observe
+for several models significant deviations from reference results. We found this
+to be caused by their inability to recover the Maxwell boundary condition
+exactly. By using supplementary conditions for the gas-surface interaction it
+is shown how to systematically generate discrete velocity models of any order
+with the inherent ability to fulfill the diffuse Maxwell boundary condition
+accurately. Both high-order quadratures and an exact representation of the
+boundary condition turn out to be crucial for achieving reliable results. For
+Poiseuille flow, we can reproduce the mass flow and slip velocity up to the
+Knudsen number of 1. Moreover, for small Knudsen numbers, the Knudsen layer
+behavior is recovered.
+</dc:description>
+ <dc:description>Comment: 29 pages, 29 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08886</dc:identifier>
+ <dc:identifier>Phys. Rev. E 94, 013304 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.94.013304</dc:identifier>
+ </oai_dc:dc>
+

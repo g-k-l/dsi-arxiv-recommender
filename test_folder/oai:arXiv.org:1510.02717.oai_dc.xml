@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Completeness of rank one perturbations of normal operators with lacunary
+  spectrum</dc:title>
+ <dc:creator>Baranov, Anton D.</dc:creator>
+ <dc:creator>Yakubovich, Dmitry V.</dc:creator>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:subject>Mathematics - Functional Analysis</dc:subject>
+ <dc:subject>42A65 (primary), 42C30 (secondary)</dc:subject>
+ <dc:description>  Suppose $\mathcal{A}$ is a compact normal operator on a Hilbert space $H$
+with certain lacunarity condition on the spectrum (which means, in particular,
+that its eigenvalues go to zero exponentially fast), and let $\mathcal{L}$ be
+its rank one perturbation. We show that either infinitely many moment
+equalities hold or the linear span of root vectors of $\mathcal{L}$,
+corresponding to non-zero eigenvalues, is of finite codimension in $H$. In
+contrast to classical results, we do not assume that the perturbation is weak.
+</dc:description>
+ <dc:description>Comment: 22 pages</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-06-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02717</dc:identifier>
+ </oai_dc:dc>
+

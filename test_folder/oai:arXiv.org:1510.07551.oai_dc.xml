@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bigravity from gradient expansion</dc:title>
+ <dc:creator>Yamashita, Yasuho</dc:creator>
+ <dc:creator>Tanaka, Takahiro</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We discuss how the ghost-free bigravity coupled with a single scalar field
+can be derived from a braneworld setup. We consider DGP two-brane model without
+radion stabilization. The bulk configuration is solved for given boundary
+metrics, and it is substituted back into the action to obtain the effective
+four-dimensional action. In order to obtain the ghost-free bigravity, we
+consider the gradient expansion in which the brane separation is supposed to be
+sufficiently small so that two boundary metrics are almost identical. The
+obtained effective theory is shown to be ghost free as expected, however, the
+interaction between two gravitons takes the Fierz-Pauli form at the leading
+order of the gradient expansion, even though we do not use the approximation of
+linear perturbation. We also find that the radion remains as a scalar field in
+the four-dimensional effective theory, but its coupling to the metrics is
+non-trivial.
+</dc:description>
+ <dc:description>Comment: 16 pages</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-05-12</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07551</dc:identifier>
+ <dc:identifier>JCAP 1605 (2016) no.05, 011</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/05/011</dc:identifier>
+ </oai_dc:dc>
+

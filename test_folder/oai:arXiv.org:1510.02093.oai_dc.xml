@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Formation of Black Hole Low-Mass X-ray Binaries in Hierarchical Triple
+  Systems</dc:title>
+ <dc:creator>Naoz, Smadar</dc:creator>
+ <dc:creator>Fragos, Tassos</dc:creator>
+ <dc:creator>Geller, Aaron</dc:creator>
+ <dc:creator>Stephan, Alexander P.</dc:creator>
+ <dc:creator>Rasio, Frederic A.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:description>  The formation of Black Hole (BH) Low-Mass X-ray Binaries (LMXB) poses a
+theoretical challenge, as low-mass companions are not expected to survive the
+common-envelope scenario with the BH progenitor. Here we propose a formation
+mechanism that skips the common-envelope scenario and relies on triple-body
+dynamics. We study the evolution of hierarchical triples, following the secular
+dynamical evolution up to the octupole-level of approximation, including
+general relativity, tidal effects and post-main-sequence evolution, such as
+mass loss, changes to stellar radii and supernovae. During the dynamical
+evolution of the triple system, the "eccentric Kozai-Lidov" mechanism can cause
+large eccentricity excitations in the LMXB progenitor, resulting in three main
+BH-LMXB formation channels. Here we define BH-LMXB candidates as systems where
+the inner BH companion star crosses its Roche limit. In the "eccentric" channel
+(~ 81% of the LMXBs in our simulations), the donor star crosses its Roche limit
+during an extreme eccentricity excitation, while still on a wide orbit. Second,
+we find a "giant" LMXB channel (~ 11%), where a system undergoes only moderate
+eccentricity excitations, but the donor star fills its Roche lobe after
+evolving toward the giant branch. Third, we identify a "classical" channel
+(~8%), where tidal forces and magnetic braking shrink and circularize the orbit
+to short periods, triggering mass transfer. Finally, for the giant channel, we
+predict an eccentric ($\sim 0.3-0.6$), preferably inclined (~40, ~140 degreed)
+tertiary, typically on a wide enough orbit (~10^4AU), to potentially become
+unbound later in the triple evolution.
+</dc:description>
+ <dc:description>Comment: submitted, 4 figures</dc:description>
+ <dc:date>2015-10-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02093</dc:identifier>
+ <dc:identifier>doi:10.3847/2041-8205/822/2/L24</dc:identifier>
+ </oai_dc:dc>
+

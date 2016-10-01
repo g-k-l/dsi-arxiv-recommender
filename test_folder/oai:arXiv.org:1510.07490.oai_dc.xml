@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Universality of isothermal fluid spheres in Lovelock gravity</dc:title>
+ <dc:creator>Dadhich, Naresh</dc:creator>
+ <dc:creator>Hansraj, Sudan</dc:creator>
+ <dc:creator>Maharaj, Sunil D.</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  We show universality of isothermal fluid spheres in pure Lovelock gravity
+where the equation of motion has only one $N$th order term coming from the
+corresponding Lovelock polynomial action of degree $N$. Isothermality is
+characterized by the equation of state, $p = \alpha \rho$ and the property,
+$\rho \sim 1/r^{2N}$. Then the solution describing isothermal spheres, which
+exist only for the pure Lovelock equation, is of the same form for the general
+Lovelock degree $N$ in all dimenions $d \geq 2N+2$. We further prove that the
+necessary and sufficient condition for the isothermal sphere is that its metric
+is conformal to the massless global monopole or the solid angle deficit metric,
+and this feature is also universal.
+</dc:description>
+ <dc:description>Comment: 11 pages</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07490</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 044072 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.044072</dc:identifier>
+ </oai_dc:dc>
+

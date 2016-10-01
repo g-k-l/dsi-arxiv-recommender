@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Viral epidemiology of the adult Apis Mellifera infested by the Varroa
+  destructor mite</dc:title>
+ <dc:creator>Bernardi, Sara</dc:creator>
+ <dc:creator>Venturino, Ezio</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Mathematics - Dynamical Systems</dc:subject>
+ <dc:subject>92D25, 92D30</dc:subject>
+ <dc:description>  The ectoparasitic mite Varroa destructor has become one of the major
+worldwide threats for apiculture. Varroa destructor attacks the honey bee Apis
+mellifera weakening its host by sucking hemolymph. However, the damage to bee
+colonies is not strictly related to the parasitic action of the mite but it
+derives, above all, from its action as vector increasing the trasmission of
+many viral diseases such as acute paralysis (ABPV) and deformed wing viruses
+(DWV), that are considered among the main causes of CCD (Colony Collapse
+Disorder). In this work we discuss an SI model that describes how the presence
+of the mite affects the epidemiology of these viruses on adult bees. We
+characterize the system behavior, establishing that ultimately either only
+healthy bees survive, or the disease becomes endemic and mites are wiped out.
+Another dangerous alternative is the Varroa invasion scenario with the
+extinction of healthy bees. The final possible configuration is the coexistence
+equilibrium in which honey bees share their infected hive with mites. The
+analysis is in line with some observed facts in natural honey bee colonies.
+Namely, these diseases are endemic. Further, if the mite population is present,
+necessarily the viral infection occurs. The findings of this study indicate
+that a low horizontal transmission rate of the virus among honey bees in
+beehives will help in protecting bee colonies from Varroa infestation and viral
+epidemics.
+</dc:description>
+ <dc:date>2015-10-17</dc:date>
+ <dc:date>2016-04-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05167</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sigma Decomposition: The CP-Odd Lagrangian</dc:title>
+ <dc:creator>Hierro, I. M.</dc:creator>
+ <dc:creator>Merlo, L.</dc:creator>
+ <dc:creator>Rigolin, and S.</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  In Alonso et al., JHEP 12 (2014) 034, the CP-even sector of the effective
+chiral Lagrangian for a generic composite Higgs model with a symmetric coset
+has been constructed, up to four momenta. In this paper, the CP-odd couplings
+are studied within the same context. If only the Standard Model bosonic sources
+of custodial symmetry breaking are considered, then at most six independent
+operators form a basis. One of them is the weak-$\theta$ term linked to
+non-perturbative sources of CP viola- tion, while the others describe CP-odd
+perturbative couplings between the Standard Model gauge bosons and an
+Higgs-like scalar belonging to the Goldstone boson sector. The procedure is
+then applied to three distinct exemplifying frameworks: the original
+$SU(5)/SO(5)$ Georgi-Kaplan model, the minimal custodial-preserving
+$SO(5)/SO(4)$ model and the minimal $SU(3)/(SU(2)\times U(1))$ model, which
+intrinsically breaks cus- todial symmetry. Moreover, the projection of the
+high-energy electroweak effective theory to the low-energy chiral effective
+Lagrangian for a dynamical Higgs is per- formed, uncovering strong relations
+between the operator coefficients and pinpointing the differences with the
+elementary Higgs scenario.
+</dc:description>
+ <dc:description>Comment: 20 pages. V2: new table II added; version published on JHEP. arXiv
+  admin note: text overlap with arXiv:1409.1589</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07899</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP04(2016)016</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Complex contact-based dynamics of microsphere monolayers revealed by
+  resonant attenuation of surface acoustic waves</dc:title>
+ <dc:creator>Hiraiwa, Morgan</dc:creator>
+ <dc:creator>Ghanem, Maroun Abi</dc:creator>
+ <dc:creator>Wallen, Samuel P.</dc:creator>
+ <dc:creator>Khanolkar, Amey</dc:creator>
+ <dc:creator>Maznev, Alexei A.</dc:creator>
+ <dc:creator>Boechler, Nicholas</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  Contact-based vibrations play a critical role in the dynamics of granular
+materials. Significant insights into vibrational granular dynamics have been
+obtained with reduced-dimensional systems containing macroscale particles. We
+study contact-based vibrations of a two-dimensional monolayer of micron-sized
+spheres on a solid substrate. Measurements of the resonant attenuation of
+laser-generated surface acoustic waves reveal three collective vibrational
+modes involving both displacements and rotations of the microspheres. To
+identify the modes, we tune the interparticle stiffness, which shifts the
+frequency of the horizontal-rotational resonances while leaving the vertical
+resonance unaffected. From the measured contact resonance frequencies we
+determine both particle-substrate and interparticle contact stiffnesses and
+find that the former is an order of magnitude larger than the latter. This
+study paves the way for investigating complex contact-based dynamics of
+microgranular media, demonstrates a novel acoustic metamaterial, and yields a
+new approach to studying micro- to nanoscale contact mechanics in multiparticle
+networks.
+</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05975</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 198001 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.198001</dc:identifier>
+ </oai_dc:dc>
+

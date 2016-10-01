@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A first-principles study on the phonon transport in layered BiCuOSe</dc:title>
+ <dc:creator>Shao, Hezhu</dc:creator>
+ <dc:creator>Tan, Xiaojian</dc:creator>
+ <dc:creator>Liu, Guo-Qiang</dc:creator>
+ <dc:creator>Jiang, Jun</dc:creator>
+ <dc:creator>Jiang, Haochuan</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  First-principles calculations are employed to investigate the phonon
+transport of BiCuOSe. Our calculations reproduce the lattice thermal
+conductivity of BiCuOSe. The calculated gruneisen parameter is 2.4~2.6 at room
+temperature, a fairly large value indicating a strong anharmonicity in BiCuOSe,
+which leads to its ultralow lattice thermal conductivity. The contribution to
+total thermal conductivity from high-frequency optical phonons, which are
+mostly contributed by the vibrations of O atoms, is larger than 1/3, remarkably
+different from the usual picture with very little contribution from
+high-frequency optical phonons. Our calculations show that both the high group
+velocities and low scattering processes involved make the high-frequency
+optical modes contribute considerably to the total lattice thermal
+conductivity. In addition, we show that the sound velocity and bulk modulus
+along $a$ and $c$ axes exhibit strong anisotropy, which results in the
+anisotropic thermal conductivity in BiCuOSe.
+</dc:description>
+ <dc:description>Comment: 8 pages, 9 figures</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05422</dc:identifier>
+ <dc:identifier>Sci. Rep. 6, 21035 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep21035</dc:identifier>
+ </oai_dc:dc>
+

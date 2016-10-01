@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Terahertz ratchet effects in graphene with a lateral superlattice</dc:title>
+ <dc:creator>Olbrich, P.</dc:creator>
+ <dc:creator>Kamann, J.</dc:creator>
+ <dc:creator>K&#246;nig, M.</dc:creator>
+ <dc:creator>Munzert, J.</dc:creator>
+ <dc:creator>Tutsch, L.</dc:creator>
+ <dc:creator>Eroms, J.</dc:creator>
+ <dc:creator>Weiss, D.</dc:creator>
+ <dc:creator>Liu, Ming-Hao</dc:creator>
+ <dc:creator>Golub, L. E.</dc:creator>
+ <dc:creator>Ivchenko, E. L.</dc:creator>
+ <dc:creator>Popov, V. V.</dc:creator>
+ <dc:creator>Fateev, D. V.</dc:creator>
+ <dc:creator>Mashinsky, K. V.</dc:creator>
+ <dc:creator>Fromm, F.</dc:creator>
+ <dc:creator>Seyller, Th.</dc:creator>
+ <dc:creator>Ganichev, S. D.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Experimental and theoretical studies on ratchet effects in graphene with a
+lateral superlattice excited by alternating electric fields of terahertz
+frequency range are presented. A lateral superlatice deposited on top of
+monolayer graphene is formed either by periodically repeated metal stripes
+having different widths and spacings or by inter-digitated comb-like
+dual-grating-gate (DGG) structures. We show that the ratchet photocurrent
+excited by terahertz radiation and sensitive to the radiation polarization
+state can be efficiently controlled by the back gate driving the system through
+the Dirac point as well as by the lateral asymmetry varied by applying unequal
+voltages to the DGG subgratings. The ratchet photocurrent includes the Seebeck
+thermoratchet effect as well as the effects of "linear" and "circular"
+ratchets, sensitive to the corresponding polarization of the driving
+electromagnetic force. The experimental data are analyzed for the electronic
+and plasmonic ratchets taking into account the calculated potential profile and
+the near field acting on carriers in graphene. We show that the photocurrent
+generation is based on a combined action of a spatially periodic in-plane
+potential and the spatially modulated light due to the near field effects of
+the light diffraction.
+</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07946</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 075422 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.075422</dc:identifier>
+ </oai_dc:dc>
+

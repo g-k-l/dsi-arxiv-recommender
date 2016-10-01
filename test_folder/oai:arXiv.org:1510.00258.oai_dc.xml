@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Geometric stability via information theory</dc:title>
+ <dc:creator>Ellis, David</dc:creator>
+ <dc:creator>Friedgut, Ehud</dc:creator>
+ <dc:creator>Kindler, Guy</dc:creator>
+ <dc:creator>Yehudayoff, Amir</dc:creator>
+ <dc:subject>Mathematics - Metric Geometry</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>52C07, 05D99</dc:subject>
+ <dc:subject>G.2.1</dc:subject>
+ <dc:description>  The Loomis-Whitney inequality, and the more general Uniform Cover inequality,
+bound the volume of a body in terms of a product of the volumes of
+lower-dimensional projections of the body. In this paper, we prove stability
+versions of these inequalities, showing that when they are close to being
+tight, the body in question is close in symmetric difference to a 'box'. Our
+results are best possible up to a constant factor depending upon the dimension
+alone. Our approach is information theoretic.
+  We use our stability result for the Loomis-Whitney inequality to obtain a
+stability result for the edge-isoperimetric inequality in the infinite
+$d$-dimensional lattice. Namely, we prove that a subset of $\mathbb{Z}^d$ with
+small edge-boundary must be close in symmetric difference to a $d$-dimensional
+cube. Our bound is, again, best possible up to a constant factor depending upon
+$d$ alone.
+</dc:description>
+ <dc:description>Comment: 29 pages. Explanations to help motivate proofs, minor errors
+  corrected, full proof of Corollary 3 included</dc:description>
+ <dc:date>2015-09-29</dc:date>
+ <dc:date>2016-06-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00258</dc:identifier>
+ </oai_dc:dc>
+

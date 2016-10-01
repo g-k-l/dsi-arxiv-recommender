@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mean-field limit for collective behavior models with sharp sensitivity
+  regions</dc:title>
+ <dc:creator>Carrillo, Jos&#233; A.</dc:creator>
+ <dc:creator>Choi, Young-Pil</dc:creator>
+ <dc:creator>Hauray, Maxime</dc:creator>
+ <dc:creator>Salem, Samir</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:description>  We rigorously show the mean-field limit for a large class of swarming
+individual based models with local sharp sensitivity regions. For instance,
+these models include nonlocal repulsive-attractive forces locally averaged over
+sharp vision cones and Cucker-Smale interactions with discontinuous
+communication weights. We construct global-in-time defined notion of solutions
+through a differential inclusion system corresponding to the particle
+descriptions. We estimate the error between the solutions to the differential
+inclusion system and weak solutions to the expected limiting kinetic equation
+by employing tools from optimal transport theory. Quantitative bounds on the
+expansion of the 1-Wasserstein distance along flows based on a weak-strong
+stability estimate are obtained. We also provide different examples of
+realistic sensitivity sets satisfying the assumptions of our main results.
+</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-05-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02315</dc:identifier>
+ </oai_dc:dc>
+

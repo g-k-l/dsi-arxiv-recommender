@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Kernel spectral clustering of large dimensional data</dc:title>
+ <dc:creator>Couillet, Romain</dc:creator>
+ <dc:creator>Benaych-Georges, Florent</dc:creator>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:description>  This article proposes a first analysis of kernel spectral clustering methods
+in the regime where the dimension $p$ of the data vectors to be clustered and
+their number $n$ grow large at the same rate. We demonstrate, under a $k$-class
+Gaussian mixture model, that the normalized Laplacian matrix associated with
+the kernel matrix asymptotically behaves similar to a so-called spiked random
+matrix. Some of the isolated eigenvalue-eigenvector pairs in this model are
+shown to carry the clustering information upon a separability condition
+classical in spiked matrix models. We evaluate precisely the position of these
+eigenvalues and the content of the eigenvectors, which unveil important
+(sometimes quite disruptive) aspects of kernel spectral clustering both from a
+theoretical and practical standpoints. Our results are then compared to the
+actual clustering performance of images from the MNIST database, thereby
+revealing an important match between theory and practice.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-04-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03547</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A First Practical Fully Homomorphic Crypto-Processor Design: The Secret
+  Computer is Nearly Here</dc:title>
+ <dc:creator>Breuer, Peter</dc:creator>
+ <dc:creator>Bowen, Jonathan</dc:creator>
+ <dc:subject>Computer Science - Cryptography and Security</dc:subject>
+ <dc:description>  Following a sequence of hardware designs for a fully homomorphic
+crypto-processor - a general purpose processor that natively runs encrypted
+machine code on encrypted data in registers and memory, resulting in encrypted
+machine states - proposed by the authors in 2014, we discuss a working
+prototype of the first of those, a so-called `pseudo-homomorphic' design. This
+processor is in principle safe against physical or software-based attacks by
+the owner/operator of the processor on user processes running in it. The
+processor is intended as a more secure option for those emerging computing
+paradigms that require trust to be placed in computations carried out in remote
+locations or overseen by untrusted operators.
+  The prototype has a single-pipeline superscalar architecture that runs
+OpenRISC standard machine code in two distinct modes. The processor runs in the
+encrypted mode (the unprivileged, `user' mode, with a long pipeline) at 60-70%
+of the speed in the unencrypted mode (the privileged, `supervisor' mode, with a
+short pipeline), emitting a completed encrypted instruction every 1.67-1.8
+cycles on average in real trials.
+</dc:description>
+ <dc:description>Comment: 6 pages, draft</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05278</dc:identifier>
+ <dc:identifier>doi:10.1016/j.procs.2016.04.267</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Several types of types in programming languages</dc:title>
+ <dc:creator>Martini, Simone</dc:creator>
+ <dc:subject>Computer Science - Programming Languages</dc:subject>
+ <dc:subject>D.3.3</dc:subject>
+ <dc:subject>K.2</dc:subject>
+ <dc:description>  Types are an important part of any modern programming language, but we often
+forget that the concept of type we understand nowadays is not the same it was
+perceived in the sixties. Moreover, we conflate the concept of "type" in
+programming languages with the concept of the same name in mathematical logic,
+an identification that is only the result of the convergence of two different
+paths, which started apart with different aims. The paper will present several
+remarks (some historical, some of more conceptual character) on the subject, as
+a basis for a further investigation. The thesis we will argue is that there are
+three different characters at play in programming languages, all of them now
+called types: the technical concept used in language design to guide
+implementation; the general abstraction mechanism used as a modelling tool; the
+classifying tool inherited from mathematical logic. We will suggest three
+possible dates ad quem for their presence in the programming language
+literature, suggesting that the emergence of the concept of type in computer
+science is relatively independent from the logical tradition, until the
+Curry-Howard isomorphism will make an explicit bridge between them.
+</dc:description>
+ <dc:description>Comment: History and Philosophy of Computing, HAPOC 2015. To appear in LNCS</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-06-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03726</dc:identifier>
+ </oai_dc:dc>
+

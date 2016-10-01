@@ -1,0 +1,22 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Benchmarking Fast Data Platforms for the Aadhaar Biometric Database</dc:title>
+ <dc:creator>Simmhan, Yogesh</dc:creator>
+ <dc:creator>Shukla, Anshu</dc:creator>
+ <dc:creator>Verma, Arun</dc:creator>
+ <dc:subject>Computer Science - Distributed, Parallel, and Cluster Computing</dc:subject>
+ <dc:description>  Aadhaar is the world's largest biometric database with a billion records,
+being compiled as an identity platform to deliver social services to residents
+of India.Aadhaar processes streams of biometric data as residents are enrolled
+and updated.Besides 1 million enrolments and updates per day,up to 100 million
+daily biometric authentications are expected during delivery of various public
+services.These form critical Big Data applications,with large volumes and high
+velocity of data.
+</dc:description>
+ <dc:description>Comment: 9 pages,Preprint:To appear in Seventh Workshop on Big Data
+  Benchmarking (WBDB) proceedings (LNCS )</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04160</dc:identifier>
+ </oai_dc:dc>
+

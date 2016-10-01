@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mean field study of the topological Haldane-Hubbard model of spin-$1/2$
+  fermions</dc:title>
+ <dc:creator>Arun, V. S.</dc:creator>
+ <dc:creator>Sohal, R.</dc:creator>
+ <dc:creator>Hickey, C.</dc:creator>
+ <dc:creator>Paramekanti, A.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Quantum Gases</dc:subject>
+ <dc:description>  Motivated by exploring the effect of interactions on Chern insulators, and by
+recent experiments realizing topological bands for ultracold atoms in synthetic
+gauge fields, we study the honeycomb lattice Haldane-Hubbard model of
+spin-$1/2$ fermions. Using an unrestricted mean field approach, we map out the
+instability of the topological band insulator towards magnetically ordered
+insulators which emerge with increasing Hubbard repulsion. In addition to the
+topological N\'eel phase, we recover various chiral noncoplanar magnetic orders
+previously identified within a strong coupling approach. We compute the band
+structure of these ordered phases, showing that the triple-$Q$ tetrahedral
+phase harbors topological Chern bands with large Chern numbers.
+</dc:description>
+ <dc:description>Comment: 7 pages, 6 figures, PRB version</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-03-07</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08856</dc:identifier>
+ <dc:identifier>PRB 93, 115110 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.115110</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Pair Interaction of Catalytically Active Colloids: From Assembly to
+  Escape</dc:title>
+ <dc:creator>Sharifi-Mood, Nima</dc:creator>
+ <dc:creator>Mozaffari, Ali</dc:creator>
+ <dc:creator>C&#243;rdova-Figueroa, Ubaldo</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:description>  The dynamics and pair trajectory of two self-propelled colloids are reported.
+The autonomous motions of the colloids are due to a catalytic chemical reaction
+taking place asymmetrically on their surfaces that generates a concentration
+gradient of interactive solutes around the particles and actuate particle
+propulsion. We consider two spherical particles with symmetric catalytic caps
+extending over the local polar angles $\theta^1_{cap}$ and $\theta^2_{cap}$
+from the centers of active sectors in an otherwise quiescent fluid. A combined
+analytical-numerical technique was developed to solve the coupled mass transfer
+equation and the hydrodynamics in the Stokes flow regime. The ensuing pair
+trajectory of the colloids is controlled by the reacting coverages
+$\theta^j_{cap}$ and their initial relative orientation with respect to each
+other. Our analysis indicates two possible scenarios for pair trajectories of
+catalytic self-propelled particles: either the particles approach, come into
+contact and assemble or they interact and move away from each other (escape).
+For arbitrary motions of the colloids, it is found that the direction of
+particle rotations is the key factor in determining the escape or assembly
+scenario. Based on the analysis, a phase diagram is sketched for the pair
+trajectory of the catalytically active particles as a function of active
+coverages and their initial relative orientations. We believe this study has
+important implications in elucidation of collective behaviors of
+auotophoretically self-propelled colloids.
+</dc:description>
+ <dc:date>2015-10-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03000</dc:identifier>
+ <dc:identifier>doi:10.1017/jfm.2016.317</dc:identifier>
+ </oai_dc:dc>
+

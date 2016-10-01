@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Status and Outlook of CHIP-TRAP: the Central Michigan University High
+  Precision Penning Trap</dc:title>
+ <dc:creator>Redshaw, Matthew</dc:creator>
+ <dc:creator>Bryce, Richard A.</dc:creator>
+ <dc:creator>Hawks, Paul</dc:creator>
+ <dc:creator>Gamage, Nadeesha D.</dc:creator>
+ <dc:creator>Hunt, Curtis</dc:creator>
+ <dc:creator>Kandegedara, Rathnayake M. E. B.</dc:creator>
+ <dc:creator>Ratnayake, Ishara S.</dc:creator>
+ <dc:creator>Sharp, Lance</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  At Central Michigan University we are developing a high-precision Penning
+trap mass spectrometer (CHIP-TRAP)that will focus on measurements with
+long-lived radioactive isotopes. CHIP-TRAP will consist of a pair of hyperbolic
+precision-measurement Penning traps, and a cylindrical capture/?filter trap in
+a 12 T magnetic field. Ions will be produced by external ion sources, including
+a laser ablation source, and transported to the capture trap at low energies
+enabling ions of a given m=q ratio to be selected via their time-of-flight. In
+the capture trap, contaminant ions will be removed with a mass-selective rf
+dipole excitation and the ion of interest will be transported to the
+measurement traps. A phase-sensitive image charge detection technique will be
+used for simultaneous cyclotron frequency measurements on single ions in the
+two precision traps, resulting in a reduction in statistical uncertainty due to
+magnetic field fluctuations.
+</dc:description>
+ <dc:description>Comment: 5 pages, submitted to NIMB (EMIS 2015 Conference Proceedings)</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07203</dc:identifier>
+ <dc:identifier>doi:10.1016/j.nimb.2016.02.018</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Networks, Dynamic Factors, and the Volatility Analysis of
+  High-Dimensional Financial Series</dc:title>
+ <dc:creator>Barigozzi, Matteo</dc:creator>
+ <dc:creator>Hallin, Marc</dc:creator>
+ <dc:subject>Quantitative Finance - Statistical Finance</dc:subject>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:description>  We consider weighted directed networks for analysing, over the period
+2000-2013, the interdependencies between volatilities of a large panel of
+stocks belonging to the S\&amp;P100 index. In particular, we focus on the so-called
+{\it Long-Run Variance Decomposition Network} (LVDN), where the nodes are
+stocks, and the weight associated with edge $(i,j)$ represents the proportion
+of $h$-step-ahead forecast error variance of variable $i$ accounted for by
+variable $j$'s innovations. To overcome the curse of dimensionality, we
+decompose the panel into a component driven by few global, market-wide,
+factors, and an idiosyncratic one modelled by means of a sparse vector
+autoregression (VAR) model. Inversion of the VAR together with suitable
+identification restrictions, produces the estimated network, by means of which
+we can assess how {\it systemic} each firm is.~Our analysis demonstrates the
+prominent role of financial firms as sources of contagion, especially during
+the~2007-2008 crisis.
+</dc:description>
+ <dc:date>2015-10-17</dc:date>
+ <dc:date>2016-07-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05118</dc:identifier>
+ </oai_dc:dc>
+

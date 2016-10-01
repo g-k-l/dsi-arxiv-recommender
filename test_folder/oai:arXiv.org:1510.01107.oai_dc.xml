@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Drag reduction in numerical two-phase Taylor-Couette turbulence using an
+  Euler-Lagrange approach</dc:title>
+ <dc:creator>Spandan, Vamsi</dc:creator>
+ <dc:creator>Ostilla-Monico, Rodolfo</dc:creator>
+ <dc:creator>Verzicco, Roberto</dc:creator>
+ <dc:creator>Lohse, Detlef</dc:creator>
+ <dc:subject>Physics - Fluid Dynamics</dc:subject>
+ <dc:description>  Two-phase turbulent Taylor-Couette (TC) flow is simulated using an
+Euler-Lagrange approach to study the effects of a secondary phase dispersed
+into a turbulent carrier phase (here bubbles dispersed into water). The
+dynamics of the carrier phase is computed using Direct Numerical Simulations
+(DNS) in an Eulerian framework, while the bubbles are tracked in a Lagrangian
+manner by modelling the effective drag, lift, added mass and buoyancy force
+acting on them. Two-way coupling is implemented between the dispersed phase and
+the carrier phase which allows for momentum exchange among both phases and to
+study the effect of the dispersed phase on the carrier phase dynamics. The
+radius ratio of the TC setup is fixed to $\eta=0.833$, and a maximum inner
+cylinder Reynolds number of $Re_i=8000$ is reached. We vary the Froude number
+($Fr$), which is the ratio of the centripetal to the gravitational acceleration
+of the dispersed phase and study its effect on the net torque required to drive
+the TC system. For the two-phase TC system, we observe drag reduction, i.e.,
+the torque required to drive the inner cylinder is less compared to that of the
+single phase system. The net drag reduction decreases with increasing Reynolds
+number $Re_i$, which is consistent with previous experimental findings (Murai
+et al. 2005, 2008). The drag reduction is strongly related to the Froude
+number: for fixed Reynolds number we observe higher drag reduction when $Fr &lt;
+1$ than for with$ Fr &gt; 1$. This buoyancy effect is more prominent in low $Re_i$
+systems and decreases with increasing Reynolds number $Re_i$. We trace the drag
+reduction back to the weakening of the angular momentum carrying Taylor rolls
+by the rising bubbles.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-05-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01107</dc:identifier>
+ <dc:identifier>Journal of Fluid Mechanics / Volume 798 / July 2016, pp 411- 435</dc:identifier>
+ <dc:identifier>doi:10.1017/jfm.2016.316</dc:identifier>
+ </oai_dc:dc>
+

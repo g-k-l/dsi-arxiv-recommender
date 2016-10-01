@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The role of volatiles in reactive melt transport in the asthenosphere</dc:title>
+ <dc:creator>Keller, Tobias</dc:creator>
+ <dc:creator>Katz, Richard F.</dc:creator>
+ <dc:subject>Physics - Geophysics</dc:subject>
+ <dc:description>  Experimental studies of mantle petrology find that small concentrations of
+water and carbon dioxide have a large effect on the solidus temperature and
+distribution of melting in the upper mantle. However, it has remained unclear
+what effect small fractions of deep, volatile-rich melts have on melt transport
+and reactive melting in the shallow asthenosphere. Here we present theory and
+computations indicating that low-degree, reactive, volatile-rich melts cause
+channelisation of magmatic flow at depths approximately corresponding to the
+anhydrous solidus temperature. These results are obtained with a novel method
+to simulate the thermochemical evolution of the upper mantle in the presence of
+volatiles. The method uses a thermodynamically consistent framework for
+reactive, disequilibrium, multi-component melting. It is coupled with a system
+of equations representing conservation of mass, momentum, and energy for a
+partially molten grain aggregate. Application of this method in two-phase,
+three-component upwelling-column models demonstrates that it reproduces
+leading-order features of hydrated and carbonated peridotite melting; in
+particular, it captures the production of low-degree, volatile-rich melt at
+depths far below the volatile-free solidus. The models predict that segregation
+of volatile-rich, deep melts promotes a reactive channeling instability that
+creates fast and chemically isolated pathways of melt extraction. Reactive
+channeling occurs where volatile-rich melts flux the base of the silicate
+melting region, enhancing dissolution of fusible components from the ambient
+mantle. We find this effect to be similarly expressed for models of both
+hydrated and carbonated mantle melting. These findings indicate that despite
+their small concentrations, water and carbon dioxide have an important control
+on the extent and style of magma genesis, as well as on the dynamics of melt
+transport.
+</dc:description>
+ <dc:description>Comment: Revised version of original manuscript titled "Effects of volatiles
+  on melt production and reactive flow in the mantle"</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-03-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01334</dc:identifier>
+ <dc:identifier>doi:10.1093/petrology/egw030</dc:identifier>
+ </oai_dc:dc>
+

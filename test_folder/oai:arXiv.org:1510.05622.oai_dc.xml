@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Sparse Polynomial Systems with many Positive Solutions from Bipartite
+  Simplicial Complexes</dc:title>
+ <dc:creator>Bihan, Fr&#233;d&#233;ric</dc:creator>
+ <dc:creator>Spaenlehauer, Pierre-Jean</dc:creator>
+ <dc:subject>Mathematics - Algebraic Geometry</dc:subject>
+ <dc:subject>Computer Science - Symbolic Computation</dc:subject>
+ <dc:description>  Consider a regular triangulation of the convex-hull $P$ of a set $\mathcal A$
+of $n$ points in $\mathbb R^d$, and a real matrix $C$ of size $d \times n$. A
+version of Viro's method allows to construct from these data an unmixed
+polynomial system with support $\mathcal A$ and coefficient matrix $C$ whose
+number of positive solutions is bounded from below by the number of
+$d$-simplices which are positively decorated by $C$. We show that all the
+$d$-simplices of a triangulation can be positively decorated if and only if the
+triangulation is balanced, which in turn is equivalent to the fact that its
+dual graph is bipartite. This allows us to identify, among classical families,
+monomial supports which admit maximally positive systems, i.e. systems all
+toric complex solutions of which are real and positive. These families give
+some evidence in favor of a conjecture due to Bihan. We also use this technique
+in order to construct fewnomial systems with many positive solutions. This is
+done by considering a simplicial complex with bipartite dual graph included in
+a regular triangulation of the cyclic polytope.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-04-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05622</dc:identifier>
+ </oai_dc:dc>
+

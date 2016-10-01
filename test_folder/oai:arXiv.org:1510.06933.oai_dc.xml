@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Persistent topological features of dynamical systems</dc:title>
+ <dc:creator>Maletic, Slobodan</dc:creator>
+ <dc:creator>Zhao, Yi</dc:creator>
+ <dc:creator>Rajkovic, Milan</dc:creator>
+ <dc:subject>Nonlinear Sciences - Chaotic Dynamics</dc:subject>
+ <dc:description>  A general method for constructing simplicial complex from observed time
+series of dynamical systems based on the delay coordinate reconstruction
+procedure is presented. The obtained simplicial complex preserves all pertinent
+topological features of the reconstructed phase space and it may be analyzes
+from topological, combinatorial and algebraic aspects. In focus of this study
+is the computation of homology of the invariant set of some well known
+dynamical systems which display chaotic behavior. Persistent homology of
+simplicial complex and its relationship with the embedding dimensions are
+examined by studying the lifetime of topological features and topological
+noise. The consistency of topological properties for different dynamic regimes
+and embedding dimensions is examined. The obtained results shed new light on
+the topological properties of the reconstructed phase space and open up new
+possibilities for application of advanced topological methods. the method
+presented here may be used as a generic method for constructing simplicial
+complex from a scalar time series which has a number of advantages compared to
+the mapping of the time series to a complex network.
+</dc:description>
+ <dc:description>Comment: 25 pages, 18 figures</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06933</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4949472</dc:identifier>
+ </oai_dc:dc>
+

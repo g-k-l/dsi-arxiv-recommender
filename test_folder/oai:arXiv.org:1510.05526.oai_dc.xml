@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonparametric Bayesian posterior contraction rates for discretely
+  observed scalar diffusions</dc:title>
+ <dc:creator>Nickl, Richard</dc:creator>
+ <dc:creator>S&#246;hl, Jakob</dc:creator>
+ <dc:subject>Mathematics - Statistics Theory</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:subject>Primary 62G05, secondary 60J60, 62F15, 62G20</dc:subject>
+ <dc:description>  We consider nonparametric Bayesian inference in a reflected diffusion model
+$dX_t = b (X_t)dt + \sigma(X_t) dW_t,$ with discretely sampled observations
+$X_0, X_\Delta, \dots, X_{n\Delta}$. We analyse the nonlinear inverse problem
+corresponding to the `low frequency sampling' regime where $\Delta&gt;0$ is fixed
+and $n \to \infty$. A general theorem is proved that gives conditions for prior
+distributions $\Pi$ on the diffusion coefficient $\sigma$ and the drift
+function $b$ that ensure minimax optimal contraction rates of the posterior
+distribution over H\"older-Sobolev smoothness classes. These conditions are
+verified for natural examples of nonparametric random wavelet series priors.
+For the proofs we derive new concentration inequalities for empirical processes
+arising from discretely observed diffusions that are of independent interest.
+</dc:description>
+ <dc:description>Comment: 44 pages</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05526</dc:identifier>
+ </oai_dc:dc>
+

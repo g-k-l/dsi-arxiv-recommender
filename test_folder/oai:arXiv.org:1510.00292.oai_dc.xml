@@ -1,0 +1,45 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On Classification Issues within Ensemble-Based Complex System Simulation
+  Tasks</dc:title>
+ <dc:creator>Kovalchuk, Sergey V.</dc:creator>
+ <dc:creator>Krikunov, Aleksey V.</dc:creator>
+ <dc:creator>Knyazkov, Konstantin V.</dc:creator>
+ <dc:creator>Kosukhin, Sergey S.</dc:creator>
+ <dc:creator>Boukhanovsky, Alexander V.</dc:creator>
+ <dc:subject>Statistics - Computation</dc:subject>
+ <dc:subject>Statistics - Methodology</dc:subject>
+ <dc:subject>Statistics - Other Statistics</dc:subject>
+ <dc:description>  Contemporary tasks of complex system simulation are often related to the
+issue of uncertainty management. It comes from the lack of information or
+knowledge about the simulated system as well as from restrictions of the model
+set being used. One of the powerful tools for the uncertainty management is
+ensemble-based simulation, which uses variation in input or output data, model
+parameters, or available versions of models to improve the simulation
+performance. Furthermore the system of models for complex system simulation
+(especially in case of hiring ensemble-based approach) can be considered as a
+complex system. As a result, the identification of the complex model's
+structure and parameters provide additional sources of uncertainty to be
+managed. Within the presented work we are developing a conceptual and
+technological approach to manage the ensemble-based simulation taking into
+account changing states of both simulated system and system of models within
+the ensemble-based approach. The states of these systems are considered as a
+subject of classification with consequent inference of better strategies for
+ensemble evolution over the simulation time and ensemble aggregation. Here the
+ensemble evolution enables implementation of dynamic reactive solutions which
+can automatically conform to the changing states of both systems. The ensemble
+aggregation can be considered within a scope of averaging (regression way) or
+selection (classification way, which complement the classification mentioned
+earlier) approach. The technological basis for such approach includes
+ensemble-based simulation techniques using domain-specific software combined
+within a composite application; data science approaches for analysis of
+available datasets (simulation data, observations, situation assessment etc.);
+and machine learning algorithms for classes identification, ensemble management
+and knowledge acquisition.
+</dc:description>
+ <dc:description>Comment: To be presented at CCS'15 (http://www.ccs2015.org/)</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00292</dc:identifier>
+ </oai_dc:dc>
+

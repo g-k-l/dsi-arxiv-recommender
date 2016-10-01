@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum proofs can be verified using only single qubit measurements</dc:title>
+ <dc:creator>Morimae, Tomoyuki</dc:creator>
+ <dc:creator>Nagaj, Daniel</dc:creator>
+ <dc:creator>Schuch, Norbert</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:description>  QMA (Quantum Merlin Arthur) is the class of problems which, though
+potentially hard to solve, have a quantum solution which can be verified
+efficiently using a quantum computer. It thus forms a natural quantum version
+of the classical complexity class NP (and its probabilistic variant MA,
+Merlin-Arthur games), where the verifier has only classical computational
+resources. In this paper, we study what happens when we restrict the quantum
+resources of the verifier to the bare minimum: individual measurements on
+single qubits received as they come, one-by-one. We find that despite this
+grave restriction, it is still possible to soundly verify any problem in QMA
+for the verifier with the minimum quantum resources possible, without using any
+quantum memory or multiqubit operations. We provide two independent proofs of
+this fact, based on measurement based quantum computation and the local
+Hamiltonian problem, respectively. The former construction also applies to
+QMA$_1$, i.e., QMA with one-sided error.
+</dc:description>
+ <dc:description>Comment: 7 pages, 1 figure</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06789</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 022326 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.022326</dc:identifier>
+ </oai_dc:dc>
+

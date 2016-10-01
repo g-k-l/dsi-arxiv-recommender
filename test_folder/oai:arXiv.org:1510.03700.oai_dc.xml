@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Four five-parametric and five four-parametric independent confluent Heun
+  potentials for the stationary Klein-Gordon equation</dc:title>
+ <dc:creator>Tarloyan, A. S.</dc:creator>
+ <dc:creator>Ishkhanyan, T. A.</dc:creator>
+ <dc:creator>Ishkhanyan, A. M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We present in total fifteen potentials for which the stationary Klein-Gordon
+equation is solvable in terms of the confluent Heun functions. Because of the
+symmetry of the confluent Heun equation with respect to the transposition of
+its regular singularities, only nine of the potentials are independent. Four of
+these independent potentials are five-parametric. One of them possesses a
+four-parametric ordinary hypergeometric sub-potential, another one possesses a
+four-parametric confluent hypergeometric sub-potential, and one potential
+possesses four-parametric sub-potentials of both hypergeometric types. The
+fourth five-parametric potential has a three-parametric confluent
+hypergeometric sub-potential, which is, however, only conditionally integrable.
+The remaining five independent Heun potentials are four-parametric and have
+solutions only in terms of irreducible confluent Heun functions.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03700</dc:identifier>
+ <dc:identifier>Ann. Phys. (Berlin) 528, 264-271 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1002/andp.201500314</dc:identifier>
+ </oai_dc:dc>
+

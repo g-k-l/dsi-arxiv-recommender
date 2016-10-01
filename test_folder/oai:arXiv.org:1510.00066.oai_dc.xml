@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>$L^p$ resolvent estimates for magnetic Schr\"odinger operators with
+  unbounded background fields</dc:title>
+ <dc:creator>Cuenin, Jean-Claude</dc:creator>
+ <dc:creator>Kenig, Carlos</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:subject>Mathematics - Spectral Theory</dc:subject>
+ <dc:description>  We prove $L^p$ and smoothing estimates for the resolvent of magnetic
+Schr\"odinger operators. We allow electromagnetic potentials that are small
+perturbations of a smooth, but possibly unbounded background potential. As an
+application, we prove an estimate on the location of eigenvalues of magnetic
+Schr\"odinger and Pauli operators with complex electromagnetic potentials.
+</dc:description>
+ <dc:description>Comment: 24 pages</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-07-18</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00066</dc:identifier>
+ </oai_dc:dc>
+

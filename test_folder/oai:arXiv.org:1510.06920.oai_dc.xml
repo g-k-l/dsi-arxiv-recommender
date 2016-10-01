@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the complexity of switching linear regression</dc:title>
+ <dc:creator>Lauer, Fabien</dc:creator>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:subject>Computer Science - Computational Complexity</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  This technical note extends recent results on the computational complexity of
+globally minimizing the error of piecewise-affine models to the related problem
+of minimizing the error of switching linear regression models. In particular,
+we show that, on the one hand the problem is NP-hard, but on the other hand, it
+admits a polynomial-time algorithm with respect to the number of data points
+for any fixed data dimension and number of modes.
+</dc:description>
+ <dc:description>Comment: Automatica, Elsevier, 2016</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-07-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06920</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Marking Shortest Paths On Pushdown Graphs Does Not Preserve MSO
+  Decidability</dc:title>
+ <dc:creator>Carayol, Arnaud</dc:creator>
+ <dc:creator>Serre, Olivier</dc:creator>
+ <dc:subject>Computer Science - Formal Languages and Automata Theory</dc:subject>
+ <dc:description>  In this paper we consider pushdown graphs, i.e. infinite graphs that can be
+described as transition graphs of deterministic real-time pushdown automata. We
+consider the case where some vertices are designated as being final and we
+built, in a breadth-first manner, a marking of edges that lead to such vertices
+(i.e., for every vertex that can reach a final one, we mark all out-going edges
+laying on some shortest path to a final vertex).
+  Our main result is that the edge-marked version of a pushdown graph may
+itself no longer be a pushdown graph, as we prove that this enrich graph may
+have an undecidable MSO theory.
+  In this paper we consider pushdown graphs, i.e. infinite graphs that can be
+described as transition graphs of deterministic real-time pushdown automata. We
+consider the case where some vertices are designated as being final and we
+build, in a breadth-first manner, a marking of edges that lead to such vertices
+(i.e., for every vertex that can reach a final one, we mark all out-going edges
+laying on some shortest path to a final vertex).
+  Our main result is that the edge-marked version of a pushdown graph may
+itself no longer be a pushdown graph, as we prove that the MSO theory of this
+enriched graph may be undecidable.
+</dc:description>
+ <dc:description>Comment: 11 pages, 2 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04000</dc:identifier>
+ </oai_dc:dc>
+

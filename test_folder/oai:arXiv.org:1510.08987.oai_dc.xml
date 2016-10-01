@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>React or advect: theory of advection-driven long range biotic transport</dc:title>
+ <dc:creator>Kogan, Oleg</dc:creator>
+ <dc:creator>O'Keeffe, Kevin</dc:creator>
+ <dc:creator>Myers, Christopher R.</dc:creator>
+ <dc:subject>Nonlinear Sciences - Pattern Formation and Solitons</dc:subject>
+ <dc:description>  We consider a new reaction-transport framework, and apply it to the problem
+of advection-driven biotic transport. There are two compartments - a growth
+layer, coupled to a separate advective layer. Density fronts propagate in both
+layers. Crucially, the downwind front speed goes to a finite value as the
+coupling goes to zero. We next include diffusion in the growth layer, and study
+the competition between the advective and diffusive transport mechanisms.
+Advection dominates for small diffusion and cannot be ignored, no matter how
+weak the coupling is. When the coupling is not small, both mechanisms work
+cooperatively, without a clear winner. Moreover, there is a special diffusion
+constant at which the front speed is independent of the coupling.
+</dc:description>
+ <dc:date>2015-10-30</dc:date>
+ <dc:date>2016-04-10</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08987</dc:identifier>
+ </oai_dc:dc>
+

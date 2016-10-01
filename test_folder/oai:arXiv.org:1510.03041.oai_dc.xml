@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Minors in graphs of large ${\theta}_r$-girth</dc:title>
+ <dc:creator>Chatzidimitriou, Dimitris</dc:creator>
+ <dc:creator>Raymond, Jean-Florent</dc:creator>
+ <dc:creator>Sau, Ignasi</dc:creator>
+ <dc:creator>Thilikos, Dimitrios M.</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Computer Science - Data Structures and Algorithms</dc:subject>
+ <dc:subject>05C35, 05C83, 05C85, 68R10</dc:subject>
+ <dc:subject>G.2.2</dc:subject>
+ <dc:description>  For every $r \in \mathbb{N}$, let $\theta_r$ denote the graph with two
+vertices and $r$ parallel edges. The $\theta_r$-girth of a graph $G$ is the
+minimum number of edges of a subgraph of $G$ that can be contracted to
+$\theta_r$. This notion generalizes the usual concept of girth which
+corresponds to the case $r=2$. In [Minors in graphs of large girth, Random
+Structures &amp; Algorithms, 22(2):213--225, 2003], K\"uhn and Osthus showed that
+graphs of sufficiently large minimum degree contain clique-minors whose order
+is an exponential function of their girth. We extend this result for the case
+of $\theta_{r}$-girth and we show that the minimum degree can be replaced by
+some connectivity measurement. As an application of our results, we prove that,
+for every fixed $r$, graphs excluding as a minor the disjoint union of $k$
+$\theta_{r}$'s have treewidth $O(k\cdot \log k)$.
+</dc:description>
+ <dc:description>Comment: Some of the results of this paper have been presented in WAOA 2015</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:date>2016-07-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03041</dc:identifier>
+ </oai_dc:dc>
+

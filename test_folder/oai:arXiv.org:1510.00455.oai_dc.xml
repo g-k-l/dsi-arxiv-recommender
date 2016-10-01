@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Semidefinite relaxations in optimal experiment design with application
+  to substrate injection for hyperpolarized MRI</dc:title>
+ <dc:creator>Maidens, John</dc:creator>
+ <dc:creator>Arcak, Murat</dc:creator>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  We consider the problem of optimal input design for estimating uncertain
+parameters in a discrete-time linear state space model, subject to simultaneous
+amplitude and l1/l2-norm constraints on the admissible inputs. We formulate
+this problem as the maximization of a (non-concave) quadratic function over the
+space of inputs, and use semidefinite relaxation techniques to efficiently find
+the global solution or to provide an upper bound. This investigation is
+motivated by a problem in medical imaging, specifically designing a substrate
+injection profile for in vivo metabolic parameter mapping using magnetic
+resonance imaging (MRI) with hyperpolarized carbon-13 pyruvate. In the
+l2-norm-constrained case, we show that the relaxation is tight, allowing us to
+efficiently compute a globally optimal injection profile. In the
+l1-norm-constrained case the relaxation is no longer tight, but can be used to
+prove that the boxcar injection currently used in practice achieves at least
+98.7% of the global optimum.
+</dc:description>
+ <dc:description>Comment: 6 pages, Accepted to ACC 2016</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:date>2016-03-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00455</dc:identifier>
+ </oai_dc:dc>
+

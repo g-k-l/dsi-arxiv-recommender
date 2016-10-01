@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Measurement of the differential cross-section of highly boosted top
+  quarks as a function of their transverse momentum in $\sqrt{s}$ = 8 TeV
+  proton-proton collisions using the ATLAS detector</dc:title>
+ <dc:creator>ATLAS Collaboration</dc:creator>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  The differential cross-section for pair production of top quarks with high
+transverse momentum is measured in 20.3 fb$^{-1}$ of proton-proton collisions
+at a center-of-mass energy of 8 TeV. The measurement is performed for
+$t\bar{t}$ events in the lepton+jets channel. The cross-section is reported as
+a function of the hadronically decaying top quark transverse momentum for
+values above 300 GeV. The hadronically decaying top quark is reconstructed as
+an anti-$k_t$ jet with radius parameter $R=1.0$ and identified with jet
+substructure techniques. The observed yield is corrected for detector effects
+to obtain a cross-section at particle level in a fiducial region close to the
+event selection. A parton-level cross-section extrapolated to the full phase
+space is also reported for top quarks with transverse momentum above 300 GeV.
+The predictions of a majority of next-to-leading-order and leading-order
+matrix-element Monte Carlo generators are found to agree with the measured
+cross-sections.
+</dc:description>
+ <dc:description>Comment: 34 pages plus author list (51 pages total), 10 figures, 8 tables,
+  published version, all figures including auxiliary figures are available at
+  https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/TOPQ-2014-15/</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03818</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 032009 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.032009</dc:identifier>
+ </oai_dc:dc>
+

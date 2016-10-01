@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Approximate Fisher Kernels of non-iid Image Models for Image
+  Categorization</dc:title>
+ <dc:creator>Cinbis, Ramazan Gokberk</dc:creator>
+ <dc:creator>Verbeek, Jakob</dc:creator>
+ <dc:creator>Schmid, Cordelia</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:description>  The bag-of-words (BoW) model treats images as sets of local descriptors and
+represents them by visual word histograms. The Fisher vector (FV)
+representation extends BoW, by considering the first and second order
+statistics of local descriptors. In both representations local descriptors are
+assumed to be identically and independently distributed (iid), which is a poor
+assumption from a modeling perspective. It has been experimentally observed
+that the performance of BoW and FV representations can be improved by employing
+discounting transformations such as power normalization. In this paper, we
+introduce non-iid models by treating the model parameters as latent variables
+which are integrated out, rendering all local regions dependent. Using the
+Fisher kernel principle we encode an image by the gradient of the data
+log-likelihood w.r.t. the model hyper-parameters. Our models naturally generate
+discounting effects in the representations; suggesting that such
+transformations have proven successful because they closely correspond to the
+representations obtained for non-iid models. To enable tractable computation,
+we rely on variational free-energy bounds to learn the hyper-parameters and to
+compute approximate Fisher kernels. Our experimental evaluation results
+validate that our models lead to performance improvements comparable to using
+power normalization, as employed in state-of-the-art feature aggregation
+methods.
+</dc:description>
+ <dc:description>Comment: IEEE Transactions on Pattern Analysis and Machine Intelligence, in
+  press, 2015</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00857</dc:identifier>
+ <dc:identifier>IEEE Trans. on Pattern Analysis and Machine Intelligence, vol. 38,
+  no. 6, pp. 1084-1098, June 1 2016</dc:identifier>
+ <dc:identifier>doi:10.1109/TPAMI.2015.2484342</dc:identifier>
+ </oai_dc:dc>
+

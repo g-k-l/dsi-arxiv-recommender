@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>T-duality Constraints on Higher Derivatives Revisited</dc:title>
+ <dc:creator>Hohm, Olaf</dc:creator>
+ <dc:creator>Zwiebach, Barton</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We ask to what extent are the higher-derivative corrections of string theory
+constrained by T-duality. The seminal early work by Meissner tests T-duality by
+reduction to one dimension using a distinguished choice of field variables in
+which the bosonic string action takes a Gauss-Bonnet-type form. By analyzing
+all field redefinitions that may or may not be duality covariant and may or may
+not be gauge covariant we extend the procedure to test T-duality starting from
+an action expressed in arbitrary field variables. We illustrate the method by
+showing that it determines uniquely the first-order $\alpha'$ corrections of
+the bosonic string, up to terms that vanish in one dimension. We also use the
+method to glean information about the ${\cal O}(\alpha'^2)$ corrections in the
+double field theory with Green-Schwarz deformation.
+</dc:description>
+ <dc:description>Comment: 24 pages</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00005</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP04(2016)101</dc:identifier>
+ </oai_dc:dc>
+

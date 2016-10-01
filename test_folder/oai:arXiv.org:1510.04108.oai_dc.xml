@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Atomically thin binary V-V compound semiconductor: a first-principles
+  study</dc:title>
+ <dc:creator>Yu, Weiyang</dc:creator>
+ <dc:creator>Zhu, Zhili</dc:creator>
+ <dc:creator>Niu, Chun-Yao</dc:creator>
+ <dc:creator>Cai, Xiaolin</dc:creator>
+ <dc:creator>Zhang, Wei-Bing</dc:creator>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  Searching the novel 2D semiconductor is crucial to develop the
+next-generation low-dimensional electronic device. Using first-principles
+calculations, we propose a class of unexplored binary V-V compound
+semiconductor (PN, AsN, SbN, AsP, SbP and SbAs) with monolayer black
+phosphorene ($\alpha$) and blue phosphorene ($\beta$) structure. Our phonon
+spectra and room-temperature molecular dynamics (MD) calculations indicate that
+all compounds are very stable. Moreover, most of compounds are found to present
+a moderate energy gap in the visible frequency range, which can be tuned
+gradually by in-plane strain. Especially, $\alpha$-phase V-V compounds have a
+direct gap while $\beta$-SbN, AsN, SbP, and SbAs may be promising candidates of
+2D solar cell materials due to a wide gap separating acoustic and optical
+phonon modes. Furthermore, vertical heterostructures can be also built using
+lattice matched $\alpha$($\beta$)-SbN and phosphorene, and both vdW
+heterostructures are found to have intriguing direct band gap. The present
+investigation not only broads the scope of layered group V semiconductors but
+also provides an unprecedented route for the potential applications of 2D V-V
+families in optoelectronic and nanoelectronic semiconductor devices.
+</dc:description>
+ <dc:description>Comment: 7 pages, 7 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-04-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04108</dc:identifier>
+ <dc:identifier>J. Mater. Chem. C, 2016</dc:identifier>
+ <dc:identifier>doi:10.1039/C6TC01505K</dc:identifier>
+ </oai_dc:dc>
+

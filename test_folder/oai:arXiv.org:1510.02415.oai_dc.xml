@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimality of Rate Balancing in Wireless Sensor Networks</dc:title>
+ <dc:creator>Tarighati, Alla</dc:creator>
+ <dc:creator>Jalden, Joakim</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:description>  We consider the problem of distributed binary hypothesis testing in a
+parallel network topology where sensors independently observe some phenomenon
+and send a finite rate summary of their observations to a fusion center for the
+final decision. We explicitly consider a scenario under which (integer) rate
+messages are sent over an error free multiple access channel, modeled by a sum
+rate constraint at the fusion center. This problem was previously studied by
+Chamberland and Veeravalli, who provided sufficient conditions for the
+optimality of one bit sensor messages. Their result is however crucially
+dependent on the feasibility of having as many one bit sensors as the (integer)
+sum rate constraint of the multiple access channel, an assumption that can
+often not be satisfied in practice. This prompts us to consider the case of an
+a-priori limited number of sensors and we provide sufficient condition under
+which having no two sensors with rate difference more than one bit, so called
+rate balancing, is an optimal strategy with respect to the Bhattacharyya
+distance between the hypotheses at the input to the fusion center. We further
+discuss explicit observation models under which these sufficient conditions are
+satisfied.
+</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-02-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02415</dc:identifier>
+ <dc:identifier>doi:10.1109/TSP.2016.2551691</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Titan Science with the James Webb Space Telescope (JWST)</dc:title>
+ <dc:creator>Nixon, Conor A.</dc:creator>
+ <dc:creator>Achterberg, Richard K.</dc:creator>
+ <dc:creator>Adamkovics, Mate</dc:creator>
+ <dc:creator>Bezard, Bruno</dc:creator>
+ <dc:creator>Bjoraker, Gordon L.</dc:creator>
+ <dc:creator>Cornet, Thomas</dc:creator>
+ <dc:creator>Hayes, Alexander G.</dc:creator>
+ <dc:creator>Lellouch, Emmanuel</dc:creator>
+ <dc:creator>Lemmon, Mark T.</dc:creator>
+ <dc:creator>Lopez-Puertas, Manuel</dc:creator>
+ <dc:creator>Rodriguez, Sebastien</dc:creator>
+ <dc:creator>Sotin, Christophe</dc:creator>
+ <dc:creator>Teanby, Nicholas A.</dc:creator>
+ <dc:creator>Turtle, Elizabeth P.</dc:creator>
+ <dc:creator>West, Robert A.</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  The James Webb Space Telescope (JWST), scheduled for launch in 2018, is the
+successor to the Hubble Space Telescope (HST) but with a significantly larger
+aperture (6.5 m) and advanced instrumentation focusing on infrared science
+(0.6-28.0 $\mu$m ). In this paper we examine the potential for scientific
+investigation of Titan using JWST, primarily with three of the four
+instruments: NIRSpec, NIRCam and MIRI, noting that science with NIRISS will be
+complementary. Five core scientific themes are identified: (i) surface (ii)
+tropospheric clouds (iii) tropospheric gases (iv) stratospheric composition and
+(v) stratospheric hazes. We discuss each theme in depth, including the
+scientific purpose, capabilities and limitations of the instrument suite, and
+suggested observing schemes. We pay particular attention to saturation, which
+is a problem for all three instruments, but may be alleviated for NIRCam
+through use of selecting small sub-arrays of the detectors - sufficient to
+encompass Titan, but with significantly faster read-out times. We find that
+JWST has very significant potential for advancing Titan science, with a
+spectral resolution exceeding the Cassini instrument suite at near-infrared
+wavelengths, and a spatial resolution exceeding HST at the same wavelengths. In
+particular, JWST will be valuable for time-domain monitoring of Titan, given a
+five to ten year expected lifetime for the observatory, for example monitoring
+the seasonal appearance of clouds. JWST observations in the post-Cassini period
+will complement those of other large facilities such as HST, ALMA, SOFIA and
+next-generation ground-based telescopes (TMT, GMT, EELT).
+</dc:description>
+ <dc:description>Comment: 50 pages, including 22 figures and 2 tables</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08394</dc:identifier>
+ <dc:identifier>doi:10.1088/1538-3873/128/959/018007</dc:identifier>
+ </oai_dc:dc>
+

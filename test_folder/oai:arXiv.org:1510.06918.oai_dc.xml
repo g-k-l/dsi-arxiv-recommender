@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum advice enhances social optimality in three-party conflicting
+  interest games</dc:title>
+ <dc:creator>Situ, Haozhen</dc:creator>
+ <dc:creator>Zhang, Cai</dc:creator>
+ <dc:creator>Yu, Fang</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum pseudo-telepathy games are good examples of explaining the
+strangeness of quantum mechanics and demonstrating the advantage of quantum
+resources over classical resources. Most of the quantum pseudo-telepathy games
+are common interest games, nevertheless conflicting interest games are more
+widely used to model real world situations. Recently Pappa et al. (Phys. Rev.
+Lett. 114, 020401, 2015) proposed the first two-party conflicting interest game
+where quantum advice enhances social optimality. In the present paper we give
+two new three-party conflicting interest games and show that quantum advice can
+enhance social optimality in a three-party setting. The first game we propose
+is based on the famous GHZ game which is a common interest game. The second
+game we propose is related to the Svetlichny inequality which demonstrates
+quantum mechanics cannot be explained by the local hidden variable model in a
+three-party setting.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-03-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06918</dc:identifier>
+ <dc:identifier>Quantum Information &amp; Computation, Vol.16, No. 7&amp;8, pp 588-596,
+  2016</dc:identifier>
+ </oai_dc:dc>
+

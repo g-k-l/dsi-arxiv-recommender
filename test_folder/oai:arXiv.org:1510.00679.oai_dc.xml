@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Simulation of a cascaded longitudinal space charge amplifier for
+  broadband radiation production using a superconducting linac</dc:title>
+ <dc:creator>Halavanau, A.</dc:creator>
+ <dc:creator>Piot, P.</dc:creator>
+ <dc:subject>Physics - Accelerator Physics</dc:subject>
+ <dc:description>  Longitudinal space charge (LSC) effects are generally considered harmful in
+free-electron lasers as they can seed unfavorable energy modulations that can
+result in density modulations with associated emittance dilution. It was
+pointed out, however, that such "micro-bunching instabilities" could be
+potentially useful to support the generation of broadband coherent radiation.
+Therefore there has been an increasing interest in devising accelerator beam
+lines capable of controlling LSC induced density modulations. In the present
+paper we augment these previous investigations by combining a grid-less space
+charge algorithm with the popular particle-tracking program Elegant. This
+high-fidelity model of the space charge is used to benchmark conventional LSC
+models. We finally employ the developed model to optimize the performance of a
+cascaded longitudinal space charge amplifier using beam parameters comparable
+to the ones achievable at Fermilab Accelerator Science &amp; Technology (FAST)
+facility currently under commissioning at Fermilab.
+</dc:description>
+ <dc:date>2015-10-02</dc:date>
+ <dc:date>2016-07-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00679</dc:identifier>
+ <dc:identifier>NIM A 2016 819 144-153</dc:identifier>
+ <dc:identifier>doi:10.1016/j.nima.2016.03.002</dc:identifier>
+ </oai_dc:dc>
+

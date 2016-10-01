@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Long-Lived, Colour-Triplet Scalars from Unnaturalness</dc:title>
+ <dc:creator>Barnard, James</dc:creator>
+ <dc:creator>Cox, Peter</dc:creator>
+ <dc:creator>Gherghetta, Tony</dc:creator>
+ <dc:creator>Spray, Andrew</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:description>  Long-lived, colour-triplet scalars are a generic prediction of unnatural, or
+split, composite Higgs models where the spontaneous global-symmetry breaking
+scale $f \gtrsim 10$ TeV and an unbroken $SU(5)$ symmetry is preserved. Since
+the triplet scalars are pseudo Nambu-Goldstone bosons they are split from the
+much heavier composite-sector resonances and are the lightest exotic, coloured
+states. This makes them ideal to search for at colliders. Due to discrete
+symmetries the triplet scalar decays via a dimension-six term and given the
+large suppression scale $f$ is often metastable. We show that existing searches
+for collider-stable R-hadrons from Run-I at the LHC forbid a triplet scalar
+mass below 845 GeV, whereas with $300\,\mathrm{fb}^{-1}$ at 13 TeV triplet
+scalar masses up to 1.4 TeV can be discovered. For shorter lifetimes
+displaced-vertex searches provide a discovery reach of up to 1.8 TeV. In
+addition we present exclusion and discovery reaches of future hadron colliders
+as well as indirect limits that arise from modifications of the Higgs
+couplings.
+</dc:description>
+ <dc:description>Comment: 29 pages, 8 figures; v2: version published in JHEP</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-03-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06405</dc:identifier>
+ <dc:identifier>JHEP 03 (2016) 003</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP03(2016)003</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Anomalous metallic state in quasi-two-dimensional BaNiS$_{2}$</dc:title>
+ <dc:creator>Santos-Cottin, David</dc:creator>
+ <dc:creator>Gauzzi, Andrea</dc:creator>
+ <dc:creator>Verseils, Marine</dc:creator>
+ <dc:creator>Baptiste, Benoit</dc:creator>
+ <dc:creator>Feve, Gwendal</dc:creator>
+ <dc:creator>Freulon, Vincent</dc:creator>
+ <dc:creator>Placais, Bernard</dc:creator>
+ <dc:creator>Casula, Michele</dc:creator>
+ <dc:creator>Klein, Yannick</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We report on a systematic study of the thermodynamic, electronic and charge
+transport properties of high-quality single crystals of BaNiS$_2$, the metallic
+end-member of the quasi-twodimensional BaCo$_{1-x}$Ni$_x$S$_2$ system
+characterized by a metal-insulator transition at $x_{cr}=0.22$. Our analysis of
+magnetoresistivity and specific heat data consistently suggests a picture of
+compensated semimetal with two hole- and one electron-bands, where
+electron-phonon scattering dominates charge transport and the minority holes
+exhibit, below $\sim$100 K, a very large mobility, $\mu_h\sim$ 15000
+cm$^2$V$^{-1}$s$^{-1}$, which is explained by a Dirac-like band. Evidence of
+unconventional metallic properties is given by an intriguing crossover of the
+resistivity from a Bloch-Gr\"uneisen regime to a linear$-T$ regime occurring at
+2 K and by a strong linear term in the paramagnetic susceptibility above 100 K.
+We discuss the possibility that these anomalies reflect a departure from
+conventional Fermi-liquid properties in presence of short-range AF fluctuations
+and of a large Hund coupling.
+</dc:description>
+ <dc:description>Comment: 21 pages 9 figures (colors)</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-02-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03458</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 125120 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.125120</dc:identifier>
+ </oai_dc:dc>
+

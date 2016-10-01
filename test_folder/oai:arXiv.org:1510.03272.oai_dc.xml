@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Coordinated Beating of Algal Flagella is Mediated by Basal Coupling</dc:title>
+ <dc:creator>Wan, Kirsty Y.</dc:creator>
+ <dc:creator>Goldstein, Raymond E.</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Physics - Biological Physics</dc:subject>
+ <dc:subject>Quantitative Biology - Subcellular Processes</dc:subject>
+ <dc:description>  Cilia and flagella often exhibit synchronized behavior; this includes phase
+locking, as seen in {\it Chlamydomonas}, and metachronal wave formation in the
+respiratory cilia of higher organisms. Since the observations by Gray and
+Rothschild of phase synchrony of nearby swimming spermatozoa, it has been a
+working hypothesis that synchrony arises from hydrodynamic interactions between
+beating filaments. Recent work on the dynamics of physically separated pairs of
+flagella isolated from the multicellular alga {\it Volvox} has shown that
+hydrodynamic coupling alone is sufficient to produce synchrony. However, the
+situation is more complex in unicellular organisms bearing few flagella. We
+show that flagella of {\it Chlamydomonas} mutants deficient in filamentary
+connections between basal bodies display markedly different synchronization
+from the wild type. We perform micromanipulation on configurations of flagella
+and conclude that a mechanism, internal to the cell, must provide an additional
+flagellar coupling. In naturally occurring species with 4, 8, or even 16
+flagella, we find diverse symmetries of basal body positioning and of the
+flagellar apparatus that are coincident with specific gaits of flagellar
+actuation, suggesting that it is a competition between intracellular coupling
+and hydrodynamic interactions that ultimately determines the precise form of
+flagellar coordination in unicellular algae.
+</dc:description>
+ <dc:description>Comment: Preprint as accepted for publication in PNAS, for published journal
+  version (open access) and Supporting Information see
+  \href{http://www.pnas.org/content/113/20/E2784}{here}</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-05-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03272</dc:identifier>
+ <dc:identifier>Proc. Natl. Acad. Sci. U.S.A. 113(20), E2784-E2793 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1073/pnas.1518527113</dc:identifier>
+ </oai_dc:dc>
+

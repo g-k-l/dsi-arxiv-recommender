@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Feature-Based Diversity Optimization for Problem Instance Classification</dc:title>
+ <dc:creator>Gao, Wanru</dc:creator>
+ <dc:creator>Nallaperuma, Samadhi</dc:creator>
+ <dc:creator>Neumann, Frank</dc:creator>
+ <dc:subject>Computer Science - Neural and Evolutionary Computing</dc:subject>
+ <dc:subject>Computer Science - Artificial Intelligence</dc:subject>
+ <dc:description>  Understanding the behaviour of heuristic search methods is a challenge. This
+even holds for simple local search methods such as 2-OPT for the Traveling
+Salesperson problem. In this paper, we present a general framework that is able
+to construct a diverse set of instances that are hard or easy for a given
+search heuristic. Such a diverse set is obtained by using an evolutionary
+algorithm for constructing hard or easy instances that are diverse with respect
+to different features of the underlying problem. Examining the constructed
+instance sets, we show that many combinations of two or three features give a
+good classification of the TSP instances in terms of whether they are hard to
+be solved by 2-OPT.
+</dc:description>
+ <dc:description>Comment: 20 pages, 18 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-04-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08568</dc:identifier>
+ </oai_dc:dc>
+

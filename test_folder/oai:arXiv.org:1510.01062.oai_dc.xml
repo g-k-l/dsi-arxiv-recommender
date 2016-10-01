@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Full characterization of modular values for two-dimensional systems</dc:title>
+ <dc:creator>Ho, Le Bin</dc:creator>
+ <dc:creator>Imoto, Nobuyuki</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Vaidman pointed out the importance of modular values, and related the modular
+value of a Pauli spin operator to its weak value for specific coupling
+strengths [Phys. Rev. Lett. 105, 230401 (2010)]. It would be useful if this
+relationship is generalized since a modular value, which assumes a finite
+strength of the measurement interaction, is sometimes more practical than a
+weak value, which assumes an infinitesimally small interaction. In this paper,
+we give a general expression that relates the weak value and the modular value
+of an arbitrary observable in the 2-dimensional Hilbert space for an arbitrary
+coupling strength. Using this expression, we show the "failure of sum rule" for
+modular values, which has a resemblance to the "failure of product rule" for
+weak values. We give examples of "failure of sum rule" for some interesting
+cases, i.e., paradoxes based on nonlocality, which include EPR paradox, Hardy's
+paradox, and Cheshire cat experiment.
+</dc:description>
+ <dc:description>Comment: 7 pages, 3 figures</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01062</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physleta.2016.05.005</dc:identifier>
+ </oai_dc:dc>
+

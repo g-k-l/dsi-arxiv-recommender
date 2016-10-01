@@ -1,0 +1,16 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Algebraic cobordism and flag varieties</dc:title>
+ <dc:creator>Yagita, Nobuaki</dc:creator>
+ <dc:subject>Mathematics - Algebraic Topology</dc:subject>
+ <dc:description>  Let X be an algebraic variety over k such that X|K is cellular for the
+algebraically closed field K over k. Then we study the restriction map CH(X) to
+CH(X|K) of Chow rings, by using algebraic cobordism theory. In particular, we
+compute CH(G/T) for twisted flag varieties G/T over k.
+</dc:description>
+ <dc:description>Comment: 44 pages, no figure</dc:description>
+ <dc:date>2015-10-27</dc:date>
+ <dc:date>2016-04-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08135</dc:identifier>
+ </oai_dc:dc>
+

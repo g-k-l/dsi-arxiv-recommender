@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Average Atom Model based on Quantum Hyper-Netted Chain Method</dc:title>
+ <dc:creator>Chihara, Junzo</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  The study shows how to define "exactly" the average ion charge $Z_{\rm I}$ in
+the electron-ion model for plasmas and liquid metals: this definition comes out
+of the condition that a plasma consisting of electrons and nuclei can be
+described by the electron-ion model. Based on this definition of the average
+ion charge, the Quantum Hyper-Netted Chain (QHNC) method takes account of the
+resonant-state contribution to the bound electrons to form an ion. On the other
+hand, Blenski and coworkers have derived a formula to determine the electron
+density $n_0$ in a plasma as an electron-ion mixture by using the variational
+method with help of the local density approximation. Without use of any
+approximation, we derived the formula determining the electron density in an
+extended form on the basis of the DF theory. This formula is shown to be valid
+also for the QHNC method.
+</dc:description>
+ <dc:description>Comment: Discussion:added</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-04-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08616</dc:identifier>
+ <dc:identifier>High Energy Density Physics 19 (2016) 38-47</dc:identifier>
+ <dc:identifier>doi:10.1016/j.hedp.2016.03.002</dc:identifier>
+ </oai_dc:dc>
+

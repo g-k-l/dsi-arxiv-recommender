@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The algebraic method in tree percolation</dc:title>
+ <dc:creator>Mohammadi, Fatemeh</dc:creator>
+ <dc:creator>S&#225;enz-de-Cabez&#243;n, Eduardo</dc:creator>
+ <dc:creator>Wynn, Henry P.</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>Mathematics - Commutative Algebra</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Mathematics - Rings and Algebras</dc:subject>
+ <dc:description>  We apply the methods of algebraic reliability to the study of percolation on
+trees. To a complete $k$-ary tree $T_{k,n}$ of depth $n$ we assign a monomial
+ideal $I_{k,n}$ on $\sum_{i=1}^n k^i$ variables and $k^n$ minimal monomial
+generators. We give explicit recursive formulae for the Betti numbers of
+$I_{k,n}$ and their Hilbert series, which allow us to study explicitly
+percolation on $T_{k,n}$. We study bounds on this percolation and study its
+asymptotical behavior with the mentioned commutative algebra techniques.
+</dc:description>
+ <dc:description>Comment: to appear in SIAM Journal on Discrete Mathematics</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04036</dc:identifier>
+ </oai_dc:dc>
+

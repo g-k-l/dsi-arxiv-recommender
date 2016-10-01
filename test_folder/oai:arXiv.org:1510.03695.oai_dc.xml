@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Relative submajorization and its use in quantum resource theories</dc:title>
+ <dc:creator>Renes, Joseph M.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We introduce and study a generalization of majorization called relative
+submajorization and show that it has many applications to the resource theories
+of thermodynamics, bipartite entanglement, and quantum coherence. In
+particular, we show that relative submajorization characterizes both the
+probability and approximation error that can be obtained when transforming one
+resource to another, also when assisted by additional standard resources such
+as useful work or maximally-entangled states. These characterizations have a
+geometric formulation as the ratios or differences, respectively, between the
+Lorenz curves associated with the input and output resources. We also find
+several interesting bounds on the reversibility of a given transformation in
+terms of the properties of the forward transformation. The main technical tool
+used to establish these results is linear programming duality.
+</dc:description>
+ <dc:description>Comment: v2: fixed an error in the quantum coherence resource theory, added a
+  constructive proof of relative majorization and comments on the relation to
+  fluctuation theorems. v1: 35 pages, 6 figures. Comments very welcome!</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:date>2016-03-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03695</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,44 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Learning-based Compressive Subsampling</dc:title>
+ <dc:creator>Baldassarre, Luca</dc:creator>
+ <dc:creator>Li, Yen-Huan</dc:creator>
+ <dc:creator>Scarlett, Jonathan</dc:creator>
+ <dc:creator>G&#246;zc&#252;, Baran</dc:creator>
+ <dc:creator>Bogunovic, Ilija</dc:creator>
+ <dc:creator>Cevher, Volkan</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Computer Science - Learning</dc:subject>
+ <dc:subject>Statistics - Machine Learning</dc:subject>
+ <dc:description>  The problem of recovering a structured signal $\mathbf{x} \in \mathbb{C}^p$
+from a set of dimensionality-reduced linear measurements $\mathbf{b} = \mathbf
+{A}\mathbf {x}$ arises in a variety of applications, such as medical imaging,
+spectroscopy, Fourier optics, and computerized tomography. Due to computational
+and storage complexity or physical constraints imposed by the problem, the
+measurement matrix $\mathbf{A} \in \mathbb{C}^{n \times p}$ is often of the
+form $\mathbf{A} = \mathbf{P}_{\Omega}\boldsymbol{\Psi}$ for some orthonormal
+basis matrix $\boldsymbol{\Psi}\in \mathbb{C}^{p \times p}$ and subsampling
+operator $\mathbf{P}_{\Omega}: \mathbb{C}^{p} \rightarrow \mathbb{C}^{n}$ that
+selects the rows indexed by $\Omega$. This raises the fundamental question of
+how best to choose the index set $\Omega$ in order to optimize the recovery
+performance. Previous approaches to addressing this question rely on
+non-uniform \emph{random} subsampling using application-specific knowledge of
+the structure of $\mathbf{x}$. In this paper, we instead take a principled
+learning-based approach in which a \emph{fixed} index set is chosen based on a
+set of training signals $\mathbf{x}_1,\dotsc,\mathbf{x}_m$. We formulate
+combinatorial optimization problems seeking to maximize the energy captured in
+these signals in an average-case or worst-case sense, and we show that these
+can be efficiently solved either exactly or approximately via the
+identification of modularity and submodularity structures. We provide both
+deterministic and statistical theoretical guarantees showing how the resulting
+measurement matrices perform on signals differing from the training signals,
+and we provide numerical examples showing our approach to be effective on a
+variety of data sets.
+</dc:description>
+ <dc:description>Comment: Submitted to IEEE Journal on Selected Topics in Signal Processing</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-03-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06188</dc:identifier>
+ <dc:identifier>doi:10.1109/JSTSP.2016.2548442</dc:identifier>
+ </oai_dc:dc>
+

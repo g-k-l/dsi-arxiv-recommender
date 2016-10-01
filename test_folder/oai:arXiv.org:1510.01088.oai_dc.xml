@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Autonomous take-off and landing of a tethered aircraft: a simulation
+  study</dc:title>
+ <dc:creator>Van, Eric Nguyen</dc:creator>
+ <dc:creator>Fagiano, Lorenzo</dc:creator>
+ <dc:creator>Schnez, Stephan</dc:creator>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  The problem of autonomous launch and landing of a tethered rigid aircraft for
+airborne wind energy generation is addressed. The system operates with
+ground-based power conversion and pumping cycles, where the tether is
+repeatedly reeled in and out of a winch installed on the ground and linked to
+an electric motor/generator. In order to accelerate the aircraft to take-off
+speed, the ground station is augmented with a linear motion system composed by
+a slide translating on rails and controlled by a second motor. An onboard
+propeller is used to sustain the forward velocity during the ascend of the
+aircraft. During landing, a slight tension on the line is kept, while the
+onboard control surfaces are used to align the aircraft with the rails and to
+land again on them. A model-based, decentralized control approach is proposed,
+capable to carry out a full cycle of launch, low-tension flight, and landing
+again on the rails. The derived controller is tested via numerical simulations
+with a realistic dynamical model of the system, in presence of different wind
+speeds and turbulence, and its performance in terms of landing accuracy is
+assessed. This study is part of a project aimed to experimentally verify the
+launch and landing approach on a small-scale prototype.
+</dc:description>
+ <dc:description>Comment: This is the longer version of a paper submitted to the 2016 American
+  Control Conference 2016, with more details on the simulation parameters</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01088</dc:identifier>
+ <dc:identifier>doi:10.1109/ACC.2016.7525562</dc:identifier>
+ </oai_dc:dc>
+

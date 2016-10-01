@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The Magnetic Field Evolution of ULX NuSTAR J095551+6940.8 in M82--A
+  Legacy of Accreting Magnetar</dc:title>
+ <dc:creator>Pan, Y. Y.</dc:creator>
+ <dc:creator>Song, L. M.</dc:creator>
+ <dc:creator>Zhang, C. M.</dc:creator>
+ <dc:creator>Tong, H.</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  Ultra-luminous X-ray sources are usually believed to be black holes with mass
+about $10^{2-3}M_{\odot}$. However, the recent discovery of NuSTAR
+J095551+6940.8 in M82 by Bachetti et al. shows that it holds the spin period
+$P=1.37\rm\,s$ and period {\bf derivative}
+$\dot{P}\approx-2\times10^{-10}\rm\,s\,s^{-1}$, which provides a strong
+evidence that some ultra-luminous X-ray sources could be neutron stars. We
+obtain that the source may be an evolved magetar, according to our simulation
+by employing the model of accretion induced the polar magnetic field decay and
+standard spin-up torque of an accreting neutron star. The results show that
+NuSTAR J095551+6940.8 is still in the spin-up process, and the polar magnetic
+field decays to about $4.5\times10^{12}\rm\,G$ after accreting $\sim
+10^{-2.5}$\ms, while the strong magnetic field exists in the out-polar region,
+which could be responsible for the observed low field magnetar. The ultra
+luminosity of the source can be explained by the beaming effort and two kinds
+of accretion--radial random accretion and disk accretion. Since the birth rate
+of magnetars is about ten percent of the normal neutron stars, we guess that
+several ultra-luminous X-ray sources should share the similar properties to
+that of NuSTAR J095551+6940.8.
+</dc:description>
+ <dc:description>Comment: 5 pages, 1 figure, accepted by MNRAS</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-05-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08597</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1041</dc:identifier>
+ </oai_dc:dc>
+

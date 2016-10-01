@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>First-principles calculations of structural, electronic and optical
+  properties of HfZn2</dc:title>
+ <dc:creator>Rahman, Md. Atikur</dc:creator>
+ <dc:creator>Rahman, Md. Afjalur</dc:creator>
+ <dc:creator>Rahaman, Md. Zahidur</dc:creator>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  The structural, electronic and optical properties of nearly ferromagnetic
+compound HfZn2 have been studied using ab-initio technique. We have carried out
+the plane-wave pseudopotential approach within the framework of the
+first-principles density functional theory (DFT) implemented within the CASTEP
+code. The calculated structural parameters show a good agreement with the
+experimental results. In our work we have used GGA-PBE to calculate the
+electronic properties and it is found that the results exhibit similar band
+structure qualitatively with the results calculated using LDA. The electronic
+band structure reveals metallic conductivity and the major contribution comes
+from Hf-5d states. Our results for structural and electronic properties are
+compared with the experimental and other theoretical results wherever these are
+available.
+</dc:description>
+ <dc:description>Comment: 8 Pages and 5 Figures</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-05-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04944</dc:identifier>
+ <dc:identifier>Journal of Advanced Physics, Volume 5, Number 4, December 2016,
+  pp. 354-358(5)</dc:identifier>
+ </oai_dc:dc>
+

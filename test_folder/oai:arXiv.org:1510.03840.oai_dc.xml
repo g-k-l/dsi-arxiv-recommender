@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamic Spectrum Sensing Through Accelerated Particle Swarm Optimization</dc:title>
+ <dc:creator>Paschos, Alexandros E.</dc:creator>
+ <dc:creator>Kapinas, Vasileios M.</dc:creator>
+ <dc:creator>Hadjileontiadis, Leontios J.</dc:creator>
+ <dc:creator>Karagiannidis, George K.</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:description>  A novel optimization algorithm, called accelerated particle swarm
+optimization (APSO), is proposed for dynamic spectrum sensing in cognitive
+radio networks. While modified swarm-based optimization algorithms focus on
+slight variations of the standard mathematical formulas, in APSO, the
+acceleration variable of the particles in the swarm is also considered in the
+search space of the optimization problem. We show that the proposed APSO-based
+dynamic spectrum sensing technique is more efficient than existing methods,
+which are entirely based on the original particle swarm optimization algorithm.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the authors due to incomplete
+  comparison of the proposed algorithm with existing algorithms</dc:description>
+ <dc:date>2015-09-19</dc:date>
+ <dc:date>2016-05-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03840</dc:identifier>
+ </oai_dc:dc>
+

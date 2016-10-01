@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>From error bounds to the complexity of first-order descent methods for
+  convex functions</dc:title>
+ <dc:creator>Bolte, J&#233;r&#244;me</dc:creator>
+ <dc:creator>Nguyen, Trong Phong</dc:creator>
+ <dc:creator>Peypouquet, Juan</dc:creator>
+ <dc:creator>Suter, Bruce</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  This paper shows that error bounds can be used as effective tools for
+deriving complexity results for first-order descent methods in convex
+minimization. In a first stage, this objective led us to revisit the interplay
+between error bounds and the Kurdyka-\L ojasiewicz (KL) inequality. One can
+show the equivalence between the two concepts for convex functions having a
+moderately flat profile near the set of minimizers (as those of functions with
+H\"olderian growth). A counterexample shows that the equivalence is no longer
+true for extremely flat functions. This fact reveals the relevance of an
+approach based on KL inequality. In a second stage, we show how KL inequalities
+can in turn be employed to compute new complexity bounds for a wealth of
+descent methods for convex problems. Our approach is completely original and
+makes use of a one-dimensional worst-case proximal sequence in the spirit of
+the famous majorant method of Kantorovich. Our result applies to a very simple
+abstract scheme that covers a wide class of descent methods. As a byproduct of
+our study, we also provide new results for the globalization of KL inequalities
+in the convex framework.
+  Our main results inaugurate a simple methodology: derive an error bound,
+compute the desingularizing function whenever possible, identify essential
+constants in the descent method and finally compute the complexity using the
+one-dimensional worst case proximal sequence. Our method is illustrated through
+projection methods for feasibility problems, and through the famous iterative
+shrinkage thresholding algorithm (ISTA), for which we show that the complexity
+bound is of the form $O(q^{k})$ where the constituents of the bound only depend
+on error bound constants obtained for an arbitrary least squares objective with
+$\ell^1$ regularization.
+</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08234</dc:identifier>
+ </oai_dc:dc>
+

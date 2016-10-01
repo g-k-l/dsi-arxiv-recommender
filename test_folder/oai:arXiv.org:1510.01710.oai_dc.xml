@@ -1,0 +1,18 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Well-posedness and scattering for the mass-energy NLS on
+  $\mathbf{R}^n\times \mathcal M^k$</dc:title>
+ <dc:creator>Tarulli, Mirko</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:description>  We study the nonlinear Schr\"odinger equation posed on product spaces
+$\mathbf R^n\times \mathcal M^k$, for $n\geq 1$ and $k\geq1$, with $\mathcal
+M^k$ any $k$-dimensional compact Riemaniann manifold. The main results concern
+global well-posedness and scattering for small data solutions in non-isotropic
+Sobolev fractional spaces. In the particular case of $k=2$, $H^1$-scattering is
+also obtained.
+</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-03-31</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01710</dc:identifier>
+ </oai_dc:dc>
+

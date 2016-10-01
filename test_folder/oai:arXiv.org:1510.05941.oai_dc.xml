@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Cooperation, competition and the emergence of criticality in communities
+  of adaptive systems</dc:title>
+ <dc:creator>Hidalgo, Jorge</dc:creator>
+ <dc:creator>Grilli, Jacopo</dc:creator>
+ <dc:creator>Suweis, Samir</dc:creator>
+ <dc:creator>Maritan, Amos</dc:creator>
+ <dc:creator>Munoz, Miguel A.</dc:creator>
+ <dc:subject>Quantitative Biology - Populations and Evolution</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  The hypothesis that living systems can benefit from operating at the vicinity
+of critical points has gained momentum in recent years. Criticality may confer
+an optimal balance between exceedingly ordered and too noisy states. We here
+present a model, based on information theory and statistical mechanics,
+illustrating how and why a community of agents aimed at understanding and
+communicating with each other converges to a globally coherent state in which
+all individuals are close to an internal critical state, i.e. at the borderline
+between order and disorder. We study --both analytically and computationally--
+the circumstances under which criticality is the best possible outcome of the
+dynamical process, confirming the convergence to critical points under very
+generic conditions. Finally, we analyze the effect of cooperation (agents try
+to enhance not only their fitness, but also that of other individuals) and
+competition (agents try to improve their own fitness and to diminish those of
+competitors) within our setting. The conclusion is that, while competition
+fosters criticality, cooperation hinders it and can lead to more ordered or
+more disordered consensual solutions.
+</dc:description>
+ <dc:description>Comment: 20 pages, 5 figures. Supplementary Material: 8 pages</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2016-03-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05941</dc:identifier>
+ <dc:identifier>J. Stat. Mech. (2016) 033203</dc:identifier>
+ <dc:identifier>doi:10.1088/1742-5468/2016/03/033203</dc:identifier>
+ </oai_dc:dc>
+

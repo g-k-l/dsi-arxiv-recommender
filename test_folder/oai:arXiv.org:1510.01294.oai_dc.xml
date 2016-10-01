@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Numerical approach for unstructured quantum key distribution</dc:title>
+ <dc:creator>Coles, Patrick J.</dc:creator>
+ <dc:creator>Metodiev, Eric M.</dc:creator>
+ <dc:creator>L&#252;tkenhaus, Norbert</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Quantum key distribution (QKD) allows for communication with security
+guaranteed by quantum theory. The main theoretical problem in QKD is to
+calculate the secret key rate for a given protocol. Analytical formulas are
+known for protocols with symmetries, since symmetry simplifies the analysis.
+However, experimental imperfections break symmetries, hence the effect of
+imperfections on key rates is difficult to estimate. Furthermore, it is an
+interesting question whether (intentionally) asymmetric protocols could
+outperform symmetric ones. Here, we develop a robust numerical approach for
+calculating the key rate for arbitrary discrete-variable QKD protocols.
+Ultimately this will allow researchers to study "unstructured" protocols, that
+is, those that lack symmetry. Our approach relies on transforming the key rate
+calculation to the dual optimization problem, which dramatically reduces the
+number of parameters and hence the calculation time. We illustrate our method
+by investigating some unstructured protocols for which the key rate was
+previously unknown.
+</dc:description>
+ <dc:description>Comment: 11 + 12 pages, 6 figures, added framework for MDI QKD and decoy state
+  QKD</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-05-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01294</dc:identifier>
+ <dc:identifier>Nature Communications 7, 11712 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/ncomms11712</dc:identifier>
+ </oai_dc:dc>
+

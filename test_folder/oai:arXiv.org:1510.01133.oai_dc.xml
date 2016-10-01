@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A New Method for Compensation and Rematch of Cavity Failure in C-ADS
+  Linac</dc:title>
+ <dc:creator>Xue, Zhou</dc:creator>
+ <dc:creator>Dai, JianPing</dc:creator>
+ <dc:creator>Meng, Cai</dc:creator>
+ <dc:subject>Physics - Accelerator Physics</dc:subject>
+ <dc:description>  For proton linear accelerators used in applications such as
+accelerator-driven systems, due to the nature of the operation, it is essential
+for the beam failure rate to be several orders of magnitude lower than usual
+performance of similar accelerators. A fault-tolerant mechanism should be
+mandatorily imposed in order to maintain short recovery time, high uptime and
+extremely low frequency of beam loss. This paper proposes an innovative and
+challenging way for compensation and rematch of cavity failure using fast
+electronic devices and Field Programmable Gate Arrays (FPGAs) instead of
+embedded computers to complete the computation of beam dynamics. A method of
+building an equivalent model for the FPGA, with optimization using a genetic
+algorithm, is shown. Results based on the model and algorithm are compared with
+TRACEWIN simulation to show the precision and correctness of the mechanism.
+</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-01-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01133</dc:identifier>
+ <dc:identifier>doi:10.1088/1674-1137/40/6/067003</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spin Flips - II. Evolution of dark matter halo spin orientation, and its
+  correlation with major mergers</dc:title>
+ <dc:creator>Bett, Philip E.</dc:creator>
+ <dc:creator>Frenk, Carlos S.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  We expand our previous study on the relationship between changes in the
+orientation of the angular momentum vector of dark matter haloes ("spin flips")
+and changes in their mass (Bett &amp; Frenk 2012), to cover the full range of halo
+masses in a simulation cube of length 100 $h^{-1}$ Mpc. Since strong
+disturbances to a halo (such as might be indicated by a large change in the
+spin direction) are likely also to disturb the galaxy evolving within, spin
+flips could be a mechanism for galaxy morphological transformation without
+involving major mergers. We find that 35% of haloes have, at some point in
+their lifetimes, had a spin flip of at least $45\deg$ that does not coincide
+with a major merger. Over 75% of large spin flips coincide with non-major
+mergers; only a quarter coincide with major mergers. We find a similar picture
+for changes to the inner-halo spin orientation, although here there is an
+increased likelihood of a flip occurring. Changes in halo angular momentum
+orientation, and other such measures of halo perturbation, are therefore very
+important quantities to consider, in addition to halo mergers, when modelling
+the formation and evolution of galaxies and confronting such models with
+observations.
+</dc:description>
+ <dc:description>Comment: 19 pages, 26 figures. Updated to match version accepted for
+  publication in MNRAS</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-06-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01711</dc:identifier>
+ <dc:identifier>MNRAS 2016, volume 461, p1338-1355</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1395</dc:identifier>
+ </oai_dc:dc>
+

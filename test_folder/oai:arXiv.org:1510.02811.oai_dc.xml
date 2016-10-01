@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Positioning Nuclear Spins in Interacting Clusters for Quantum
+  Technologies and Bio-imaging</dc:title>
+ <dc:creator>Wang, Zhen-Yu</dc:creator>
+ <dc:creator>Haase, Jan F.</dc:creator>
+ <dc:creator>Casanova, Jorge</dc:creator>
+ <dc:creator>Plenio, Martin B.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We propose a method to measure the hyperfine vectors between a
+nitrogen-vacancy (NV) center and an environment of interacting nuclear spins.
+Our protocol enables the generation of tunable electron-nuclear coupling
+Hamiltonians while suppressing unwanted inter-nuclear interactions. In this
+manner, each nucleus can be addressed and controlled individually thereby
+permitting the reconstruction of the individual hyperfine vectors. With this
+ability the 3D-structure of spin ensembles and spins in bio-molecules can be
+identified without the necessity of varying the direction of applied magnetic
+fields. We demonstrate examples including the complete reconstruction of an
+interacting spin cluster in diamond and 3D imaging of all the nuclear spins in
+a bio-molecule.
+</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02811</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 174104 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.174104</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On peculiarities of superconductivity in the single-layer FeSe/SrTiO3
+  interfa</dc:title>
+ <dc:creator>Gor'kov, Lev P.</dc:creator>
+ <dc:subject>Condensed Matter - Superconductivity</dc:subject>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Observation of replica bands in the ARPES spectra of the single-layer FeSe on
+strontium titanate substrate revealed a phonon component among mechanisms
+behind high Tc superconductivity there. We study the interaction of the
+in-layer FeSe electrons with the electric potential of the longitudinal (LO)
+modes at surface of bulk SrTiO3. A two-dimensional system of charges at the
+FeSe/SrTiO3 interface includes both the itinerant and immobile electrons. The
+latter significantly change the interface characteristics, increasing screening
+at the substrate surface and reducing thereby the strength of the electron-LO
+phonon interactions. In that follows the dielectric constant serves as a free
+parameter and is found from the ARPES data for the replicas. The
+two-dimensional Coulomb screening is accounted for in the random phase
+approximation. It is shown that the model is applicable within the whole range
+of the parameters typical for current experiments. The estimates allow
+concluding that the LO-phonon mediated pairing alone cannot account for the
+temperatures of the superconducting transition Tc in the single-layer
+FeSe/SrTiO3 reported in these experiments. This does not exclude that the
+LO-phonons mechanism can become more significant in the differently and better
+prepared single layer FeSe films. Available experiments are briefly discussed.
+Thus far no data exist on the dependence of Tc on the concentration of
+electrons doped into the in-layer FeSe band.
+</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2015-12-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03327</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 060507 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.060507</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Conforming the measured lifetimes of the $5d \ ^2D_{3/2,5/2}$ states in
+  Cs with theory</dc:title>
+ <dc:creator>Sahoo, B. K.</dc:creator>
+ <dc:subject>Physics - Atomic Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We find very good agreement between our theoretically evaluated lifetimes of
+the $5d \ ^2D_{3/2}$ and $5d \ ^2D_{5/2}$ states of Cs with the experimental
+values reported in [Phys. Rev. A {\bf 57}, 4204 (1998)], which were earlier
+evinced to be disagreeing with an earlier rigorous theoretical study [Phys.
+Rev. A {\bf 69}, 040501(R) (2004)] and with another precise measurement [Opt.
+Lett. {\bf 21}, 74 (1996)]. In this work, we have carried out calculations of
+the radiative transition matrix elements using many variants of relativistic
+many-body methods, mainly in the coupled-cluster theory framework, and analyze
+propagation of the electron correlation effects to elucidate their roles for
+accurate evaluations of the matrix elements. We also demonstrate contributions
+explicitly from the Dirac-Coulomb interactions, frequency independent Breit
+interaction and lower order quantum electrodynamics (QED) effects.
+Uncertainties to these matrix elements due to different possible sources of
+errors are estimated. By combining our calculated radiative matrix elements
+with the experimental values of the transition wavelengths, we obtain the
+transition probabilities due to both the allowed and lower order forbidden
+channels. Adding these quantities together, the lifetimes of the above two
+states are determined precisely and plausible reasons for the reported
+inconsistencies between the earlier theoretical calculations and the
+experimental results have been pointed out.
+</dc:description>
+ <dc:description>Comment: 11 pages, 5 tables</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08351</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.022503</dc:identifier>
+ </oai_dc:dc>
+

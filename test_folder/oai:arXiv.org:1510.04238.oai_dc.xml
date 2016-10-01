@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dynamical spectral unmixing of multitemporal hyperspectral images</dc:title>
+ <dc:creator>Henrot, Simon</dc:creator>
+ <dc:creator>Chanussot, Jocelyn</dc:creator>
+ <dc:creator>Jutten, Christian</dc:creator>
+ <dc:subject>Computer Science - Computer Vision and Pattern Recognition</dc:subject>
+ <dc:description>  In this paper, we consider the problem of unmixing a time series of
+hyperspectral images. We propose a dynamical model based on linear mixing
+processes at each time instant. The spectral signatures and fractional
+abundances of the pure materials in the scene are seen as latent variables, and
+assumed to follow a general dynamical structure. Based on a simplified version
+of this model, we derive an efficient spectral unmixing algorithm to estimate
+the latent variables by performing alternating minimizations. The performance
+of the proposed approach is demonstrated on synthetic and real multitemporal
+hyperspectral images.
+</dc:description>
+ <dc:description>Comment: 13 pages, 10 figures</dc:description>
+ <dc:date>2015-10-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04238</dc:identifier>
+ <dc:identifier>doi:10.1109/TIP.2016.2562562</dc:identifier>
+ </oai_dc:dc>
+

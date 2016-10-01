@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Methodology for bus layout for topological quantum error correcting
+  codes</dc:title>
+ <dc:creator>Wosnitzka, Martin</dc:creator>
+ <dc:creator>Pedrocchi, Fabio L.</dc:creator>
+ <dc:creator>DiVincenzo, David P.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Most quantum computing architectures can be realized as two-dimensional
+lattices of qubits that interact with each other. We take transmon qubits and
+transmission line resonators as promising candidates for qubits and couplers;
+we use them as basic building elements of a quantum code. We then propose a
+simple framework to determine the optimal experimental layout to realize
+quantum codes. We show that this engineering optimization problem can be
+reduced to the solution of standard binary linear programs. While solving such
+programs is a NP-hard problem, we propose a way to find scalable optimal
+architectures that require solving the linear program for a restricted number
+of qubits and couplers. We apply our methods to two celebrated quantum codes,
+namely the surface code and the Fibonacci code.
+</dc:description>
+ <dc:description>Comment: 11 pages, 12 figures</dc:description>
+ <dc:date>2015-10-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03064</dc:identifier>
+ <dc:identifier>EPJ Quantum Technology (2016) 3:4</dc:identifier>
+ <dc:identifier>doi:10.1140/epjqt/s40507-016-0042-8</dc:identifier>
+ </oai_dc:dc>
+

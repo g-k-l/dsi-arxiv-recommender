@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Phase diagram of quantum critical system via local convertibility of
+  ground state</dc:title>
+ <dc:creator>Liu, Si-Yuan</dc:creator>
+ <dc:creator>Quan, Quan</dc:creator>
+ <dc:creator>Chen, Jin-Jun</dc:creator>
+ <dc:creator>Zhang, Yu-Ran</dc:creator>
+ <dc:creator>Yang, Wen-Li</dc:creator>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We investigate the relationship between two kinds of ground-state local
+convertibility and quantum phase transitions in XY model. The local operations
+and classical communications (LOCC) convertibility is examined by the
+majorization relations and the entanglement-assisted local operations and
+classical communications (E- LOCC) via Renyi entropy interception. In the phase
+diagram of XY model, LOCC convertibility and ELOCC convertibility of
+ground-states are presented and compared. It is shown that different phases in
+the phase dia- gram of XY model can have different LOCC or ELOCC
+convertibility, which can be used to detect the quantum phase transition. This
+study will enlighten extensive studies of quantum phase transitions from the
+perspective of local convertibility, e.g., finite-temperature phase transitions
+and other quantum many-body models.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-24</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07115</dc:identifier>
+ <dc:identifier>Sci. Rep. 6,29175 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1038/srep29175</dc:identifier>
+ </oai_dc:dc>
+

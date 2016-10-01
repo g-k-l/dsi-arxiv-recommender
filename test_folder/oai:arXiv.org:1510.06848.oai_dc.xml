@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Final Masses of Giant Planets II: Jupiter Formation in a Gas-Depleted
+  Disk</dc:title>
+ <dc:creator>Tanigawa, Takayuki</dc:creator>
+ <dc:creator>Tanaka, Hidekazu</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  Firstly, we study the final masses of giant planets growing in protoplanetary
+disks through capture of disk gas, by employing an empirical formula for the
+gas capture rate and a shallow disk gap model, which are both based on
+hydrodynamical simulations. The shallow disk gaps cannot terminate growth of
+giant planets. For planets less massive than 10 Jupiter masses, their growth
+rates are mainly controlled by the gas supply through the global disk
+accretion, rather than their gaps. The insufficient gas supply compared with
+the rapid gas capture causes a depletion of the gas surface density even at the
+outside of the gap, which can create an inner hole in the protoplanetary disk.
+Our model can also predict the depleted gas surface density in the inner hole
+for a given planet mass. Secondly, our findings are applied to the formation of
+our solar system. For the formation of Jupiter, a very low-mass gas disk with a
+few or several Jupiter masses is required at the beginning of its gas capture
+because of the non-stopping capture. Such a low-mass gas disk with sufficient
+solid material can be formed through viscous evolution from an initially
+$\sim$10AU-sized compact disk with the solar composition. By the viscous
+evolution with a moderate viscosity of $\alpha \sim 10^{-3}$, most of disk gas
+accretes onto the sun and a widely spread low-mass gas disk remains when the
+solid core of Jupiter starts gas capture at $t \sim 10^7$ yrs. The depletion of
+the disk gas is suitable for explaining the high metallicity in giant planets
+of our solar system. A very low-mass gas disk also provides a plausible path
+where type I and II planetary migrations are both suppressed significantly. In
+particular, we also show that the type II migration of Jupiter-size planets
+becomes inefficient because of the additional gas depletion due to the rapid
+gas capture by themselves.
+</dc:description>
+ <dc:description>Comment: 36 pages, 10 figures, submitted to ApJ</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06848</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/823/1/48</dc:identifier>
+ </oai_dc:dc>
+

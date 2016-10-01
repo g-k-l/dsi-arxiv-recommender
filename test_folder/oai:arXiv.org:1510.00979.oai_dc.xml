@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Spinon walk in quantum spin ice</dc:title>
+ <dc:creator>Wan, Yuan</dc:creator>
+ <dc:creator>Carrasquilla, Juan</dc:creator>
+ <dc:creator>Melko, Roger G.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We study a minimal model for the dynamics of spinons in quantum spin ice. The
+model captures the essential strong coupling between the spinon and the
+disordered background spins. We demonstrate that the spinon motion can be
+mapped to a random walk with an entropy-induced memory in imaginary time. Our
+numerical simulation of the spinon walk indicates that the spinon propagates as
+a massive quasiparticle at low energy despite its strong coupling to the spin
+background at the microscopic energy scale. We discuss the experimental
+implications of our findings.
+</dc:description>
+ <dc:description>Comment: 12 pages, 10 figures</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-04-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00979</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 167202 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.167202</dc:identifier>
+ </oai_dc:dc>
+

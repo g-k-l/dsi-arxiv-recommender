@@ -1,0 +1,52 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Near optimal single photon sources in the solid state</dc:title>
+ <dc:creator>Somaschi, N.</dc:creator>
+ <dc:creator>Giesz, V.</dc:creator>
+ <dc:creator>De Santis, L.</dc:creator>
+ <dc:creator>Loredo, J. C.</dc:creator>
+ <dc:creator>Almeida, M. P.</dc:creator>
+ <dc:creator>Hornecker, G.</dc:creator>
+ <dc:creator>Portalupi, S. L.</dc:creator>
+ <dc:creator>Grange, T.</dc:creator>
+ <dc:creator>Anton, C.</dc:creator>
+ <dc:creator>Demory, J.</dc:creator>
+ <dc:creator>Gomez, C.</dc:creator>
+ <dc:creator>Sagnes, I.</dc:creator>
+ <dc:creator>Kimura, N. D. Lanzillotti</dc:creator>
+ <dc:creator>Lemaitre, A.</dc:creator>
+ <dc:creator>Auffeves, A.</dc:creator>
+ <dc:creator>White, A. G.</dc:creator>
+ <dc:creator>Lanco, L.</dc:creator>
+ <dc:creator>Senellart, P.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Single-photons are key elements of many future quantum technologies, be it
+for the realisation of large-scale quantum communication networks for quantum
+simulation of chemical and physical processes or for connecting quantum
+memories in a quantum computer. Scaling quantum technologies will thus require
+efficient, on-demand, sources of highly indistinguishable single-photons.
+Semiconductor quantum dots inserted in photonic structures are ultrabright
+single photon sources, but the photon indistinguishability is limited by charge
+noise induced by nearby surfaces. The current state of the art for
+indistinguishability are parametric down conversion single-photon sources, but
+they intrinsically generate multiphoton events and hence must be operated at
+very low brightness to maintain high single photon purity. To date, no
+technology has proven to be capable of providing a source that simultaneously
+generates near-unity indistinguishability and pure single photons with high
+brightness. Here, we report on such devices made of quantum dots in
+electrically controlled cavity structures. We demonstrate on-demand, bright and
+ultra-pure single photon generation. Application of an electrical bias on
+deterministically fabricated devices is shown to fully cancel charge noise
+effects. Under resonant excitation, an indistinguishability of
+$0.9956\pm0.0045$ is evidenced with a $g^{2}(0)=0.0028\pm0.0012$. The photon
+extraction of $65%$ and measured brightness of $0.154\pm0.015$ make this source
+$20$ times brighter than any source of equal quality. This new generation of
+sources open the way to a new level of complexity and scalability in optical
+quantum manipulation.
+</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06499</dc:identifier>
+ <dc:identifier>doi:10.1038/nphoton.2016.23</dc:identifier>
+ </oai_dc:dc>
+

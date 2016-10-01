@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Multilocal-realistic nonlinear dynamics of quantum collapse</dc:title>
+ <dc:creator>Geszti, Tam&#225;s</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  A minimally nonlinear von Neumann equation for a Stern-Gerlach or Bell-type
+measuring apparatus, having a scalar product structure over the configuration
+space, i.e. a sum of locally acting terms, is shown to display a competition
+for survival between diagonal density matrix elements assigned to each detector
+combination, with a single winner randomly selected according to Born's rule
+and the rest collapsing to zero. Randomness is emerging from
+deterministic-chaotic dynamics of the detectors, their microscopic states
+acting as a nonlocal set of hidden parameters, controlling individual outcomes.
+The scheme works without any kind of action-at-a-distance; still it is fully
+reproducing quantum behavior, which warrants it is non-signaling.
+</dc:description>
+ <dc:description>Comment: latest amendments: criticism of "telegraphs" added; "locally pure"
+  initial state elaborated</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-03-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06160</dc:identifier>
+ </oai_dc:dc>
+

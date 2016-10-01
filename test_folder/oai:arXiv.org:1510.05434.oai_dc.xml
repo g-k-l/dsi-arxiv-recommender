@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Patterns in Inversion Sequences I</dc:title>
+ <dc:creator>Corteel, Sylvie</dc:creator>
+ <dc:creator>Martinez, Megan A.</dc:creator>
+ <dc:creator>Savage, Carla D.</dc:creator>
+ <dc:creator>Weselcouch, Michael</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:subject>05A05, 05A19</dc:subject>
+ <dc:description>  Permutations that avoid given patterns have been studied in great depth for
+their connections to other fields of mathematics, computer science, and
+biology. From a combinatorial perspective, permutation patterns have served as
+a unifying interpretation that relates a vast array of combinatorial
+structures. In this paper, we introduce the notion of patterns in inversion
+sequences. A sequence $(e_1,e_2,\ldots,e_n)$ is an inversion sequence if $0
+\leq e_i&lt;i$ for all $i \in [n]$. Inversion sequences of length $n$ are in
+bijection with permutations of length $n$; an inversion sequence can be
+obtained from any permutation $\pi=\pi_1\pi_2\ldots \pi_n$ by setting $e_i =
+|\{j \ | \ j &lt; i \ {\rm and} \ \pi_j &gt; \pi_i \}|$. This correspondence makes it
+a natural extension to study patterns in inversion sequences much in the same
+way that patterns have been studied in permutations. This paper, the first of
+two on patterns in inversion sequences, focuses on the enumeration of inversion
+sequences that avoid words of length three. Our results connect patterns in
+inversion sequences to a number of well-known numerical sequences including
+Fibonacci numbers, Bell numbers, Schr\"oder numbers, and Euler up/down numbers.
+</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-03-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05434</dc:identifier>
+ <dc:identifier>Discrete Mathematics &amp; Theoretical Computer Science, vol. 18 no.
+  2, Permutation Patterns 2015, Permutation Patterns 2015 (March 31, 2016)
+  dmtcs:1421</dc:identifier>
+ </oai_dc:dc>
+

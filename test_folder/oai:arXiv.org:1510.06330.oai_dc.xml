@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Geometrization of Quantum Mechanics</dc:title>
+ <dc:creator>Tavernelli, Ivano</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Nonrelativistic quantum mechanics is commonly formulated in terms of
+wavefunctions (probability amplitudes) obeying the static and the
+time-dependent Schroedinger equations (SE). Despite the success of this
+representation of the quantum world a wave-particle duality concept is required
+to reconcile the theory with observations (experimental measurements). A first
+solution to this dichotomy was introduced in the de Broglie-Bohm theory
+according to which a pilot wave (solution of the SE) is guiding the evolution
+of particle trajectories. Here, I propose a geometrization of quantum mechanics
+that describes the time evolution of particles as geodesic lines in a curved
+space, whose curvature is induced by the quantum potential. This formulation
+allows therefore the incorporation of all quantum effects into the geometry of
+space-time, as it is the case for gravitation in the general relativity.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06330</dc:identifier>
+ <dc:identifier>doi:10.1016/j.aop.2016.04.020</dc:identifier>
+ </oai_dc:dc>
+

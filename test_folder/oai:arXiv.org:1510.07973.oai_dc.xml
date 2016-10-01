@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Fuzzy-Stochastic Multiscale Model for Fiber Composites: A
+  one-dimensional study</dc:title>
+ <dc:creator>Babuska, Ivo</dc:creator>
+ <dc:creator>Motamed, Mohammad</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>Condensed Matter - Materials Science</dc:subject>
+ <dc:description>  We study mathematical and computational models for computing the deformation
+of fiber-reinforced cross-plied laminates due to external forces. This requires
+an understanding of both micro-structural effects and different sources of
+uncertainty in the problem. We first show that the uncertainties in the problem
+are of both statistical (aleatoric) and systematic (epistemic) types and that
+current multiscale stochastic models, such as stationary random fields, which
+are based on precise probability theory, are not capable of correctly
+characterizing uncertainty in fiber composites. Next, we motivate the
+applicability of models based on imprecise uncertainty theory and present a
+novel fuzzy-stochastic model, which can more accurately describe uncertainties
+in fiber composites. The new model is constructed by combining stochastic
+fields and fuzzy variables through a simple calibration-validation approach.
+Finally, we construct a global-local multiscale algorithm for efficiently
+computing output quantities of interest. The method aims at approximating
+required quantities, such as displacements and stresses, in regions of
+relatively small size, e.g. hot spots or zones. The algorithm uses the concept
+of representative volume elements and computes a global solution to construct a
+local approximation that captures the microscale features of the solution. The
+results are based on and backed by real experimental data.
+</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07973</dc:identifier>
+ <dc:identifier>doi:10.1016/j.cma.2015.12.016</dc:identifier>
+ </oai_dc:dc>
+

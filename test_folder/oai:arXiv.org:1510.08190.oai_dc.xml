@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Asymptotics for minimal overlapping patterns for generalized Euler
+  permutations, standard tableaux of rectangular shape, and column strict
+  arrays</dc:title>
+ <dc:creator>Pan, Ran</dc:creator>
+ <dc:creator>Remmel, Jeffrey B.</dc:creator>
+ <dc:subject>Mathematics - Combinatorics</dc:subject>
+ <dc:description>  A permutation $\tau$ in the symmetric group $S_j$ is minimally overlapping if
+any two consecutive occurrences of $\tau$ in a permutation $\sigma$ can share
+at most one element. B\'ona \cite{B} showed that the proportion of minimal
+overlapping patterns in $S_j$ is at least $3 -e$. Given a permutation $\sigma$,
+we let $\text{Des}(\sigma)$ denote the set of descents of $\sigma$. We study
+the class of permutations $\sigma \in S_{kn}$ whose descent set is contained in
+the set $\{k,2k, \ldots (n-1)k\}$. For example, up-down permutations in
+$S_{2n}$ are the set of permutations whose descent equal $\sigma$ such that
+$\text{Des}(\sigma) = \{2,4, \ldots, 2n-2\}$. There are natural analogues of
+the minimal overlapping permutations for such classes of permutations and we
+study the proportion of minimal overlapping patterns for each such class. We
+show that the proportion of minimal overlapping permutations in such classes
+approaches $1$ as $k$ goes to infinity. We also study the proportion of minimal
+overlapping patterns in standard Young tableaux of shape $(n^k)$.
+</dc:description>
+ <dc:description>Comment: Accepted by Discrete Math and Theoretical Computer Science. Thank
+  referees' for their suggestions</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-05-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08190</dc:identifier>
+ <dc:identifier>Discrete Mathematics &amp; Theoretical Computer Science, vol. 18 no.
+  2, Permutation Patterns 2015, Permutation Patterns 2015 (May 20, 2016)
+  dmtcs:1490</dc:identifier>
+ </oai_dc:dc>
+

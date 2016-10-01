@@ -1,0 +1,47 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>ALMA unveils a triple merger and gas exchange in a hyper-luminous radio
+  galaxy at z=2: the Dragonfly Galaxy (II)</dc:title>
+ <dc:creator>Emonts, B. H. C.</dc:creator>
+ <dc:creator>De Breuck, C.</dc:creator>
+ <dc:creator>Lehnert, M. D.</dc:creator>
+ <dc:creator>Vernet, J.</dc:creator>
+ <dc:creator>Gullberg, B.</dc:creator>
+ <dc:creator>Villar-Mart&#237;n, M.</dc:creator>
+ <dc:creator>Nesvadba, N.</dc:creator>
+ <dc:creator>Drouart, G.</dc:creator>
+ <dc:creator>Ivison, R.</dc:creator>
+ <dc:creator>Seymour, N.</dc:creator>
+ <dc:creator>Wylezalek, D.</dc:creator>
+ <dc:creator>Barthel, P.</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  The Dragonfly Galaxy (MRC0152-209), at redshift z~2, is one of the most
+vigorously star-forming radio galaxies in the Universe. What triggered its
+activity? We present ALMA Cycle 2 observations of cold molecular CO(6-5) gas
+and dust, which reveal that this is likely a gas-rich triple merger. It
+consists of a close double nucleus (separation ~4 kpc) and a weak CO-emitter at
+~10 kpc distance, all of which have counterparts in HST/NICMOS imagery. The
+hyper-luminous starburst and powerful radio-AGN were triggered at this
+precoalescent stage of the merger. The CO(6-5) traces dense molecular gas in
+the central region, and complements existing CO(1-0) data, which revealed more
+widespread tidal debris of cold gas. We also find ~10$^{10}$ M(sun) of
+molecular gas with enhanced excitation at the highest velocities. At least
+20-50% of this high-excitation, high-velocity gas shows kinematics that
+suggests it is being displaced and redistributed within the merger, although
+with line-of-sight velocities of |v| &lt; 500 km/s, this gas will probably not
+escape the system. The processes that drive the redistribution of cold gas are
+likely related to either the gravitational interaction between two kpc-scale
+discs, or starburst/AGN-driven outflows. We estimate that the rate at which the
+molecular gas is redistributed is at least ~1200 +- 500 M(sun)/yr, and could
+perhaps even approach the star formation rate of ~3000 +- 800 M(sun)/yr. The
+fact that the gas depletion and gas redistribution timescales are similar
+implies that dynamical processes can be important in the evolution of massive
+high-z galaxies.
+</dc:description>
+ <dc:description>Comment: Accepted for publication in A&amp;A (6 pages, 5 figures)</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02381</dc:identifier>
+ <dc:identifier>A&amp;A 584, A99 (2015)</dc:identifier>
+ <dc:identifier>doi:10.1051/0004-6361/201526090</dc:identifier>
+ </oai_dc:dc>
+

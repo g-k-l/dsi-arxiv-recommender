@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Local Perspective on Community Structure in Multilayer Networks</dc:title>
+ <dc:creator>Jeub, Lucas G. S.</dc:creator>
+ <dc:creator>Mahoney, Michael W.</dc:creator>
+ <dc:creator>Mucha, Peter J.</dc:creator>
+ <dc:creator>Porter, Mason A.</dc:creator>
+ <dc:subject>Computer Science - Social and Information Networks</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>Nonlinear Sciences - Adaptation and Self-Organizing Systems</dc:subject>
+ <dc:subject>Physics - Data Analysis, Statistics and Probability</dc:subject>
+ <dc:subject>Physics - Physics and Society</dc:subject>
+ <dc:description>  The analysis of multilayer networks is among the most active areas of network
+science, and there are now several methods to detect dense "communities" of
+nodes in multilayer networks. One way to define a community is as a set of
+nodes that trap a diffusion-like dynamical process (usually a random walk) for
+a long time. In this view, communities are sets of nodes that create
+bottlenecks to the spreading of a dynamical process on a network. We analyze
+the local behavior of different random walks on multiplex networks (which are
+multilayer networks in which different layers correspond to different types of
+edges) and show that they have very different bottlenecks that hence correspond
+to rather different notions of what it means for a set of nodes to be a good
+community. This has direct implications for the behavior of community-detection
+methods that are based on these random walks.
+</dc:description>
+ <dc:description>Comment: 20 pages, 5 figures (some with multiple parts)</dc:description>
+ <dc:date>2015-10-17</dc:date>
+ <dc:date>2016-05-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05185</dc:identifier>
+ </oai_dc:dc>
+

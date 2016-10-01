@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Bell-type Inequalities for Arbitrary Non-Cyclic Networks</dc:title>
+ <dc:creator>Tavakoli, Armin</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Bell inequalities bound the strength of classical correlations between
+observers measuring on a shared physical system. However, studies of physical
+correlations can be considered beyond the standard Bell scenario by networks of
+observers sharing some configuration of many independent physical systems.
+Here, we show how to construct Bell-type inequalities for correlations arising
+in any tree-structured network i.e. networks without cycles. This is achieved
+by an iteration procedure that in each step allows one to add a branch to the
+tree-structured network and construct a corresponding Bell-type inequality. We
+explore our inequalities in several examples, in all of which we demonstrate
+strong violations from quantum theory.
+</dc:description>
+ <dc:description>Comment: Updated version</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:date>2016-02-16</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05977</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 030101 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.030101</dc:identifier>
+ </oai_dc:dc>
+

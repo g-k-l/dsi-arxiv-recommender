@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Influence of Ion Streaming Instabilities on Transport Near Plasma
+  Boundaries</dc:title>
+ <dc:creator>Baalrud, Scott D.</dc:creator>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  Plasma boundary layers are susceptible to electrostatic instabilities driven
+by ion flows in presheaths and, when present, these instabilities can influence
+transport. In plasmas with a single species of positive ion, ion-acoustic
+instabilities are expected under conditions of low pressure and large
+electron-to-ion temperature ratio ($T_e/T_i \gg 1$). In plasmas with two
+species of positive ions, ion-ion two-stream instabilities can also be excited.
+The stability phase-space is characterized using the Penrose criterion and
+approximate linear dispersion relations. Predictions for how these
+instabilities affect ion and electron transport in presheaths, including rapid
+thermalization due to instability-enhanced collisions and an
+instability-enhanced ion-ion friction force, are also briefly reviewed. Recent
+experimental tests of these predictions are discussed along with research needs
+required for further validation. The calculated stability boundaries provide a
+guide to determine the experimental conditions at which these effects can be
+expected.
+</dc:description>
+ <dc:description>Comment: 18 pages, 10 figures, International Conference on Phenomena in
+  Ionized Gases 2015</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00991</dc:identifier>
+ <dc:identifier>doi:10.1088/0963-0252/25/2/025008</dc:identifier>
+ </oai_dc:dc>
+

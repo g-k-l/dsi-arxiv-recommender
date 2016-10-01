@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Reconstruction and classification of tau lepton decays with ILD</dc:title>
+ <dc:creator>Tran, Trong Hieu</dc:creator>
+ <dc:creator>Balagura, Vladislav</dc:creator>
+ <dc:creator>Boudry, Vincent</dc:creator>
+ <dc:creator>Brient, Jean-Claude</dc:creator>
+ <dc:creator>Videau, Henri</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  Tau-lepton decays with up to two $\pi^0$'s in the final state, $\tau^+ \to
+\pi^+ \bar{\nu}_\tau$, $\rho^+ (\pi^+\pi^0) \bar{\nu}_\tau$, $a^+_1
+(\pi^+\pi^0\pi^0) \bar{\nu}_\tau$, are used to study the performance of the
+barrel part of the silicon-tungsten electromagnetic calorimeter (Si-W ECAL) of
+the International Large Detector (ILD) at the future $e^+-e^-$ International
+Linear Collider. A correct reconstruction of the tau decay mode is crucial for
+constraining the tau spin state and measuring the Higgs boson CP state in $H\to
+\tau^+\tau^-$ decays. About 95% of $\pi^+ \bar{\nu}_\tau$ and 90% of
+$\rho^+\bar{\nu}_\tau$ and $a^+_1\bar{\nu}_\tau$ decays from $e^+e^-\to Z^0\to
+\tau^+\tau^-$ reaction at $e^\pm$-beam energy of 125 GeV are correctly
+reconstructed. In a smaller ILD detector, with Si-W ECAL radius reduced by
+about 20% these numbers degrade by at most 2%. The $\pi^0$ mass resolution
+stays below 10%. Since the failures in the tau-lepton reconstruction are mainly
+due to photons, the increase of the ILD magnetic field from 3.5 T to 4 T does
+not bring any significant improvement.
+</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2016-03-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05224</dc:identifier>
+ </oai_dc:dc>
+

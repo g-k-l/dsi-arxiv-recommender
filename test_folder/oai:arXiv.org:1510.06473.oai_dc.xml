@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Entropic characterization of coherence in quantum evolutions</dc:title>
+ <dc:creator>Xi, Zhengjun</dc:creator>
+ <dc:creator>Hu, Mingliang</dc:creator>
+ <dc:creator>Li, Yongming</dc:creator>
+ <dc:creator>Fan, Heng</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  By using relative entropy of coherence, we characterize the coherence gain
+induced by some quantum evolutions, including the cohering power of unitary
+operations and the decohering power of quantum operations. We find that the
+cohering power of the controlled unitary operation can be reduced to the
+cohering power of the corresponding unitary operation. We observe that the
+global coherence generated via incoherent operation applied to the system and
+an incoherent ancilla do not exceed the amount of coherence contained in the
+initial system. Our result provides a much tighter lower bound of coherence for
+the initial quantum state, and give an interesting chain of inequalities for
+coherence, quantum correlation and entanglement. We also strengthen the
+relations between quantum correlations and coherence.
+</dc:description>
+ <dc:description>Comment: 6 pages, new title, new section and references added, updated version
+  minor typos corrected. Comments are welcome!</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-07-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06473</dc:identifier>
+ </oai_dc:dc>
+

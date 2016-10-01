@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Controlling superconducting spin flow with spin-flip immunity using a
+  single homogeneous ferromagnet</dc:title>
+ <dc:creator>Jacobsen, Sol</dc:creator>
+ <dc:creator>Kulagina, Iryna</dc:creator>
+ <dc:creator>Linder, Jacob</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  Spin transport via electrons is typically plagued by Joule heating and short
+decay lengths due to spin-flip scattering. It is known that dissipationless
+spin currents can arise when using conventional superconducting contacts, yet
+this has only been experimentally demonstrated when using intricate
+magnetically inhomogeneous multilayers, or in extreme cases such as half-metals
+with interfacial magnetic disorder. Moreover, it is unknown how such spin
+supercurrents decay in the presence of spin-flip scattering. Here, we present a
+method for generating a spin supercurrent by using only a single homogeneous
+magnetic element. Remarkably, the spin supercurrent generated in this way does
+not decay spatially, in stark contrast to normal spin currents that remain
+polarized only up to the spin relaxation length. We also expose the existence
+of a superconductivity-mediated torque even without magnetic inhomogeneities,
+showing that the different components of the spin supercurrent polarization
+respond fundamentally differently to a change in the superconducting phase
+difference. This establishes a mechanism for tuning dissipationless spin and
+charge flow separately, and confirms the advantage that superconductors can
+offer in spintronics.
+</dc:description>
+ <dc:description>Comment: 10 pages, 4 figures. Accepted for publication in Nature Scientific
+  Reports</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-03-17</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02488</dc:identifier>
+ <dc:identifier>Sci. Rep. 6, 23926 (2016)</dc:identifier>
+ </oai_dc:dc>
+

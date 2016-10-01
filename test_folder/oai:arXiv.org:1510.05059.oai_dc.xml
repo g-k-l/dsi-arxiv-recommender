@@ -1,0 +1,36 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Conservation of $\zeta$ with radiative corrections from heavy field</dc:title>
+ <dc:creator>Tanaka, Takahiro</dc:creator>
+ <dc:creator>Urakawa, Yuko</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:description>  In this paper, we address a possible impact of radiative corrections from a
+heavy scalar field $\chi$ on the curvature perturbation $\zeta$. Integrating
+out $\chi$, we derive the effective action for $\zeta$, which includes the loop
+corrections of the heavy field $\chi$. When the mass of $\chi$ is much larger
+than the Hubble scale $H$, the loop corrections of $\chi$ only yield a local
+contribution to the effective action and hence the effective action simply
+gives an action for $\zeta$ in a single field model, where, as is widely known,
+$\zeta$ is conserved in time after the Hubble crossing time. Meanwhile, when
+the mass of $\chi$ is comparable to $H$, the loop corrections of $\chi$ can
+give a non-local contribution to the effective action. Because of the non-local
+contribution from $\chi$, in general, $\zeta$ may not be conserved, even if the
+classical background trajectory is determined only by the evolution of the
+inflaton. In this paper, we derive the condition that $\zeta$ is conserved in
+time in the presence of the radiative corrections from $\chi$. Namely, we show
+that when the scaling symmetry, which is a part of the diffeomorphism
+invariance, is preserved at the quantum level, the loop corrections of the
+massive field $\chi$ do not disturb the constant evolution of $\zeta$ at super
+Hubble scales. In this discussion, we show the Ward-Takahashi identity for the
+scaling symmetry, which yields a consistency relation for the correlation
+functions of the massive field $\chi$.
+</dc:description>
+ <dc:description>Comment: 27 pages, 1 figure; v2: updated references and minor revisions</dc:description>
+ <dc:date>2015-10-16</dc:date>
+ <dc:date>2015-10-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05059</dc:identifier>
+ <dc:identifier>doi:10.1088/1475-7516/2016/06/020</dc:identifier>
+ </oai_dc:dc>
+

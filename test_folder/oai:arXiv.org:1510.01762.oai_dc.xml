@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The interior transmission eigenvalue problem for an inhomogeneous media
+  with a conductive boundary</dc:title>
+ <dc:creator>Bondarenko, Oleksandr</dc:creator>
+ <dc:creator>Harris, Isaac</dc:creator>
+ <dc:creator>Kleefeld, Andreas</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35P25, 35P30, 35J30, 78A46</dc:subject>
+ <dc:description>  In this paper, we investigate the interior transmission eigenvalue problem
+for an inhomogeneous media with conductive boundary conditions. We prove the
+discreteness and existence of the transmission eigenvalues. We also investigate
+the inverse spectral problem of gaining information about the material
+properties from the transmission eigenvalues. In particular, we prove that the
+?rst transmission eigenvalue is a monotonic function of the refractive index
+and boundary conductivity parameter eta, and obtain a uniqueness result for
+constant coefficients. We provide some numerical examples to demonstrate the
+theoretical results in three dimensions
+</dc:description>
+ <dc:date>2015-10-06</dc:date>
+ <dc:date>2016-05-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01762</dc:identifier>
+ </oai_dc:dc>
+

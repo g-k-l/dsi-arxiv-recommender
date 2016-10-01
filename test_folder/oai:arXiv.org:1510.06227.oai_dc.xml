@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Electromagnetic stress at the boundary: photon pressure or tension?</dc:title>
+ <dc:creator>Wang, Shubo</dc:creator>
+ <dc:creator>Ng, Jack</dc:creator>
+ <dc:creator>Xiao, Meng</dc:creator>
+ <dc:creator>Chan, C. T.</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  It is well known that incident photons carrying momentum hk exert a positive
+photon pressure. But if light is impinging from a negative refractive medium in
+which hk is directed towards the source of radiation, should light insert a
+photon "tension" instead of a photon pressure? Using an ab initio method that
+takes the underlying microstructure of a material into account, we find that
+when an electromagnetic wave propagates from one material into another, the
+electromagnetic stress at the boundary is in fact indeterminate if only the
+macroscopic parameters are specified. Light can either pull or push the
+boundary, depending not only on the macroscopic parameters but also on the
+microscopic lattice structure of the polarizable units that constitute the
+medium. Within the context of effective medium approach, the lattice effect is
+attributed to electrostriction and magnetostriction which can be accounted for
+by the Helmholtz stress tensor if we employ the macroscopic fields to calculate
+the boundary optical stress.
+</dc:description>
+ <dc:description>Comment: 32 pages, 8 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06227</dc:identifier>
+ <dc:identifier>Sci. Adv. 2, e1501485 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1126/sciadv.1501485</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Introduction to low-momentum effective interactions with Brown-Rho
+  scaling and three-nucleon forces</dc:title>
+ <dc:creator>Kuo, T. T. S.</dc:creator>
+ <dc:creator>Holt, J. W.</dc:creator>
+ <dc:creator>Osnes, E.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  Model-space effective interactions $V_{eff}$ derived from free-space
+nucleon-nucleon interactions $V_{NN}$ are reviewed. We employ a double
+decimation approach: first we extract a low-momentum interaction $V_{low-k}$
+from $V_{NN}$ using a $T$-matrix equivalence decimation method. Then $V_{eff}$
+is obtained from $V_{low-k}$ by way of a folded-diagram effective interaction
+method. For decimation momentum $\Lambda \simeq 2 fm^{-1}$, the $V_{low-k}$
+interactions derived from different realistic $V_{NN}$ models are nearly model
+independent, and so are the resulting shell-model effective interactions. For
+nucleons in a low-density nuclear medium like valence nucleons near the nuclear
+surface, such effective interactions derived from free-space $V_{NN}$ are
+satisfactory in reproducing experimental nuclear properties. But it is not so
+for nucleons in a nuclear medium with density near or beyond nuclear matter
+saturation density. In this case it may be necessary to include the effects
+from Brown-Rho (BR) scaling of hadrons and/or three-nucleon forces $V_{3N}$,
+effectively changing the free-space $V_{NN}$ into a density-dependent one. The
+density-dependent effects from BR scaling and $V_{3N}$ are compared with those
+from empirical Skyrme effective interactions.
+</dc:description>
+ <dc:description>Comment: 20 pages, 19 figures, Submitted to Physica Scripta Special Edition:
+  Celebrating the 1975 Nobel Prize</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04432</dc:identifier>
+ <dc:identifier>doi:10.1088/0031-8949/91/3/033009</dc:identifier>
+ </oai_dc:dc>
+

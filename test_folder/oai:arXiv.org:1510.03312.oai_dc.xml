@@ -1,0 +1,38 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Critical Scaling of Bagnold Rheology at the Jamming Transition of
+  Frictionless Two Dimensional Disks</dc:title>
+ <dc:creator>Vagberg, Daniel</dc:creator>
+ <dc:creator>Olsson, Peter</dc:creator>
+ <dc:creator>Teitel, S.</dc:creator>
+ <dc:subject>Condensed Matter - Soft Condensed Matter</dc:subject>
+ <dc:subject>Condensed Matter - Disordered Systems and Neural Networks</dc:subject>
+ <dc:description>  We carry out constant volume simulations of steady-state, shear driven,
+rheology in a simple model of bidisperse, soft-core, frictionless disks in two
+dimensions, using a dissipation law that gives rise to Bagnoldian rheology. We
+carry out a detailed critical scaling analysis of our resulting data for
+pressure $p$ and shear stress $\sigma$, in order to determine the critical
+exponent $\beta$ that describes the algebraic divergence of the Bagnold
+transport coefficients, as the jamming transition is approached from below. We
+show that it is necessary, for the strain rates considered in this work, to
+consider the leading correction-to-scaling term in order to achieve a
+self-consistent analysis of our data. Our resulting value $\beta\approx 5.0\pm
+0.4$ is clearly larger than the theoretical prediction by Otsuki and Hayakawa,
+and is consistent with earlier numerical results by Peyneau and Roux, and
+recent theoretical predictions by DeGiuli et al. We have also considered the
+macroscopic friction $\mu\equiv \sigma/p$ and similarly find results consistent
+with Peyneau and Roux, and with DeGiuli et al. Our results confirm that the
+shear driven jamming transition in Bagnoldian systems is well described by a
+critical scaling theory (as was found previously for Newtonian systems), and we
+relate this scaling theory to the phenomenological constituent laws for
+dilatancy and friction.
+</dc:description>
+ <dc:description>Comment: 20 pages, 21 figures; revised manuscript according to published
+  version</dc:description>
+ <dc:date>2015-10-12</dc:date>
+ <dc:date>2016-07-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03312</dc:identifier>
+ <dc:identifier>Phys. Rev. E 93, 052902 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevE.93.052902</dc:identifier>
+ </oai_dc:dc>
+

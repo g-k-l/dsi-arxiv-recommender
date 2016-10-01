@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Zeros of Quasi-Orthogonal Jacobi Polynomials</dc:title>
+ <dc:creator>Driver, Kathy</dc:creator>
+ <dc:creator>Jordaan, Kerstin</dc:creator>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:description>  We consider interlacing properties satisfied by the zeros of Jacobi
+polynomials in quasi-orthogonal sequences characterised by $\alpha&gt;-1$,
+$-2&lt;\beta&lt;-1$. We give necessary and sufficient conditions under which a
+conjecture by Askey, that the zeros of Jacobi polynomials $P_n^{(\alpha,
+\beta)}$ and $P_{n}^{(\alpha,\beta+2)}$ are interlacing, holds when the
+parameters $\alpha$ and $\beta$ are in the range $\alpha&gt;-1$ and $-2&lt;\beta&lt;-1$.
+We prove that the zeros of $P_n^{(\alpha, \beta)}$ and
+$P_{n+1}^{(\alpha,\beta)}$ do not interlace for any $n\in\mathbb{N}$, $n\geq2$
+and any fixed $\alpha$, $\beta$ with $\alpha&gt;-1$, $-2&lt;\beta&lt;-1$. The
+interlacing of zeros of $P_n^{(\alpha,\beta)}$ and $P_m^{(\alpha,\beta+t)}$ for
+$m,n\in\mathbb{N}$ is discussed for $\alpha$ and $\beta$ in this range, $t\geq
+1$, and new upper and lower bounds are derived for the zero of
+$P_n^{(\alpha,\beta)}$ that is less than $-1$.
+</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:date>2016-04-27</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08599</dc:identifier>
+ <dc:identifier>SIGMA 12 (2016), 042, 13 pages</dc:identifier>
+ <dc:identifier>doi:10.3842/SIGMA.2016.042</dc:identifier>
+ </oai_dc:dc>
+

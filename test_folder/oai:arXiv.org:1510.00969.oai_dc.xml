@@ -1,0 +1,48 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Experimentally constrained ($p,\gamma$)$^{89}$Y and ($n,\gamma$)$^{89}$Y
+  reaction rates relevant to the $p$-process nucleosynthesis</dc:title>
+ <dc:creator>Larsen, A. C.</dc:creator>
+ <dc:creator>Guttormsen, M.</dc:creator>
+ <dc:creator>Schwengner, R.</dc:creator>
+ <dc:creator>Bleuel, D. L.</dc:creator>
+ <dc:creator>Goriely, S.</dc:creator>
+ <dc:creator>Harissopulos, S.</dc:creator>
+ <dc:creator>Garrote, F. L. Bello</dc:creator>
+ <dc:creator>Byun, Y.</dc:creator>
+ <dc:creator>Eriksen, T. K.</dc:creator>
+ <dc:creator>Giacoppo, F.</dc:creator>
+ <dc:creator>G&#246;rgen, A.</dc:creator>
+ <dc:creator>Hagen, T. W.</dc:creator>
+ <dc:creator>Klintefjord, M.</dc:creator>
+ <dc:creator>Renstr&#248;m, T.</dc:creator>
+ <dc:creator>Rose, S. J.</dc:creator>
+ <dc:creator>Sahin, E.</dc:creator>
+ <dc:creator>Siem, S.</dc:creator>
+ <dc:creator>Tornyi, T. G.</dc:creator>
+ <dc:creator>Tveten, G. M.</dc:creator>
+ <dc:creator>Voinov, A. V.</dc:creator>
+ <dc:creator>Wiedeking, M.</dc:creator>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  The nuclear level density and the $\gamma$-ray strength function have been
+extracted for $^{89}$Y, using the Oslo Method on $^{89}$Y($p,p'
+\gamma$)$^{89}$Y coincidence data. The $\gamma$-ray strength function displays
+a low-energy enhancement consistent with previous observations in this mass
+region ($^{93-98}$Mo). Shell-model calculations give support that the observed
+enhancement is due to strong, low-energy $M1$ transitions at high excitation
+energies.
+  The data were further used as input for calculations of the
+$^{88}$Sr($p,\gamma$)$^{89}$Y and $^{88}$Y($n,\gamma$)$^{89}$Y cross sections
+with the TALYS reaction code. Comparison with cross-section data, where
+available, as well as with values from the BRUSLIB library, shows a satisfying
+agreement.
+</dc:description>
+ <dc:description>Comment: 12 pages, 10 figures, version accepted for publication in Phys. Rev.
+  C</dc:description>
+ <dc:date>2015-10-04</dc:date>
+ <dc:date>2016-04-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00969</dc:identifier>
+ <dc:identifier>Phys. Rev. C 93, 045810 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevC.93.045810</dc:identifier>
+ </oai_dc:dc>
+

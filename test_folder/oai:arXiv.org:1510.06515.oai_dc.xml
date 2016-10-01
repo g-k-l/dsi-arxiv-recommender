@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Quantum Parameter Estimation in the Unruh-DeWitt detector model</dc:title>
+ <dc:creator>Hao, Xiang</dc:creator>
+ <dc:creator>Wu, Yinzhong</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  Relativistic effects on the precision of quantum metrology for particle
+detectors, such as two-level atoms are studied. The quantum Fisher information
+is used to estimate the phase sensitivity of atoms in non-inertial motions or
+in gravitational fields. The Unruh-DeWitt model is applicable to the
+investigation of the dynamics of a uniformly accelerated atom weakly coupled to
+a massless scalar vacuum field. When a measuring device is in the same
+relativistic motion as the atom, the dynamical behavior of quantum Fisher
+information as a function of Rindler proper time are obtained. It is found out
+that monotonic decrease in phase sensitivity is characteristic of dynamics of
+relativistic quantum estimation. To improve relativistic quantum metrology, we
+reasonably take into account two reflecting plane boundaries perpendicular to
+each other.
+</dc:description>
+ <dc:description>Comment: 13 pages, 4 figures</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06515</dc:identifier>
+ <dc:identifier>doi:10.1016/j.aop.2016.04.021</dc:identifier>
+ </oai_dc:dc>
+

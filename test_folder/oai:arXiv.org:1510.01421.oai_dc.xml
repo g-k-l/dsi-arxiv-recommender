@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>From Network Traces to System Responses: Opaquely Emulating Software
+  Services</dc:title>
+ <dc:creator>Du, Miao</dc:creator>
+ <dc:creator>Versteeg, Steve</dc:creator>
+ <dc:creator>Schneider, Jean-Guy</dc:creator>
+ <dc:creator>Grundy, John</dc:creator>
+ <dc:creator>Han, Jun</dc:creator>
+ <dc:subject>Computer Science - Software Engineering</dc:subject>
+ <dc:description>  Enterprise software systems make complex interactions with other services in
+their environment. Developing and testing for production-like conditions is
+therefore a challenging task. Prior approaches include emulations of the
+dependency services using either explicit modelling or record-and-replay
+approaches. Models require deep knowledge of the target services while
+record-and-replay is limited in accuracy. We present a new technique that
+improves the accuracy of record-and-replay approaches, without requiring prior
+knowledge of the services. The approach uses multiple sequence alignment to
+derive message prototypes from recorded system interactions and a scheme to
+match incoming request messages against message prototypes to generate response
+messages. We introduce a modified Needleman-Wunsch algorithm for distance
+calculation during message matching, wildcards in message prototypes for high
+variability sections, and entropy-based weightings in distance calculations for
+increased accuracy. Combined, our new approach has shown greater than 99%
+accuracy for four evaluated enterprise system messaging protocols.
+</dc:description>
+ <dc:description>Comment: Technical Report. Swinburne University of Technology, Faculty of
+  Information and Technology</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2016-04-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01421</dc:identifier>
+ </oai_dc:dc>
+

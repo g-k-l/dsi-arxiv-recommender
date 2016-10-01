@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Implication of the non-detection of neutrinos above 2PeV</dc:title>
+ <dc:creator>Yacobi, Lee</dc:creator>
+ <dc:creator>Guetta, Dafne</dc:creator>
+ <dc:creator>Behar, Ehud</dc:creator>
+ <dc:subject>Astrophysics - High Energy Astrophysical Phenomena</dc:subject>
+ <dc:description>  The IceCube telescope has detected diffuse neutrino emission, 20 events of
+which were reported to be above 60~TeV. In this paper, we fit the diffuse
+neutrino spectrum using Poisson statistics, which are the most appropriate for
+the low counts per energy bin. We extend the fitted energy range and exploit
+the fact that no neutrinos were detected above 2~PeV, despite the high detector
+sensitivity around the Glashow resonance at 6.3\,PeV and beyond. A best-fit
+power-law slope of $\alpha=2.9\pm 0.3$ is found with no evidence for a
+high-energy cutoff. This slope is steeper than $\alpha=2.3\pm 0.3$ found by the
+IceCube team using a different fitting method. Such a steep spectrum
+facilitates the identification of high energy ($\gg$ PeV) neutrinos, if
+detected, to be due to the GZK effect of cosmic-ray protons interacting with
+the Extragalactic Background Light. We use the ratio of EeV to PeV neutrinos in
+GZK models to show that the currently detected PeV neutrinos could not be due
+to the GZK effect, because this would imply many more higher-energy neutrinos
+that should have been detected, but were not. The non-detection of GZK
+neutrinos by IceCube despite more than essentially 1200 observing days, has
+already ruled out (at 95\% confidence) models that predict rates of $\sim1$
+neutrino/yr or more. We use this non-detection to quantify the confidence at
+which GZK models are ruled out, and compute the additional IceCube and (in the
+future) ARA observing time that would rule them out with 95\% confidence if no
+detection is made.
+</dc:description>
+ <dc:description>Comment: 6 pages, 4 figures. Submitted to Astrophysical Journal</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01244</dc:identifier>
+ <dc:identifier>doi:10.3847/0004-637X/823/2/89</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,39 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Jet-driven outflows of ionised gas in the nearby radio galaxy 3C293</dc:title>
+ <dc:creator>Mahony, Elizabeth K.</dc:creator>
+ <dc:creator>Oonk, J. B. Raymond</dc:creator>
+ <dc:creator>Morganti, Raffaella</dc:creator>
+ <dc:creator>Tadhunter, Clive</dc:creator>
+ <dc:creator>Bessiere, Patricia</dc:creator>
+ <dc:creator>Short, Philip</dc:creator>
+ <dc:creator>Emonts, Bjorn</dc:creator>
+ <dc:creator>Oosterloo, Tom</dc:creator>
+ <dc:subject>Astrophysics - Astrophysics of Galaxies</dc:subject>
+ <dc:description>  Fast outflows of gas, driven by the interaction between the radio-jets and
+ISM of the host galaxy, are being observed in an increasing number of galaxies.
+One such example is the nearby radio galaxy 3C293. In this paper we present
+Integral Field Unit (IFU) observations taken with OASIS on the William Herschel
+Telescope (WHT), enabling us to map the spatial extent of the ionised gas
+outflows across the central regions of the galaxy. The jet-driven outflow in
+3C293 is detected along the inner radio lobes with a mass outflow rate ranging
+from $\sim 0.05-0.17$ solar masses/yr (in ionised gas) and corresponding
+kinetic power of $\sim 0.5-3.5\times 10^{40}$ erg/s. Investigating the
+kinematics of the gas surrounding the radio jets (i.e. not directly associated
+with the outflow), we find line-widths broader than $300$ km/s up to 5 kpc in
+the radial direction from the nucleus (corresponding to 3.5 kpc in the
+direction perpendicular to the radio axis at maximum extent). Along the axis of
+the radio jet line-widths $&gt;400$ km/s are detected out to 7 kpc from the
+nucleus and line-widths of $&gt;500$ km/s at a distance of 12 kpc from the
+nucleus, indicating that the disturbed kinematics clearly extend well beyond
+the high surface brightness radio structures of the jets. This is suggestive of
+the cocoon structure seen in simulations of jet-ISM interaction and implies
+that the radio jets are capable of disturbing the gas throughout the central
+regions of the host galaxy in all directions.
+</dc:description>
+ <dc:description>Comment: 8 pages, accepted for publication in MNRAS</dc:description>
+ <dc:date>2015-10-22</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06498</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stv2456</dc:identifier>
+ </oai_dc:dc>
+

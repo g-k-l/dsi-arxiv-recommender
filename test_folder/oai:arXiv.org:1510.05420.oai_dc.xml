@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A unifying energy-based approach to optimal frequency and market
+  regulation in power grids</dc:title>
+ <dc:creator>Stegink, Tjerk</dc:creator>
+ <dc:creator>De Persis, Claudio</dc:creator>
+ <dc:creator>van der Schaft, Arjan</dc:creator>
+ <dc:subject>Mathematics - Optimization and Control</dc:subject>
+ <dc:description>  In this paper we provide a unifying energy-based approach to the modeling,
+analysis and control of power systems and markets, which is based on the
+port-Hamiltonian framework. Using a primal-dual gradient method applied to the
+social welfare problem, a distributed dynamic pricing algorithm in
+port-Hamiltonian form is obtained. By interconnection with the physical model a
+closed-loop port-Hamiltonian system is obtained, whose properties are exploited
+to prove asymptotic stability to the optimal points. This result is extended
+such that also general nodal power constraints are included into the social
+welfare problem. Additionally, the cases of line congestion and power
+transmission cost in (a)cyclic networks considering (non)linear power flow
+models are covered as well. Finally, we provide port-Hamiltonian descriptions
+and analysis of the well studied distributed averaging proportional integral
+(DAPI) and certain internal-model-based controllers, which solve an optimal
+frequency regulation problem.
+</dc:description>
+ <dc:description>Comment: This paper has been withdrawn by the authors because an improved
+  version is now available as arXiv:1604.05200</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-08-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05420</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Modeling and Analysis for Cache-enabled Cognitive D2D Communications in
+  Cellular Networks</dc:title>
+ <dc:creator>Yang, Chenchen</dc:creator>
+ <dc:creator>Zhao, Xingya</dc:creator>
+ <dc:creator>Yao, Yao</dc:creator>
+ <dc:creator>Xia, Bin</dc:creator>
+ <dc:subject>Computer Science - Information Theory</dc:subject>
+ <dc:subject>Computer Science - Networking and Internet Architecture</dc:subject>
+ <dc:description>  Exploiting cognition to the cache-enabled device-to-device (D2D)
+communication underlaying the multi-channel cellular network is the main focus
+of this paper. D2D pairs perform direct communications via sensing the
+available cellular channels, bypassing the base station (BS). Dynamic service
+is considered and the network performance is evaluated with the stochastic
+geometry. Node locations are first modeled as mutually independent Poisson
+Point Processes, and the service queueing process is formulated. Then the
+corresponding tier association and cognitive access protocol are developed. The
+delay and the length for the queue at the BS and D2D transmitter are further
+elaborated, with modeling the traffic dynamics of request arrivals and
+departures as the discrete-time multiserver queue with priorities. Moreover,
+impacts of the physical layer and content-centric features on the system
+performance are jointly investigated to provide a valuable insight.
+</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:date>2016-07-25</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06480</dc:identifier>
+ </oai_dc:dc>
+

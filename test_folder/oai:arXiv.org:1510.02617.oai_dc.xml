@@ -1,0 +1,41 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Intrinsic alignment contamination to CMB lensing-galaxy weak lensing
+  correlations from tidal torquing</dc:title>
+ <dc:creator>Larsen, Patricia</dc:creator>
+ <dc:creator>Challinor, Anthony</dc:creator>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:description>  Correlations of galaxy ellipticities with large-scale structure, due to
+galactic tidal interactions, provide a potentially significant contaminant to
+measurements of cosmic shear. However, these intrinsic alignments are still
+poorly understood for galaxies at the redshifts typically used in cosmic shear
+analyses. For spiral galaxies, it is thought that tidal torquing is significant
+in determining alignments resulting in zero correlation between the intrinsic
+ellipticity and the gravitational potential in linear theory. Here, we
+calculate the leading-order correction to this result in the tidal-torque model
+from non-linear evolution, using second-order perturbation theory, and relate
+this to the contamination from intrinsic alignments to the recently-measured
+cross-correlation between galaxy ellipticities and the CMB lensing potential.
+On the scales relevant for CMB lensing observations, the squeezed limit of the
+gravitational bispectrum dominates the correlation. Physically, the large-scale
+mode that sources CMB lensing modulates the small-scale power and hence the
+intrinsic ellipticity, due to non-linear evolution. We find that the angular
+cross-correlation from tidal torquing has a very similar scale dependence as in
+the linear alignment model, believed to be appropriate for elliptical galaxies.
+The amplitude of the cross-correlation is predicted to depend strongly on the
+formation redshift, being smaller for galaxies that formed at higher redshift
+when the bispectrum of the gravitational potential was smaller. Finally, we
+make simple forecasts for constraints on intrinsic alignments from the
+correlation of forthcoming cosmic shear measurements with current CMB lensing
+measurements. We note that cosmic variance can be significantly reduced in
+measurements of the difference in the intrinsic alignments for elliptical and
+spiral galaxies if these can be separated (e.g., using colour).
+</dc:description>
+ <dc:description>Comment: Updated calculation to include all LPT terms to consistent order. 10
+  pages, 5 figures. Accepted for publication in MNRAS</dc:description>
+ <dc:date>2015-10-09</dc:date>
+ <dc:date>2016-07-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02617</dc:identifier>
+ <dc:identifier>doi:10.1093/mnras/stw1645</dc:identifier>
+ </oai_dc:dc>
+

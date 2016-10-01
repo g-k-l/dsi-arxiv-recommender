@@ -1,0 +1,34 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Combining Harmonic Generation and Laser Chirping to Achieve High
+  Spectral Density in Compton Sources</dc:title>
+ <dc:creator>Terzi&#263;, Bal&#353;a</dc:creator>
+ <dc:creator>Reeves, Cody</dc:creator>
+ <dc:creator>Krafft, Geoffrey A.</dc:creator>
+ <dc:subject>Physics - Accelerator Physics</dc:subject>
+ <dc:subject>Physics - Plasma Physics</dc:subject>
+ <dc:description>  Recently various laser-chirping schemes have been investigated with the goal
+of reducing or eliminating ponderomotive line broadening in Compton or Thomson
+scattering occurring at high laser intensities. As a next level of detail in
+the spectrum calculations, we have calculated the line smoothing and broadening
+expected due to incident beam energy spread within a one-dimensional plane wave
+model for the incident laser pulse, both for compensated (chirped) and
+unchirped cases. The scattered compensated distributions are treatable
+analytically within three models for the envelope of the incident laser pulses:
+Gaussian, Lorentzian, or hyperbolic secant. We use the new results to
+demonstrate that the laser chirping in Compton sources at high laser
+intensities: (i) enables the use of higher order harmonics, thereby reducing
+the required electron beam energies; and (ii) increases the photon yield in a
+small frequency band beyond that possible with the fundamental without
+chirping. This combination of chirping and higher harmonics can lead to
+substantial savings in the design, construction and operational costs of the
+new Compton sources. This is of particular importance to the the widely popular
+laser-plasma accelerator based Compton sources, as the improvement in their
+beam quality enters the regime where chirping is most effective.
+</dc:description>
+ <dc:description>Comment: 5 pages, 4 figures</dc:description>
+ <dc:date>2015-10-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.03934</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevAccelBeams.19.044403</dc:identifier>
+ </oai_dc:dc>
+

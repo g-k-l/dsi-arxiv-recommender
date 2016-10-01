@@ -1,0 +1,20 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Where are the BTZ Black Hole Degrees of Freedom? The Rotating Case</dc:title>
+ <dc:creator>Mitchell, Joseph</dc:creator>
+ <dc:subject>General Relativity and Quantum Cosmology</dc:subject>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  Recent work has shown that the entropy of the non-rotating BTZ black hole can
+be derived from a dual conformal description at any spatial location. In this
+followup it is shown that a dual conformal description exists at any spatial
+location for the rotating BTZ black hole as well. As in the non-rotating case,
+two copies of the central charge $c^{\pm} = 3\ell/2G$ are recovered and the
+microcanonical Cardy formula yields the correct Bekenstein-Hawking entropy.
+</dc:description>
+ <dc:description>Comment: 10 pages, 1 figure; fixed/added references</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:date>2015-11-09</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01033</dc:identifier>
+ <dc:identifier>doi:10.1088/0264-9381/33/13/135003</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,29 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Tripartite and bipartite entanglement in continuous-variable tripartite
+  systems</dc:title>
+ <dc:creator>Olsen, M. K.</dc:creator>
+ <dc:creator>Corney, J. F.</dc:creator>
+ <dc:subject>Quantum Physics</dc:subject>
+ <dc:description>  We examine one asymmetric adnd two fully symmetric Gaussian
+continuous-variable systems in terms of their tripartite and bipartite
+entanglement properties. We treat pure states and are able to find analytic
+solutions using the undepleted pump approximation for the Hamiltonian models,
+and standard beamsplitter relations for a model that mixes the outputs of
+optical parametric oscillators. Our two symmetric systems exhibit perfect
+tripartite correlations, but only in the unphysical limit of infinite
+squeezing. For more realistic squeezing parameters, all three systems exhibit
+both tripartite and bipartite entanglement. We conclude that none of the
+outputs are completely analogous to either GHZ or W states, but there are
+parameter regions where they produce T states introduced by Adesso \etal The
+qualitative differences in the output states for different interaction
+parameters indicate that continuous-variable tripartite quantum information
+systems offer a versatility not found in bipartite systems.
+</dc:description>
+ <dc:description>Comment: 18 pages, 6 figures. arXiv admin note: text overlap with
+  arXiv:1510.01821</dc:description>
+ <dc:date>2015-10-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.04506</dc:identifier>
+ <dc:identifier>doi:10.1016/j.optcom.2016.05.063</dc:identifier>
+ </oai_dc:dc>
+

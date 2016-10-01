@@ -1,0 +1,32 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Directional H2-matrix compression for high-frequency problems</dc:title>
+ <dc:creator>B&#246;rm, Steffen</dc:creator>
+ <dc:subject>Mathematics - Numerical Analysis</dc:subject>
+ <dc:subject>35J05, 65N38, 65F30</dc:subject>
+ <dc:description>  Standard numerical algorithms like the fast multipole method or
+$\mathcal{H}$-matrix schemes rely on low-rank approximations of the underlying
+kernel function. For high-frequency problems, the ranks grow rapidly as the
+mesh is refined, and standard techniques are no longer attractive.
+  Directional compression techniques solve this problem by using decompositions
+based on plane waves. Taking advantage of hierarchical relations between these
+waves' directions, an efficient approximation is obtained.
+  This paper is dedicated to directional $\mathcal{H}^2$-matrices that employ
+local low-rank approximations to handle directional representations
+efficiently.
+  The key result is an algorithm that takes an arbitrary matrix and finds a
+quasi-optimal approximation of this matrix as a directional
+$\mathcal{H}^2$-matrix using a prescribed block tree. The algorithm can reach
+any given accuracy, and the approximation requires only $\mathcal{O}(n k +
+\kappa^2 k^2 \log n)$ units of storage, where $n$ is the matrix dimension,
+$\kappa$ is the wave number, and $k$ is the local rank. In particular, we have
+a complexity of $\mathcal{O}(n k)$ if $\kappa$ is constant and $\mathcal{O}(n k
+\log n)$ for high-frequency problems characterized by $\kappa^2 \sim n/k$.
+  Since the algorithm can be applied to arbitrary matrices, it can serve as the
+foundation of fast techniques for constructing preconditioners.
+</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-06-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07087</dc:identifier>
+ </oai_dc:dc>
+

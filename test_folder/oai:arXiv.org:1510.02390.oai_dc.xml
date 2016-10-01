@@ -1,0 +1,21 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Moments of the eigenvalue densities and of the secular coefficients of
+  $\beta$-ensembles</dc:title>
+ <dc:creator>Mezzadri, Francesco</dc:creator>
+ <dc:creator>Reynolds, Alexi K.</dc:creator>
+ <dc:subject>Mathematical Physics</dc:subject>
+ <dc:description>  We compute explicit formulae for the moments of the densities of the
+eigenvalues of the classical $\beta$-ensembles for finite matrix dimension as
+well as the expectation values of the coefficients of the characteristic
+polynomials. In particular, the moments are linear combinations of averages of
+Jack polynomials, whose coefficients are related to specific examples of Jack
+characters.
+</dc:description>
+ <dc:description>Comment: LaTeX, 26 pages, 2 figure. Revised version. Two sections added. Minor
+  corrections</dc:description>
+ <dc:date>2015-10-08</dc:date>
+ <dc:date>2016-07-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.02390</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,89 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Dark Matter Search Results from the PICO-60 CF$_3$I Bubble Chamber</dc:title>
+ <dc:creator>Amole, C.</dc:creator>
+ <dc:creator>Ardid, M.</dc:creator>
+ <dc:creator>Asner, D. M.</dc:creator>
+ <dc:creator>Baxter, D.</dc:creator>
+ <dc:creator>Behnke, E.</dc:creator>
+ <dc:creator>Bhattacharjee, P.</dc:creator>
+ <dc:creator>Borsodi, H.</dc:creator>
+ <dc:creator>Bou-Cabo, M.</dc:creator>
+ <dc:creator>Brice, S. J.</dc:creator>
+ <dc:creator>Broemmelsiek, D.</dc:creator>
+ <dc:creator>Clark, K.</dc:creator>
+ <dc:creator>Collar, J. I.</dc:creator>
+ <dc:creator>Cooper, P. S.</dc:creator>
+ <dc:creator>Crisler, M.</dc:creator>
+ <dc:creator>Dahl, C. E.</dc:creator>
+ <dc:creator>Daley, S.</dc:creator>
+ <dc:creator>Das, M.</dc:creator>
+ <dc:creator>Debris, F.</dc:creator>
+ <dc:creator>Dhungana, N.</dc:creator>
+ <dc:creator>Farine, J.</dc:creator>
+ <dc:creator>Felis, I.</dc:creator>
+ <dc:creator>Filgas, R.</dc:creator>
+ <dc:creator>Girard, F.</dc:creator>
+ <dc:creator>Giroux, G.</dc:creator>
+ <dc:creator>Grandison, A.</dc:creator>
+ <dc:creator>Hai, M.</dc:creator>
+ <dc:creator>Hall, J.</dc:creator>
+ <dc:creator>Harris, O.</dc:creator>
+ <dc:creator>Jin, M.</dc:creator>
+ <dc:creator>Krauss, C. B.</dc:creator>
+ <dc:creator>Fallows, S.</dc:creator>
+ <dc:creator>Lafreni&#232;re, M.</dc:creator>
+ <dc:creator>Laurin, M.</dc:creator>
+ <dc:creator>Lawson, I.</dc:creator>
+ <dc:creator>Levine, I.</dc:creator>
+ <dc:creator>Lippincott, W. H.</dc:creator>
+ <dc:creator>Mann, E.</dc:creator>
+ <dc:creator>Maurya, D.</dc:creator>
+ <dc:creator>Mitra, P.</dc:creator>
+ <dc:creator>Neilson, R.</dc:creator>
+ <dc:creator>Noble, A. J.</dc:creator>
+ <dc:creator>Plante, A.</dc:creator>
+ <dc:creator>Podviianiuk, R. B.</dc:creator>
+ <dc:creator>Priya, S.</dc:creator>
+ <dc:creator>Ramberg, E.</dc:creator>
+ <dc:creator>Robinson, A. E.</dc:creator>
+ <dc:creator>Rucinski, R.</dc:creator>
+ <dc:creator>Ruschman, M.</dc:creator>
+ <dc:creator>Scallon, O.</dc:creator>
+ <dc:creator>Seth, S.</dc:creator>
+ <dc:creator>Simon, P.</dc:creator>
+ <dc:creator>Sonnenschein, A.</dc:creator>
+ <dc:creator>&#352;tekl, I.</dc:creator>
+ <dc:creator>V&#224;zquez-J&#224;uregui, E.</dc:creator>
+ <dc:creator>Wells, J.</dc:creator>
+ <dc:creator>Wichoski, U.</dc:creator>
+ <dc:creator>Zacek, V.</dc:creator>
+ <dc:creator>Zhang, J.</dc:creator>
+ <dc:creator>Shkrob, I. A.</dc:creator>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:subject>Astrophysics - Cosmology and Nongalactic Astrophysics</dc:subject>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:description>  New data are reported from the operation of the PICO-60 dark matter detector,
+a bubble chamber filled with 36.8 kg of CF$_3$I and located in the SNOLAB
+underground laboratory. PICO-60 is the largest bubble chamber to search for
+dark matter to date. With an analyzed exposure of 92.8 livedays, PICO-60
+exhibits the same excellent background rejection observed in smaller bubble
+chambers. Alpha decays in PICO-60 exhibit frequency-dependent acoustic
+calorimetry, similar but not identical to that reported recently in a
+C$_3$F$_8$ bubble chamber. PICO-60 also observes a large population of unknown
+background events, exhibiting acoustic, spatial, and timing behaviors
+inconsistent with those expected from a dark matter signal. These behaviors
+allow for analysis cuts to remove all background events while retaining
+$48.2\%$ of the exposure. Stringent limits on weakly interacting massive
+particles interacting via spin-dependent proton and spin-independent processes
+are set, and most interpretations of the DAMA/LIBRA modulation signal as dark
+matter interacting with iodine nuclei are ruled out.
+</dc:description>
+ <dc:description>Comment: v3 to reflect published version</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-03-03</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07754</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 052014 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.052014</dc:identifier>
+ </oai_dc:dc>
+

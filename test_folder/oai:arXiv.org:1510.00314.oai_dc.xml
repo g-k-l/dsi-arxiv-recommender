@@ -1,0 +1,37 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The local structure factor near an interface; Beyond extended
+  Capillary-Wave models</dc:title>
+ <dc:creator>Parry, A. O.</dc:creator>
+ <dc:creator>Rasc&#243;n, C.</dc:creator>
+ <dc:creator>Evans, R.</dc:creator>
+ <dc:subject>Condensed Matter - Statistical Mechanics</dc:subject>
+ <dc:description>  We investigate the local structure factor $S(z;q)$ at a free liquid-gas
+interface in systems with short-ranged intermolecular forces and determine the
+corrections to the leading-order, capillary-wave-like, Goldstone mode
+divergence of $S(z;q)$ known to occur for parallel wavevectors $q\to 0$. We
+show from explicit solution of the inhomogeneous Ornstein-Zernike equation that
+for distances $z$ far from the interface, where the profile decays
+exponentially, $S(z;q)$ splits unambiguously into bulk and interfacial
+contributions. On each side of the interface, the interfacial contributions can
+be characterised by distinct liquid and gas wavevector dependent surface
+tensions, $\sigma_l(q)$ and $\sigma_g(q)$, which are determined solely by the
+$bulk$ two-body and three-body direct correlation functions. At high
+temperatures, the wavevector dependence simplifies and is determined almost
+entirely by the appropriate bulk structure factor, leading to positive rigidity
+coefficients. Our predictions are confirmed by explicit calculation of $S(z;q)$
+within square-gradient theory and the Sullivan model. The results for the
+latter predict a striking temperature dependence for $\sigma_l(q)$ and
+$\sigma_g(q)$, and have implications for fluctuation effects. Our results
+account quantitatively for the findings of a recent very extensive simulation
+study by H\"ofling and Dietrich of the total structure factor in the
+interfacial region, in a system with a cut-off Lennard-Jones potential, in
+sharp contrast to extended Capillary-Wave models which failed completely to
+describe the simulation results.
+</dc:description>
+ <dc:description>Comment: 20 pages, 9 figures (submitted to J. Phys: Condens. Matter)</dc:description>
+ <dc:date>2015-10-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00314</dc:identifier>
+ <dc:identifier>doi:10.1088/0953-8984/28/24/244013</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,24 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>The $\mathcal{N}=2$ Schur index from free fermions</dc:title>
+ <dc:creator>Bourdier, Jun</dc:creator>
+ <dc:creator>Drukker, Nadav</dc:creator>
+ <dc:creator>Felix, Jan</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:description>  We study the Schur index of 4-dimensional $\mathcal{N}=2$ circular quiver
+theories. We show that the index can be expressed as a weighted sum over
+partition functions describing systems of free Fermions living on a circle. For
+circular $SU(N)$ quivers of arbitrary length we evaluate the large $N$ limit of
+the index, up to exponentially suppressed corrections. For the single node
+theory ($\mathcal{N}=4$ SYM) and the two node quiver we are able to go beyond
+the large $N$ limit, and obtain the complete, all orders large $N$ expansion of
+the index, as well as explicit finite $N$ results in terms of elliptic
+functions.
+</dc:description>
+ <dc:description>Comment: 36 pages, 1 figure; v2: Minor corrections, version published in JHEP</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:date>2016-02-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07041</dc:identifier>
+ <dc:identifier>doi:10.1007/JHEP01(2016)167</dc:identifier>
+ </oai_dc:dc>
+

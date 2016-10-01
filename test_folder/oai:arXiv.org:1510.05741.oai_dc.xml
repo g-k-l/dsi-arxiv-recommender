@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Uniform Sobolev inequalities for second order non-elliptic differential
+  operators</dc:title>
+ <dc:creator>Jeong, Eunhee</dc:creator>
+ <dc:creator>Kwon, Yehyun</dc:creator>
+ <dc:creator>Lee, Sanghyuk</dc:creator>
+ <dc:subject>Mathematics - Analysis of PDEs</dc:subject>
+ <dc:subject>35B45, 42B15</dc:subject>
+ <dc:description>  We study uniform Sobolev inequalities for the second order differential
+operators $P(D)$ of non-elliptic type. For $d\ge3$ we prove that the Sobolev
+type estimate $\|u\|_{L^q(\mathbb{R}^d)}\le C \|P(D)u\|_{L^p(\mathbb{R}^d)}$
+holds with $C$ independent of the first order and the constant terms of $P(D)$
+if and only if $1/p-1/q=2/d$ and $\frac{2d(d-1)}{d^2+2d-4}&lt;p&lt;\frac{2(d-1)}d$.
+We also obtain restricted weak type endpoint estimates for the critical
+$(p,q)=(\frac{2(d-1)}{d},\frac{2d(d-1)}{(d-2)^2})$, $(\frac{2d(d-1)}{d^2+2d-4},
+\frac{2(d-1)}{d-2})$. As a consequence, the result extends the class of
+functions for which the unique continuation for the inequality $|P(D)u|\le|Vu|$
+holds.
+</dc:description>
+ <dc:description>Comment: 23 pages, 1 figure. To appear in Advances in Math</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2016-08-01</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05741</dc:identifier>
+ </oai_dc:dc>
+

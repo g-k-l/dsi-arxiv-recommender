@@ -1,0 +1,31 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>SU(2)/SL(2) knot invariants and KS monodromies</dc:title>
+ <dc:creator>Galakhov, D.</dc:creator>
+ <dc:creator>Mironov, A.</dc:creator>
+ <dc:creator>Morozov, A.</dc:creator>
+ <dc:subject>High Energy Physics - Theory</dc:subject>
+ <dc:subject>Mathematics - Geometric Topology</dc:subject>
+ <dc:subject>Mathematics - Quantum Algebra</dc:subject>
+ <dc:description>  We review the Reshetikhin-Turaev approach to construction of non-compact knot
+invariants involving R-matrices associated with infinite-dimensional
+representations, primarily those made from Faddeev's quantum dilogarithm. The
+corresponding formulas can be obtained from modular transformations of
+conformal blocks as their Kontsevich-Soibelman monodromies and are presented in
+the form of transcendental integrals, where the main issue is manipulation with
+integration contours. We discuss possibilities to extract more explicit and
+handy expressions which can be compared with the ordinary (compact) knot
+polynomials coming from finite-dimensional representations of simple Lie
+algebras, with their limits and properties. In particular, the quantum
+A-polynomials, difference equations for colored Jones polynomials should be the
+same, just in non-compact case the equations are homogeneous, while they have a
+non-trivial right-hand side for ordinary Jones polynomials.
+</dc:description>
+ <dc:description>Comment: 17 pages, contribution to the volume in honor of Igor Tyutin</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05366</dc:identifier>
+ <dc:identifier>Theoretical and Mathematical Physics, 187 (2016) 678-694
+  (Teor.Mat.Fiz. 187 (2016) 263-282)</dc:identifier>
+ <dc:identifier>doi:10.4213/tmf9068</dc:identifier>
+ </oai_dc:dc>
+

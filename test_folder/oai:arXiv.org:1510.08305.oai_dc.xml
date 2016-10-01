@@ -1,0 +1,43 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Properties of Excited Charm and Charm-Strange Mesons</dc:title>
+ <dc:creator>Godfrey, Stephen</dc:creator>
+ <dc:creator>Moats, Kenneth</dc:creator>
+ <dc:subject>High Energy Physics - Phenomenology</dc:subject>
+ <dc:subject>High Energy Physics - Experiment</dc:subject>
+ <dc:description>  We calculate the properties of excited charm and charm-strange mesons. We use
+the relativized quark model to calculate their masses and wavefunctions that
+are used to calculate radiative transition partial widths and the $^3P_0$
+quark-pair-creation model to calculate their strong decay widths. We use these
+results to make quark model spectroscopic assignments for recently observed
+charm and charm-strange mesons. In particular we find that the properties of
+the $D_J(2550)^0$ and $D_J^*(2600)^0$ are consistent with those of the
+$2^1S_0(c\bar{u})$ and the $2^3S_1(c\bar{u})$ states respectively, the
+$D_1^*(2760)^0$, $D_3^*(2760)^-$, and $D_J(2750)^0$ with those of the
+$1^3D_1(c\bar{u})$, $1^3D_3(d\bar{c})$, and $1D_2(c\bar{u})$ states
+respectively. We tentatively identify the $D^*_J(3000)^0$ as the
+$1^3F_4(c\bar{u})$ and favour the $D_J(3000)^0$ to be the $3^1S_0(c\bar{u})$
+although we do not rule out the $1F_3$ and $1F_3'$ assignment. For the recently
+observed charm-strange mesons we identify the $D_{s1}^*(2709)^\pm$,
+$D_{s1}^*(2860)^-$, and $D_{s3}^*(2860)^-$ as the $2^3S_1(c\bar{s})$,
+$1^3D_1(s\bar{c})$, and $1^3D_3(s\bar{c})$ states respectively and suggest that
+the $D_{sJ}(3044)^\pm$ is most likely the $D_{s1}(2P_1')$ or $D_{s1}(2P_1)$
+states although it might be the $D_{s2}^*(2^3P_2)$ with the $DK$ final state
+too small to be observed with current statistics. Based on the predicted
+properties of excited states, that they not have too large a total width and
+they have a reasonable branching ratio to simple final states, we suggest
+states that should be able to be found in the near future. We expect that the
+tables of properties summarizing our results will be useful for interpreting
+future observations of charm and charm-strange mesons.
+</dc:description>
+ <dc:description>Comment: 36 pages, 2 figures, 47 tables, more detailed results included as
+  supplementary file. Version 2 has minor word changes and adds a few
+  references. Version 3 expands discussion of strong decay model and corrects
+  some typos</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-01-15</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08305</dc:identifier>
+ <dc:identifier>Phys. Rev. D 93, 034035 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevD.93.034035</dc:identifier>
+ </oai_dc:dc>
+

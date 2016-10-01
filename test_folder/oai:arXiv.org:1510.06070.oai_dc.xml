@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Jacobi no-core shell model for p-shell nuclei</dc:title>
+ <dc:creator>Liebig, S.</dc:creator>
+ <dc:creator>Mei&#223;ner, U. -G.</dc:creator>
+ <dc:creator>Nogga, A.</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:description>  We introduce an algorithm to obtain coefficients of fractional parentage for
+light $p$-shell nuclei. The coefficients enable to use Jacobi coordinates in
+no-core shell model calculations separating off the center-of-mass motion.
+Fully antisymmetrized basis states are given together with recoupling
+coefficients that allow one to apply two- and three-nucleon operators. As an
+example, we study the dependence on the harmonic oscillator frequency of $^3$H,
+$^4$He, $^6$He, $^6$Li and $^7$Li and extract their binding and excitation
+energies. The coefficients will be made openly accessible as HDF5 data files.
+</dc:description>
+ <dc:description>Comment: 23 pages, 17 figures</dc:description>
+ <dc:date>2015-10-20</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06070</dc:identifier>
+ <dc:identifier>Eur. Phys. J. A 52: 103 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1140/epja/i2016-16103-5</dc:identifier>
+ </oai_dc:dc>
+

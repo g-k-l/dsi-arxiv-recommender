@@ -1,0 +1,35 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Mortality Rate Estimation and Standardization for Public Reporting:
+  Medicare's Hospital Compare</dc:title>
+ <dc:creator>George, E. I.</dc:creator>
+ <dc:creator>Rockova, V.</dc:creator>
+ <dc:creator>Rosenbaum, P. R.</dc:creator>
+ <dc:creator>Satopaa, V. A.</dc:creator>
+ <dc:creator>Silber, J. H.</dc:creator>
+ <dc:subject>Statistics - Applications</dc:subject>
+ <dc:description>  Bayesian models are increasing fit to large administrative data sets and then
+used to make individualized recommendations. For instance, Medicare's Hospital
+Compare webpage provides information to patients about specific hospital
+mortality rates for a heart attack or Acute Myocardial Infarction (AMI).
+Hospital Compare's current recommendations are based on a random effects logit
+model with a random hospital indicator and patient risk factors. By checking
+the out of sample calibration of their individualized predictions against
+general empirical advice, we are led to substantial revisions of the Hospital
+Compare model for AMI mortality. As opposed to Hospital Compare, our revised
+models incorporate information about hospital volume, nursing staff, medical
+residents, and the hospital's ability to perform cardiovascular procedures,
+information that is clearly needed if a model is to make appropriately
+calibrated predictions. Additionally, we contrast several methods for
+summarizing a model's predictions for use by the public. We find that indirect
+standardization, as currently used by Hospital Compare, fails to adequately
+control for differences in patient risk factors, whereas direct standardization
+provides good control and is easy to interpret.
+</dc:description>
+ <dc:description>Comment: Main paper: 30 pages, 7 figures, 4 tables Supplemental Material: 4
+  pages, 2 figures, 1 table</dc:description>
+ <dc:date>2015-10-03</dc:date>
+ <dc:date>2016-07-14</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00842</dc:identifier>
+ </oai_dc:dc>
+

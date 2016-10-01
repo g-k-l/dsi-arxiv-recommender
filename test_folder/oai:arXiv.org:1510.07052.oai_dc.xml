@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>A Chemical Kinetics Network for Lightning and Life in Planetary
+  Atmospheres</dc:title>
+ <dc:creator>Rimmer, Paul B</dc:creator>
+ <dc:creator>Helling, Christiane</dc:creator>
+ <dc:subject>Astrophysics - Earth and Planetary Astrophysics</dc:subject>
+ <dc:description>  There are many open questions about prebiotic chemistry in both planetary and
+exoplanetary environments. The increasing number of known exoplanets and other
+ultra-cool, substellar objects has propelled the desire to detect life and
+prebiotic chemistry outside the solar system. We present an ion-neutral
+chemical network constructed from scratch, Stand2015, that treats hydrogen,
+nitrogen, carbon and oxygen chemistry accurately within a temperature range
+between 100 K and 30000 K. Formation pathways for glycine and other organic
+molecules are included. The network is complete up to H6C2N2O3. Stand2015 is
+successfully tested against atmospheric chemistry models for HD209458b, Jupiter
+and the present-day Earth using a simple 1D photochemistry/diffusion code. Our
+results for the early Earth agree with those of Kasting (1993) for CO2, H2, CO
+and O2, but do not agree for water and atomic oxygen. We use the network to
+simulate an experiment where varied chemical initial conditions are irradiated
+by UV light. The result from our simulation is that more glycine is produced
+when more ammonia and methane is present. Very little glycine is produced in
+the absence of any molecular nitrogen and oxygen. This suggests that production
+of glycine is inhibited if a gas is too strongly reducing. Possible
+applications and limitations of the chemical kinetics network are also
+discussed.
+</dc:description>
+ <dc:description>Comment: 138 pages, 19 figures, accepted to ApJS</dc:description>
+ <dc:date>2015-10-23</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07052</dc:identifier>
+ <dc:identifier>doi:10.3847/0067-0049/224/1/9</dc:identifier>
+ </oai_dc:dc>
+

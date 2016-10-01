@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Response of diamond detector sandwich to 14 MeV neutrons</dc:title>
+ <dc:creator>Osipenko, M.</dc:creator>
+ <dc:creator>Ripani, M.</dc:creator>
+ <dc:creator>Ricco, G.</dc:creator>
+ <dc:creator>Caiffi, B.</dc:creator>
+ <dc:creator>Pompili, F.</dc:creator>
+ <dc:creator>Pillon, M.</dc:creator>
+ <dc:creator>Verona-Rinati, G.</dc:creator>
+ <dc:creator>Cardarelli, R.</dc:creator>
+ <dc:subject>Physics - Instrumentation and Detectors</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  In this paper we present the measurement of the response of 50 $\mu$m thin
+diamond detectors to 14 MeV neutrons. Such neutrons are produced in fusion
+reactors and are of particular interest for ITER neutron diagnostics. Among
+semiconductor detectors diamond has properties most appropriate for harsh
+radiation and temperature conditions of a fusion reactor. However, 300-500
+$\mu$m thick diamond detectors suffer significant radiation damage already at
+neutron fluences of the order of $10^{14}$ n/cm$^2$. It is expected that a 50
+$\mu$m thick diamond will withstand a fluence of $&gt;10^{16}$ n/cm$^2$. We tested
+two 50 $\mu$m thick single crystal CVD diamonds, stacked to form a "sandwich"
+detector for coincidence measurements. The detector measured the conversion of
+14 MeV neutrons, impinging on one diamond, into $\alpha$ particles which were
+detected in the second diamond in coincidence with nuclear recoil. For
+$^{12}C(n,\alpha)^{9}Be$ reaction the total energy deposited in the detector
+gives access to the initial neutron energy value. The measured 14 MeV neutron
+detection sensitivity through this reaction by a detector of effective area
+3$\times$3 mm$^2$ was $5\times 10^{-7}$ counts cm$^2$/n. This value is in good
+agreement with Geant4 simulations. The intrinsic energy resolution of the
+detector was found to be 240 keV FWHM which adds only 10 % to ITER's 14 MeV
+neutron energy spread.
+</dc:description>
+ <dc:description>Comment: submitted in NIM A</dc:description>
+ <dc:date>2015-10-19</dc:date>
+ <dc:date>2015-11-02</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05415</dc:identifier>
+ <dc:identifier>doi:10.1016/j.nima.2016.02.008</dc:identifier>
+ </oai_dc:dc>
+

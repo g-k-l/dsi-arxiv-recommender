@@ -1,0 +1,33 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>${^3{\rm He}}(\alpha,\gamma){^7{\rm Be}}$ and ${^3{\rm
+  H}}(\alpha,\gamma){^7{\rm Li}}$ astrophysical $S$ factors from the no-core
+  shell model with continuum</dc:title>
+ <dc:creator>Dohet-Eraly, J&#233;r&#233;my</dc:creator>
+ <dc:creator>Navr&#225;til, Petr</dc:creator>
+ <dc:creator>Quaglioni, Sofia</dc:creator>
+ <dc:creator>Horiuchi, Wataru</dc:creator>
+ <dc:creator>Hupin, Guillaume</dc:creator>
+ <dc:creator>Raimondi, Francesco</dc:creator>
+ <dc:subject>Nuclear Theory</dc:subject>
+ <dc:subject>Astrophysics - Solar and Stellar Astrophysics</dc:subject>
+ <dc:subject>Nuclear Experiment</dc:subject>
+ <dc:description>  The ${^3{\rm He}}(\alpha,\gamma){^7{\rm Be}}$ and ${^3{\rm
+H}}(\alpha,\gamma){^7{\rm Li}}$ astrophysical $S$ factors are calculated within
+the no-core shell model with continuum using a renormalized chiral
+nucleon-nucleon interaction. The ${^3{\rm He}}(\alpha,\gamma){^7{\rm Be}}$
+astrophysical $S$ factors agree reasonably well with the experimental data
+while the ${^3{\rm H}}(\alpha,\gamma){^7{\rm Li}}$ ones are overestimated. The
+seven-nucleon bound and resonance states and the $\alpha+{^3{\rm He}}/{^3{\rm
+H}}$ elastic scattering are also studied and compared with experiment. The
+low-lying resonance properties are rather well reproduced by our approach. At
+low energies, the $s$-wave phase shift, which is non-resonant, is
+overestimated.
+</dc:description>
+ <dc:description>Comment: 8 pages, submitted to Phys. Lett. B</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:date>2016-02-13</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07717</dc:identifier>
+ <dc:identifier>doi:10.1016/j.physletb.2016.04.021</dc:identifier>
+ </oai_dc:dc>
+

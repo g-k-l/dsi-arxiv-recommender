@@ -1,0 +1,28 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Optimal Mission Planner with Timed Temporal Logic Constraints</dc:title>
+ <dc:creator>Zhou, Yuchen</dc:creator>
+ <dc:creator>Maity, Dipankar</dc:creator>
+ <dc:creator>Baras, John S.</dc:creator>
+ <dc:subject>Computer Science - Systems and Control</dc:subject>
+ <dc:subject>Computer Science - Robotics</dc:subject>
+ <dc:subject>Mathematics - Logic</dc:subject>
+ <dc:description>  In this paper, we present an optimization based method for path planning of a
+mobile robot subject to time bounded temporal constraints, in a dynamic
+environment. Temporal logic (TL) can address very complex task specification
+such as safety, coverage, motion sequencing etc. We use metric temporal logic
+(MTL) to encode the task specifications with timing constraints. We then
+translate the MTL formulae into mixed integer linear constraints and solve the
+associated optimization problem using a mixed integer linear program solver.
+This approach is different from the automata based methods which generate a
+finite abstraction of the environment and dynamics, and use an automata
+theoretic approach to formally generate a path that satisfies the TL. We have
+applied our approach on several case studies in complex dynamical environments
+subjected to timed temporal specifications.
+</dc:description>
+ <dc:description>Comment: European Control Conference 2015</dc:description>
+ <dc:date>2015-10-05</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.01261</dc:identifier>
+ <dc:identifier>doi:10.1109/ECC.2015.7330634</dc:identifier>
+ </oai_dc:dc>
+

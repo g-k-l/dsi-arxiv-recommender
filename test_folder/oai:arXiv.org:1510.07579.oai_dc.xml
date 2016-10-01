@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Accurate atomic quantum defects from particle-particle random phase
+  approximation</dc:title>
+ <dc:creator>Yang, Yang</dc:creator>
+ <dc:creator>Burke, Kieron</dc:creator>
+ <dc:creator>Yang, Weitao</dc:creator>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:description>  The accuracy of calculations of atomic Rydberg excitations cannot be judged
+by the usual measures, such as mean unsigned errors of many transitions. We
+show how to use quantum defect theory to (a) separate errors due to approximate
+ionization potentials, (b) extract smooth quantum defects to compare with
+experiment, and (c) quantify those defects with a few characteristic
+parameters. The particle-particle random phase approximation (pp-RPA) produces
+excellent Rydberg transitions that are an order of magnitude more accurate than
+those of time-dependent density functional theory with standard approximations.
+We even extract reasonably accurate defects from the lithium Rydberg series,
+despite the reference being open-shell. Our methodology can be applied to any
+Rydberg series of excitations with 4 transitions or more to extract the
+underlying threshold energy and characteristic quantum defect parameters. Our
+pp-RPA results set a demanding challenge for other excitation methods to match.
+</dc:description>
+ <dc:date>2015-10-26</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.07579</dc:identifier>
+ <dc:identifier>doi:10.1080/00268976.2015.1123316</dc:identifier>
+ </oai_dc:dc>
+

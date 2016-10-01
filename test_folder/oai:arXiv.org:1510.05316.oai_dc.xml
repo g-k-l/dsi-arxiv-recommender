@@ -1,0 +1,25 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Two-Fluid Theory for Spin Superfluidity in Magnetic Insulators</dc:title>
+ <dc:creator>Flebus, B.</dc:creator>
+ <dc:creator>Bender, S. A.</dc:creator>
+ <dc:creator>Tserkovnyak, Y.</dc:creator>
+ <dc:creator>Duine, R. A.</dc:creator>
+ <dc:subject>Condensed Matter - Mesoscale and Nanoscale Physics</dc:subject>
+ <dc:description>  We investigate coupled spin and heat transport in easy-plane magnetic
+insulators. These materials display a continuous phase transition between
+normal and condensate states that is controlled by an external magnetic field.
+Using hydrodynamic equations supplemented by Gross-Pitaevski phenomenology and
+magnetoelectric circuit theory, we derive a two-fluid model to describe the
+dynamics of thermal and condensed magnons, and the appropriate boundary
+conditions in a hybrid normal-metal|magnetic-insulator|normal-metal
+heterostructure. We discuss how the emergent spin superfluidity can be
+experimentally probed via a spin Seebeck effect measurement.
+</dc:description>
+ <dc:date>2015-10-18</dc:date>
+ <dc:date>2015-10-30</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.05316</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 116, 117201 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.116.117201</dc:identifier>
+ </oai_dc:dc>
+

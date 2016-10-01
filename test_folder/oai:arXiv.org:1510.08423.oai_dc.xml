@@ -1,0 +1,26 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Nonlinear Spatial Focusing in Random Layered Media by Spectral Pulse
+  Shaping</dc:title>
+ <dc:creator>Han, Alex C.</dc:creator>
+ <dc:creator>Milner, Valery</dc:creator>
+ <dc:subject>Physics - Optics</dc:subject>
+ <dc:description>  We demonstrate numerically a method of focusing two-photon field inside
+one-dimensional random media. The approach is based on coherent control of
+backscattering achieved by adaptive spectral pulse shaping. The spectral phases
+of a femtosecond laser pulse are adjusted for the constructive interference of
+its backward-traveling components, resulting in an enhanced reflection from
+within the random system. A delayed forward-propagating second pulse overlaps
+with the controlled reflection, increasing the inter-pulse multi-photon field
+at a location determined by the delay between the two pulses. The technique is
+shown to be robust against the variations of the disorder, and to work with
+realistic pulse shaping parameters, hence enabling applications in controlling
+random lasing and multi-photon imaging in scattering materials.
+</dc:description>
+ <dc:description>Comment: 7 pages, 7 figures</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08423</dc:identifier>
+ <dc:identifier>Phys. Rev. A 93, 023839 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevA.93.023839</dc:identifier>
+ </oai_dc:dc>
+

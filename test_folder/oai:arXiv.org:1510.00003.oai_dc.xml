@@ -1,0 +1,23 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>On the Hausdorff Continuity of Free L\`evy Processes and Free
+  Convolution Semigroups</dc:title>
+ <dc:creator>Williams, John D.</dc:creator>
+ <dc:subject>Mathematics - Operator Algebras</dc:subject>
+ <dc:subject>Mathematics - Classical Analysis and ODEs</dc:subject>
+ <dc:subject>Mathematics - Probability</dc:subject>
+ <dc:subject>46L54, 30E20</dc:subject>
+ <dc:description>  Let $\mu$ denote a Borel probability measure and let $\{ \mu_{t} \}_{t\geq
+1}$ denote the free additive convolution semigroup of Nica and Speicher. We
+show that the support of these measures varies continuously in the Hausdorff
+metric for $t &gt;1$. We utilize complex analytic methods and, in particular, a
+characterization of the absolutely continuous portion of these supports due to
+Huang.
+</dc:description>
+ <dc:description>Comment: Small revisions at the referees behest. To be published in the
+  Journal of Mathematical Analysis and its Applications</dc:description>
+ <dc:date>2015-09-30</dc:date>
+ <dc:date>2016-07-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.00003</dc:identifier>
+ </oai_dc:dc>
+

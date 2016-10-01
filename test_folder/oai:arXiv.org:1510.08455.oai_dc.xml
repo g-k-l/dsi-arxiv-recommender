@@ -1,0 +1,27 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Explicit derivation of duality between a free Dirac cone and quantum
+  electrodynamics in (2+1) dimensions</dc:title>
+ <dc:creator>Mross, David F.</dc:creator>
+ <dc:creator>Alicea, Jason</dc:creator>
+ <dc:creator>Motrunich, Olexei I.</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  We explicitly derive the duality between a free electronic Dirac cone and
+quantum electrodynamics in $(2+1)$ dimensions (QED$_3$) with $N = 1$ fermion
+flavors. The duality proceeds via an exact, non-local mapping from electrons to
+dual fermions with long-range interactions encoded by an emergent gauge field.
+This mapping allows us to construct parent Hamiltonians for exotic
+topological-insulator surface phases, derive the particle-hole-symmetric field
+theory of a half-filled Landau level, and nontrivially constrain QED$_3$
+scaling dimensions. We similarly establish duality between bosonic topological
+insulator surfaces and $N = 2$ QED$_3$.
+</dc:description>
+ <dc:description>Comment: 15 pages, 5 figures; added appendix on constructions in strict 2D and
+  properties of N=1 QED3</dc:description>
+ <dc:date>2015-10-28</dc:date>
+ <dc:date>2016-01-11</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08455</dc:identifier>
+ <dc:identifier>Phys. Rev. Lett. 117, 016802 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevLett.117.016802</dc:identifier>
+ </oai_dc:dc>
+

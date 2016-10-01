@@ -1,0 +1,30 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Time-dependent many-body treatment of electron-boson dynamics:
+  application to plasmon-accompanied photoemission</dc:title>
+ <dc:creator>Sch&#252;ler, Michael</dc:creator>
+ <dc:creator>Berakdar, Jamal</dc:creator>
+ <dc:creator>Pavlyukh, Yaroslav</dc:creator>
+ <dc:subject>Condensed Matter - Strongly Correlated Electrons</dc:subject>
+ <dc:description>  Recent experiments access the time-resolved photoelectron signal originating
+from plasmon satellites in correlated materials and address their build-up and
+decay in real time. Motivated by these developments, we present the
+Kadanoff-Baym formalism for the nonequilibrium time evolution of interacting
+fermions and bosons. In contrast to the fermionic case the bosons are described
+by second-order differential equations. Solution of the bosonic Kadanoff-Baym
+equations - which is the central ingredient of this work - requires substantial
+modification of the usual two-times electronic propagation scheme. The solution
+is quite general and can be applied to a number of problems, such as the
+interaction of electrons with quantized photons, phonons and other bosonic
+excitations. Here, the formalism is applied to the photoemission from a deep
+core hole accompanied by plasmon excitation. We compute the time-resolved
+photoelectron spectra and discuss the effects of intrinsic and extrinsic
+electron energy losses and their interference.
+</dc:description>
+ <dc:description>Comment: 14 pages, 6 figures</dc:description>
+ <dc:date>2015-10-29</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.08650</dc:identifier>
+ <dc:identifier>Phys. Rev. B 93, 054303 (2016)</dc:identifier>
+ <dc:identifier>doi:10.1103/PhysRevB.93.054303</dc:identifier>
+ </oai_dc:dc>
+

@@ -1,0 +1,40 @@
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.openarchives.org/OAI/2.0/" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+ <dc:title>Analysis of structural correlations in a model binary 3D liquid through
+  the eigenvalues and eigenvectors of the atomic stress tensors</dc:title>
+ <dc:creator>Levashov, Valentin A.</dc:creator>
+ <dc:subject>Physics - Chemical Physics</dc:subject>
+ <dc:subject>Physics - Computational Physics</dc:subject>
+ <dc:subject>J.2</dc:subject>
+ <dc:description>  It is possible to associate with every atom or molecule in a liquid its own
+atomic stress tensor. These atomic stress tensors can be used to describe
+liquids' structures and to investigate the connection between structural and
+dynamic properties. In particular, atomic stresses allow to address atomic
+scale correlations relevant to the Green-Kubo expression for viscosity.
+Previously correlations between the atomic stresses of different atoms were
+studied using the Cartesian representation of the stress tensors or the
+representation based on spherical harmonics. In this paper we address
+structural correlations in a model 3D binary liquid using the eigenvalues and
+eigenvectors of the atomic stress tensors. Thus correlations relevant to the
+Green-Kubo expression for viscosity are interpreted in a simple geometric way.
+On decrease of temperature the changes in the relevant stress correlation
+function between different atoms are significantly more pronounced than the
+changes in the pair density function. We demonstrate that this behaviour
+originates from the orientational correlations between the eigenvectors of the
+atomic stress tensors. We also found correlations between the eigenvalues of
+the same atomic stress tensor. For the studied system, with purely repulsive
+interactions between the particles, the eigenvalues of every atomic stress
+tensor are positive and they can be ordered: $\lambda_1 \geq \lambda_2 \geq
+\lambda_3 \geq 0$. We found that, for the particles of a given type, the
+probability distributions of the ratios $(\lambda_2/\lambda_1)$ and
+$(\lambda_3/\lambda_2)$ are essentially identical to each other in the liquids
+state. We also found that $\lambda_2$ tends to be equal to the geometric
+average of $\lambda_1$ and $\lambda_3$. In our view, correlations between the
+eigenvalues may represent "the Poisson ratio effect" at the atomic scale.
+</dc:description>
+ <dc:description>Comment: 25 pages, 22 figures</dc:description>
+ <dc:date>2015-10-21</dc:date>
+ <dc:type>text</dc:type>
+ <dc:identifier>http://arxiv.org/abs/1510.06252</dc:identifier>
+ <dc:identifier>doi:10.1063/1.4942863</dc:identifier>
+ </oai_dc:dc>
+
