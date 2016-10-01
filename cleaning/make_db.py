@@ -34,7 +34,7 @@ id_key = os.environ['AWS_ACCESS_KEY_ID']
 secret_key = os.environ['AWS_SECRET_ACCESS_KEY']
 
 conn = S3Connection(id_key, secret_key)
-bucket = conn.create_bucket('arxivmetadata')
+bucket = conn.get_bucket('arxivmetadata')
 
 os.mkdir('./xml_tmp')
 query_template = """INSERT INTO articles
