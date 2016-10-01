@@ -9,28 +9,19 @@ Credits go to https://github.com/sepehr125
 
 root_tag = '{http://purl.org/dc/elements/1.1/}'
 
-def get_fields(file_path):
+def get_fields(body):
     """
-    This calls helper functions below to gather fields from XML file into a tuple.
-    This tuple is used as input to PostgreSQL INSERT command later.
-    Prevents error being raised by exiting early if file is not XML.
 
     Args:
-        file_path (str): Path to XML file
+        body (str): the body of the file
 
     Returns:
         tuple: (title, authors, subject, abstract, last_submitted, arxiv_id)
         bool: False if file is not xml
     """
-
-    if not file_path.endswith('.xml'):
-        return False
-
-    tree = ET.parse(file_path)
+    tree = ET.fromstring(body)
     root = tree.getroot()
-
-    return (get_title(root), get_authors(root), get_subject(root), get_abstract(root),
-            get_last_submitted(root), get_arxiv_id(root))
+    return (get_title(root), get_authors(root), get_subject(root), get_abstract(root), get_last_submitted(root), get_arxiv_id(root))
 
 '''
 INPUT:
@@ -47,13 +38,12 @@ def get_title(root):
     if title: # Make sure title is not None
         return title.text
 
-def get_authors(root, sep='|'):
-    """sep (str): character to separate authors"""
+def get_authors(root):
+    """OUTPUT: List of string of authors"""
     tag = '{http://purl.org/dc/elements/1.1/}creator'
     authors = root.findall(tag)
     if authors:
-        # TODO: switch this with a postgres array object...
-        authors = sep.join([el.text for el in authors])
+        authors = [el.text for el in authors]
         return authors
 
 def get_subject(root):

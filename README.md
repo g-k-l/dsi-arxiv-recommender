@@ -45,17 +45,17 @@ Completed:
 9/30/2016:
 Goals:
 - Final Assessment!
-- Parse metadata XML and store into PSQL. 
+- Parse metadata XML and store into PSQL.
 - Write a script to process the source files
 Completed:
 
 
-Update: 
-~8:40 AM: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
+Update:
+~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
 
 
 Notes:
-- arXiv changed its identifer scheme on March 2007. See https://arxiv.org/help/arxiv_identifier 
+- arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
 - Since SciExplorer is built on post-2007 papers, its parser only handles the new scheme.
 - Therefore we will need to write a parser for the old scheme.
 - http://s3tools.org/usage
@@ -65,10 +65,10 @@ psql --host=arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com --port=5432 --use
 
 ALTER USER "user_name" WITH PASSWORD 'new_password';
 
-
+Put files into folder batches:
+find . -maxdepth 1 -type f |head -1000|xargs cp -t $destdir
 
 Links:
 http://docs.aws.amazon.com/quickstart/latest/mongodb/architecture.html
 
 http://www.aclweb.org/anthology/E14-3011
-
