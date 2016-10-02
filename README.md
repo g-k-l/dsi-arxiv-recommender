@@ -54,9 +54,10 @@
 - Write a script that unpacks and organizes the arXiv source files
 - Write a script that streams data from Postgres for Doc2Ve
 - Do a Doc2Vec test run with a subset of the metadata (~100000) (Possibly impossible)
-
 ####Completed:
-
+- Finished populating database, with the exception of a few pieces of missing data
+- Obtained all of the source files. Currently unpacking.
+- Started the training process for the prototype model. The model is trained on abstracts only.
 
 ###10/2/2016:
 ####Goals:
@@ -71,7 +72,7 @@
 - ~1:00 PM 10/1/2016: Discovered that titles are missing for all entries. Fixing. Note all other columns have been properly populated. Also running a model on 5000 abstracts as a test. This took ~10 secs on a 4 core EC2 instance.
 - ~1:10 PM 10/1/2016: Found the bug in xml_parser.py. When getting title using a root from an elementtree i.e. title = root.find('...'). Even though title.text contains the title string, bool(title) returns False. Hence the get\_title function always returns None, causing me grief. Fix: use if title is not None instead.
 - ~2:30 PM 10/1/2016: finished a script for fixing the titles. Currently running.
-
+- ~8:00 PM 10/1/2016: Started training first model. Unpacking source files. Completed database population.
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
@@ -95,3 +96,7 @@ http://docs.aws.amazon.com/quickstart/latest/mongodb/architecture.html
 http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ebs-using-volumes.html
 
 http://www.aclweb.org/anthology/E14-3011
+
+https://en.support.wordpress.com/markdown-quick-reference/
+
+http://markdownlivepreview.com/
