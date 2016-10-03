@@ -1,7 +1,7 @@
 from sklearn.cluster import KMeans
 from gensim.models.doc2vec import Doc2Vec
 from multiprocessing import Process, cpu_count
-import Threading
+import threading
 import pickle
 
 def cluster_job():
@@ -31,7 +31,4 @@ def cluster_job():
 
 
 if __name__ == '__main__':
-    try:
-        cluster_job()
-    except:
-        print 'Catastrophic failure!'
+    cluster_job()
