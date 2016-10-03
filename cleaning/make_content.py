@@ -69,6 +69,7 @@ def push_one_src(filename, file_path):
             elif copy:
                 s =' '.join([s,line.strip().lower()])
         if copy:
+            s = filter(lambda x: x in string.printable, s)
             cur.execute(update_query, (s, get_arxiv_id(filename)))
             conn.commit()
             print filename, ' Completed'
