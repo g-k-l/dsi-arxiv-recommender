@@ -6,7 +6,7 @@ import pickle
 
 def cluster_job():
     model = Doc2Vec.load('adam.first')
-    docvecs = Doc2Vec.docvecs
+    docvecs = model.docvecs
     n_clusters = xrange(200)
     processes = []
 
