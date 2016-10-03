@@ -62,6 +62,8 @@ def push_one_src(filename, file_path):
                 cur = conn.cursor()
                 cur.execute(update_query, (s, get_arxiv_id(filename)))
                 conn.commit()
+            cur.execute(update_query, (s, get_arxiv_id(filename)))
+            conn.commit()
             print filename, ' Completed'
 
 def get_arxiv_id(filename):
