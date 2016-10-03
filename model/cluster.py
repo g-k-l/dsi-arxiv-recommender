@@ -13,7 +13,9 @@ def cluster_job():
     for i in n_clusters:
         result_list = range(200)
         def kmeans_job(n_clusters, docvecs):
-            result_list[i] = KMeans(n_clusters).fit(docvecs)
+            if n_clusters>4:
+                result_list[i] = KMeans(n_clusters).fit(docvecs)
+            print 'Completed cluster ', n_clusters
 
         if len(processes) == cpu_count():
             map(lambda p: p.join(), processes)
