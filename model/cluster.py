@@ -15,7 +15,7 @@ def cluster_job():
         def kmeans_job(n_clusters, docvecs):
             result_list[i] = KMeans(n_clusters).fit(docvecs)
 
-        if len(processes) == cpu_count:
+        if len(processes) == cpu_count():
             map(lambda p: p.join(), processes)
             processes = []
 
