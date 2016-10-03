@@ -31,7 +31,7 @@ for obj in bucket.objects.all():
     t = threading.Thread(target=update_title, args=(obj,))
     threads.append(t)
     t.start()
-    if len(threads) % 10000 == 0:
+    if len(threads) % 3000 == 0:
         map(lambda t: t.join(), threads)
-        print 'Batch {} completed.'.format(len(threads)/10000)
+        print 'Batch completed.'
         threads = []

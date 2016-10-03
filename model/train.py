@@ -20,12 +20,15 @@ class DocIterator(object):
         with conn.cursor(cursor_factory=DictCursor) as cur:
             # TODO: save names of table and database
             # to a central location. For now, db=arxive and table=articles
-            cur.execute("SELECT * FROM articles LIMIT 5000;")
+            cur.execute("SELECT * FROM articles;")
             for article in cur:
                 try:
                     abstract = article['abstract'].replace('\n', ' ').strip()
                     # train on body, composed of title and abstract
-                    # body = article['title'] + '. '
+                    try:
+		        body = article['title'] + '. '
+                    except:
+                        print 'Title missing for', article['arxiv_id']
                     body = abstract
                     # We want to keep some punctuation, as Word2Vec
                     # considers them useful context
@@ -60,5 +63,5 @@ if __name__ == '__main__':
             workers=n_cpus,
             size=100)
 
-    model.save('~/final_project/adam')
+    model.save('adam.first')
 #    print("Model can be found at %s"%args.path_to_model)
