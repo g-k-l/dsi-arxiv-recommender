@@ -2,6 +2,7 @@ import os
 import string
 import psycopg2
 import threading
+from multiprocessing import Process, cpu_count
 
 '''
 Go into each subfolder, parse the unpacked source files. Put the string on PSQL server.
@@ -13,16 +14,19 @@ def push():
     root_path = '/home/ubuntu/unpacked_src'
     walker = os.walk(root_path)
 
-    threads = []
+    processes = []
     for step in walker:
+        if len(processes) == cpu_count():
+            map(lambda p: p.join(), processes)
+            processes = []
         try:
-            t = threading.Thread(target=push_src, args=(step,))
-            threads.append(t)
-            t.start()
+            p = Process(target=push_src, args=(step,))
+            processes.append(p)
+            p.start()
         except:
             print 'Critical Failure inside folder: ', step[0]
             print 'Exiting...'
-    print 'Made all threads.'
+    print 'Made all processes.'
 
 def push_src(step):
     threads = []
@@ -63,6 +67,7 @@ def push_one_src(filename, file_path):
                 cur.execute(update_query, (s, get_arxiv_id(filename)))
                 conn.commit()
             print filename, ' Completed'
+        print 'Nothing to copy for ', filename
 
 def get_arxiv_id(filename):
     root_url = 'http://arxiv.org/abs/'
