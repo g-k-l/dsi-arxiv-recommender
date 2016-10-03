@@ -61,9 +61,14 @@
 
 ###10/2/2016:
 ####Goals:
+- Play around with adam, our first model. It was trained only with the abstracts and titles of the articles. I should also mention that no preprocessing was done on the input (i.e. no stemming, removing stopwords, and other good ideas).
+- Consider some decision processes for the recommender, and possibly implement onne.
+- Read papers on Word2Vec as implicit matrix factorization.
 
 ####Completed:
-
+-
+-
+-
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
