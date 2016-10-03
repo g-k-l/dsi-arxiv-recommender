@@ -62,13 +62,20 @@
 ###10/2/2016:
 ####Goals:
 - Play around with adam, our first model. It was trained only with the abstracts and titles of the articles. I should also mention that no preprocessing was done on the input (i.e. no stemming, removing stopwords, and other good ideas).
-- Consider some decision processes for the recommender, and possibly implement onne.
+- Consider some decision processes for the recommender, and possibly implement one.
 - Read papers on Word2Vec as implicit matrix factorization.
 
 ####Completed:
--
--
--
+- Played around with adam.
+- Clarified clustering process.
+
+###10/3/2016:
+- Begin pushing article content to Postgres.
+- Work on clustering document vectors for the first model (adam).
+
+####Completed:
+- Began the process of pushing article content to Postgres. This is going to take a very long time. I hope nothing bad happens.
+
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
@@ -78,6 +85,8 @@
 - ~1:10 PM 10/1/2016: Found the bug in xml_parser.py. When getting title using a root from an elementtree i.e. title = root.find('...'). Even though title.text contains the title string, bool(title) returns False. Hence the get\_title function always returns None, causing me grief. Fix: use if title is not None instead.
 - ~2:30 PM 10/1/2016: finished a script for fixing the titles. Currently running.
 - ~8:00 PM 10/1/2016: Started training first model. Unpacking source files. Completed database population.
+- ~1:20 PM 10/3/2016: Unpacking complete. Processing content and putting it on postgres (very slow... will take days to finish. how to make this faster?)
+
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
