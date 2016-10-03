@@ -10,7 +10,7 @@ TODO: Separate handling for pdf files.
 
 def push():
     print 'Starting...'
-    root_path = '/home/gkliu/repo/final_project/test_folder/'
+    root_path = '/home/ubuntu/unpacked_src'
     walker = os.walk(root_path)
 
     threads = []
@@ -19,10 +19,6 @@ def push():
             t = threading.Thread(target=push_src, args=(step,))
             threads.append(t)
             t.start()
-            if len(threads) % 30 == 0:
-                map(lambda t: t.join(), threads)
-                print 'Batch completed.'
-                threads = []
         except:
             print 'Critical Failure inside folder: ', step[0]
             print 'Exiting...'
@@ -35,11 +31,6 @@ def push_src(step):
             t = threading.Thread(target=push_one_src, args=(filename,step[0]))
             threads.append(t)
             t.start()
-
-            if len(threads) == 100:
-                map(lambda t: t.join(), threads)
-                print 'Threads full.'
-                threads = []
         except:
             print 'Critical Failure at file: ', filename
 
@@ -53,11 +44,7 @@ def push_one_src(filename, file_path):
     s = ''
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
 
-    with open('/'.join([file_path, filename]), 'r') as src, psycopg2.connect(
-                host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-                user='root', password='1873', database='arxivpsql') as conn:
-
-        cur = conn.cursor()
+    with open('/'.join([file_path, filename]), 'r') as src:
         copy = False
         for line in src:
             if 'begin{document}' in line.lower():
@@ -69,8 +56,12 @@ def push_one_src(filename, file_path):
             elif copy:
                 s =' '.join([s,line.strip().lower()])
         if copy:
-            cur.execute(update_query, (s, get_arxiv_id(filename)))
-            conn.commit()
+            s = filter(lambda x: x in string.printable, s)
+            with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
+                user='root', password='1873', database='arxivpsql') as conn:
+                cur = conn.cursor()
+                cur.execute(update_query, (s, get_arxiv_id(filename)))
+                conn.commit()
             print filename, ' Completed'
 
 def get_arxiv_id(filename):
