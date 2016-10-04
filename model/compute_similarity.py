@@ -9,7 +9,7 @@ from gensim.models.doc2vec import Doc2Vec
 print 'Starting'
 
 model = Doc2Vec.load('adam.first')
-doc_vecs = np.array(Doc2Vec.docvecs())
+doc_vecs = np.array(Doc2Vec.docvecs
 n_vecs = len(doc_vecs)
 
 print 'Loaded.'
