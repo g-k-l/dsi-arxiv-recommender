@@ -44,44 +44,27 @@ def push_one_src(filename, file_path):
 
     s = ''
     path = '/'.join([file_path, filename])
-    w_path = path + '__processed'
-    detex_path = w_path + '__detexed'
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
-    copy = False
 
     if '.pdf' in filename:
-        copy=True
-
         s = conv_pdf(path)
     else:
-        with open(path, 'r') as src:
+        detex_path = path + '__detexed'
+        detex_filename = filename + '__detexed'
+        os.system('sudo detex {} > {}'.format(filename, detex_filename))
+        with open(detex_path, 'r') as src:
             for line in src:
-                if '\begin{document}' in line.lower():
-                    copy = True
-                    s += '\being{document}'
-                elif '\end{document}' in line.lower():
-                    s += '\end{document}'
-                    break
-                elif copy:
-                    s =' '.join([s,line.strip().lower()])
-    if copy:
-        s = filter(lambda x: x in string.printable, s)
-        with open(w_path, 'w') as f:
-            f.write(s)
-        os.system('sudo detex {} > {}'.format(w_path, detex_path))
-        with open(w_path, 'r' ) as f:
-            s = f.read()
-            print s
-        os.system('sudo rm {}'.format(w_path))
+                s =' '.join([s,line.strip().lower()])
+        os.system('sudo rm {}'.format(detex_path))
 
-        with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-            user='root', password='1873', database='arxivpsql') as conn:
-            cur = conn.cursor()
-            cur.execute(update_query, (s, get_arxiv_id(filename)))
-            conn.commit()
-        print filename, ' Completed'
-    else:
-        print 'Nothing to copy for ', filename
+    s = filter(lambda x: x in string.printable, s)
+
+    with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
+        user='root', password='1873', database='arxivpsql') as conn:
+        cur = conn.cursor()
+        cur.execute(update_query, (s, get_arxiv_id(filename)))
+        conn.commit()
+    print filename, ' Completed'
 
 def get_arxiv_id(filename):
     root_url = 'http://arxiv.org/abs/'

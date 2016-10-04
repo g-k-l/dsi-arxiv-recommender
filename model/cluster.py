@@ -27,10 +27,13 @@ def cluster_job():
     if len(processes) != 0:
         map(lambda p: p.join(), processes)
 
+    return result_list
+
+def pickle_dump(result_list):
     with open('kmeans_models.pkl', 'wb') as f:
         pickle.dump(result_list,f)
     print 'Job Completed.'
 
 
 if __name__ == '__main__':
-    cluster_job()
+    pickle_dump(cluster_job())

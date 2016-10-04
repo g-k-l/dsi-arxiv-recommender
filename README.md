@@ -86,7 +86,8 @@
 - ~2:30 PM 10/1/2016: finished a script for fixing the titles. Currently running.
 - ~8:00 PM 10/1/2016: Started training first model. Unpacking source files. Completed database population.
 - ~1:20 PM 10/3/2016: Unpacking complete. Processing content and putting it on postgres (very slow... will take days to finish. how to make this faster?)
-
+- ~4:30 PM 10/3/2016: Pushing content to postgres is unbearably slow. The estimate is that it will take over 2 weeks to finish (not good...). Running KMeans clustering on abstracts is going very slowly as well. We are looking at days here. Potential solutions: use a strong machine or setup spark cluster.
+- 5:30 PM 10/3/2016: Decided to shift the postgres pushing job to a more powerful EC2 instance. Priority starting now should be to launch a spark cluster that can do the clustering job (single machine takes ~1 hour to run 15 kmeans clusters, that means ~15 hours to run 200 kmean clusters. That is stupid.)
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
