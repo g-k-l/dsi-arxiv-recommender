@@ -45,6 +45,7 @@ def push_one_src(filename, file_path):
     s = ''
     path = '/'.join([file_path, filename])
     w_path = path + '__processed'
+    detex_path = w_path + '__detexed'
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
     copy = False
 
@@ -67,9 +68,10 @@ def push_one_src(filename, file_path):
         s = filter(lambda x: x in string.printable, s)
         with open(w_path, 'w') as f:
             f.write(s)
-        os.system('sudo detex {} > {}'.format(w_path, w_path))
+        os.system('sudo detex {} > {}'.format(w_path, detex_path))
         with open(w_path, 'r' ) as f:
             s = f.read()
+            print s
         os.system('sudo rm {}'.format(w_path))
 
         with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
