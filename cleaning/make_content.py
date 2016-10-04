@@ -67,7 +67,7 @@ def push_one_src(filename, file_path):
         s = filter(lambda x: x in string.printable, s)
         with open(w_path, 'w') as f:
             f.write(s)
-        os.system('sudo detex {} > {}').format(w_path, w_path)
+        os.system('sudo detex {} > {}'.format(w_path, w_path))
         with open(w_path, 'r' ) as f:
             s = f.read()
         os.system('sudo rm {}'.format(w_path))
