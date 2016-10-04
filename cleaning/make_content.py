@@ -49,15 +49,16 @@ def push_one_src(filename, file_path):
     if '.pdf' in filename:
         s = conv_pdf(path)
     else:
+        with open(filename, 'r') as src:
+            for line in src:
+                s ='\n'.join([s,line.strip().lower()])
         detex_path = path + '__detexed'
         detex_filename = filename + '__detexed'
         os.system('sudo detex {} > {}'.format(filename, detex_filename))
-        with open(detex_path, 'r') as src:
-            for line in src:
-                s =' '.join([s,line.strip().lower()])
+
         os.system('sudo rm {}'.format(detex_path))
 
-    s = filter(lambda x: x in string.printable, s)
+    # s = filter(lambda x: x in string.printable, s)
 
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
         user='root', password='1873', database='arxivpsql') as conn:
