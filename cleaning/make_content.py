@@ -56,11 +56,11 @@ def push_one_src(filename, file_path):
     else:
         with open(path, 'r') as src:
             for line in src:
-                if 'begin{document}' in line.lower():
+                if '\begin{document}' in line.lower():
                     copy = True
-                    s += 'being{document}'
-                elif 'end{document}' in line.lower():
-                    s += 'end{document}'
+                    s += '\being{document}'
+                elif '\end{document}' in line.lower():
+                    s += '\end{document}'
                     break
                 elif copy:
                     s =' '.join([s,line.strip().lower()])
