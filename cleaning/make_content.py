@@ -2,6 +2,7 @@ import os
 import string
 import psycopg2
 import threading
+from pdf_to_text import convert_pdf_to_txt as conv_pdf
 from multiprocessing import Process, cpu_count
 
 '''
@@ -41,32 +42,43 @@ def push_src(step):
 
 def push_one_src(filename, file_path):
 
-    if '.pdf' in filename:
-        print 'Skipping: {} is a pdf file.'.format(filename)
-        return
-
     s = ''
+    path = '/'.join([file_path, filename])
+    w_path = path + '__processed'
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
+    copy = False
 
-    with open('/'.join([file_path, filename]), 'r') as src:
-        copy = False
-        for line in src:
-            if 'begin{document}' in line.lower():
-                copy = True
-                s += 'being{document}'
-            elif 'end{document}' in line.lower():
-                s += 'end{document}'
-                break
-            elif copy:
-                s =' '.join([s,line.strip().lower()])
-        if copy:
-            s = filter(lambda x: x in string.printable, s)
-            with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-                user='root', password='1873', database='arxivpsql') as conn:
-                cur = conn.cursor()
-                cur.execute(update_query, (s, get_arxiv_id(filename)))
-                conn.commit()
-            print filename, ' Completed'
+    if '.pdf' in filename:
+        copy=True
+
+        s = conv_pdf(path)
+    else:
+        with open(path, 'r') as src:
+            for line in src:
+                if 'begin{document}' in line.lower():
+                    copy = True
+                    s += 'being{document}'
+                elif 'end{document}' in line.lower():
+                    s += 'end{document}'
+                    break
+                elif copy:
+                    s =' '.join([s,line.strip().lower()])
+    if copy:
+        s = filter(lambda x: x in string.printable, s)
+        with open(w_path, 'w') as f:
+            f.write(s)
+        os.system('sudo detex {} > {}').format(w_path, w_path)
+        with open(w_path, 'r' ) as f:
+            s = f.read()
+        os.system('sudo rm {}'.format(w_path))
+
+        with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
+            user='root', password='1873', database='arxivpsql') as conn:
+            cur = conn.cursor()
+            cur.execute(update_query, (s, get_arxiv_id(filename)))
+            conn.commit()
+        print filename, ' Completed'
+    else:
         print 'Nothing to copy for ', filename
 
 def get_arxiv_id(filename):

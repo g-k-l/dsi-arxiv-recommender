@@ -11,7 +11,6 @@ root_tag = '{http://purl.org/dc/elements/1.1/}'
 
 def get_fields(body):
     """
-
     Args:
         body (str): the body of the file
 
