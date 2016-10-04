@@ -27,7 +27,7 @@
 - Decided that harvest.py should contain processing before moving the data to S3.
 
 ###9/29/2016:
-####Goals: 
+####Goals:
   - DATABASE. PROPOSAL.
   - Parse metadata XML into JSON. Store in DB on AWS. (PRIORITY)
   - Find out whether it would be possible to match the raw text with the metadata via file name and perm. link.
@@ -77,6 +77,22 @@
 - Began the process of pushing article content to Postgres. This is going to take a very long time. I hope nothing bad happens.
 
 
+
+###10/4/2016:
+- There were many difficulties today. I underestimated the task of properly parsing latex files. Generally speaking it is a fairly difficult task with high variance in results. More specifically, some files will be stripped bare while others remain extremely noisy. I expect very little of the processed data will be usable (say ~10%).
+- Clustering in high dimensions is very slow and difficult (curse of dimensionality). It takes roughly 1 hour to run a 15-cluster KMeans++ on the first model. Assuming the computational complexity scales linearly with clusters, it will take ~13-15 hours to train a 200-cluster KKmeans++ model. This is not necessarily prohibitive, but I think we can run a Spark cluster to reduce this run time significantly.
+- And I am writing this on a lab computer because I left my laptop charger at home. Great way to start the day, I know.
+####Goals:
+- Start a Spark cluster and investigate hierarchical clustering/graph-based community detection.
+- Examine the decision process of SciExplorer's recommendation system.
+- Monitor the progress of processing the latex files and upload to postgres.
+####Completed:
+- !
+- !
+- !
+
+
+
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
 - ~12:20 AM 10/1/2016: Currently inserted 10000 rows into Postgres.
@@ -88,6 +104,7 @@
 - ~1:20 PM 10/3/2016: Unpacking complete. Processing content and putting it on postgres (very slow... will take days to finish. how to make this faster?)
 - ~4:30 PM 10/3/2016: Pushing content to postgres is unbearably slow. The estimate is that it will take over 2 weeks to finish (not good...). Running KMeans clustering on abstracts is going very slowly as well. We are looking at days here. Potential solutions: use a strong machine or setup spark cluster.
 - 5:30 PM 10/3/2016: Decided to shift the postgres pushing job to a more powerful EC2 instance. Priority starting now should be to launch a spark cluster that can do the clustering job (single machine takes ~1 hour to run 15 kmeans clusters, that means ~15 hours to run 200 kmean clusters. That is stupid.)
+- 10:30 AM 10/4/2016: Realized that hierarchical clustering cannot be easily parallelized, hence there is currently not Spark implementation. Proceeding with KMeans for 200 clusters. If I can get the centroids, I can have a more effective way of filtering out papers.
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
@@ -104,6 +121,10 @@ ALTER USER "user_name" WITH PASSWORD 'new_password';
 
 Put files into folder batches:
 find . -maxdepth 1 -type f |head -1000|xargs cp -t $destdir
+
+~/spark-1.5.0-bin-hadoop1/ec2/spark-ec2 -k large_test -i ~/.ssh/large_test.pem -r us-east-1 -s 6 --copy-aws-credentials --ebs-vol-size=64 launch my_cluster
+
+scp -i ~/.ssh/large_test.pem ~/spark-aws root@ec2-52-87-192-172.compute-1.amazonaws.com/root/.
 
 Links:
 http://docs.aws.amazon.com/quickstart/latest/mongodb/architecture.html
