@@ -1,11 +1,16 @@
 Host aws_remote
-    HostName ec2-54-164-89-104.compute-1.amazonaws.com
+    HostName ec2-54-86-136-133.compute-1.amazonaws.com
     User ubuntu
     IdentityFile ~/.ssh/large_test.pem
 
 Host aws_remote_super
     HostName ec2-54-224-214-110.compute-1.amazonaws.com
     User ubuntu
+    IdentityFile ~/.ssh/large_test.pem
+
+Host aws_master
+    HostName ec2-54-174-96-142.compute-1.amazonaws.com
+    User root
     IdentityFile ~/.ssh/large_test.pem
 
 Host personal_site
