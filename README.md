@@ -113,6 +113,8 @@
 - 5:30 PM 10/3/2016: Decided to shift the postgres pushing job to a more powerful EC2 instance. Priority starting now should be to launch a spark cluster that can do the clustering job (single machine takes ~1 hour to run 15 kmeans clusters, that means ~15 hours to run 200 kmean clusters. That is stupid.)
 - 10:30 AM 10/4/2016: Realized that hierarchical clustering cannot be easily parallelized, hence there is currently not Spark implementation. Proceeding with KMeans for 200 clusters. If I can get the centroids, I can have a more effective way of filtering out papers.
 - 9:30 PM 10/4/2016: Current Postgres content count is ~334000 non-nulls.
+- 10:00 AM 10/5/2016: For 1000 entries: runtime for doing cosine similarity computation was ~45 seconds. The collection time was ~9 seconds. EC2 instance: r3.2xlarge.
+- 12:15 PM 10/5/2016: Index in postgres is off by 2098
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
