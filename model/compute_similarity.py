@@ -62,18 +62,19 @@ def one_iter(sc):
 
 def output_adj_list(entries):
 
-    def adj_list_helper(limits, order):
+    def adj_list_helper(limits, order): 
         with open('graph_part_{}.txt'.format(order), 'w') as f:
+            print limits
             for idx in xrange(limits[0], limits[1]):
-                f.write('{} {} {}'.format(entries[idx].i, entries[idx].j, entries[idx].value))
+                f.write('{} {} {}\n'.format(entries[idx].i, entries[idx].j, entries[idx].value))
 
     parts = cpu_count()
-    part_size = len(entries)/float(cpu_count())
+    part_size = len(entries)/parts
     for order in xrange(parts):
         limits = [part_size*order, part_size*(order+1)]
         if limits[1] >= len(entries):
-            limits[1] = None
-        p = Process(target=adj_list_helper, args=limits)
+            limits[1] = len(entries)
+        p = Process(target=adj_list_helper, args=(limits,order))
         p.start()
 
 if __name__ == '__main__':
