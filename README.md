@@ -77,9 +77,8 @@
 - Began the process of pushing article content to Postgres. This is going to take a very long time. I hope nothing bad happens.
 
 
-
 ###10/4/2016:
-- There were many difficulties today. I underestimated the task of properly parsing latex files. Generally speaking it is a fairly difficult task with high variance in results. More specifically, some files will be stripped bare while others remain extremely noisy. I expect very little of the processed data will be usable (say ~10%).
+- There were many difficulties yesterday. I underestimated the task of properly parsing latex files. Generally speaking it is a fairly difficult task with high variance in results. More specifically, some files will be stripped bare while others remain extremely noisy. I expect very little of the processed data will be usable (say ~10%).
 - Clustering in high dimensions is very slow and difficult (curse of dimensionality). It takes roughly 1 hour to run a 15-cluster KMeans++ on the first model. Assuming the computational complexity scales linearly with clusters, it will take ~13-15 hours to train a 200-cluster KKmeans++ model. This is not necessarily prohibitive, but I think we can run a Spark cluster to reduce this run time significantly.
 - And I am writing this on a lab computer because I left my laptop charger at home. Great way to start the day, I know.
 ####Goals:
@@ -87,9 +86,17 @@
 - Examine the decision process of SciExplorer's recommendation system.
 - Monitor the progress of processing the latex files and upload to postgres.
 ####Completed:
-- !
-- !
-- !
+- Python igraph has a VertexClustering class which is basically what I've been looking for. There is also Spark Louvain for community detection.
+- Studied up on Spark. Upgraded to the most recent version and found out about RDD-based matrix operations (see RowMatrix and CoordinateMatrix).
+- Updated approach for community detection: get cosine similarity via Spark. Drop low similarity entries (threshold TBD). Build graph using document as nodes and similarity scores as weighted edges. Run igraph VertexClustering on graph. Compute the centroid of each cluster with the document vectors. Paper recommendation can be made by inferring vector from the query and comparing the query vector with the centroids.
+
+###10/5/2016:
+####Goals:
+- Write a script and start the cosine similarity computation on Spark-ec2 cluster.
+- Investigate more on igraph and Spark Louvain
+- 
+####Completed:
+- 
 
 
 
@@ -105,12 +112,13 @@
 - ~4:30 PM 10/3/2016: Pushing content to postgres is unbearably slow. The estimate is that it will take over 2 weeks to finish (not good...). Running KMeans clustering on abstracts is going very slowly as well. We are looking at days here. Potential solutions: use a strong machine or setup spark cluster.
 - 5:30 PM 10/3/2016: Decided to shift the postgres pushing job to a more powerful EC2 instance. Priority starting now should be to launch a spark cluster that can do the clustering job (single machine takes ~1 hour to run 15 kmeans clusters, that means ~15 hours to run 200 kmean clusters. That is stupid.)
 - 10:30 AM 10/4/2016: Realized that hierarchical clustering cannot be easily parallelized, hence there is currently not Spark implementation. Proceeding with KMeans for 200 clusters. If I can get the centroids, I can have a more effective way of filtering out papers.
+- 9:30 PM 10/4/2016: Current Postgres content count is ~334000 non-nulls.
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
 - Since SciExplorer is built on post-2007 papers, its parser only handles the new scheme.
 - Therefore we will need to write a parser for the old scheme.
-- Turns out it is not necessary to write a new parser.
+- Turns out it is not necessary to write a new parser. It is easy enough to handle both classification schemes.
 - http://s3tools.org/usage
 - It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
 
