@@ -92,11 +92,12 @@
 
 ###10/5/2016:
 ####Goals:
+- Figure out how to actually recover the document from the docvector.
 - Write a script and start the cosine similarity computation on Spark-ec2 cluster.
+- Outputs the cosine similarity of doc vectors as an adjacency matrix
 - Investigate more on igraph and Spark Louvain
-- 
 ####Completed:
-- 
+- Retrained the initial model. Modified the document tags so that I can actually recover the documents from their vectors. Recovering process: the i,j-th element of the cosine similarity matrix is similarity of document vector i and document vector j. Use model.docvecs.index_to_doctag(i) (and the same for j)
 
 
 
@@ -123,6 +124,11 @@
 - Turns out it is not necessary to write a new parser. It is easy enough to handle both classification schemes.
 - http://s3tools.org/usage
 - It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
+
+
+
+
+
 
 AWS PostgreSQL DB:
 psql --host=arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com --port=5432 --username=root --password --dbname=arxivpsql
