@@ -63,7 +63,7 @@ def one_iter(sc):
 def output_adj_list(entries):
 
     def adj_list_helper(limits, order):
-        with open('graph_part_{}.txt'.format(order) 'w') as f:
+        with open('graph_part_{}.txt'.format(order), 'w') as f:
             for idx in xrange(limits[0], limits[1]):
                 f.write('{} {} {}'.format(entries[idx].i, entries[idx].j, entries[idx].value))
 
@@ -73,13 +73,12 @@ def output_adj_list(entries):
         limits = [part_size*order, part_size*(order+1)]
         if limits[1] >= len(entries):
             limits[1] = None
-        p = Process(target=adj_list_helper, limits)
+        p = Process(target=adj_list_helper, args=limits)
         p.start()
 
 if __name__ == '__main__':
     print 'Starting'
     sc = ps.SparkContext('local[{}]'.format(cpu_count()))
     result,idx_selected=one_iter(sc)
-    get_stats(result)
     print 'Writing matrix to files'
     output_adj_list(result)
