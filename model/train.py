@@ -45,6 +45,6 @@ if __name__ == '__main__':
         model = Doc2Vec(
             documents=doc_iterator,
             workers=n_cpus,
-            size=300)
+            size=100)
 
     model.save('second_model')
