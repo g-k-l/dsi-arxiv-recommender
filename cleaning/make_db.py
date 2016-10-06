@@ -17,11 +17,9 @@ sql_create = """CREATE TABLE IF NOT EXISTS articles (
 cur.execute(sql_create)
 conn.commit()
 
-
-
 '''
 Parse XML file and store in Postgres
-Comment: psycopg2 connection is thread safe, but not multiprocess safe
+Comment: psycopg2 connection is thread safe, but not multiprocess safe ?
 '''
 
 import os

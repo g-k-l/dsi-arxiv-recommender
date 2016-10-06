@@ -99,13 +99,17 @@
 ####Completed:
 - Retrained the initial model. Modified the document tags so that I can actually recover the documents from their vectors. Recovering process: the i,j-th element of the cosine similarity matrix is similarity of document vector i and document vector j. Use model.docvecs.index_to_doctag(i) (and the same for j)
 - Confirmed that the second model does have a correspondence between doc vector index position and the arxiv_id (sigh of relief).
-- 
+- Fixed spark installation issue on some of the ec2 instances (there was a mistake on JAVA_PATH. Surprisingly simple)
+- Attempted to compute the similarity matrix (of a randomly selected subset) with a single r3.8xlarge instance. Insufficient memory. 
 
 
 ###10/6/2016:
 ####Goals:
-
+- Complete the backend pipeline for a subset of the data. Take 100,000 articles at random from the model, compute pairwise similarity, do community detection using pairwise similarity, compute average of all document vectors for each community. Input test query, infer vector with gensim, compare query vector with 'community centers'. Take only second most similar (this decision is arbitrary), take most similar vectors in that category.
+- 'nuff said.
 ####Completed:
+-
+-
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
