@@ -23,7 +23,7 @@ def one_iter(sc, model, threshold=0, compute_threshold=0,test=True):
         idx_selected (np.array): an ordered list of which vectors were selected, if
             we calculated cosine similarity for only a subset of the doc vectors.
     '''
-    rowmat, idx_selected = get_row_matrix(sc, modelname, test)
+    rowmat, idx_selected = get_row_matrix(sc, model, test)
     col_sims_mat = rowmat.columnSimilarities(compute_threshold)
     col_sims = col_sims_mat.entries.filter(threshold_filter(0))
     result = col_sims.collect()
@@ -37,6 +37,7 @@ def get_row_matrix(sc, model, test):
     n_rows = docvecs.shape[0]
     if not test:
         mat_rdd = sc.parallelize(docvecs)
+	idx_selected = None
     else:
         idx_selected = np.random.choice(np.arange(docvecs.shape[1]),size=1000,replace=False)
         mat_rdd = sc.parallelize(docvecs[:,idx_selected])
@@ -84,8 +85,8 @@ def get_arxiv_id(model, index, idx_selected=None):
 
 if __name__ == '__main__':
     print 'Starting'
-    model = Doc2Vec.load('adam.first')
+    model = Doc2Vec.load('second_model')
     sc = ps.SparkContext('local[{}]'.format(cpu_count()))
-    result,idx_selected=one_iter(sc, model)
+    result,idx_selected=one_iter(sc, model, threshold=0.05, compute_threshold=0.1,test=False)
     print 'Writing matrix to files'
     output_adj_list(result)
