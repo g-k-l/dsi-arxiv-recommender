@@ -18,7 +18,7 @@ def one_iter(sc, model, threshold=0, compute_threshold=0,test=True):
         compute_threshold: this is the threshold placed in columnSimilarities
         test: if True, select a subset of 1000-vectors
     OUTPUT:
-        result (list): list of MatrixEntries, containing the indices of the vector
+        col_sims (rdd): rdd of MatrixEntries, containing the indices of the vector
             pair along with the cosine similarity of the pair
         idx_selected (np.array): an ordered list of which vectors were selected, if
             we calculated cosine similarity for only a subset of the doc vectors.
@@ -26,8 +26,7 @@ def one_iter(sc, model, threshold=0, compute_threshold=0,test=True):
     rowmat, idx_selected = get_row_matrix(sc, model, test)
     col_sims_mat = rowmat.columnSimilarities(compute_threshold)
     col_sims = col_sims_mat.entries.filter(threshold_filter(0))
-    result = col_sims.collect()
-    return result, idx_selected
+    return col_sims, idx_selected
 
 def get_row_matrix(sc, model, test):
     '''
@@ -39,7 +38,7 @@ def get_row_matrix(sc, model, test):
         mat_rdd = sc.parallelize(docvecs)
 	idx_selected = None
     else:
-        idx_selected = np.random.choice(np.arange(docvecs.shape[1]),size=1000,replace=False)
+        idx_selected = np.random.choice(np.arange(docvecs.shape[1]),size=100000,replace=False)
         mat_rdd = sc.parallelize(docvecs[:,idx_selected])
     mat = RowMatrix(mat_rdd, n_rows)
     return mat, idx_selected
@@ -57,7 +56,7 @@ def threshold_filter(threshold):
 def output_adj_list(entries):
     '''
     INPUT:
-        entries (list): This is a list of spark MatrixEntries
+        entries (list): This is a list of MatrixEntries
     OUTPUT:
         None. But writes out the matrix entries as text files in format readable
         by networkx (as a weighted adjacency list)
@@ -87,6 +86,7 @@ if __name__ == '__main__':
     print 'Starting'
     model = Doc2Vec.load('second_model')
     sc = ps.SparkContext('local[{}]'.format(cpu_count()))
-    result,idx_selected=one_iter(sc, model, threshold=0.05, compute_threshold=0.1,test=False)
+    col_sims,idx_selected=one_iter(sc, model, threshold=0.05, compute_threshold=0.1,test=True)
     print 'Writing matrix to files'
-    output_adj_list(result)
+    #output_adj_list(result)
+    col_sims.saveAsTextFile('matrixentries_test')
