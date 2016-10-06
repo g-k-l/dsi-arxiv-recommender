@@ -83,7 +83,7 @@ def get_arxiv_id(model, index, idx_selected=None):
 
 if __name__ == '__main__':
     print 'Starting'
-    model = Doc2Vec.load(sys.argv[0])
+    model = Doc2Vec.load(str(sys.argv[0]))
     sc = ps.SparkContext('local[{}]'.format(cpu_count()))
     result,idx_selected=one_iter(sc, model)
     print 'Writing matrix to files'
