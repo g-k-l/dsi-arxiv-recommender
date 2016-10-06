@@ -106,7 +106,7 @@
 ###10/6/2016:
 ####Goals:
 - Complete the backend pipeline for a subset of the data. Take 100,000 articles at random from the model, compute pairwise similarity, do community detection using pairwise similarity, compute average of all document vectors for each community. Input test query, infer vector with gensim, compare query vector with 'community centers'. Take only second most similar (this decision is arbitrary), take most similar vectors in that category.
-- 'nuff said.
+- Some method of stratified sampling.
 ####Completed:
 -
 -
@@ -128,6 +128,7 @@
 - 12:15 PM 10/5/2016: Index in postgres is off by 2098. This is not a reliable way to keep track of the correspondence between doc vectors and database articles.
 - Middle of 10/5/2016: My training process kept getting killed: out of memory. Note to self: training the abstract model requires ~110 gb of RAM (peak).
 - 9:00 PM 10/5/2016: Finished training another model that has tags. Hopefully this will resolve the doc vec and articles correspondence issue. Current content-to-postgres progress: ~688k.
+- 12:00 PM 10/6/2016: Make sure to set which disk for spark to put /tmp files. Otherwise you will run out of disk space.
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
