@@ -98,8 +98,14 @@
 - Investigate more on igraph and Spark Louvain
 ####Completed:
 - Retrained the initial model. Modified the document tags so that I can actually recover the documents from their vectors. Recovering process: the i,j-th element of the cosine similarity matrix is similarity of document vector i and document vector j. Use model.docvecs.index_to_doctag(i) (and the same for j)
+- Confirmed that the second model does have a correspondence between doc vector index position and the arxiv_id (sigh of relief).
+- 
 
 
+###10/6/2016:
+####Goals:
+
+####Completed:
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
@@ -115,7 +121,9 @@
 - 10:30 AM 10/4/2016: Realized that hierarchical clustering cannot be easily parallelized, hence there is currently not Spark implementation. Proceeding with KMeans for 200 clusters. If I can get the centroids, I can have a more effective way of filtering out papers.
 - 9:30 PM 10/4/2016: Current Postgres content count is ~334000 non-nulls.
 - 10:00 AM 10/5/2016: For 1000 entries: runtime for doing cosine similarity computation was ~45 seconds. The collection time was ~9 seconds. EC2 instance: r3.2xlarge.
-- 12:15 PM 10/5/2016: Index in postgres is off by 2098
+- 12:15 PM 10/5/2016: Index in postgres is off by 2098. This is not a reliable way to keep track of the correspondence between doc vectors and database articles.
+- Middle of 10/5/2016: My training process kept getting killed: out of memory. Note to self: training the abstract model requires ~110 gb of RAM (peak).
+- 9:00 PM 10/5/2016: Finished training another model that has tags. Hopefully this will resolve the doc vec and articles correspondence issue. Current content-to-postgres progress: ~688k.
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
@@ -124,11 +132,12 @@
 - Turns out it is not necessary to write a new parser. It is easy enough to handle both classification schemes.
 - http://s3tools.org/usage
 - It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
+- What to do once you get the communities? Give postgres a new column called community_id? 
+- There is no guarantee that community detection will give desirable clusters, but we don't know until we try it (as with almost everything in this project).
 
 
 
-
-
+git config --global credential.helper cache
 
 AWS PostgreSQL DB:
 psql --host=arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com --port=5432 --username=root --password --dbname=arxivpsql

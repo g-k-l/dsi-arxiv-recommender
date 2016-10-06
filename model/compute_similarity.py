@@ -81,6 +81,7 @@ def get_arxiv_id(model, index, idx_selected=None):
         return model.docvecs.index_to_doctag(idx_selected[index])
     return model.docvecs.index_to_doctag(index)
 
+
 if __name__ == '__main__':
     print 'Starting'
     model = Doc2Vec.load('adam.first')
