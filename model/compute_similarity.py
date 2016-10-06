@@ -1,18 +1,37 @@
 import os
-from time import time
 import numpy as np
-from multiprocessing import Process, cpu_count
-from threading import Thread
-from gensim.models.doc2vec import Doc2Vec
 import pyspark as ps
 from pyspark.mllib.linalg.distributed import RowMatrix
-import matplotlib.pyplot as plt
-import seaborn
+from gensim.models.doc2vec import Doc2Vec
+from multiprocessing import Process, cpu_count
+from threading import Thread
 
 '''Compute the similarity of the document vectors.'''
 
-def get_row_matrix(sc, model='adam.first',test=True):
-    model = Doc2Vec.load(model)
+def one_iter(sc, model, threshold=0, compute_threshold=0,test=True):
+    '''
+    INPUT:
+        sc: SparkContext
+        model: the doc2vec model
+        threshold (float): below which the edge is destroyed
+        compute_threshold: this is the threshold placed in columnSimilarities
+        test: if True, select a subset of 1000-vectors
+    OUTPUT:
+        result (list): list of MatrixEntries, containing the indices of the vector
+            pair along with the cosine similarity of the pair
+        idx_selected (np.array): an ordered list of which vectors were selected, if
+            we calculated cosine similarity for only a subset of the doc vectors.
+    '''
+    rowmat, idx_selected = get_row_matrix(sc, modelname, test)
+    col_sims_mat = rowmat.columnSimilarities(compute_threshold)
+    col_sims = col_sims_mat.entries.filter(threshold_filter(0))
+    result = col_sims.collect()
+    return result, idx_selected
+
+def get_row_matrix(sc, model, test):
+    '''
+    Called by one_iter.
+    '''
     docvecs = np.array(model.docvecs).T
     n_rows = docvecs.shape[0]
     if not test:
@@ -23,46 +42,25 @@ def get_row_matrix(sc, model='adam.first',test=True):
     mat = RowMatrix(mat_rdd, n_rows)
     return mat, idx_selected
 
-def get_col_sim(rowmatrix, compute_threshold):
-    return rowmatrix.columnSimilarities(compute_threshold)
-
 def threshold_filter(threshold):
+    '''
+    Called by one_iter
+    '''
     def helper(entry):
         if entry.value > threshold:
             return True
         return False
     return helper
 
-def get_stats(result):
-    '''result is a list of MatrixEntries'''
-    values = map(lambda entry: entry.value, result)
-    fig = plt.figure()
-    ax = fig.add_subplot(111)
-    ax.set_xlabel = 'Cosine Similarities'
-    ax.set_ylabel = 'Vectors'
-    ax.hist(values, bins=20)
-    plt.savefig('Similarity Historgram.jpg')
-    print 'Average: ', sum(values)/len(values)
-    print 'Num values: ', len(values)
-
-def one_iter(sc):
-    time_0 = time()
-    rowmat, idx_selected = get_row_matrix(sc)
-    col_sims_mat = get_col_sim(rowmat, 0)
-    time_1 = time()
-    col_sims = col_sims_mat.entries.filter(threshold_filter(0))
-    time_2 = time()
-    result = col_sims.collect()
-    time_3 = time()
-
-    print 'Working time to get col_sims_mat: ', time_1-time_0
-    print 'Working time to filter: ', time_2-time_0
-    print 'Working time to collect entries: ', time_3-time_0
-    return result, idx_selected
-
 def output_adj_list(entries):
-
-    def adj_list_helper(limits, order): 
+    '''
+    INPUT:
+        entries (list): This is a list of spark MatrixEntries
+    OUTPUT:
+        None. But writes out the matrix entries as text files in format readable
+        by networkx (as a weighted adjacency list)
+    '''
+    def adj_list_helper(limits, order):
         with open('graph_part_{}.txt'.format(order), 'w') as f:
             print limits
             for idx in xrange(limits[0], limits[1]):
@@ -77,9 +75,15 @@ def output_adj_list(entries):
         p = Process(target=adj_list_helper, args=(limits,order))
         p.start()
 
+def get_arxiv_id(model, index, idx_selected=None):
+    if idx_selected:
+        return model.docvecs.index_to_doctag(idx_selected[index])
+    return model.docvecs.index_to_doctag(index)
+
 if __name__ == '__main__':
     print 'Starting'
+    model = Doc2Vec.load(model)
     sc = ps.SparkContext('local[{}]'.format(cpu_count()))
-    result,idx_selected=one_iter(sc)
+    result,idx_selected=one_iter(sc, model)
     print 'Writing matrix to files'
     output_adj_list(result)
