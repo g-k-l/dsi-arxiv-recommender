@@ -25,18 +25,18 @@ class DocIterator(object):
                 try:
                     body += article['abstract'].replace('\n', ' ').strip()
                 except:
-                    print 'Missing Abstract'
+                    print 'Missing Abstract for ', article['abstract']
                 try:
 		            body += str(' ' + article['title'] + '. ')
                 except:
-                    print 'Title missing for', article['arxiv_id']
+                    print 'Title missing for ', article['arxiv_id']
                 if self.content:
                     try:
                         body += str(article['content'] + '. ')
                     except:
-                        print 'Content missing for', article['arxiv_id']
+                        print 'Content missing for ', article['arxiv_id']
 
-                if len(body) < 100: #exclude articles which have too little content
+                if len(body) < 250: #exclude articles which have too little content (heuristically)
                     exclude_list.append(article['arxiv_id'])
 
                 words = re.findall(r"[\w']+|[.,!?;]", body)
@@ -49,7 +49,7 @@ class DocIterator(object):
 if __name__ == '__main__':
 
     full_content = True
-    hidden_layer_size = 100
+    hidden_layer_size = 200
 
     n_cpus = multiprocessing.cpu_count()
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
