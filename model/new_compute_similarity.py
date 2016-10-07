@@ -3,6 +3,8 @@ from scipy.spatial.distance import cosine
 from multiprocessing import Pool, cpu_count
 from collections import deque
 from gensim.models.doc2vec import Doc2Vec
+import psycopg2
+from psycopg2.extras import DictCursor
 
 def make_cos_sims_table():
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
@@ -15,7 +17,7 @@ def matrix_norm(model, threshold,start=0):
     full_matrix = np.array(model.docvecs)
     pool = Pool()
     for i in xrange(start,full_matrix.shape[0]-1):
-	    print 'Computing row ', i
+	print 'Computing row ', i
         pool.apply_async(compute_one_row, (full_matrix[i,:], i+1,full_matrix, threshold))
     print 'Completed'
 
@@ -45,11 +47,11 @@ def build_arxiv_id_docvec_idx_table(model):
         cur = conn.cursor(cursor_factory=DictCursor)
         cur.execute("SELECT * FROM pg_tables WHERE schemaname = 'public';")
         for tab in cur:
-            if tab['table_name'] == 'arxiv_id_lookup':
+            if tab['tablename'] == 'arxiv_id_lookup':
                 print 'Table already exists.'
                 return
 
-        build_tab = ''''CREATE TABLE arxiv_id_lookup
+        build_tab = '''CREATE TABLE arxiv_id_lookup
                     (arxiv_id text UNIQUE, docvec_idx int UNIQUE)'''
         cur.execute(build_tab)
 
@@ -69,7 +71,7 @@ def build_arxiv_id_docvec_idx_dicts(model):
     '''
     Get the (invertible) mapping from arxiv_id to docvec index as a dict
     '''
-    to_arxiv_id = {i, model.docvecs.index_to_doctag[0] for i in xrange(len(model.docvecs))}
+    to_arxiv_id = {i: model.docvecs.index_to_doctag[0] for i in xrange(len(model.docvecs))}
     to_index = {model.docvecs.index_to_doctag[0]: i for i in xrange(len(model.docvecs))}
     return to_arxiv_id, to_index
 
