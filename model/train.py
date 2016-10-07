@@ -39,7 +39,9 @@ class DocIterator(object):
                 if len(body) < 250: #exclude articles which have too little content (heuristically)
                     exclude_list.append(article['arxiv_id'])
 
-                words = re.findall(r"[\w']+|[.,!?;]", body)
+                removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}',' ', body)
+                removed_specials = re.sub(r'[{}><()\|\$\\\*\^\%\#\@]', '', removed_nums)
+                words = re.findall(r"[\w']+|[.,!?;]", removed_nums)
                 words = [word.lower() for word in words]
                 tags = [article['arxiv_id'], article['subject_id']]
 
