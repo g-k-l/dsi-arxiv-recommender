@@ -7,7 +7,7 @@ def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices = stratified_sampling(model, subset_size)
     matrix_norm(model,sample_indices, threshold)
 
-def matrix_norm(model,sample_indices=None,threshold):
+def matrix_norm(model,sample_indices=None,threshold=0.1):
     '''
     Computes the pairwise cosine similarity of the selected vectors.
     Ignore similarities below threshold.
@@ -30,7 +30,7 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
     left_vec is the vector we keep fixed, and its similarity with all other vectors in the sample.
     '''
     print 'Computing row ', left_vec_idx
-    with open('../cos_sim_results/records/sample_cos_sims_{}.txt'format(left_vec_idx), 'w') as f:
+    with open('../cos_sim_results/records/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
         for j in sample_indices:
             sim = 1-cosine(left,full_matrix[j,:])
             if sim > threshold:
@@ -56,3 +56,7 @@ def stratified_sampling(model, subset_size):
         f.write(str(sample_indices))
     print 'Done sampling'
     return sample_indices
+
+if __name__ == '__main__':
+    model = Doc2Vec.load('second_model')
+    cos_sims_single_pass(model)
