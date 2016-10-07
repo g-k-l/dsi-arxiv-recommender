@@ -6,11 +6,12 @@ from gensim.models.doc2vec import Doc2Vec
 import psycopg2
 from psycopg2.extras import DictCursor
 
-def make_cos_sims_table():
+def make_cos_sims_tables(model):
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
             user='root', password='1873', database='arxivpsql') as conn:
         cur = conn.cursor()
-        cur.execute('CREATE TABLE cos_sims (docvec_idx1 int, docvec_idx2 int, cos_sim numeric)')
+        for i in xrange(len(model.docvecs)/10000):
+            cur.execute('CREATE TABLE cos_sims{} (docvec_idx1 int, docvec_idx2 int, cos_sim numeric)'.format(i))
         conn.commit()
 
 def matrix_norm(model, threshold,start=0):
@@ -32,7 +33,7 @@ def compute_one_row(left, start, my_copy_matrix, threshold):
             user='root', password='1873', database='arxivpsql') as conn:
         cur = conn.cursor()
         args_str = ','.join(cur.mogrify("(%s,%s,%s)", row) for row in rows)
-        cur.execute("INSERT INTO cos_sims VALUES " + args_str)
+        cur.execute("INSERT INTO cos_sims{} VALUES ".format((start-1)/10000) + args_str)
         conn.commit()
 
     print 'Row ', start, ' completed'
@@ -45,13 +46,7 @@ def build_arxiv_id_docvec_idx_table(model):
             user='root', password='1873', database='arxivpsql') as conn:
 
         cur = conn.cursor(cursor_factory=DictCursor)
-        cur.execute("SELECT * FROM pg_tables WHERE schemaname = 'public';")
-        for tab in cur:
-            if tab['tablename'] == 'arxiv_id_lookup':
-                print 'Table already exists.'
-                return
-
-        build_tab = '''CREATE TABLE arxiv_id_lookup
+        build_tab = '''CREATE TABLE IF NOT EXISTS arxiv_id_lookup
                     (arxiv_id text UNIQUE, docvec_idx int UNIQUE)'''
         cur.execute(build_tab)
 
@@ -59,6 +54,7 @@ def build_arxiv_id_docvec_idx_table(model):
             try:
                 cur.execute('''INSERT INTO arxiv_id_lookup (arxiv_id, docvec_idx)
                         VALUES (%s, %s)''', (arxiv_id, docvec_idx))
+                print 'Inserted one'
             except psycopg2.IntegrityError:
                 print 'Duplicates for: {}, {}'.format(arxiv_id, docvec_id)
 

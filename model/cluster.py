@@ -4,6 +4,8 @@ from multiprocessing import Process, cpu_count
 import threading
 import pickle
 
+'''DEFUNCT'''
+
 def cluster_job():
     model = Doc2Vec.load('adam.first')
     docvecs = model.docvecs
