@@ -27,6 +27,3 @@ def build_arxiv_id_to_community(modelname, idx_to_community):
     '''
     model = Doc2Vec.load(modelname)
     return {model.docvecs.index_to_doctag(key):value for key, value in idx_to_community.iteritems()}
-
-def lookup_subject(arxiv_id):
-    pass

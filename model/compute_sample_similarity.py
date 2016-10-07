@@ -57,6 +57,19 @@ def stratified_sampling(model, subset_size):
     print 'Done sampling'
     return sample_indices
 
+def build_subject_dict(model):
+    '''
+    build \{subject_id: (index location in model.docvecs, list of arxiv_id)\}
+    '''
+    subject_dict = {}
+    for i in xrange(len(model.docvecs)):
+        docvec = model.docvecs[i]
+        if docvec.index_to_doctag(1) in subject_dict.keys():
+            subject_dict[docvec.index_to_doctag(1)].append(tuple([i,docvec.index_to_doctag(0)))
+        else:
+            subject_dict[docvec.index_to_doctag(1)] = [(tuple([i,docvec.index_to_doctag(0)))]
+    return subject_dict
+
 if __name__ == '__main__':
-    model = Doc2Vec.load('second_model')
+    model = Doc2Vec.load('full_model')
     cos_sims_single_pass(model)
