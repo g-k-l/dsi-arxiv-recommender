@@ -9,9 +9,7 @@ from gensim.models.doc2vec import Doc2Vec
 from multiprocessing import Process, cpu_count
 from threading import Thread
 
-''' DEFUNCT
-
-Compute the similarity of the document vectors.'''
+''' Compute the similarity of the document vectors.'''
 
 def one_iter(sc, model, threshold=0, compute_threshold=0,test=True):
     '''
