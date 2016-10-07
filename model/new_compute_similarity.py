@@ -77,7 +77,10 @@ def build_arxiv_id_docvec_idx_dicts(model):
 
 
 if __name__ == '__main__':
+    print 'Loading Model'
     model = Doc2Vec.load('second_model')
+    print 'Building DB Tables'
     build_arxiv_id_docvec_idx_table(model)
     make_cos_sims_table()
+    print 'Computing Similarities'
     matrix_norm(model, 0.2)
