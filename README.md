@@ -108,7 +108,7 @@
 - Complete the backend pipeline for a subset of the data. Take 100,000 articles at random from the model, compute pairwise similarity, do community detection using pairwise similarity, compute average of all document vectors for each community. Input test query, infer vector with gensim, compare query vector with 'community centers'. Take only second most similar (this decision is arbitrary), take most similar vectors in that category.
 - Some method of stratified sampling.
 ####Completed:
--
+- Started the cosine similarity calculation for the second model. Expected completion time is ~3 days.
 -
 
 ##Updates and Comments
@@ -139,6 +139,7 @@
 - It is possible to populate a DB much more quickly than inserting one row at a time https://www.postgresql.org/docs/current/static/populate.html but so far I can't seem to get it to work.
 - What to do once you get the communities? Give postgres a new column called community_id? 
 - There is no guarantee that community detection will give desirable clusters, but we don't know until we try it (as with almost everything in this project).
+- Using collections.deque is a good way to manage processes. If you want to limit the number of processes to, say, 200 at a time. Then simply check when the deque is size 200, get the oldest process via popleft to join, then start your new process!
 
 
 
@@ -155,6 +156,9 @@ find . -maxdepth 1 -type f |head -1000|xargs cp -t $destdir
 ~/spark-1.5.0-bin-hadoop1/ec2/spark-ec2 -k large_test -i ~/.ssh/large_test.pem -r us-east-1 -s 6 --copy-aws-credentials --ebs-vol-size=64 launch my_cluster
 
 scp -i ~/.ssh/large_test.pem ~/spark-aws root@ec2-52-87-192-172.compute-1.amazonaws.com/root/.
+
+\copy subject_to_subject_id from '~/repo/final_project/data_stats/subject_to_subject_id' CSV;
+
 
 Links:
 http://docs.aws.amazon.com/quickstart/latest/mongodb/architecture.html
