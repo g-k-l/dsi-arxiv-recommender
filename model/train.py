@@ -15,11 +15,11 @@ class DocIterator(object):
     def __init__(self, conn, content=False):
         self.conn = conn
         self.content = content
+	self.excluded_list = []
 
     def __iter__(self):
         with conn.cursor(cursor_factory=DictCursor) as cur:
             cur.execute("SELECT * FROM articles;")
-            excluded_list = []
             for article in cur:
                 body = ''
                 try:
@@ -37,7 +37,8 @@ class DocIterator(object):
                         print 'Content missing for ', article['arxiv_id']
 
                 if len(body) < 250: #exclude articles which have too little content (heuristically)
-                    exclude_list.append(article['arxiv_id'])
+                    self.excluded_list.append(article['arxiv_id'])
+                    continue
 
                 removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}',' ', body)
                 removed_specials = re.sub(r'[{}><()\|\$\\\*\^\%\#\@]', '', removed_nums)
@@ -49,18 +50,24 @@ class DocIterator(object):
 
 
 if __name__ == '__main__':
-
+    print 'Starting'
     full_content = True
     hidden_layer_size = 200
-
+    print 'Content Setting: ', full_content
     n_cpus = multiprocessing.cpu_count()
+    print 'Connecting to DB'
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
                         user='root', password='1873', database='arxivpsql') as conn:
-        doc_iterator = DocIterator(conn, full_content)
-        model = Doc2Vec(
+        print 'Building doc_iterator'
+	doc_iterator = DocIterator(conn, full_content)
+        print 'Begin Training'
+	model = Doc2Vec(
             documents=doc_iterator,
             workers=n_cpus,
             size=hidden_layer_size)
+    print 'Training Complete. Saving...'
+    with open('excluded.txt', 'w') as f:
+	f.write(str(doc_iterator.excluded_list))
     if full_content:
         model.save('full_model')
     else:
