@@ -1,10 +1,11 @@
 import multiprocessing
 import psycopg2
 from psycopg2.extras import DictCursor
-from gensim.models.doc2vec import Doc2Vec, TaggedDocument
+from gensim.models.doc2vec import Doc2Vec, TaggedDocument, logger
 import re
 import argparse
-
+import os
+from time import time
 
 class DocIterator(object):
     """
@@ -21,7 +22,7 @@ class DocIterator(object):
 
     def __iter__(self):
         with self.conn.cursor(cursor_factory=DictCursor) as cur:
-            cur.execute("SELECT * FROM articles;")
+            cur.execute("SELECT * FROM articles LIMIT 20000;")
             for article in cur:
                 body = ''
                 try:
@@ -64,10 +65,14 @@ if __name__ == '__main__':
         print 'Building doc_iterator'
         doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
-        model = Doc2Vec(
+	os.system("taskset -p 0xff %d" % os.getpid())
+        time1 = time()
+	model = Doc2Vec(
             documents=doc_iterator,
             workers=n_cpus,
             size=hidden_layer_size)
+        time2 = time()
+    print 'Training time: ', time2-time1
     print 'Training Complete. Saving...'
     with open('excluded.txt', 'w') as f:
         f.write(str(doc_iterator.excluded_list))

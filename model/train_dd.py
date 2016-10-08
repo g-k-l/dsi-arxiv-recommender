@@ -5,7 +5,7 @@ from multiprocessing import cpu_count
 from train import DocIterator
 import psycopg2
 
-sc = SparkContext()
+sc = SparkContext('local[{}]'.format(cpu_count()))
 
 def gradient(model, sentences):  # executes on workers
     syn0, syn1 = model.syn0.copy(), model.syn1.copy()
@@ -24,5 +24,6 @@ with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
     with DeepDist(Doc2Vec(documents=doc_iterator, workers=cpu_count(), size=200, min_count=20)) as dd:
         print 'Begin Training'
         dd.train(corpus, gradient, descent)
+        dd.model.save('dd_model')
         # print dd.model.most_similar(positive=['woman', 'king'],
         # negative=['man'])
