@@ -40,7 +40,7 @@ def push_one_src(filename, file_path):
             print 'Critical Failure converting pdf at file: ', filename
             return
     else:
-	    detex_path = path + '__detexed'
+        detex_path = path + '__detexed'
         detex_filename = filename + '__detexed'
         os.system('sudo detex {} > {}'.format(path, detex_path))
         with open(detex_path, 'r') as detexed:
@@ -48,9 +48,9 @@ def push_one_src(filename, file_path):
                 if len(line.split())>5:
                     s ='\n'.join([s,line.strip().lower()])
         os.system('sudo rm {}'.format(detex_path))
+    s = ''.join(filter(lambda x: x in string.printable, s))
     t = Thread(target=upload_one, args= (s, filename,))
     t.start()
-
     print get_arxiv_id(filename), ' Completed'
 
 def upload_one(s, filename):

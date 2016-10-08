@@ -15,7 +15,7 @@ class DocIterator(object):
     def __init__(self, conn, content=False):
         self.conn = conn
         self.content = content
-	self.excluded_list = []
+	    self.excluded_list = []
 
     def __iter__(self):
         with conn.cursor(cursor_factory=DictCursor) as cur:
@@ -59,12 +59,12 @@ if __name__ == '__main__':
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
                         user='root', password='1873', database='arxivpsql') as conn:
         print 'Building doc_iterator'
-	doc_iterator = DocIterator(conn, full_content)
+	    doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
-	model = Doc2Vec(
-            documents=doc_iterator,
-            workers=n_cpus,
-            size=hidden_layer_size)
+    	model = Doc2Vec(
+                documents=doc_iterator,
+                workers=n_cpus,
+                size=hidden_layer_size)
     print 'Training Complete. Saving...'
     with open('excluded.txt', 'w') as f:
 	f.write(str(doc_iterator.excluded_list))
