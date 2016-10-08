@@ -16,7 +16,7 @@ def push():
     walker = os.walk(root_path)
     pool = Pool()
     for step in walker:
-        pool.apply_asnyc(push_src, (step,))
+        pool.apply_async(push_src, (step,))
     print 'All Processes Running.'
     pool.close()
     pool.join()
@@ -24,8 +24,9 @@ def push():
 
 def push_src(step):
     for i, filename in enumerate(step[2]):
-        t = Thread(push_one_src, (step[2],step[0]))
+        t = Thread(target=push_one_src,args=(filename,step[0],))
         t.start()
+    t.join()
     print 'Completed {}-th Step in Walk: '.format(i), step[0]
 
 def push_one_src(filename, file_path):
@@ -38,25 +39,21 @@ def push_one_src(filename, file_path):
             print 'Critical Failure converting pdf at file: ', filename
             return
     else:
-        try:
-            with open(filename, 'r') as src:
-                for line in enumerate(src):
-                    s ='\n'.join([s,line.strip().lower()])
-            detex_path = path + '__detexed'
-            detex_filename = filename + '__detexed'
-            os.system('sudo detex {} > {}'.format(filename, detex_filename))
-            with open(detex_path, 'r') as detexed:
-                s = detexed.read()
-            os.system('sudo rm {}'.format(detex_path))
-        except:
-            print 'Critical Failure processing: ', filename
-            return
-        t = Thread(target=upload_one, args= (s, filename, update_query))
-        t.start()
+        with open(path, 'r') as src:
+            for line in src:
+                s ='\n'.join([s,line.strip().lower()]) 
+	detex_path = path + '__detexed'
+        detex_filename = filename + '__detexed'
+        os.system('sudo detex {} > {}'.format(path, detex_path))
+        with open(detex_path, 'r') as detexed:
+            s = detexed.read()
+        os.system('sudo rm {}'.format(detex_path))
+    t = Thread(target=upload_one, args= (s, filename,))
+    t.start()
 
     print filename, ' Completed'
 
-def upload_one(s, filename, update_query):
+def upload_one(s, filename):
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
         user='root', password='1873', database='arxivpsql') as conn:
