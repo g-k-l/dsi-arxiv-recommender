@@ -45,7 +45,7 @@ def push_one_src(filename, file_path):
         os.system('sudo detex {} > {}'.format(path, detex_path))
         with open(detex_path, 'r') as detexed:
             for line in detexed:
-                if len(line.split)>5:
+                if len(line.split())>5:
                     s ='\n'.join([s,line.strip().lower()])
         os.system('sudo rm {}'.format(detex_path))
     t = Thread(target=upload_one, args= (s, filename,))
