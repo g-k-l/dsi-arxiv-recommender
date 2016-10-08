@@ -159,6 +159,7 @@ scp -i ~/.ssh/large_test.pem ~/spark-aws root@ec2-52-87-192-172.compute-1.amazon
 
 \copy subject_to_subject_id from '~/repo/final_project/data_stats/subject_to_subject_id' CSV;
 
+http://www.dayid.org/comp/tm.html
 
 Links:
 http://docs.aws.amazon.com/quickstart/latest/mongodb/architecture.html

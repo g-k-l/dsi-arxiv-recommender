@@ -3,6 +3,7 @@ from gensim.models.doc2vec import Doc2Vec
 from pyspark import SparkContext
 from multiprocessing import cpu_count
 from train import DocIterator
+import psycopg2
 
 sc = SparkContext()
 
@@ -22,6 +23,6 @@ with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
     doc_iterator = DocIterator(conn, True)
     with DeepDist(Doc2Vec(documents=doc_iterator, workers=cpu_count(), size=200)) as dd:
         print 'Begin Training'
-        dd.train(corpus, gradient, descent)a
+        dd.train(corpus, gradient, descent)
         # print dd.model.most_similar(positive=['woman', 'king'],
         # negative=['man'])

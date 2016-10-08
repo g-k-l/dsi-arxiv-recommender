@@ -62,7 +62,7 @@ if __name__ == '__main__':
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
                           user='root', password='1873', database='arxivpsql') as conn:
         print 'Building doc_iterator'
-            doc_iterator = DocIterator(conn, full_content)
+        doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
         model = Doc2Vec(
             documents=doc_iterator,
