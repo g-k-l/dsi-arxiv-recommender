@@ -5,6 +5,7 @@ from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 import re
 import argparse
 
+
 class DocIterator(object):
     """
     gensim documentation calls this "streaming a corpus", which
@@ -12,10 +13,11 @@ class DocIterator(object):
     It needs to be an object so gensim can make multiple passes over data.
     Here, we stream from a postgres database.
     """
+
     def __init__(self, conn, content=False):
         self.conn = conn
         self.content = content
-	    self.excluded_list = []
+        self.excluded_list = []
 
     def __iter__(self):
         with conn.cursor(cursor_factory=DictCursor) as cur:
@@ -27,7 +29,7 @@ class DocIterator(object):
                 except:
                     print 'Missing Abstract for ', article['abstract']
                 try:
-		            body += str(' ' + article['title'] + '. ')
+                    body += str(' ' + article['title'] + '. ')
                 except:
                     print 'Title missing for ', article['arxiv_id']
                 if self.content:
@@ -36,12 +38,13 @@ class DocIterator(object):
                     except:
                         print 'Content missing for ', article['arxiv_id']
 
-                if len(body) < 250: #exclude articles which have too little content (heuristically)
+                if len(body) < 250:  # exclude articles which have too little content (heuristically)
                     self.excluded_list.append(article['arxiv_id'])
                     continue
 
-                removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}',' ', body)
-                removed_specials = re.sub(r'[{}><()\|\$\\\*\^\%\#\@]', '', removed_nums)
+                removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}', ' ', body)
+                removed_specials = re.sub(
+                    r'[{}><()\|\$\\\*\^\%\#\@]', '', removed_nums)
                 words = re.findall(r"[\w']+|[.,!?;]", removed_nums)
                 words = [word.lower() for word in words]
                 tags = [article['arxiv_id'], article['subject_id']]
@@ -57,17 +60,17 @@ if __name__ == '__main__':
     n_cpus = multiprocessing.cpu_count()
     print 'Connecting to DB'
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-                        user='root', password='1873', database='arxivpsql') as conn:
+                          user='root', password='1873', database='arxivpsql') as conn:
         print 'Building doc_iterator'
-	    doc_iterator = DocIterator(conn, full_content)
+            doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
-    	model = Doc2Vec(
-                documents=doc_iterator,
-                workers=n_cpus,
-                size=hidden_layer_size)
+        model = Doc2Vec(
+            documents=doc_iterator,
+            workers=n_cpus,
+            size=hidden_layer_size)
     print 'Training Complete. Saving...'
     with open('excluded.txt', 'w') as f:
-	f.write(str(doc_iterator.excluded_list))
+        f.write(str(doc_iterator.excluded_list))
     if full_content:
         model.save('full_model')
     else:

@@ -11,6 +11,7 @@ Put the string on PSQL server. Push() calls push_src(), which multiprocesses pus
 which multithreads upload_one()
 '''
 
+
 def push():
     print 'Starting...'
     root_path = '/home/ubuntu/unpacked_src'
@@ -23,12 +24,14 @@ def push():
     pool.join()
     print 'Completed Job.'
 
+
 def push_src(step):
     for i, filename in enumerate(step[2]):
-        t = Thread(target=push_one_src,args=(filename,step[0],))
+        t = Thread(target=push_one_src, args=(filename, step[0],))
         t.start()
     t.join()
     print 'Completed {}-th Step in Walk: '.format(i), step[0]
+
 
 def push_one_src(filename, file_path):
     s = ''
@@ -45,22 +48,24 @@ def push_one_src(filename, file_path):
         os.system('sudo detex {} > {}'.format(path, detex_path))
         with open(detex_path, 'r') as detexed:
             for line in detexed:
-                if len(line.split())>5:
-                    s ='\n'.join([s,line.strip().lower()])
+                if len(line.split()) > 5:
+                    s = '\n'.join([s, line.strip().lower()])
         os.system('sudo rm {}'.format(detex_path))
     s = ''.join(filter(lambda x: x in string.printable, s))
-    t = Thread(target=upload_one, args= (s, filename,))
+    t = Thread(target=upload_one, args=(s, filename,))
     t.start()
     print get_arxiv_id(filename), ' Completed'
+
 
 def upload_one(s, filename):
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-        user='root', password='1873', database='arxivpsql') as conn:
+                          user='root', password='1873', database='arxivpsql') as conn:
         cur = conn.cursor()
         cur.execute(update_query, (s, get_arxiv_id(filename)))
         conn.commit()
     print 'Finished uploading: ', filename
+
 
 def get_arxiv_id(filename):
     '''
@@ -70,7 +75,8 @@ def get_arxiv_id(filename):
     paper_id = filename
     break_idx = max(filename.rfind(l) for l in string.ascii_letters)
     if break_idx != -1:
-        paper_id = '{}/{}'.format(filename[0:break_idx+1], filename[break_idx+1:])
+        paper_id = '{}/{}'.format(filename[0:break_idx + 1],
+                                  filename[break_idx + 1:])
     return root_url + paper_id
 
 
