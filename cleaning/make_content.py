@@ -1,71 +1,65 @@
 import os
 import string
+from multiprocessing import Pool, cpu_count
+from threading import Thread
 import psycopg2
-import threading
 from pdf_to_text import convert_pdf_to_txt as conv_pdf
-from multiprocessing import Process, cpu_count
 
 '''
 Go into each subfolder, parse the unpacked source files. Put the string on PSQL server.
-TODO: Separate handling for pdf files.
+Push() calls push_src(), which multiprocesses push_one_src(), which multithreads upload_one()
 '''
 
 def push():
     print 'Starting...'
     root_path = '/home/ubuntu/unpacked_src'
     walker = os.walk(root_path)
-
-    processes = []
     for step in walker:
-        if len(processes) == cpu_count():
-            map(lambda p: p.join(), processes)
-            processes = []
-        try:
-            p = Process(target=push_src, args=(step,))
-            processes.append(p)
-            p.start()
-        except:
-            print 'Critical Failure inside folder: ', step[0]
-            print 'Exiting...'
+        push_src(step)
     print 'Made all processes.'
 
 def push_src(step):
-    threads = []
+    pool = Pool()
     for filename in step[2]:
-        try:
-            t = threading.Thread(target=push_one_src, args=(filename,step[0]))
-            threads.append(t)
-            t.start()
-        except:
-            print 'Critical Failure at file: ', filename
-
+        pool.apply_async(push_one_src, (step[2],step[0]))
+    pool.close()
+    pool.join()
+    print 'Completed One Step in Walk: ' step[0]
 
 def push_one_src(filename, file_path):
-
     s = ''
     path = '/'.join([file_path, filename])
-    update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
-
     if '.pdf' in filename:
-        s = conv_pdf(path)
+        try:
+            s = conv_pdf(path)
+        except:
+            print 'Critical Failure converting pdf at file: ', filename
+            return
     else:
-        with open(filename, 'r') as src:
-            for line in src:
-                s ='\n'.join([s,line.strip().lower()])
-        detex_path = path + '__detexed'
-        detex_filename = filename + '__detexed'
-        os.system('sudo detex {} > {}'.format(filename, detex_filename))
+        try:
+            with open(filename, 'r') as src:
+                for line in enumerate(src):
+                    s ='\n'.join([s,line.strip().lower()])
+            detex_path = path + '__detexed'
+            detex_filename = filename + '__detexed'
+            os.system('sudo detex {} > {}'.format(filename, detex_filename))
+            os.system('sudo rm {}'.format(detex_path))
+        except:
+            print 'Critical Failure processing: ', filename
+            return
+        t = Thread(target=upload_one, args= (s, filename, update_query))
+        t.start()
 
-        os.system('sudo rm {}'.format(detex_path))
+    print filename, ' Completed'
 
-    # s = filter(lambda x: x in string.printable, s)
-
+def upload_one(s, filename, update_query):
+    update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
     with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
         user='root', password='1873', database='arxivpsql') as conn:
         cur = conn.cursor()
         cur.execute(update_query, (s, get_arxiv_id(filename)))
         conn.commit()
-    print filename, ' Completed'
+    print 'Finished uploading: ', filename
 
 def get_arxiv_id(filename):
     root_url = 'http://arxiv.org/abs/'
