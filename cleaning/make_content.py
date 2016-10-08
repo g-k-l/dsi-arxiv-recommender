@@ -14,17 +14,19 @@ def push():
     print 'Starting...'
     root_path = '/home/ubuntu/unpacked_src'
     walker = os.walk(root_path)
-    for step in walker:
-        push_src(step)
-    print 'Made all processes.'
-
-def push_src(step):
     pool = Pool()
-    for filename in step[2]:
-        pool.apply_async(push_one_src, (step[2],step[0]))
+    for step in walker:
+        pool.apply_asnyc(push_src, (step,))
+    print 'All Processes Running.'
     pool.close()
     pool.join()
-    print 'Completed One Step in Walk: ' step[0]
+    print 'Completed Job.'
+
+def push_src(step):
+    for i, filename in enumerate(step[2]):
+        t = Thread(push_one_src, (step[2],step[0]))
+        t.start()
+    print 'Completed {}-th Step in Walk: '.format(i), step[0]
 
 def push_one_src(filename, file_path):
     s = ''
@@ -43,6 +45,8 @@ def push_one_src(filename, file_path):
             detex_path = path + '__detexed'
             detex_filename = filename + '__detexed'
             os.system('sudo detex {} > {}'.format(filename, detex_filename))
+            with open(detex_path, 'r') as detexed:
+                s = detexed.read()
             os.system('sudo rm {}'.format(detex_path))
         except:
             print 'Critical Failure processing: ', filename
