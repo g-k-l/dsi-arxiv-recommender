@@ -20,7 +20,7 @@ class DocIterator(object):
         self.excluded_list = []
 
     def __iter__(self):
-        with conn.cursor(cursor_factory=DictCursor) as cur:
+        with self.conn.cursor(cursor_factory=DictCursor) as cur:
             cur.execute("SELECT * FROM articles;")
             for article in cur:
                 body = ''
@@ -54,7 +54,7 @@ class DocIterator(object):
 
 if __name__ == '__main__':
     print 'Starting'
-    full_content = True
+    full_content = False
     hidden_layer_size = 200
     print 'Content Setting: ', full_content
     n_cpus = multiprocessing.cpu_count()

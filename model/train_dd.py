@@ -20,8 +20,8 @@ def descent(model, update):      # executes on master
 with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
                       user='root', password='1873', database='arxivpsql') as conn:
     print 'Building doc_iterator'
-    doc_iterator = DocIterator(conn, True)
-    with DeepDist(Doc2Vec(documents=doc_iterator, workers=cpu_count(), size=200)) as dd:
+    doc_iterator = DocIterator(conn, False)
+    with DeepDist(Doc2Vec(documents=doc_iterator, workers=cpu_count(), size=200, min_count=20)) as dd:
         print 'Begin Training'
         dd.train(corpus, gradient, descent)
         # print dd.model.most_similar(positive=['woman', 'king'],
