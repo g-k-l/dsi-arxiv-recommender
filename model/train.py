@@ -22,7 +22,7 @@ class DocIterator(object):
 
     def __iter__(self):
         with self.conn.cursor(cursor_factory=DictCursor) as cur:
-            cur.execute("SELECT * FROM articles LIMIT 20000;")
+            cur.execute("SELECT * FROM articles LIMIT 10000;")
             for article in cur:
                 body = ''
                 try:
@@ -45,18 +45,18 @@ class DocIterator(object):
 
                 removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}', ' ', body)
                 removed_specials = re.sub(
-                    r'[{}><()\|\$\\\*\^\%\#\@]', '', removed_nums)
-                words = re.findall(r"[\w']+|[.,!?;]", removed_nums)
+                    r'[{}><()\|\$\\\*\^\%\#\@]', '', body)
+                words = re.findall(r"[\w']+|[.,!?;]", removed_specials)
                 words = [word.lower() for word in words]
                 tags = [article['arxiv_id'], article['subject_id']]
 
                 yield TaggedDocument(words, tags)
 
 
-if __name__ == '__main__':
+if __name__ == ' __main__':
     print 'Starting'
     full_content = False
-    hidden_layer_size = 200
+    hidden_layer_size = 300
     print 'Content Setting: ', full_content
     n_cpus = multiprocessing.cpu_count()
     print 'Connecting to DB'
