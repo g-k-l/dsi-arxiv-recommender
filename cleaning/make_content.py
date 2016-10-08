@@ -6,8 +6,9 @@ import psycopg2
 from pdf_to_text import convert_pdf_to_txt as conv_pdf
 
 '''
-Go into each subfolder, parse the unpacked source files. Put the string on PSQL server.
-Push() calls push_src(), which multiprocesses push_one_src(), which multithreads upload_one()
+Go into each subfolder of source files, parse the unpacked source files.
+Put the string on PSQL server. Push() calls push_src(), which multiprocesses push_one_src(),
+which multithreads upload_one()
 '''
 
 def push():
@@ -39,19 +40,18 @@ def push_one_src(filename, file_path):
             print 'Critical Failure converting pdf at file: ', filename
             return
     else:
-        with open(path, 'r') as src:
-            for line in src:
-                s ='\n'.join([s,line.strip().lower()]) 
-	detex_path = path + '__detexed'
+	    detex_path = path + '__detexed'
         detex_filename = filename + '__detexed'
         os.system('sudo detex {} > {}'.format(path, detex_path))
         with open(detex_path, 'r') as detexed:
-            s = detexed.read()
+            for line in detexed:
+                if len(line.split)>5:
+                    s ='\n'.join([s,line.strip().lower()])
         os.system('sudo rm {}'.format(detex_path))
     t = Thread(target=upload_one, args= (s, filename,))
     t.start()
 
-    print filename, ' Completed'
+    print get_arxiv_id(filename), ' Completed'
 
 def upload_one(s, filename):
     update_query = '''UPDATE articles SET content = %s WHERE arxiv_id = %s'''
@@ -63,6 +63,9 @@ def upload_one(s, filename):
     print 'Finished uploading: ', filename
 
 def get_arxiv_id(filename):
+    '''
+    Parses the filename and attach it to the root url to get the arxiv_id
+    '''
     root_url = 'http://arxiv.org/abs/'
     paper_id = filename
     break_idx = max(filename.rfind(l) for l in string.ascii_letters)
