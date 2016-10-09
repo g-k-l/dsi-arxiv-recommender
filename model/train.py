@@ -19,11 +19,14 @@ class DocIterator(object):
         self.conn = conn
         self.content = content
         self.excluded_list = []
+	self.count = 0
 
     def __iter__(self):
         with self.conn.cursor(cursor_factory=DictCursor) as cur:
-            cur.execute("SELECT * FROM articles LIMIT 10000;")
+            cur.execute("SELECT * FROM articles;")
             for article in cur:
+		if self.count % 100000 == 0:
+		    print 'Current count: ', self.count
                 body = ''
                 try:
                     body += article['abstract'].replace('\n', ' ').strip()
@@ -32,7 +35,8 @@ class DocIterator(object):
                 try:
                     body += str(' ' + article['title'] + '. ')
                 except:
-                    print 'Title missing for ', article['arxiv_id']
+		    pass
+                    #print 'Title missing for ', article['arxiv_id']
                 if self.content:
                     try:
                         body += str(article['content'] + '. ')
@@ -50,13 +54,14 @@ class DocIterator(object):
                 words = [word.lower() for word in words]
                 tags = [article['arxiv_id'], article['subject_id']]
 
+		self.count+=1
                 yield TaggedDocument(words, tags)
 
 
-if __name__ == ' __main__':
+if __name__ == '__main__':
     print 'Starting'
-    full_content = False
-    hidden_layer_size = 300
+    full_content = True
+    hidden_layer_size = 100
     print 'Content Setting: ', full_content
     n_cpus = multiprocessing.cpu_count()
     print 'Connecting to DB'
@@ -65,16 +70,16 @@ if __name__ == ' __main__':
         print 'Building doc_iterator'
         doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
-	os.system("taskset -p 0xff %d" % os.getpid())
+	os.system("taskset -p 0xFFFFFFFf %d" % os.getpid())
         time1 = time()
 	model = Doc2Vec(
             documents=doc_iterator,
-            workers=n_cpus,
+            workers = n_cpus,
             size=hidden_layer_size)
         time2 = time()
     print 'Training time: ', time2-time1
     print 'Training Complete. Saving...'
-    with open('excluded.txt', 'w') as f:
+    with open('excluded_full.txt', 'w') as f:
         f.write(str(doc_iterator.excluded_list))
     if full_content:
         model.save('full_model')
