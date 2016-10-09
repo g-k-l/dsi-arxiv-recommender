@@ -25,8 +25,8 @@ class DocIterator(object):
         with self.conn.cursor(cursor_factory=DictCursor) as cur:
             cur.execute("SELECT * FROM articles;")
             for article in cur:
-		if self.count % 100000 == 0:
-		    print 'Current count: ', self.count
+		        if self.count % 100000 == 0:
+		            print 'Current count: ', self.count
                 body = ''
                 try:
                     body += article['abstract'].replace('\n', ' ').strip()
@@ -35,7 +35,7 @@ class DocIterator(object):
                 try:
                     body += str(' ' + article['title'] + '. ')
                 except:
-		    pass
+		            pass
                     #print 'Title missing for ', article['arxiv_id']
                 if self.content:
                     try:
@@ -46,7 +46,6 @@ class DocIterator(object):
                 if len(body) < 250:  # exclude articles which have too little content (heuristically)
                     self.excluded_list.append(article['arxiv_id'])
                     continue
-
                 removed_nums = re.sub(r'[0-9.,_{}><()\-\|\$]{3,}', ' ', body)
                 removed_specials = re.sub(
                     r'[{}><()\|\$\\\*\^\%\#\@]', '', body)
@@ -54,7 +53,7 @@ class DocIterator(object):
                 words = [word.lower() for word in words]
                 tags = [article['arxiv_id'], article['subject_id']]
 
-		self.count+=1
+		        self.count+=1
                 yield TaggedDocument(words, tags)
 
 
@@ -70,12 +69,12 @@ if __name__ == '__main__':
         print 'Building doc_iterator'
         doc_iterator = DocIterator(conn, full_content)
         print 'Begin Training'
-	os.system("taskset -p 0xFFFFFFFf %d" % os.getpid())
+    	os.system("taskset -p 0xFFFFFFFf %d" % os.getpid())
         time1 = time()
-	model = Doc2Vec(
-            documents=doc_iterator,
-            workers = n_cpus,
-            size=hidden_layer_size)
+    	model = Doc2Vec(
+                documents=doc_iterator,
+                workers = n_cpus,
+                size=hidden_layer_size)
         time2 = time()
     print 'Training time: ', time2-time1
     print 'Training Complete. Saving...'
