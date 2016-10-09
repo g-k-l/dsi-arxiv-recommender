@@ -30,7 +30,7 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
     left_vec is the vector we keep fixed, and its similarity with all other vectors in the sample.
     '''
     print 'Computing row ', left_vec_idx
-    with open('../cos_sim_results/records/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
+    with open('./cos_sim_results/records/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
         for j in sample_indices:
             sim = 1-cosine(left,full_matrix[j,:])
             if sim > threshold:
@@ -46,13 +46,13 @@ def stratified_sampling(model, subset_size):
     subject_dict = build_subject_dict(model)
     sample_indices = []
     for i in xrange(subject_dict.keys()):
-        full_subset = np.array([model.docvecs[idx[0]] for idx in subject_dict[i]])
+        full_subset = np.array([model.docvecs[idx[0]] for idx, _ in subject_dict[i]])
         sample_size = int(len(subset)*weight)
         if sample_size != 0:
             sample_subset = np.random.choice(subset, sample_size, replace=False)
             sample_indices+= sample_subset
     print 'Writing sample_indices to disk'
-    with open('../cos_sim_results/sample_indices.txt', 'w') as f:
+    with open('./cos_sim_results/sample_indices.txt', 'w') as f:
         f.write(str(sample_indices))
     print 'Done sampling'
     return sample_indices
@@ -64,10 +64,12 @@ def build_subject_dict(model):
     subject_dict = {}
     for i in xrange(len(model.docvecs)):
         docvec = model.docvecs[i]
-        if docvec.index_to_doctag(1) in subject_dict.keys():
-            subject_dict[docvec.index_to_doctag(1)].append(tuple([i,docvec.index_to_doctag(0)))
+        if model.docvecs.index_to_doctag(i)[1] in subject_dict.keys():
+            subject_dict[model.docvecs.index_to_doctag(i)[1]].append(tuple([i,model.docvecs.index_to_doctag(i)[0]]))
         else:
-            subject_dict[docvec.index_to_doctag(1)] = [(tuple([i,docvec.index_to_doctag(0)))]
+            subject_dict[model.docvecs.index_to_doctag(i)[1]] = [(tuple([i,model.docvecs.index_to_doctag(i)[0]))]
+    with open('./cos_sim_results/subject_dict.pkl', 'wb') as f:
+        pickle.dump(subject_dict, f)
     return subject_dict
 
 if __name__ == '__main__':
