@@ -1,11 +1,15 @@
+import pickle
 import numpy as np
+import psycopg2
+from collections import defaultdict
+from psycopg2.extras import DictCursor
 from scipy.spatial.distance import cosine
 from multiprocessing import Pool, cpu_count
 from gensim.models.doc2vec import Doc2Vec
 
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices = stratified_sampling(model, subset_size)
-    matrix_norm(model,sample_indices, threshold)
+    matrix_norm(model, sample_indices, threshold)
 
 def matrix_norm(model,sample_indices=None,threshold=0.1):
     '''
@@ -30,48 +34,109 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
     left_vec is the vector we keep fixed, and its similarity with all other vectors in the sample.
     '''
     print 'Computing row ', left_vec_idx
-    with open('./cos_sim_results/records/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
+    with open('./assets/cos_sims/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
+        writer = csv.writer(f)
         for j in sample_indices:
             sim = 1-cosine(left,full_matrix[j,:])
             if sim > threshold:
-                f.write('{}, {}, {} \n'.format(left_vec_idx,j,sim))
+                writer.writerow([left_vec_idx,j,sim])
     print 'Row ', left_vec_idx, ' completed'
 
-def stratified_sampling(model, subset_size):
+def stratified_sampling(model, subset_size, subject_dict):
     '''
     Samples the document vectors. Stratify by subject/subject_id.
     Subset is a float between 0 and 1, as a fraction of the total number of vectors.
     '''
     total_sample_size = subset_size*len(model.docvecs)
     subject_dict = build_subject_dict(model)
-    sample_indices = []
-    for i in xrange(subject_dict.keys()):
-        full_subset = np.array([model.docvecs[idx[0]] for idx, _ in subject_dict[i]])
+    sample_indices = defaultdict(list)
+    for i, subject_id in enumerate(subject_dict.keys()):
+        full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[i]])
         sample_size = int(len(subset)*weight)
         if sample_size != 0:
             sample_subset = np.random.choice(subset, sample_size, replace=False)
-            sample_indices+= sample_subset
+            sample_indices[subject_id] =  sample_subset.tolist()
     print 'Writing sample_indices to disk'
-    with open('./cos_sim_results/sample_indices.txt', 'w') as f:
+    with open('./assets/sample_indices.txt', 'w') as f:
         f.write(str(sample_indices))
     print 'Done sampling'
     return sample_indices
 
+def build_lookups(model):
+    '''
+    Create mappings which are useful.
+    '''
+    with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
+                          user='root', password='1873', database='arxivpsql') as conn:
+
+        idx_arxiv_id = {}
+        arxiv_id_idx = {}
+        arxiv_id_subject_id = {}
+        subject_id_arxiv_id = defaultdict(list)
+        subject_id_subject = {}
+
+        cur = conn.cursor(cursor_factory = DictCursor)
+
+        # make the subject_id to subject mapping
+        cur.execute('SELECT DISTINCT subject_id, subject FROM articles ORDER BY subject_id')
+        with open('./assets/subject_id_subject.csv', 'w') as f:
+            writer = csv.writer(f)
+            for item in cur:
+                writer.writerow([subject_id, subject])
+                subject_id[item['subject_id']] = item['subject']
+
+        # open up the files to write the mappings
+        with open('./assets/arxiv_id_idx.csv', 'w') as f0, open('./assets/idx_arxiv_id.csv', 'w') as f1, \
+            open('./assets/arxiv_id_subject_id.csv', 'w') as f2, open('./assets/subject_id_arxiv_id.csv','w') as f3:
+            csv_writers = [csv.writer(f) for f in [f0, f1,f2,f3]]
+
+            # loop through the document vectors
+            for i in xrange(len(model.docvecs)):
+                arxiv_id = model.docvecs.index_to_doctag(i)
+
+                # make arxiv_id to idx mappings
+                arxiv_id_idx[arxiv_id] = i
+                csv_writers[0].writerow([arxiv_id, i])
+                idx_arxiv_id[i] = arxiv_id
+                csv_writers[1].writerow([i, arxiv_id])
+
+                # make subject_id to arxiv_id mappings
+                cur.execute('SELECT subject_id FROM articles WHERE arxiv_id=\'{}\''.format(arxiv_id))
+                try:
+                    subject_id = cur.fetchone()['subject_id']
+                except:
+                    print 'No result for arxiv_id: ', arxiv_id
+                    continue
+                arxiv_id_subject_id[arxiv_id] = subject_id
+                csv_writer[2].writerow([arxiv_id, subject_id])
+                subject_id_arxiv_id[subject_id].append(arxiv_id)
+                csv_writer[3].writerow([subject_id, arxiv_id])
+
+    return idx_arxiv_id, arxiv_id_idx, arxiv_id_subject_id, subject_id_arxiv_id, subject_id_subject
+
+
 def build_subject_dict(model):
     '''
-    build \{subject_id: (index location in model.docvecs, list of arxiv_id)\}
+    build {subject_id: list of (index location in model.docvecs, arxiv_id)}
     '''
-    subject_dict = {}
-    for i in xrange(len(model.docvecs)):
-        docvec = model.docvecs[i]
-        if model.docvecs.index_to_doctag(i)[1] in subject_dict.keys():
-            subject_dict[model.docvecs.index_to_doctag(i)[1]].append(tuple([i,model.docvecs.index_to_doctag(i)[0]]))
-        else:
-            subject_dict[model.docvecs.index_to_doctag(i)[1]] = [(tuple([i,model.docvecs.index_to_doctag(i)[0]]))]
-    with open('./cos_sim_results/subject_dict.pkl', 'wb') as f:
-        pickle.dump(subject_dict, f)
+    with psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
+                          user='root', password='1873', database='arxivpsql') as conn:
+        cur = conn.cursor(cursor_factory = DictCursor)
+        subject_dict = defaultdict(list)
+        for i in xrange(len(model.docvecs)):
+            arxiv_id = model.index_to_doctag(i)
+            cur.execute("SELECT subject_id FROM articles WHERE arxiv_id=\'{}\'".format(arxiv_id))
+            try:
+                subject_id = cur.fetchone()['subject_id']
+            except:
+                print 'No result for arxiv_id: ', arxiv_id
+            subject_dict[subject_id].append(tuple([i, arxiv_id]))
+
+        with open('./assets/subject_dict.pkl','wb') as f:
+            pickle.dump(subject_dict,f)
     return subject_dict
 
 if __name__ == '__main__':
     model = Doc2Vec.load('second_model')
+    build_lookups(model)
     cos_sims_single_pass(model)

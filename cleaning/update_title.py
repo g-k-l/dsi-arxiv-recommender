@@ -5,6 +5,10 @@ import boto3
 import psycopg2
 from xml_parser import get_fields
 
+'''
+Script for correcting the title after noting a bug in make_db.py (the bug has now been fixed)
+'''
+
 def update_title(obj):
     if '.xml' not in obj.key:
         return
