@@ -9,7 +9,8 @@ from multiprocessing import Pool, cpu_count
 from gensim.models.doc2vec import Doc2Vec
 
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
-    sample_indices = stratified_sampling(model, subset_size)
+    sample_indices_dict = stratified_sampling(model, subset_size)
+    sample_indices_list = [value for key, value in sample_indices_dict.iteritems()]
     matrix_norm(model, sample_indices, threshold)
 
 def matrix_norm(model,sample_indices=None,threshold=0.1):
@@ -49,13 +50,17 @@ def stratified_sampling(model, subset_size):
     Subset is a float between 0 and 1, as a fraction of the total number of vectors.
     '''
     total_sample_size = subset_size*len(model.docvecs)
-    subject_dict = build_subject_dict(model)
+    if os.path.isfile('./assets/subject_dict.pkl'):
+        with open('subject_dict.pkl', 'r') as f:
+            subject_dict = pickle.load(f)
+    else:
+        subject_dict = build_subject_dict(model)
     sample_indices = defaultdict(list)
-    for i, subject_id in enumerate(subject_dict.keys()):
-        full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[i]])
-        sample_size = int(len(subset)*weight)
+    for subject_id in subject_dict.keys(): #for each subject
+        full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[subject_id]]) #all articles of a particular subject
+        sample_size = int(len(subset)*weight) # number of samples to draw from the subject
         if sample_size != 0:
-            sample_subset = np.random.choice(subset, sample_size, replace=False)
+            sample_subset = np.random.choice(full_subset, sample_size, replace=False)
             sample_indices[subject_id] =  sample_subset.tolist()
     print 'Writing sample_indices to disk'
     with open('./assets/sample_indices.txt', 'w') as f:
