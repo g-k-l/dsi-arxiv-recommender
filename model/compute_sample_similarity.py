@@ -1,3 +1,4 @@
+import os
 import csv
 import pickle
 import numpy as np
@@ -51,14 +52,15 @@ def stratified_sampling(model, subset_size):
     '''
     total_sample_size = subset_size*len(model.docvecs)
     if os.path.isfile('./assets/subject_dict.pkl'):
-        with open('subject_dict.pkl', 'r') as f:
+        with open('./assets/subject_dict.pkl', 'rb') as f:
             subject_dict = pickle.load(f)
     else:
         subject_dict = build_subject_dict(model)
     sample_indices = defaultdict(list)
     for subject_id in subject_dict.keys(): #for each subject
         full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[subject_id]]) #all articles of a particular subject
-        sample_size = int(len(subset)*weight) # number of samples to draw from the subject
+        weight = len(subject_dict['subject_id'])/float(len(full_subset))
+        sample_size = int(len(full_subset)*weight) # number of samples to draw from the subject
         if sample_size != 0:
             sample_subset = np.random.choice(full_subset, sample_size, replace=False)
             sample_indices[subject_id] =  sample_subset.tolist()
