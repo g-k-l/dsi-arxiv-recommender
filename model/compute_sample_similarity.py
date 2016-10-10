@@ -1,3 +1,4 @@
+import csv
 import pickle
 import numpy as np
 import psycopg2
@@ -82,8 +83,8 @@ def build_lookups(model):
         with open('./assets/subject_id_subject.csv', 'w') as f:
             writer = csv.writer(f)
             for item in cur:
-                writer.writerow([subject_id, subject])
-                subject_id[item['subject_id']] = item['subject']
+                writer.writerow([item['subject_id'], item['subject']])
+                subject_id_subject[item['subject_id']] = item['subject']
 
         # open up the files to write the mappings
         with open('./assets/arxiv_id_idx.csv', 'w') as f0, open('./assets/idx_arxiv_id.csv', 'w') as f1, \
@@ -108,9 +109,9 @@ def build_lookups(model):
                     print 'No result for arxiv_id: ', arxiv_id
                     continue
                 arxiv_id_subject_id[arxiv_id] = subject_id
-                csv_writer[2].writerow([arxiv_id, subject_id])
+                csv_writers[2].writerow([arxiv_id, subject_id])
                 subject_id_arxiv_id[subject_id].append(arxiv_id)
-                csv_writer[3].writerow([subject_id, arxiv_id])
+                csv_writers[3].writerow([subject_id, arxiv_id])
 
     return idx_arxiv_id, arxiv_id_idx, arxiv_id_subject_id, subject_id_arxiv_id, subject_id_subject
 
