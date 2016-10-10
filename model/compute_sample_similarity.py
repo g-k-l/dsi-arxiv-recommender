@@ -11,18 +11,19 @@ from gensim.models.doc2vec import Doc2Vec
 
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices_dict = stratified_sampling(model, subset_size)
-    for subject_id, idx_list in sample_indices_dict.iteritems():
-        sample_indices_list += idx_list
+    sample_indices_list=[]
+    for subject_id, idx_tuple in sample_indices_dict.iteritems():
+        sample_indices_list.append(idx_tuple)
     matrix_norm(model, sample_indices_list, threshold)
 
-def matrix_norm(model,sample_indices=None,threshold=0.1):
+def matrix_norm(model,sample_indices=[],threshold=0.1):
     '''
     Computes the pairwise cosine similarity of the selected vectors.
     Ignore similarities below threshold.
     Sample_indices keeps track of which vectors are selected from model.docvecs
     '''
     full_matrix = np.array(model.docvecs)
-    if sample_indices == None:
+    if len(sample_indices) == 0:
         sample_indices = xrange(len(full_matrix)-1)
     pool = Pool()
     async_results = []
