@@ -31,7 +31,6 @@ def matrix_norm(model,sample_indices=None,threshold=0.1):
         async_results.append(pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold)))
     pool.close()
     pool.join()
-    map(lambda x: x.wait(), async_results)
     print 'Completed'
 
 def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, threshold):
@@ -55,13 +54,15 @@ def stratified_sampling(model, subset_size):
     '''
     total_sample_size = subset_size*len(model.docvecs)
     if os.path.isfile('./assets/subject_dict.pkl'):
+        print 'subject_dict exists...'
         with open('./assets/subject_dict.pkl', 'rb') as f:
             subject_dict = pickle.load(f)
     else:
+        print 'building subject_dict'
         subject_dict = build_subject_dict(model)
     sample_indices = defaultdict(list)
     for subject_id in subject_dict.keys(): #for each subject
-        full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[subject_id]]) #all articles of a particular subject
+        full_subset = np.array(idx for idx, _ in subject_dict[subject_id]]) #all article indices of a particular subject
         weight = len(subject_dict[subject_id])/float(len(full_subset))
         sample_size = int(len(full_subset)*weight) # number of samples to draw from the subject
         if sample_size != 0:
