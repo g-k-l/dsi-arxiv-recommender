@@ -11,8 +11,8 @@ from gensim.models.doc2vec import Doc2Vec
 
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices_dict = stratified_sampling(model, subset_size)
-    sample_indices_list = [value for key, value in sample_indices_dict.iteritems()]
-    print sample_indices_list
+    for subject_id, idx_list in sample_indices_dict.iteritems():
+        sample_indices_list += idx_list
     matrix_norm(model, sample_indices_list, threshold)
 
 def matrix_norm(model,sample_indices=None,threshold=0.1):
@@ -28,7 +28,7 @@ def matrix_norm(model,sample_indices=None,threshold=0.1):
     async_results = []
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
-        async_results.append(pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold)))
+        pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold))
     pool.close()
     pool.join()
     print 'Completed'
@@ -62,7 +62,7 @@ def stratified_sampling(model, subset_size):
         subject_dict = build_subject_dict(model)
     sample_indices = defaultdict(list)
     for subject_id in subject_dict.keys(): #for each subject
-        full_subset = np.array(idx for idx, _ in subject_dict[subject_id]]) #all article indices of a particular subject
+        full_subset = np.array([idx for idx, _ in subject_dict[subject_id]]) #all article indices of a particular subject
         weight = len(subject_dict[subject_id])/float(len(full_subset))
         sample_size = int(len(full_subset)*weight) # number of samples to draw from the subject
         if sample_size != 0:
