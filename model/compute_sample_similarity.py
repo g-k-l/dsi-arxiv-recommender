@@ -12,8 +12,9 @@ from gensim.models.doc2vec import Doc2Vec
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices_dict = stratified_sampling(model, subset_size)
     sample_indices_list=[]
-    for subject_id, idx_tuple in sample_indices_dict.iteritems():
-        sample_indices_list.append(idx_tuple[0])
+    for subject_id, idx_tuples in sample_indices_dict.iteritems():
+        for idx_tuple in idx_tuples:
+            sample_indices_list.append(idx_tuple[0])
     matrix_norm(model, sample_indices_list, threshold)
 
 def matrix_norm(model,sample_indices=[],threshold=0.1):
