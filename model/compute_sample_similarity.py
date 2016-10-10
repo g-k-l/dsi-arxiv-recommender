@@ -12,7 +12,7 @@ from gensim.models.doc2vec import Doc2Vec
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices_dict = stratified_sampling(model, subset_size)
     sample_indices_list = [value for key, value in sample_indices_dict.iteritems()]
-    matrix_norm(model, sample_indices, threshold)
+    matrix_norm(model, sample_indices_list, threshold)
 
 def matrix_norm(model,sample_indices=None,threshold=0.1):
     '''
@@ -24,11 +24,13 @@ def matrix_norm(model,sample_indices=None,threshold=0.1):
     if sample_indices == None:
         sample_indices = xrange(len(full_matrix)-1)
     pool = Pool()
+    async_results = []
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
-        pool.apply_async(compute_one_row, (left_vec, i, sample_indices[i+1:],full_matrix, threshold))
+        async_results.append(pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold)))
     pool.close()
     pool.join()
+    map(lambda x: x.wait(), async_results)
     print 'Completed'
 
 def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, threshold):
