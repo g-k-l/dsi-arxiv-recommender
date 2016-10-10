@@ -3,21 +3,21 @@ import csv
 import pickle
 import numpy as np
 import psycopg2
+import pdb
 from collections import defaultdict
 from psycopg2.extras import DictCursor
 from scipy.spatial.distance import cosine
 from multiprocessing import Pool, cpu_count
 from gensim.models.doc2vec import Doc2Vec
 
-def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
+def cos_sims_single_pass(model,subset_size=0.1,threshold=0.0):
     sample_indices_dict = stratified_sampling(model, subset_size)
     sample_indices_list=[]
-    for subject_id, idx_tuples in sample_indices_dict.iteritems():
-        for idx_tuple in idx_tuples:
-            sample_indices_list.append(idx_tuple[0])
+    for subject_id, idx_list in sample_indices_dict.iteritems():
+        sample_indices_list+=idx_list
     matrix_norm(model, sample_indices_list, threshold)
 
-def matrix_norm(model,sample_indices=[],threshold=0.1):
+def matrix_norm(model,sample_indices=[],threshold=0.0):
     '''
     Computes the pairwise cosine similarity of the selected vectors.
     Ignore similarities below threshold.
@@ -26,7 +26,7 @@ def matrix_norm(model,sample_indices=[],threshold=0.1):
     full_matrix = np.array(model.docvecs)
     if len(sample_indices) == 0:
         sample_indices = xrange(len(full_matrix)-1)
-    pool = Pool()
+    pool = Pool(cpu_count())
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
         pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold))
@@ -43,7 +43,8 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
     with open('./assets/cos_sims/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
         writer = csv.writer(f)
         for j in sample_indices:
-            sim = 1-cosine(left,full_matrix[j,:])
+            pdb.set_trace()
+            sim = 1-cosine(left_vec,full_matrix[j,:])
             if sim > threshold:
                 writer.writerow([left_vec_idx,j,sim])
     print 'Row ', left_vec_idx, ' completed'
@@ -64,8 +65,7 @@ def stratified_sampling(model, subset_size):
     sample_indices = defaultdict(list)
     for subject_id in subject_dict.keys(): #for each subject
         full_subset = np.array([idx for idx, _ in subject_dict[subject_id]]) #all article indices of a particular subject
-        weight = len(subject_dict[subject_id])/float(len(full_subset))
-        sample_size = int(len(full_subset)*weight) # number of samples to draw from the subject
+        sample_size = int(len(full_subset)*subset_size) # number of samples to draw from the subject
         if sample_size != 0:
             sample_subset = np.random.choice(full_subset, sample_size, replace=False)
             sample_indices[subject_id] =  sample_subset.tolist()
