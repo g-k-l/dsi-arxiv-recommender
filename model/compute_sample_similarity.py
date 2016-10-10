@@ -3,7 +3,6 @@ import csv
 import pickle
 import numpy as np
 import psycopg2
-import pdb
 from collections import defaultdict
 from psycopg2.extras import DictCursor
 from scipy.spatial.distance import cosine
@@ -29,7 +28,7 @@ def matrix_norm(model,sample_indices=[],threshold=0.0):
     pool = Pool(cpu_count())
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
-        pool.apply_async(func=compute_one_row, args=(left_vec, i, sample_indices[i+1:],full_matrix, threshold))
+        pool.apply_async(func=compute_one_row, args=(left_vec, sample_idx, sample_indices[i+1:],full_matrix, threshold))
     pool.close()
     pool.join()
     print 'Completed'
@@ -43,7 +42,6 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
     with open('./assets/cos_sims/sample_cos_sims_{}.txt'.format(left_vec_idx), 'w') as f:
         writer = csv.writer(f)
         for j in sample_indices:
-            pdb.set_trace()
             sim = 1-cosine(left_vec,full_matrix[j,:])
             if sim > threshold:
                 writer.writerow([left_vec_idx,j,sim])
