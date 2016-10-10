@@ -12,6 +12,7 @@ from gensim.models.doc2vec import Doc2Vec
 def cos_sims_single_pass(model,subset_size=0.1,threshold=0.1):
     sample_indices_dict = stratified_sampling(model, subset_size)
     sample_indices_list = [value for key, value in sample_indices_dict.iteritems()]
+    print sample_indices_list
     matrix_norm(model, sample_indices_list, threshold)
 
 def matrix_norm(model,sample_indices=None,threshold=0.1):
@@ -68,7 +69,9 @@ def stratified_sampling(model, subset_size):
             sample_indices[subject_id] =  sample_subset.tolist()
     print 'Writing sample_indices to disk'
     with open('./assets/sample_indices.txt', 'w') as f:
-        f.write(str(sample_indices))
+        writer = csv.writer(f)
+        for key, value in sample_indices.iteritems():
+            writer.writerow([key,value])
     print 'Done sampling'
     return sample_indices
 
