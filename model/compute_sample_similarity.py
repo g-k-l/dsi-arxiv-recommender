@@ -67,11 +67,11 @@ def build_subject_dict(model):
         if model.docvecs.index_to_doctag(i)[1] in subject_dict.keys():
             subject_dict[model.docvecs.index_to_doctag(i)[1]].append(tuple([i,model.docvecs.index_to_doctag(i)[0]]))
         else:
-            subject_dict[model.docvecs.index_to_doctag(i)[1]] = [(tuple([i,model.docvecs.index_to_doctag(i)[0]))]
+            subject_dict[model.docvecs.index_to_doctag(i)[1]] = [(tuple([i,model.docvecs.index_to_doctag(i)[0]]))]
     with open('./cos_sim_results/subject_dict.pkl', 'wb') as f:
         pickle.dump(subject_dict, f)
     return subject_dict
 
 if __name__ == '__main__':
-    model = Doc2Vec.load('full_model')
+    model = Doc2Vec.load('second_model')
     cos_sims_single_pass(model)
