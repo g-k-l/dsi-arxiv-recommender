@@ -62,7 +62,7 @@ def stratified_sampling(model, subset_size):
     sample_indices = defaultdict(list)
     for subject_id in subject_dict.keys(): #for each subject
         full_subset = np.array([model.docvecs[idx] for idx, _ in subject_dict[subject_id]]) #all articles of a particular subject
-        weight = len(subject_dict['subject_id'])/float(len(full_subset))
+        weight = len(subject_dict[subject_id])/float(len(full_subset))
         sample_size = int(len(full_subset)*weight) # number of samples to draw from the subject
         if sample_size != 0:
             sample_subset = np.random.choice(full_subset, sample_size, replace=False)
