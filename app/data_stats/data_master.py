@@ -10,6 +10,6 @@ def get_data():
         data = csv.reader(f)
         col_names = data.next()
         for row in data:
-            d = { col_name: value for col_name, value in zip(col_names, row)}
-            master_list.append(d)
+            # d = { col_name: value for col_name, value in zip(col_names, row)}
+            master_list.append(row)
     return master_list
