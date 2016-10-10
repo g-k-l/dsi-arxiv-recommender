@@ -43,7 +43,7 @@ def compute_one_row(left_vec, left_vec_idx, sample_indices, full_matrix, thresho
                 writer.writerow([left_vec_idx,j,sim])
     print 'Row ', left_vec_idx, ' completed'
 
-def stratified_sampling(model, subset_size, subject_dict):
+def stratified_sampling(model, subset_size):
     '''
     Samples the document vectors. Stratify by subject/subject_id.
     Subset is a float between 0 and 1, as a fraction of the total number of vectors.
@@ -125,7 +125,7 @@ def build_subject_dict(model):
         cur = conn.cursor(cursor_factory = DictCursor)
         subject_dict = defaultdict(list)
         for i in xrange(len(model.docvecs)):
-            arxiv_id = model.index_to_doctag(i)
+            arxiv_id = model.docvecs.index_to_doctag(i)
             cur.execute("SELECT subject_id FROM articles WHERE arxiv_id=\'{}\'".format(arxiv_id))
             try:
                 subject_id = cur.fetchone()['subject_id']
@@ -139,5 +139,5 @@ def build_subject_dict(model):
 
 if __name__ == '__main__':
     model = Doc2Vec.load('second_model')
-    build_lookups(model)
+    #build_lookups(model)
     cos_sims_single_pass(model)
