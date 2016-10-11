@@ -26,9 +26,15 @@ def matrix_norm(model,sample_indices=[],threshold=0.0):
     if len(sample_indices) == 0:
         sample_indices = xrange(len(full_matrix)-1)
     pool = Pool(cpu_count())
+    r = []
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
-        pool.apply_async(func=compute_one_row, args=(left_vec, sample_idx, sample_indices[i+1:],full_matrix, threshold))
+        r.append(pool.apply_async(func=compute_one_row, args=(left_vec, sample_idx, sample_indices[i+1:],full_matrix, threshold)))
+	if i % 50==0 and i!=0:
+	    for result in r:
+		if not result.ready():
+		    result.wait()
+	    r=[]
     pool.close()
     pool.join()
     print 'Completed'
