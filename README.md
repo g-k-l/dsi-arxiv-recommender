@@ -113,10 +113,22 @@
 
 ###10/10/2016:
 ####Completed:
-- After starting the computation for the full model on Saturday, the training is now complete (at 11 PM). The total training time was ~71 hours. The final model was 13 GBs (I almost fainted at the thought of not being able to save it, but EBS came to the resuce). The model is currently saving. I expect it to take some time to finish. We will test it out tomorrow to see if it actually improves upon the abstract model.
+- After starting the computation for the full model on Saturday, the training is now complete (at 11 PM). The total process was ~71 hours (including retrieving the documents, etc). The final model was 13 GBs (I almost fainted at the thought of not being able to save it, but EBS came to the resuce). The model is currently saving. I expect it to take some time to finish. We will test it out tomorrow to see if it actually improves upon the abstract model.
 - After spending all weekend debugging my compute_sample_similarity.py, I finally got it to run for today. I expect it to finish some time tomorrow, during which I can build my first graph!
 - While waiting for the computation, I've been picking up d3 (and whatever javascript necessary) for data visualization. I think I am beginning to grasp the concepts surrounding it (such as hooking data points to the graphic elements and transforming their properties according to the data). I've always enjoyed visualizations created via d3 and I hope to include some of my own visualizations for the presentation. 
 - Overall, today is a good day.
+
+Actual training time: 162009.001309
+
+
+###10/11/2016:
+####Goals:
+- (Finally) begin to setup the graph and run community detection.
+- Continue to work on the web app and d3 graphs (figure out tooltips).
+- Begin stratified sampling on the full model using aws_remote_trainer (my EC2 instance)
+####Completed:
+
+
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.
@@ -136,6 +148,7 @@
 - Middle of 10/5/2016: My training process kept getting killed: out of memory. Note to self: training the abstract model requires ~110 gb of RAM (peak).
 - 9:00 PM 10/5/2016: Finished training another model that has tags. Hopefully this will resolve the doc vec and articles correspondence issue. Current content-to-postgres progress: ~688k.
 - 12:00 PM 10/6/2016: Make sure to set which disk for spark to put /tmp files. Otherwise you will run out of disk space.
+- 9:00 AM 10/11/2016: The current count for the cos sim computation for second_model is ~59000 out of ~100,000. We are over half way done (since each subsequent row has one fewer computation).
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
