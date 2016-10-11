@@ -109,7 +109,14 @@
 - Some method of stratified sampling.
 ####Completed:
 - Started the cosine similarity calculation for the second model. Expected completion time is ~3 days.
--
+
+
+###10/10/2016:
+####Completed:
+- After starting the computation for the full model on Saturday, the training is now complete (at 11 PM). The total training time was ~71 hours. The final model was 1.28 TBs (I almost fainted at the thought of not being able to save it, but EBS came to the resuce). The model is currently saving. I expect it to take some time to finish. We will test it out tomorrow to see if it actually improves upon the abstract model.
+- After spending all weekend debugging my compute_sample_similarity.py, I finally got it to run for today. I expect it to finish some time tomorrow, during which I can build my first graph!
+- While waiting for the computation, I've been picking up d3 (and whatever javascript necessary) for data visualization. I think I am beginning to grasp the concepts surrounding it (such as hooking data points to the graphic elements and transforming their properties according to the data). I've always enjoyed visualizations created via d3 and I hope to include some of my own visualizations for the presentation. 
+- Overall, today is a good day.
 
 ##Updates and Comments
 - ~8:40 AM 9/30/2016: The number of XML files is around ~850k currently. The process is still running. Also, it took a non-trivial amount of time to count the number of files in the directory.

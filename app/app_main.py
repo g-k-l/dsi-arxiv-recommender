@@ -13,3 +13,5 @@ def display():
 
 if __name__ == '__main__':
     app.run()
+    url_for('static','index.html')
+    url_for('static','bubble.html')
