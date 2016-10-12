@@ -11,7 +11,6 @@ Put the string on PSQL server. Push() calls push_src(), which multiprocesses pus
 which multithreads upload_one()
 '''
 
-
 def push():
     print 'Starting...'
     root_path = '/home/ubuntu/unpacked_src'

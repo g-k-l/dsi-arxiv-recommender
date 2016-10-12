@@ -155,6 +155,17 @@ def build_subject_dict(model):
             pickle.dump(subject_dict,f)
     return subject_dict
 
+def get_subject_centroids(model, subject_dict):
+    '''
+    Computes the centroid of each subject by taking the average of vectors belonging
+    to that subject.
+    '''
+    subject_centroids = {}
+    for subject_id, idx_list in subject_dict.iteritems():
+        subject_centroids[subject_id] = np.mean(model.docvecs[idx_list])
+    return subject_centroids
+
+
 if __name__ == '__main__':
     model = Doc2Vec.load('second_model')
     #build_lookups(model)
