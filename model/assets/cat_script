@@ -1,0 +1,12 @@
+#!/bin/bash
+
+touch master_cos_sims.txt
+
+for filename in ./cos_sims/*.txt
+    do
+        echo $filename
+        cat $filename >> master_cos_sims.txt
+    done
+
+
+    

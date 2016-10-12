@@ -149,7 +149,7 @@ Actual training time: 162009.001309
 - 9:00 PM 10/5/2016: Finished training another model that has tags. Hopefully this will resolve the doc vec and articles correspondence issue. Current content-to-postgres progress: ~688k.
 - 12:00 PM 10/6/2016: Make sure to set which disk for spark to put /tmp files. Otherwise you will run out of disk space.
 - 9:00 AM 10/11/2016: The current count for the cos sim computation for second_model is ~59000 out of ~100,000. We are over half way done (since each subsequent row has one fewer computation).
-- 11:20 AM 10/11/2016: 
+- 1:40 PM 10/11/2016: For some reason full_model wouldn't load the docvecs (full_model.doctag_syn0.npy). However, I can 
 
 ##Misc. Notes
 - arXiv changed its identifier scheme on March 2007. See https://arxiv.org/help/arxiv_identifier
