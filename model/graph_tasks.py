@@ -1,3 +1,4 @@
+import os
 import csv
 import pickle
 from collections import defaultdict
@@ -5,11 +6,24 @@ from itertools import combinations
 from scipy.spatial.distance import cosine
 import networkx as nx
 import community as com
+import snap
 from gensim.models.doc2vec import Doc2Vec
 
-root_path = './assets/cos_sims/'
+root_path = './assets/cos_sims_tmps/'
 
-def get_partitions(file_list, output_path='./assets/idx_community.txt'):
+
+# def get_partitions_snap(file_list,output_path='./assets/idx_community.txt'):
+#     '''
+#     Uses Stanford snap's implementation of CNM to do community detection
+#     Note that since snap does not support weighted graphs, we simply declare
+#     all edges as weight 1.
+#     '''
+#
+#
+#
+
+
+def get_partitions_nx(file_list, output_path='./assets/idx_community.txt'):
     '''
     Gets the dictionary where the key is the index, and the
     value is the community label. Loop through all the cos_sim files
@@ -95,6 +109,14 @@ def build_arxiv_id_to_community(model, partition):
             writer2.writerow([comm,arxiv_ids])
 
     return arxiv_id_community, community_arxiv_id
+
+
+def subset_testing():
+    '''
+    
+    '''
+
+
 
 if __name__ == '__main__':
     walker = os.walk('./assets/cos_sims_tmps') #test
