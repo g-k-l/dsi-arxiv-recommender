@@ -21,8 +21,6 @@ def get_partitions(file_list, output_path='./assets/idx_community.txt'):
     for i, filename in enumerate(file_list):
         if i % 20 == 0:
             print 'Current iteration: {} out of {}.'.format(i, len(file_list))
-            if i == 100:
-                break
         next_set = nx.read_weighted_edgelist(root_path+filename, delimiter=',')
         master_g = nx.compose(master_g, next_set)
 
