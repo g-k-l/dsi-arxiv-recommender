@@ -30,7 +30,7 @@ def matrix_norm(model,sample_indices=[],threshold=0.0):
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
         r.append(pool.apply_async(func=compute_one_row, args=(left_vec, sample_idx, sample_indices[i+1:],full_matrix, threshold)))
-	if i % 50==0 and i!=0:
+	if i % 200==0 and i!=0:
 	    for result in r:
 		if not result.ready():
 		    result.wait()
@@ -167,6 +167,6 @@ def get_subject_centroids(model, subject_dict):
 
 
 if __name__ == '__main__':
-    model = Doc2Vec.load('second_model')
+    model = Doc2Vec.load('./assets/second_model/second_model')
     #build_lookups(model)
-    cos_sims_single_pass(model)
+    cos_sims_single_pass(model, subset_size=0.01, threshold=0.2)
