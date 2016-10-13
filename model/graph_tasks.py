@@ -3,6 +3,7 @@ import csv
 import pickle
 from collections import defaultdict
 from itertools import combinations
+import numpy as np
 from scipy.spatial.distance import cosine
 import networkx as nx
 import community as com
@@ -20,8 +21,7 @@ def get_partitions(file_list, output_path='./assets/idx_community.txt'):
     for i, filename in enumerate(file_list):
         if i % 20 == 0:
             print 'Current iteration: {} out of {}.'.format(i, len(file_list))
-            if i == 200:
-                print 'Test Completed'
+            if i == 100:
                 break
         next_set = nx.read_weighted_edgelist(root_path+filename, delimiter=',')
         master_g = nx.compose(master_g, next_set)
@@ -43,9 +43,15 @@ def get_community_centroids(model, partition):
     the average of all the vectors in that community.
     '''
     tmp = defaultdict(list)
-    for idx, comm in partition:
-        tmp[comm].append(model.docvecs[idx])
-    return {comm: reduce(lambda x,y: x+y, vectors)/len(vectors) for comm, vectors in tmp.iteritems()}
+    with open('./assets/community_centroids.txt','w') as f:
+        writer = csv.writer(f)
+        for idx, comm in partition.iteritems():
+            tmp[comm].append(model.docvecs[int(idx)])
+
+        result_d = {comm: reduce(lambda x,y: x+y, vectors)/len(vectors) for comm, vectors in tmp.iteritems()}
+        for comm, vector in result_d.iteritems():
+            writer.writerow([comm,vector.tolist()])
+    return result_d
 
 def get_centroid_similarities(centroids):
     '''
@@ -56,9 +62,9 @@ def get_centroid_similarities(centroids):
     with open('./assets/centroid_sims.txt', 'w') as f:
         writer = csv.writer(f)
         for c1, c2 in comb:
-            centroid_sims.append([c1, c2, cosine(c1,c2)])
-            writer.writerow([c1,c2,cosine(c1,c2)])
-    return centroid_sims
+            centroid_sims.append([c1, c2, 1-cosine(centroids[c1],centroids[c2])])
+            writer.writerow([c1,c2,1-cosine(centroids[c1],centroids[c2])])
+    return centroid_sims 
 
 def get_subject_centroids(model):
     '''
@@ -69,7 +75,7 @@ def get_subject_centroids(model):
         subject_dict = pickle.load(f)
     subject_centroids = {}
     for subject_id, idx_list in subject_dict.iteritems():
-        subject_centroids[subject_id] = np.mean(model.docvecs[idx_list])
+        subject_centroids[subject_id] = np.mean(model.docvecs[idx_list],axis=0)
     return subject_centroids
 
 def get_subject_similarities(centroids):
@@ -78,8 +84,8 @@ def get_subject_similarities(centroids):
     with open('./assets/subject_sims.txt', 'w') as f:
         writer = csv.writer(f)
         for c1, c2 in comb:
-            centroid_sims.append([c1, c2, cosine(c1,c2)])
-            writer.writerow([c1,c2,cosine(c1,c2)])
+            centroid_sims.append([c1, c2, 1-cosine(centroids[c1],centroids[c2])])
+            writer.writerow([c1,c2,1-cosine(centroids[c1],centroids[c2])])
     return centroid_sims
 
 def build_arxiv_id_to_community(model, partition):
@@ -116,6 +122,6 @@ if __name__ == '__main__':
     print 'Starting centroid computations'
     centroids = get_community_centroids(model, partition)
     centroid_sims = get_centroid_similarities(centroids)
-    subject_centroids = get_subject_centroids(model)
-    subject_centroids_sims = get_subject_similarities(subject_centroids)
+    #subject_centroids = get_subject_centroids(model)
+    #subject_centroids_sims = get_subject_similarities(subject_centroids)
     print 'Completed.'
