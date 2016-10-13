@@ -8,21 +8,29 @@ import networkx as nx
 import community as com
 from gensim.models.doc2vec import Doc2Vec
 
-root_path = './assets/cos_sims_tmps/'
+root_path = './assets/cos_sims/'
 
-def get_partitions_nx(file_list, output_path='./assets/idx_community.txt'):
+def get_partitions(file_list, output_path='./assets/idx_community.txt'):
     '''
     Gets the dictionary where the key is the index, and the
     value is the community label. Loop through all the cos_sim files
     to load the nodes and edges
     '''
     master_g = nx.Graph()
-    for filename in file_list:
+    for i, filename in enumerate(file_list):
+        if i % 20 == 0:
+            print 'Current iteration: {} out of {}.'.format(i, len(file_list))
+            if i == 200:
+                print 'Test Completed'
+                break
         next_set = nx.read_weighted_edgelist(root_path+filename, delimiter=',')
         master_g = nx.compose(master_g, next_set)
 
-    nx.write_adjlist(master_g, "cos_sims_full_adj_list.txt") # write to disk
+    print 'Writing combined graph to disk...'
+    nx.write_weighted_edgelist(master_g, "./assets/cos_sims_full_edgelist.txt") # write to disk
+    print 'Starting Community Detection'
     partition = com.best_partition(master_g)  # partitions is a dictionary
+    print 'Partition Completed, Writing to Disk... '
     with open(output_path, 'w') as f:
         writer = csv.writer(f)
         for idx, comm in partition.iteritems():
@@ -99,12 +107,15 @@ def build_arxiv_id_to_community(model, partition):
 
 
 if __name__ == '__main__':
-    walker = os.walk('./assets/cos_sims_tmps') #test
-    file_list = walker.next[2] #list of file neames in directory
+    walker = os.walk(root_path) #test
+    file_list = walker.next()[2] #list of file neames in directory
+    print 'Getting partitions'
     partition = get_partitions(file_list) #get the partition
-
+    print 'Loading Model'
     model = Doc2Vec.load('./assets/second_model/second_model')
+    print 'Starting centroid computations'
     centroids = get_community_centroids(model, partition)
     centroid_sims = get_centroid_similarities(centroids)
     subject_centroids = get_subject_centroids(model)
     subject_centroids_sims = get_subject_similarities(subject_centroids)
+    print 'Completed.'
