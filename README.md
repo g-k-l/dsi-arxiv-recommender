@@ -12,7 +12,7 @@ This project seeks to expand on [sepehr125's project](https://github.com/sepehr1
 
 
 
-####Data
+##Data
 The article metadata was obtained via [arXiv's OAI-PMH interface](https://arxiv.org/help/oa/index). These files are in xml format and are well-formatted and "clean." More specifically, each element within the files is clearly and consistently labeled. The following is an example of a metadata file.
 
 ```
@@ -50,7 +50,7 @@ Doc2Vec model trained with full content: `s3://arxivdoc2vecmodel`.
 ##Future Work
 - Talk about Spark, RowMatrix, GraphX, and Scala
 - Talk about different strategies for parsing the
--
+- asdf
 
 ###
 
