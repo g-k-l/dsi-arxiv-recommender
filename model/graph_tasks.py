@@ -43,14 +43,13 @@ def get_community_centroids(model, partition):
     the average of all the vectors in that community.
     '''
     tmp = defaultdict(list)
-    with open('./assets/community_centroids.txt','w') as f:
+    with open('./assets/community_centroids.pkl','wb') as f:
         writer = csv.writer(f)
         for idx, comm in partition.iteritems():
             tmp[comm].append(model.docvecs[int(idx)])
 
         result_d = {comm: reduce(lambda x,y: x+y, vectors)/len(vectors) for comm, vectors in tmp.iteritems()}
-        for comm, vector in result_d.iteritems():
-            writer.writerow([comm,vector.tolist()])
+        pickle.dump(result_d,f)
     return result_d
 
 def get_centroid_similarities(centroids):
@@ -64,7 +63,7 @@ def get_centroid_similarities(centroids):
         for c1, c2 in comb:
             centroid_sims.append([c1, c2, 1-cosine(centroids[c1],centroids[c2])])
             writer.writerow([c1,c2,1-cosine(centroids[c1],centroids[c2])])
-    return centroid_sims 
+    return centroid_sims
 
 def get_subject_centroids(model):
     '''
@@ -74,8 +73,10 @@ def get_subject_centroids(model):
     with open('./assets/subject_dict.pkl', 'rb') as f:
         subject_dict = pickle.load(f)
     subject_centroids = {}
-    for subject_id, idx_list in subject_dict.iteritems():
-        subject_centroids[subject_id] = np.mean(model.docvecs[idx_list],axis=0)
+    with open('./assets/subject_centroids.pkl','wb') as f:
+        for subject_id, idx_list in subject_dict.iteritems():
+            subject_centroids[subject_id] = np.mean(model.docvecs[idx_list],axis=0)
+        pickle.dump(subject_centroids,f)
     return subject_centroids
 
 def get_subject_similarities(centroids):
