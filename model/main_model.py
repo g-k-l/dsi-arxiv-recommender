@@ -97,7 +97,6 @@ def compute_product_scores(result_d):
         print 'Starting process for {}, {}'.format(subject_id_1, subject_id_2)
         async_results.append(pool.apply_async(compute_pair_scores, (subject_id_1, subject_id_2,
                                             result_d[subject_id_1], result_d[subject_id_2], )))
-        break #testing
     write_results = []
     for result in async_results:
         if not result.ready():
@@ -140,7 +139,7 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
                 continue
             #otherwise, check to see if the score belongs in the list
             minimum = min(scores_list,key=lambda x: x[1])
-            if score > minimum :
+            if score > minimum[1] :
                 scores_list.remove(minimum)
                 scores_list.append(tuple([arxiv_id, score]))
             i+=1
@@ -159,7 +158,7 @@ if __name__ == '__main__':
     print 'Writing to disk...'
     with open('./assets/subject_model.pkl','wb') as f1:
         with open('./assets/complete_model_test.pkl', 'wb') as f2:
-            r1=pool.apply_async(pickle.dump, (model_dict,f1,))
+            #r1=pool.apply_async(pickle.dump, (model_dict,f1,))
             r2=pool.apply_async(pickle.dump, (result_d, f2, ))
     r1.wait()
     r2.wait()
