@@ -107,7 +107,7 @@ def compute_product_scores(result_d):
 
     while True:
         if len(result)==0:
-            break        
+            break
         for result in write_results:
             if result.ready():
                 write_results.remove(result)
@@ -159,9 +159,9 @@ if __name__ == '__main__':
 
     pool = Pool()
     print 'Writing to disk...'
-    with open('./assets/subject_model.pkl','wb') as f1:
-        with open('./assets/complete_model_test.pkl', 'wb') as f2:
+    # with open('./assets/subject_model.pkl','wb') as f1:
+    with open('./assets/complete_model_test.pkl', 'wb') as f2:
             #r1=pool.apply_async(pickle.dump, (model_dict,f1,))
-            r2=pool.apply_async(pickle.dump, (result_d, f2, ))
+        r2=pool.apply_async(pickle.dump, (result_d, f2, ))
     #r1.wait()
     r2.wait()
