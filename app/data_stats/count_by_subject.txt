@@ -29,7 +29,7 @@ Quantitative Finance - Statistical Finance,20,788
 Physics - Atomic and Molecular Clusters,135,797
 Quantitative Finance - General Finance,68,815
 Quantitative Biology - Genomics,121,939
-Computer Science - Computational Engineering, Finance, and Science",125,1083
+"Computer Science - Computational Engineering, Finance, and Science",125,1083
 Physics - Medical Physics,73,1116
 Computer Science - Formal Languages and Automata Theory,64,1133
 Computer Science - Human-Computer Interaction,126,1138
@@ -144,4 +144,3 @@ Quantum Physics,54,48713
 High Energy Physics - Theory,51,75768
 Astrophysics,117,94247
 High Energy Physics - Phenomenology,120,94934
-
