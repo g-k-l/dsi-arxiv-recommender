@@ -12,25 +12,33 @@ def build_subject_model(model):
     '''
     #load subject_centroids
     with open('./assets/subject_centroids.pkl', 'rb') as f:
-        subject_centroids = picke.load(f)
+        subject_centroids = pickle.load(f)
 
     model_dict = {}
-    pool = Pool(cpu_count())
+    pool = Pool()
     async_results = []
 
     for idx, doc_vec in enumerate(model.docvecs):
-        async_results.append(pool.apply_async(idx, doc_vec, subject_centroids)
-        if idx % 3000 == 0 : #take 3000 as the batch size
+        async_results.append(pool.apply_async(build_single_doc_dict, (idx, doc_vec, subject_centroids,)))
+        if idx % 10000 == 0 and idx != 0: #take 10000 as the batch size
             for result in async_results:
-                if not result.ready():
-                    result.wait()
-                if result.successful():
+                if result.ready():
                     vec_idx, subject_doc_sims = result.get()
-                    arxiv_id = model.docvecs.index_to_doctag[vec_idx]
+                    arxiv_id = model.docvecs.index_to_doctag(vec_idx)
                     model_dict[arxiv_id] = subject_doc_sims
-            async_results=[]
+            print 'batch {} complete'.format(idx/10000)
 
-    with open('./assets/subject_model.pkl') as f:
+    print 'Items in async_results: ', len(async_results)
+    for result in async_results:
+	if not result.ready():
+	    result.wait()
+	vec_idx, subject_doc_sims = result.get()
+	arxiv_id = model.docvecs.index_to_doctag(vec_idx)
+	if arxiv_id not in model_dict:
+	    model_dict[arxiv_id] = subject_doc_sims
+
+    print 'Writing to disk...'
+    with open('./assets/subject_model.pkl','wb') as f:
         pickle.dump(model_dict,f)
 
     return model_dict
@@ -42,7 +50,7 @@ def build_single_doc_dict(idx, doc_vec, subject_centroids):
     '''
     subject_doc_sims = {}
     for subject_id, centroid in subject_centroids.iteritems():
-        subject_doc_sims[subject_id] = 1-cos(docvec,centroid)
+        subject_doc_sims[subject_id] = 1-cosine(doc_vec,centroid)
     return idx, subject_doc_sims
 
 
