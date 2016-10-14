@@ -57,12 +57,4 @@ for obj in bucket.objects.all():
         conn.commit()
         print 'iteration', i
     to_psql(obj)
-#    t = threading.Thread(target=to_psql, args=(obj,))
-#    threads.append(t)
-#    t.start()
-#    if len(threads) % 10000==0:
     i+=1
-#        threads[-1].join()
-#        conn.commit()
-#	print 'batch {} complete'.format(i)
-#        threads = []
