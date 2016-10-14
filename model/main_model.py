@@ -66,6 +66,7 @@ def bin_by_subject_id(model_dict):
     the list contains the similarities of the articles with the cosine sims, organized
     by subject_id for easy lookup.
     '''
+    print 'Binning by subject_id...'
     result_d = {}
     with open('./assets/subject_id_arxiv_id.csv', 'r') as f:
         csv_file = csv.reader(f)
@@ -77,9 +78,6 @@ def bin_by_subject_id(model_dict):
                 result_d[subject_id][arxiv_id] = model_dict[arxiv_id]
             else:
                 result_d[subject_id] = {arxiv_id: model_dict[arxiv_id]}
-
-    print 'Writing to disk...'
-
 
     return result_d
 
@@ -96,6 +94,7 @@ def compute_product_scores(result_d):
     comb = combinations(result_d.keys(), 2) #there are 10731 such combinations
     async_results = []
     for subject_id_1, subject_id_2 in comb:
+        print 'Starting process for {}, {}'.format(subject_id_1, subject_id_2)
         async_results.append(pool.apply_async(compute_pair_scores, (subject_id_1, subject_id_2,
                                             result_d[subject_id_1], result_d[subject_id_2], )))
     write_results = []
@@ -113,8 +112,9 @@ def compute_product_scores(result_d):
     return scores_dict
 
 def pickle_dump_precompute(subject_id_1, subject_id_2, scores_list):
+    print 'Dumping scores for {}, {}'.format(subject_id_1, subject_id_2)
     with open('./assets/precompute/{}_{}_scores_list.pkl'.format(
-        (min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'w')) as f:
+        (min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'wb')) as f:
         pickle.dump(scores_list, f)
     return True
 
@@ -153,7 +153,7 @@ if __name__ == '__main__':
     print 'Writing to disk...'
     with open('./assets/subject_model.pkl','wb') as f1:
         with open('./assets/complete_model_test.pkl', 'wb') as f2:
-            r1=pool.apply_async(pickle.dump, (model_dict,f,))
-            r2=pool.apply_async(pickle.dump, (result_d, f, ))
+            r1=pool.apply_async(pickle.dump, (model_dict,f1,))
+            r2=pool.apply_async(pickle.dump, (result_d, f2, ))
     r1.wait()
     r2.wait()
