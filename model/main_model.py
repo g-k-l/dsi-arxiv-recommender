@@ -97,6 +97,7 @@ def compute_product_scores(result_d):
         print 'Starting process for {}, {}'.format(subject_id_1, subject_id_2)
         async_results.append(pool.apply_async(compute_pair_scores, (subject_id_1, subject_id_2,
                                             result_d[subject_id_1], result_d[subject_id_2], )))
+        break #testing
     write_results = []
     for result in async_results:
         if not result.ready():
@@ -128,8 +129,8 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
     scores_list = []
     for d in [dict_1,dict_2]:
         for arxiv_id, cos_sim_dict in d.iteritems():
-            if i % 100 == 0:
-                print 'Current iteration: ', i
+            if i % 100 == 0 & i !=0:
+                print 'Current iteration for {}, {}: {}'.format(subject_id_1, subject_id_2, i)
             # ignore two negatives, whose product will be a misleading positive
             if cos_sim_dict[subject_id_1] < 0 and cos_sim_dict[subject_id_2] < 0:
                 continue
@@ -138,13 +139,13 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
                 scores_list.append(tuple([arxiv_id, score]))
                 continue
             #otherwise, check to see if the score belongs in the list
-            minimum = min(score_list,key=lambda x: x[1])
+            minimum = min(scores_list,key=lambda x: x[1])
             if score > minimum :
                 scores_list.remove(minimum)
                 scores_list.append(tuple([arxiv_id, score]))
             i+=1
 
-    score_list = sorted(score_list, key=lambda x: x[1])
+    scores_list = sorted(scores_list, key=lambda x: x[1])
     return subject_id_1, subject_id_2, scores_list
 
 
