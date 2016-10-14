@@ -62,7 +62,7 @@ def build_single_doc_dict(idx, doc_vec, subject_centroids):
 def bin_by_subject_id(model_dict):
     '''
     Builds the following dictionary:
-    { subject_id: list of \{arxiv_id: \{ subject_id: cos_sims \}\}}
+    { subject_id: \{arxiv_id: \{ subject_id: cos_sims \}\}}
     the list contains the similarities of the articles with the cosine sims, organized
     by subject_id for easy lookup.
     '''
@@ -90,7 +90,7 @@ def compute_product_scores(result_d):
     the top 100 results.
     '''
     pool = Pool()
-    scores_dict = [] #keys are subject_id pairs and value is the list of top 100 scores
+    scores_dict = {} #keys are subject_id pairs and value is the list of top 100 scores
     comb = combinations(result_d.keys(), 2) #there are 10731 such combinations
     async_results = []
     for subject_id_1, subject_id_2 in comb:
@@ -126,27 +126,32 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
     '''
     i=0
     scores_list = []
-    for arxiv_id, cos_sim_dict in dict_1:
-        if i % 100 == 0:
-            print 'Current iteration: ', i
-        score = cos_sim_dict[subject_id_1] * cos_sim_dict[subject_id_2]
-        if len(scores_list) < 100:
-            scores_list.append(tuple([arxiv_id, score]))
-            continue
-        #otherwise, check to see if the score belongs in the list
-        minimum = min(score_list,key=lambda x: x[1])
-        if score > minimum :
-            score_list.remove(minimum)
-            scores_list.append(tuple([arxiv_id, score]))
-        i+=1
+    for d in [dict_1,dict_2]:
+        for arxiv_id, cos_sim_dict in d.iteritems():
+            if i % 100 == 0:
+                print 'Current iteration: ', i
+            # ignore two negatives, whose product will be a misleading positive
+            if cos_sim_dict[subject_id_1] < 0 and cos_sim_dict[subject_id_2] < 0:
+                continue
+            score = cos_sim_dict[subject_id_1] * cos_sim_dict[subject_id_2]
+            if len(scores_list) < 100:
+                scores_list.append(tuple([arxiv_id, score]))
+                continue
+            #otherwise, check to see if the score belongs in the list
+            minimum = min(score_list,key=lambda x: x[1])
+            if score > minimum :
+                scores_list.remove(minimum)
+                scores_list.append(tuple([arxiv_id, score]))
+            i+=1
 
+    score_list = sorted(score_list, key=lambda x: x[1])
     return subject_id_1, subject_id_2, scores_list
 
 
 if __name__ == '__main__':
     model = Doc2Vec.load('./assets/second_model/second_model')
     model_dict = build_subject_model(model)
-    result_d = bin_by_subject_id(model_dict_test)
+    result_d = bin_by_subject_id(model_dict)
     scores_dict = compute_product_scores(result_d)
 
     pool = Pool()
