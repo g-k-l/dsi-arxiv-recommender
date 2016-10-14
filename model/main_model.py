@@ -92,6 +92,6 @@ def bin_by_subject_id(model_dict):
 if __name__ == '__main__':
     # model = Doc2Vec.load('./assets/second_model/second_model')
     # model_dict = build_subject_model(model)
-    with open('./assets/subject_model_test.pkl','wb') as f:
+    with open('./assets/subject_model_test.pkl','rb') as f:
         model_dict_test = pickle.load(f)
     bin_by_subject_id(model_dict_test)
