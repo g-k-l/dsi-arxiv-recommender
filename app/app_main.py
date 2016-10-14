@@ -14,9 +14,9 @@ results_dict = {}
 comb = combinations(range(1,147), 2)
 
 # for subject_id_1, subject_id_2 in comb:
-#     file_path = '../model/assets/precompute/{}_{}_scores_list.pkl'.format(subject_id_1, subject_id_2)
-#     with open(file_path, 'rb') as f:
-#         results_dict[(subject_id_1, subject_id_2)] = pickle.load(f)
+file_path = '../model/assets/precompute/{}_{}_scores_list.pkl'.format(1,2)
+with open(file_path, 'rb') as f:
+    results_dict[(1, 2)] = pickle.load(f)
 
 
 app = Flask(__name__)
@@ -37,8 +37,8 @@ def result():
     subject_id_1 = int(subjects_info[subjects_info['subject']==value_list[0]]['subject_id'])
     subject_id_2 = int(subjects_info[subjects_info['subject']==value_list[1]]['subject_id'])
 
-    # result_list = results_dict[(min(subject_id_1, subject_id_2), max(subject_id_1,subject_id_2))]
-    result_list = [('http://www.google.com', 0.212123121), ('more url', 0.126318894)]
+    result_list = sorted(results_dict[(1, 2)], key=lambda x: x[1], reverse=True)
+    # result_list = [('http://www.google.com', 0.212123121), ('more url', 0.126318894)]
     return render_template('result.html', results=result_list)
 
 @app.route("/about.html")
