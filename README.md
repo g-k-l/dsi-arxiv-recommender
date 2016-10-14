@@ -21,9 +21,8 @@ Parsing the [source files](/examples/1208.0007) is much trickier than parsing th
 My final recommendation model does not use the Doc2Vec model trained on the full articles due to time constraints. However, the model is available on a S3 bucket `s3://arxivdoc2vecmodel` for anyone to access. It would be an interesting and natural next step to try to build the recommendation model with this Doc2Vec model.
 
 
-###Tools
+##Models
 
-###Models
 
 Doc2Vec model trained with full content: `s3://arxivdoc2vecmodel`.
 

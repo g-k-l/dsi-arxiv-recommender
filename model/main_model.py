@@ -46,10 +46,6 @@ def build_subject_model(model):
 	if arxiv_id not in model_dict:
 	    model_dict[arxiv_id] = subject_doc_sims
 
-    print 'Writing to disk...'
-    with open('./assets/subject_model.pkl','wb') as f:
-        pickle.dump(model_dict,f)
-
     return model_dict
 
 def build_single_doc_dict(idx, doc_vec, subject_centroids):
@@ -83,8 +79,7 @@ def bin_by_subject_id(model_dict):
                 result_d[subject_id] = {arxiv_id: model_dict[arxiv_id]}
 
     print 'Writing to disk...'
-    with open('./assets/complete_model_test.pkl', 'wb') as f:
-        pickle.dump(result_d, f)
+
 
     return result_d
 
@@ -119,7 +114,7 @@ def compute_product_scores(result_d):
 
 def pickle_dump_precompute(subject_id_1, subject_id_2, scores_list):
     with open('./assets/precompute/{}_{}_scores_list.pkl'.format(
-        (min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'w') as f:
+        (min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'w')) as f:
         pickle.dump(scores_list, f)
     return True
 
@@ -149,9 +144,16 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
 
 
 if __name__ == '__main__':
-    # model = Doc2Vec.load('./assets/second_model/second_model')
-    # model_dict = build_subject_model(model)
-    with open('./assets/subject_model_test.pkl','rb') as f:
-        model_dict_test = pickle.load(f)
+    model = Doc2Vec.load('./assets/second_model/second_model')
+    model_dict = build_subject_model(model)
     result_d = bin_by_subject_id(model_dict_test)
     scores_dict = compute_product_scores(result_d)
+
+    pool = Pool()
+    print 'Writing to disk...'
+    with open('./assets/subject_model.pkl','wb') as f1:
+        with open('./assets/complete_model_test.pkl', 'wb') as f2:
+            r1=pool.apply_async(pickle.dump, (model_dict,f,))
+            r2=pool.apply_async(pickle.dump, (result_d, f, ))
+    r1.wait()
+    r2.wait()
