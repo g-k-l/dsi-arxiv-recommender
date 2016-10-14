@@ -115,7 +115,7 @@ def compute_product_scores(result_d):
 def pickle_dump_precompute(subject_id_1, subject_id_2, scores_list):
     print 'Dumping scores for {}, {}'.format(subject_id_1, subject_id_2)
     with open('./assets/precompute/{}_{}_scores_list.pkl'.format(
-        (min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'wb')) as f:
+        min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'wb') as f:
         pickle.dump(scores_list, f)
     return True
 
