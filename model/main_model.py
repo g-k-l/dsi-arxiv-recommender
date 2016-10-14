@@ -89,7 +89,7 @@ def compute_product_scores(result_d):
     to that of subject 2. Then sort the resulting list in descending order and take
     the top 100 results.
     '''
-    pool = Pool()
+    pool = Pool(cpu_count())
     scores_dict = {} #keys are subject_id pairs and value is the list of top 100 scores
     comb = combinations(result_d.keys(), 2) #there are 10731 such combinations
     async_results = []
@@ -105,9 +105,12 @@ def compute_product_scores(result_d):
         scores_dict[(min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2))]=scores_list
         write_results.append(pool.apply_async(pickle_dump_precompute, (subject_id_1,subject_id_2,scores_list,)))
 
-    for result in write_results:
-        if not result.ready():
-            result.wait()
+    while True:
+        if len(result)==0:
+            break        
+        for result in write_results:
+            if result.ready():
+                write_results.remove(result)
 
     return scores_dict
 
@@ -144,7 +147,7 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
                 scores_list.append(tuple([arxiv_id, score]))
             i+=1
 
-    scores_list = sorted(scores_list, key=lambda x: x[1])
+    scores_list = sorted(scores_list, key=lambda x: x[1], reverse=True)
     return subject_id_1, subject_id_2, scores_list
 
 
@@ -160,5 +163,5 @@ if __name__ == '__main__':
         with open('./assets/complete_model_test.pkl', 'wb') as f2:
             #r1=pool.apply_async(pickle.dump, (model_dict,f1,))
             r2=pool.apply_async(pickle.dump, (result_d, f2, ))
-    r1.wait()
+    #r1.wait()
     r2.wait()
