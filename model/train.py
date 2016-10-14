@@ -1,11 +1,11 @@
+import os
+import re
+from time import time
 import multiprocessing
 import psycopg2
 from psycopg2.extras import DictCursor
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument, logger
-import re
-import argparse
-import os
-from time import time
+
 
 class DocIterator(object):
     """

@@ -1,5 +1,6 @@
-import pickle
+import cPickle as pickle
 import csv
+from itertools import combinations
 from collections import defaultdict
 from scipy.spatial.distance import cosine
 from gensim.models.doc2vec import Doc2Vec
@@ -9,9 +10,7 @@ from multiprocessing import Pool, cpu_count
 This module builds the main_model, which is a dictionary of the form:
 
 { subject_id: { arxiv_id: { subject_id: cos_sim \} } }
-
 '''
-
 
 def build_subject_model(model):
     '''
@@ -72,7 +71,7 @@ def bin_by_subject_id(model_dict):
     by subject_id for easy lookup.
     '''
     result_d = {}
-    with open('./assets/subject_id_arxiv_id.csv') as f:
+    with open('./assets/subject_id_arxiv_id.csv', 'r') as f:
         csv_file = csv.reader(f)
         for i, line in enumerate(csv_file):
             if i % 10000==0:
@@ -83,10 +82,58 @@ def bin_by_subject_id(model_dict):
             else:
                 result_d[subject_id] = {arxiv_id: model_dict[arxiv_id]}
 
+    print 'Writing to disk...'
     with open('./assets/complete_model_test.pkl', 'wb') as f:
         pickle.dump(result_d, f)
 
     return result_d
+
+def compute_product_scores(result_d):
+    '''
+    Takes the result from bin_by_subject_id and compute the recommendation based
+    on the following: if the user selects subjects 1 and 2, then for each article
+    in subject 1 and 2, compute the product of the article's similarity of subject 1
+    to that of subject 2. Then sort the resulting list in descending order and take
+    the top 100 results.
+    '''
+    scores_dict = [] #keys are subject_id pairs and value is the list of top 100 scores
+    comb = combinations(result_d.keys(), 2) #there are 10731 such combinations
+    async_results = []
+    for subject_id_1, subject_id_2 in comb:
+        async_results.append(apply_async(compute_pair_scores, (subject_id_1, subject_id_2,
+                                            result_d[subject_id_1], result_d[subject_id_2], )))
+    for result in async_results:
+        if not result.ready():
+            result.wait()
+        subject_id_1, subject_id_2, scores_list = result.get()
+        scores_dict[(min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2))]=scores_list
+
+    return scores_dict
+
+
+def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
+    '''
+    This is a helper called by compute_product_scores. The dictionaries have the
+    following format: \{ arxiv_id: \{ subject_id: cos_sim \} \}. We refer to the
+    inner dictionary as cos_sim_dict
+    '''
+    i=0
+    scores_list = []
+    for arxiv_id, cos_sim_dict in dict_1:
+        if i % 100 == 0:
+            print 'Current iteration: ', i
+        score = cos_sim_dict[subject_id_1] * cos_sim_dict[subject_id_2]
+        if len(scores_list) < 100:
+            scores_list.append(tuple([arxiv_id, score]))
+            continue
+        #otherwise, check to see if the score belongs in the list
+        minimum = min(score_list,key=lambda x: x[1])
+        if score > minimum :
+            score_list.remove(minimum)
+            scores_list.append(tuple([arxiv_id, score]))
+        i+=1
+
+    return subject_id_1, subject_id_2, scores_list
 
 
 if __name__ == '__main__':
@@ -94,4 +141,5 @@ if __name__ == '__main__':
     # model_dict = build_subject_model(model)
     with open('./assets/subject_model_test.pkl','rb') as f:
         model_dict_test = pickle.load(f)
-    bin_by_subject_id(model_dict_test)
+    result_d = bin_by_subject_id(model_dict_test)
+    scores_dict = compute_product_scores(result_d)

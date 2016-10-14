@@ -1,6 +1,6 @@
 import os
 import csv
-import pickle
+import cPickle as pickle
 from collections import defaultdict
 from itertools import combinations
 import numpy as np
@@ -109,6 +109,7 @@ def get_top_5_edges(filename):
         for key, value_list in max_dict.iteritems():
             for value in value_list:
                 writer.writerow([key, value[0], value[1]])
+    return max_dict
 
 def build_arxiv_id_to_community(model, partition):
     '''

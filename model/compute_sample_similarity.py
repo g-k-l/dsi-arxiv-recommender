@@ -1,6 +1,6 @@
 import os
 import csv
-import pickle
+import cPickle as pickle
 import numpy as np
 import psycopg2
 from collections import defaultdict
