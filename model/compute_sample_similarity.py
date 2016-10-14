@@ -30,10 +30,10 @@ def matrix_norm(model,sample_indices=[],threshold=0.0):
     for i, sample_idx in enumerate(sample_indices):
         left_vec = full_matrix[sample_idx,:]
         r.append(pool.apply_async(func=compute_one_row, args=(left_vec, sample_idx, sample_indices[i+1:],full_matrix, threshold)))
-	if i % 200==0 and i!=0:
+	if i % 50==0 and i!=0:
 	    for result in r:
-		if not result.ready():
-		    result.wait()
+		    if not result.ready():
+		        result.wait()
 	    r=[]
     pool.close()
     pool.join()
@@ -155,18 +155,7 @@ def build_subject_dict(model):
             pickle.dump(subject_dict,f)
     return subject_dict
 
-def get_subject_centroids(model, subject_dict):
-    '''
-    Computes the centroid of each subject by taking the average of vectors belonging
-    to that subject.
-    '''
-    subject_centroids = {}
-    for subject_id, idx_list in subject_dict.iteritems():
-        subject_centroids[subject_id] = np.mean(model.docvecs[idx_list])
-    return subject_centroids
-
-
 if __name__ == '__main__':
-    model = Doc2Vec.load('./assets/second_model/second_model')
+    model = Doc2Vec.load('second_model')
     #build_lookups(model)
-    cos_sims_single_pass(model, subset_size=0.01, threshold=0.2)
+    cos_sims_single_pass(model)

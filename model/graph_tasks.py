@@ -80,6 +80,9 @@ def get_subject_centroids(model):
     return subject_centroids
 
 def get_subject_similarities(centroids):
+    '''
+    Computes the pairwise similarities of the subjects
+    '''
     comb = combinations(centroids.keys(), 2)
     centroid_sims = []
     with open('./assets/subject_sims.txt', 'w') as f:
@@ -88,6 +91,26 @@ def get_subject_similarities(centroids):
             centroid_sims.append([c1, c2, 1-cosine(centroids[c1],centroids[c2])])
             writer.writerow([c1,c2,1-cosine(centroids[c1],centroids[c2])])
     return centroid_sims
+
+def get_top_5_edges(filename):
+    '''
+    Reads from cos_sims_full_edgelist to and pick the top 5 edge for each node
+    by similarity. Outputs the list of such edges in a file.
+    '''
+    max_dict = defaultdict(list)
+    with open('./assets/'+filename, 'r') as f:
+        cos_sims = csv.reader(f)
+        for line in cos_sims: # line is a list: [node1, node2, similarity]
+            if line[0] not in max_dict or len(max_dict[line[0]]) < 5:
+                max_dict[line[0]].append(tuple([line[1],line[2]]))
+            elif line[2] > max(max_dict[line[0], key=(lambda x: x[1]))[1]:
+                max_dict[line[0]].remove(min(max_dict[line[0], key=(lambda x: x[1])))
+                max_dict[line[0]].append(tuple([line[1],line[2]]))
+    with open('./assets/top5_'+filename, 'w') as f:
+        writer = csv.writer(f)
+        for key, value_list in max_dict.iteritems():
+            for value in value_list:
+                writer.writerow([key, value[0], value[1]])
 
 def build_arxiv_id_to_community(model, partition):
     '''
@@ -114,7 +137,7 @@ def build_arxiv_id_to_community(model, partition):
 
 
 if __name__ == '__main__':
-    walker = os.walk(root_path) #test
+    walker = os.walk(root_path)
     file_list = walker.next()[2] #list of file neames in directory
     print 'Getting partitions'
     partition = get_partitions(file_list) #get the partition
@@ -123,6 +146,6 @@ if __name__ == '__main__':
     print 'Starting centroid computations'
     centroids = get_community_centroids(model, partition)
     centroid_sims = get_centroid_similarities(centroids)
-    #subject_centroids = get_subject_centroids(model)
-    #subject_centroids_sims = get_subject_similarities(subject_centroids)
+    subject_centroids = get_subject_centroids(model)
+    subject_centroids_sims = get_subject_similarities(subject_centroids)
     print 'Completed.'
