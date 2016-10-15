@@ -100,29 +100,13 @@ def compute_product_scores(result_d):
         print 'Starting process for {}, {}'.format(subject_id_1, subject_id_2)
         async_results.append(pool.apply_async(compute_pair_scores, (subject_id_1, subject_id_2,
                                             result_d[subject_id_1], result_d[subject_id_2], )))
-    write_results = []
     for result in async_results:
         if not result.ready():
             result.wait()
         subject_id_1, subject_id_2, scores_list = result.get()
         scores_dict[(min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2))]=scores_list
-        write_results.append(pool.apply_async(pickle_dump_precompute, (subject_id_1,subject_id_2,scores_list,)))
-
-    while True:
-        if len(result)==0:
-            break
-        for result in write_results:
-            if result.ready():
-                write_results.remove(result)
 
     return scores_dict
-
-def pickle_dump_precompute(subject_id_1, subject_id_2, scores_list):
-    print 'Dumping scores for {}, {}'.format(subject_id_1, subject_id_2)
-    with open('./assets/precompute/{}_{}_scores_list.pkl'.format(
-        min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'wb') as f:
-        pickle.dump(scores_list, f)
-    return True
 
 def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
     '''
@@ -151,6 +135,11 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
             i+=1
 
     scores_list = sorted(scores_list, key=lambda x: x[1], reverse=True)
+    print 'Dumping scores for {}, {}'.format(subject_id_1, subject_id_2)
+    with open('./assets/precompute/{}_{}_scores_list.pkl'.format(
+        min(subject_id_1, subject_id_2), max(subject_id_1, subject_id_2)), 'wb') as f:
+        pickle.dump(scores_list, f)
+
     print '{}, {} pair complete.'.format(subject_id_1, subject_id_2)
     return subject_id_1, subject_id_2, scores_list
 
