@@ -40,6 +40,7 @@ def build_subject_model(model):
     print 'Items in async_results: ', len(async_results)
 
     while True:
+        remove = []
         for result in async_results:
         	if not result.ready():
         	    continue
@@ -47,6 +48,8 @@ def build_subject_model(model):
         	arxiv_id = model.docvecs.index_to_doctag(vec_idx)
         	if arxiv_id not in model_dict:
         	    model_dict[arxiv_id] = subject_doc_sims
+            remove.append(result)
+        for result in remove:
             async_results.remove(result)
 
     return model_dict
@@ -60,7 +63,6 @@ def build_single_doc_dict(idx, doc_vec, subject_centroids):
     for subject_id, centroid in subject_centroids.iteritems():
         subject_doc_sims[subject_id] = 1-cosine(doc_vec,centroid)
     return idx, subject_doc_sims
-
 
 def bin_by_subject_id(model_dict):
     '''
@@ -81,7 +83,6 @@ def bin_by_subject_id(model_dict):
                 result_d[subject_id][arxiv_id] = model_dict[arxiv_id]
             else:
                 result_d[subject_id] = {arxiv_id: model_dict[arxiv_id]}
-
     return result_d
 
 def compute_product_scores(result_d):
@@ -150,11 +151,8 @@ if __name__ == '__main__':
     result_d = bin_by_subject_id(model_dict)
     scores_dict = compute_product_scores(result_d)
 
-    pool = Pool()
     print 'Writing to disk...'
     # with open('./assets/subject_model.pkl','wb') as f1:
     with open('./assets/complete_model_test.pkl', 'wb') as f2:
-            #r1=pool.apply_async(pickle.dump, (model_dict,f1,))
-        r2=pool.apply_async(pickle.dump, (result_d, f2, ))
-    #r1.wait()
-    r2.wait()
+        #r1=pool.apply_async(pickle.dump, (model_dict,f1,))
+        pickle.dump(result_d, f2)
