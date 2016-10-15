@@ -38,13 +38,16 @@ def build_subject_model(model):
             print 'batch {} complete'.format(idx/10000)
 
     print 'Items in async_results: ', len(async_results)
-    for result in async_results:
-	if not result.ready():
-	    result.wait()
-	vec_idx, subject_doc_sims = result.get()
-	arxiv_id = model.docvecs.index_to_doctag(vec_idx)
-	if arxiv_id not in model_dict:
-	    model_dict[arxiv_id] = subject_doc_sims
+
+    while True:
+        for result in async_results:
+        	if not result.ready():
+        	    continue
+        	vec_idx, subject_doc_sims = result.get()
+        	arxiv_id = model.docvecs.index_to_doctag(vec_idx)
+        	if arxiv_id not in model_dict:
+        	    model_dict[arxiv_id] = subject_doc_sims
+            async_results.remove(result)
 
     return model_dict
 
@@ -148,6 +151,7 @@ def compute_pair_scores(subject_id_1, subject_id_2, dict_1, dict_2):
             i+=1
 
     scores_list = sorted(scores_list, key=lambda x: x[1], reverse=True)
+    print '{}, {} pair complete.'.format(subject_id_1, subject_id_2)
     return subject_id_1, subject_id_2, scores_list
 
 
