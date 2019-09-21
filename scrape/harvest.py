@@ -1,31 +1,82 @@
-
 '''
-Credits to sepehr125:
+Harvest metadata of arXiv papers by incremental date range.
 
-Harrvest metadata of ArXiv articles (including abstract)
-for given subject or date range
-from Open Archives Initiative (OAI).
-More information: http://arxiv.org/help/oa/index
-make sure you have installed oaiharvest already:
-https://pypi.python.org/pypi/oaiharvest
+The protocol for arXiv's metadata registry is defined by the
+Open Archives Initiative (OAI):
+
+https://www.openarchives.org/OAI/2.0/openarchivesprotocol.htm#FlowControl
+
+Docs: http://arxiv.org/help/oa/index
+Requires: https://pypi.python.org/pypi/oaiharvest
 '''
 
+from datetime import date, datetime, timedelta
+from io import BytesIO
 import os
-from concurrent import futures
-from datetime import date, timedelta
+import subprocess
+import sys
 
-start_date = date(1992,1,1)
-end_date = date(2016,9,24)
-output_dir = '../tmp'
-current_date = start_date
-td = timedelta(days=180)
+from lxml import etree, objectify
+import urllib3
 
-while current_date+td != end_date:
-    try:
-        get_xml = "oai-harvest --from %s --until %s -d %s http://export.arxiv.org/oai2"%(str(current_date), str(current_date+td), output_dir)
-        os.system(get_xml)
-        move_to_s3 = "aws s3 mv ../tmp s3://arxivmetadata --recursive"
-        os.system(move_to_s3)
-        current_date+=td
-    except:
-        print 'An error occured. Last iteration current_date: {}'.format(current_date)
+if sys.version_info.major < 3:
+    raise RuntimeError("Python 3 Required")
+
+
+BASE_URL = "http://export.arxiv.org/oai2"
+
+
+def get_start_date():
+    http = urllib3.PoolManager()
+    res = http.request("GET", BASE_URL, fields={"verb": "Identify"})
+    parser = etree.XMLParser(ns_clean=True)
+    root = etree.parse(BytesIO(res.data), parser).getroot()
+    find_path = objectify.ObjectPath("OAI-PMH.Identify.earliestDatestamp")
+    return datetime.strptime(find_path(root).text, "%Y-%m-%d").date()
+
+
+def get_end_date():
+    return date.today()
+
+
+def get_dir_path(start_date, end_date):
+    metadata_path = os.path.join(os.getcwd(), "metadata")
+    if not os.path.isdir(metadata_path):
+        os.mkdir(metadata_path)
+    dir_path = os.path.join(metadata_path, "%s_%s" % (start_date, end_date))
+    return dir_path
+
+
+def main():
+    start_date = get_start_date()
+    end_date = get_end_date()
+    delta = timedelta(days=30)
+
+    current_date = start_date
+    while current_date < end_date:
+        dir_path = get_dir_path(current_date, current_date + delta)
+
+        from_, until = current_date, current_date + delta
+        if from_ > end_date and until > end_date:
+            break
+
+        print("**********Processing batch: %s_%s************" % (from_, until))
+        try:
+            subprocess.run(["oai-harvest", "--from", str(from_),
+                            "--until", str(until), "-d", dir_path,
+                            BASE_URL], check=True)
+            subprocess.run(["tar", "cvfz", dir_path + ".tgz", dir_path])
+            subprocess.run(["rm", "-r", dir_path])
+        except subprocess.CalledProcessError as ex:
+            with open("./error.log", "w") as f:
+                f.write("failed during batch %s_%s" % (from_, until))
+            raise ex
+        else:
+            current_date += delta
+
+
+if __name__ == "__main__":
+    main()
+
+# args move_to_s3 = "aws s3 mv ../tmp s3://arxivmetadata --recursive"
+# os.system(move_to_s3)
