@@ -47,8 +47,9 @@ def get_dir_path(start_date, end_date):
     return dir_path
 
 
-def main():
-    start_date = get_start_date()
+def main(start_date=None):
+    if start_date is None:
+        start_date = get_start_date()
     end_date = get_end_date()
     delta = timedelta(days=30)
 
@@ -76,7 +77,11 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    if len(sys.argv) > 1:
+        start_date = datetime.strptime(sys.argv[1], "%Y-%m-%d").date()
+        main(start_date)
+    else:
+        main(None)
 
 # args move_to_s3 = "aws s3 mv ../tmp s3://arxivmetadata --recursive"
 # os.system(move_to_s3)
