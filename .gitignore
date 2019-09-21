@@ -87,3 +87,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+scrape/metadata/*
+scrape/source-metadata/*
