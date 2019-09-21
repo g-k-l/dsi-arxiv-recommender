@@ -89,3 +89,4 @@ ENV/
 .ropeproject
 
 scrape/metadata/*
+scrape/source-metadata/*
