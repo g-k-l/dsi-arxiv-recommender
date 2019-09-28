@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Harvest metadata of arXiv papers by incremental date range.
 
@@ -60,17 +61,19 @@ def main(start_date=None):
         from_, until = current_date, current_date + delta
         if from_ > end_date and until > end_date:
             break
+        dir_name = "%s_%s" % (from_, until)
 
-        print("**********Processing batch: %s_%s************" % (from_, until))
+        print("**********Processing batch: %s************" % (dir_name))
         try:
             subprocess.run(["oai-harvest", "--from", str(from_),
                             "--until", str(until), "-d", dir_path,
                             BASE_URL], check=True)
-            subprocess.run(["tar", "cvfz", dir_path + ".tgz", dir_path])
+            subprocess.run(["tar", "cvfz", dir_path + ".tgz",
+                            "-C", "metadata", dir_name])
             subprocess.run(["rm", "-r", dir_path])
         except subprocess.CalledProcessError as ex:
             with open("./error.log", "w") as f:
-                f.write("failed during batch %s_%s" % (from_, until))
+                f.write("failed during batch %s" % (dir_name))
             raise ex
         else:
             current_date += delta
