@@ -2,6 +2,8 @@
 """
 This module is ported from arXiv-doc2vec-recommender
 Credits go to https://github.com/sepehr125
+
+Extact relevant fields from harvested XML metadata.
 """
 
 from xml.etree import ElementTree as ET

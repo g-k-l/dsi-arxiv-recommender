@@ -7,7 +7,7 @@ from extract import get_fields
 
 class TestExtract(TestCase):
     def setUp(self):
-        self.f = open("example.xml", "r")
+        self.f = open("test.xml", "r")
         self.xmlstr = self.f.read()
 
     def tearDown(self):

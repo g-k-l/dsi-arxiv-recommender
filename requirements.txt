@@ -1,1 +1,1 @@
--r scrape/req-harvest.txt
+-r scrape/requirements.txt
