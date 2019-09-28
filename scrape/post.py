@@ -1,4 +1,5 @@
-import xml_parser as xp
+# -*- coding: utf-8 -*-
+from extract import get_fields
 import psycopg2
 
 '''
