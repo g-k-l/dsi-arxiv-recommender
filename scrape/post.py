@@ -16,7 +16,7 @@ CREATE_TBL_SQL = """
         arxiv_id TEXT PRIMARY KEY NOT NULL,
         title TEXT,
         authors TEXT,
-        subject TEXT,
+        subjects TEXT,
         abstract TEXT,
         last_submitted DATE
     );"""
@@ -25,7 +25,7 @@ INSERT_STMT = """
     INSERT INTO articles
         (arxiv_id, title, authors, subjects, abstract, last_submitted)
     VALUES
-        (%s, %s, %s, %s, %s, %s);
+        (?, ?, ?, ?, ?, ?);
 """
 
 
@@ -51,11 +51,19 @@ class DBWrapper(object):
         return self.cursor.executemany(*args, **kwargs)
 
 
+def fmt_for_insert(row):
+    if row["authors"]:
+        row["authors"] = "|".join(row["authors"])
+    if row["subjects"]:
+        row["subjects"] = "|".join(row["subjects"])
+    return list(row.values())
+
+
 def raw_xml_from(tgz_path):
     tgz = tarfile.open(tgz_path)
     for member in tgz.getmembers():
         raw_xml = tgz.extractfile(member).read()
-        yield get_fields(raw_xml)
+        yield fmt_for_insert(get_fields(raw_xml, asdict=True))
     tgz.close()
 
 
@@ -69,13 +77,13 @@ def proc_metadata_batch(cur, tgz_path):
         print("failed to insert as batch: %s" % (tgz_path))
         print("running INSERT one-by-one for: %s" % (tgz_path))
         print(ex)
-        metadata_iter = raw_xml_from(tgz_path)
-        for row in metadata_iter:
-            try:
-                cur.insert_into_articles(row)
-            except IntegrityError as ex:
-                print("failed to insert row: %s" % (row))
-                print(ex)
+        while metadata_iter:
+            for row in metadata_iter:
+                try:
+                    cur.insert_into_articles(row)
+                except IntegrityError as ex:
+                    print("failed to insert row: %s" % (row))
+                    print(ex)
     finally:
         # exhause iterator to ensure file is closed
         deque(metadata_iter, maxlen=0)
@@ -86,7 +94,7 @@ def main():
     cur = DBWrapper(conn)
     cur.create_arxiv_tbl()
 
-    os.makedirs("./temp")
+    os.makedirs("./temp", exist_ok=True)
 
     for tgz in sorted(os.listdir("./metadata")):
         tgz_path = join("./metadata", tgz)

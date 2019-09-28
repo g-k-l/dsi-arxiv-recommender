@@ -5,28 +5,34 @@ Credits go to https://github.com/sepehr125
 
 Extact relevant fields from harvested XML metadata.
 """
-
-from xml.etree import ElementTree as ET
+from collections import OrderedDict
 from datetime import datetime
+from xml.etree import ElementTree as ET
 
 
 XMLNS = '{http://purl.org/dc/elements/1.1/}'
+FIELDS = ('arxiv_id', 'title', 'authors', 'subjects', 'abstract',
+          'last_submitted')
 
 
-def get_fields(body):
+def get_fields(body, asdict=False):
     """
     Args:
         body (str or bytes): the body of the file
     Returns:
-        (arxiv_id, title, authors, subjects, abstract, last_submitted)
+
     """
     root = ET.fromstring(body)
-    return (get_arxivid(root),
+    data = (get_arxivid(root),
             get_title(root),
             get_authors(root),
             get_subjects(root),
             get_abstract(root),
             get_date(root))
+    if asdict:
+        return OrderedDict(zip(FIELDS, data))
+    else:
+        return data
 
 
 '''
@@ -51,14 +57,14 @@ def get_authors(root):
     tag = XMLNS + "creator"
     authors = root.findall(tag)
     if authors:
-        return [el.text for el in authors]
+        return [el.text for el in authors if el.text]
 
 
 def get_subjects(root):
     tag = XMLNS + "subject"
     subjects = root.findall(tag)
     if subjects:
-        return [sub.text for sub in subjects]
+        return [sub.text for sub in subjects if sub.text]
 
 
 def get_abstract(root):
