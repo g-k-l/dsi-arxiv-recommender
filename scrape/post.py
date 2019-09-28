@@ -1,61 +1,97 @@
 # -*- coding: utf-8 -*-
-from extract import get_fields
-import psycopg2
-
-'''
-Create the table to house the parsed information
-'''
-conn = psycopg2.connect(host='arxivpsql.cctwpem6z3bt.us-east-1.rds.amazonaws.com',
-                        user='root', password='1873', database='arxivpsql')
-cur = conn.cursor()
-
-'''Columns: index, title, authors, subject, abstract, last_submitted, arxiv_id'''
-
-sql_create = """CREATE TABLE IF NOT EXISTS articles (
-            index serial PRIMARY KEY, title text, authors text ARRAY,
-            subject text, abstract text, last_submitted date, arxiv_id text UNIQUE )"""
-
-cur.execute(sql_create)
-conn.commit()
-
-'''
-Parse XML file and store in Postgres
-Comment: psycopg2 connection is thread safe, but not multiprocess safe ?
-'''
-
+from collections import deque
 import os
-import boto3
-import threading
-from xml_parser import get_fields
+from os.path import join
+import sqlite3
+from sqlite3 import IntegrityError
+import tarfile
 
-id_key = os.environ['AWS_ACCESS_KEY_ID']
-secret_key = os.environ['AWS_SECRET_ACCESS_KEY']
+from extract import get_fields
 
-s3 = boto3.resource('s3')
-bucket = s3.Bucket('arxivmetadata')
 
-query_template = """INSERT INTO articles
-                    (title, authors, subject, abstract, last_submitted, arxiv_id) VALUES (%s, %s, %s, %s, %s, %s)"""
+DB_NAME = "arxiv.db"
 
-def to_psql(obj):
-    key = obj.key
-    if '.xml' not in key:
-        print '{} not a XML file'.format(key)
-        return
-    body = obj.get()['Body'].read()
-    values = get_fields(body)
+CREATE_TBL_SQL = """
+    CREATE TABLE IF NOT EXISTS articles (
+        arxiv_id TEXT PRIMARY KEY NOT NULL,
+        title TEXT,
+        authors TEXT,
+        subject TEXT,
+        abstract TEXT,
+        last_submitted DATE
+    );"""
 
+INSERT_STMT = """
+    INSERT INTO articles
+        (arxiv_id, title, authors, subjects, abstract, last_submitted)
+    VALUES
+        (%s, %s, %s, %s, %s, %s);
+"""
+
+
+# Note: sqlite3 connection defaults to autocommit
+class DBWrapper(object):
+    def __init__(self, conn):
+        self.conn = conn
+        self.cursor = conn.cursor()
+
+    def create_arxiv_tbl(self):
+        return self.execute(CREATE_TBL_SQL)
+
+    def insert_into_articles(self, row):
+        return self.execute(INSERT_STMT, row)
+
+    def insert_many_into_articles(self, rows):
+        return self.executemany(INSERT_STMT, rows)
+
+    def execute(self, *args, **kwargs):
+        return self.cursor.execute(*args, **kwargs)
+
+    def executemany(self, *args, **kwargs):
+        return self.cursor.executemany(*args, **kwargs)
+
+
+def raw_xml_from(tgz_path):
+    tgz = tarfile.open(tgz_path)
+    for member in tgz.getmembers():
+        raw_xml = tgz.extractfile(member).read()
+        yield get_fields(raw_xml)
+    tgz.close()
+
+
+def proc_metadata_batch(cur, tgz_path):
+    metadata_iter = raw_xml_from(tgz_path)
     try:
-        cur.execute(query_template,values)
-    except psycopg2.IntegrityError:
-        print 'IntegrityError: Duplicates'
-	conn.rollback()
+        cur.insert_many_into_articles(metadata_iter)
+    except IntegrityError as ex:
+        # usually caused by duplicated arxiv_id in metadata
+        # retry using 1 row at a time, ignoring failed rows
+        print("failed to insert as batch: %s" % (tgz_path))
+        print("running INSERT one-by-one for: %s" % (tgz_path))
+        print(ex)
+        metadata_iter = raw_xml_from(tgz_path)
+        for row in metadata_iter:
+            try:
+                cur.insert_into_articles(row)
+            except IntegrityError as ex:
+                print("failed to insert row: %s" % (row))
+                print(ex)
+    finally:
+        # exhause iterator to ensure file is closed
+        deque(metadata_iter, maxlen=0)
 
-threads=[]
-i=0
-for obj in bucket.objects.all():
-    if i % 10000 == 0:
-        conn.commit()
-        print 'iteration', i
-    to_psql(obj)
-    i+=1
+
+def main():
+    conn = sqlite3.connect(DB_NAME)
+    cur = DBWrapper(conn)
+    cur.create_arxiv_tbl()
+
+    os.makedirs("./temp")
+
+    for tgz in sorted(os.listdir("./metadata")):
+        tgz_path = join("./metadata", tgz)
+        proc_metadata_batch(cur, tgz_path)
+
+
+if __name__ == "__main__":
+    main()

@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 '''
 Harvest metadata of arXiv papers by incremental date range.
 
