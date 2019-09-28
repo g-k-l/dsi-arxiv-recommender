@@ -1,25 +1,66 @@
 # -*- coding: utf-8 -*-
-from collections import deque
+import asyncio
+
+from configparser import ConfigParser
+import logging
+import io
 import os
 from os.path import join
-import sqlite3
-from sqlite3 import IntegrityError
+import sys
 import tarfile
+
+import aiofiles
+import asyncpg
 
 from extract import get_fields
 
 
-DB_NAME = "arxiv.db"
+handler = logging.StreamHandler(sys.stdout)
+handler.setLevel(logging.DEBUG)
+asyncio_log = logging.getLogger("asyncio")
+asyncio_log.setLevel(logging.DEBUG)
+asyncio_log.addHandler(handler)
+logger = asyncio_log
 
+
+CONFIG = ConfigParser()
+CONFIG.read('config.ini')
+DB_CONFIG = CONFIG["POSTGRES"]
+
+DB_NAME = "arxiv"
+
+
+async def pgconn():
+    conn_payload = {
+        "host": DB_CONFIG["HOST"],
+        "port": DB_CONFIG["PORT"],
+        "user": DB_CONFIG["USER"],
+        "password": DB_CONFIG["PASSWORD"],
+        "database": DB_NAME,
+        "timeout": 5,
+    }
+    conn = await asyncpg.connect(**conn_payload)
+    return conn
+
+
+# Note: for performance concerns, we declare arxiv_id
+# as PK after all data has been inserted
 CREATE_TBL_SQL = """
     CREATE TABLE IF NOT EXISTS articles (
-        arxiv_id TEXT PRIMARY KEY NOT NULL,
+        arxiv_id VARCHAR(50),
         title TEXT,
-        authors TEXT,
-        subjects TEXT,
+        authors TEXT[],
+        subjects TEXT[],
         abstract TEXT,
         last_submitted DATE
     );"""
+
+BUILD_INDEX_SQL = """
+    CREATE UNIQUE INDEX CONCURRENTLY articles_arxiv_id_index
+        ON articles (arxiv_id);
+    ALTER TABLE articles ADD CONSTRAINT articles_pkey PRIMARY KEY
+        USING INDEX articles_arxiv_id_index;
+"""
 
 INSERT_STMT = """
     INSERT INTO articles
@@ -27,28 +68,6 @@ INSERT_STMT = """
     VALUES
         (?, ?, ?, ?, ?, ?);
 """
-
-
-# Note: sqlite3 connection defaults to autocommit
-class DBWrapper(object):
-    def __init__(self, conn):
-        self.conn = conn
-        self.cursor = conn.cursor()
-
-    def create_arxiv_tbl(self):
-        return self.execute(CREATE_TBL_SQL)
-
-    def insert_into_articles(self, row):
-        return self.execute(INSERT_STMT, row)
-
-    def insert_many_into_articles(self, rows):
-        return self.executemany(INSERT_STMT, rows)
-
-    def execute(self, *args, **kwargs):
-        return self.cursor.execute(*args, **kwargs)
-
-    def executemany(self, *args, **kwargs):
-        return self.cursor.executemany(*args, **kwargs)
 
 
 def fmt_for_insert(row):
@@ -59,40 +78,64 @@ def fmt_for_insert(row):
     return list(row.values())
 
 
-def raw_xml_from(tgz_path):
-    tgz = tarfile.open(tgz_path)
+async def prep_metadata(tgz_path):
+    async with aiofiles.open(tgz_path, mode="rb") as f:
+        content = await f.read()
+    tgz = tarfile.open(fileobj=io.BytesIO(content))
     for member in tgz.getmembers():
         raw_xml = tgz.extractfile(member).read()
-        yield fmt_for_insert(get_fields(raw_xml, asdict=True))
+        yield list(get_fields(raw_xml, asdict=True).values())
     tgz.close()
 
 
-def proc_metadata_batch(cur, tgz_path):
-    metadata_iter = raw_xml_from(tgz_path)
-    for row in metadata_iter:
-        print("Inserting %s" % row)
-        try:
-            cur.insert_into_articles(row)
-        except IntegrityError as ex:
-            # usually caused by duplicated arxiv_id in metadata
-            # retry using 1 row at a time, ignoring failed rows
-            print("failed to insert row: %s" % (row))
-            print(ex)
-        finally:
-            # exhause iterator to ensure file is closed
-            deque(metadata_iter, maxlen=0)
+PRODUCER_EXIT = -1
+
+
+async def data_producer(queue):
+    logger.info("*******Data Producer Starting********")
+    for tgz in sorted(os.listdir("./metadata")):
+        tgz_path = join("./metadata", tgz)
+        metadata_it = prep_metadata(tgz_path)
+        logger.info("*******Prepped %s********" % (tgz_path))
+        async for metadata in metadata_it:
+            await queue.put(metadata)
+    await queue.put(PRODUCER_EXIT)
+
+
+QUEUE_SIZE = 4000
+BUFFER_SIZE = 2000
+
+
+async def db_consumer(queue):
+    logger.info("*******DB Consumer Starting********")
+    conn = await pgconn()
+    await conn.execute(CREATE_TBL_SQL)
+    buf = []
+    while True:
+        msg = await queue.get()
+        if msg == PRODUCER_EXIT:
+            break
+        buf.append(msg)
+        if len(buf) >= BUFFER_SIZE:
+            logger.info("*******Flushing Buffer********")
+            await conn.copy_records_to_table('articles',
+                                             records=buf[:BUFFER_SIZE])
+            del buf[:BUFFER_SIZE]
+    # send remaining items in buffer to db
+    await conn.copy_records_to_table('articles', records=buf)
+    await conn.close()
 
 
 def main():
-    conn = sqlite3.connect(DB_NAME)
-    cur = DBWrapper(conn)
-    cur.create_arxiv_tbl()
-
-    os.makedirs("./temp", exist_ok=True)
-
-    for tgz in sorted(os.listdir("./metadata")):
-        tgz_path = join("./metadata", tgz)
-        proc_metadata_batch(cur, tgz_path)
+    logger.info("*******Main Starting********")
+    loop = asyncio.get_event_loop()
+    loop.set_debug(True)
+    queue = asyncio.Queue(maxsize=QUEUE_SIZE, loop=loop)
+    producer = data_producer(queue)
+    consumer = db_consumer(queue)
+    logger.info("********Event Loop Starting*********")
+    loop.run_until_complete(asyncio.gather(producer, consumer))
+    loop.close()
 
 
 if __name__ == "__main__":

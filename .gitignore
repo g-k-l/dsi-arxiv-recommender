@@ -93,3 +93,6 @@ scrape/source-metadata/*
 
 # sqlite3
 arxiv.db
+
+# configs
+config.ini
