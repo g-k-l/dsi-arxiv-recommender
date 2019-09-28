@@ -8,6 +8,7 @@ import os
 from os.path import join
 import sys
 import tarfile
+import time
 
 import aiofiles
 import asyncpg
@@ -37,7 +38,6 @@ async def pgconn():
         "user": DB_CONFIG["USER"],
         "password": DB_CONFIG["PASSWORD"],
         "database": DB_NAME,
-        "timeout": 5,
     }
     conn = await asyncpg.connect(**conn_payload)
     return conn
@@ -127,6 +127,7 @@ async def db_consumer(queue):
 
 
 def main():
+    start = time.perf_counter()
     logger.info("*******Main Starting********")
     loop = asyncio.get_event_loop()
     loop.set_debug(True)
@@ -136,6 +137,7 @@ def main():
     logger.info("********Event Loop Starting*********")
     loop.run_until_complete(asyncio.gather(producer, consumer))
     loop.close()
+    logger.info("Total Time: %s seconds" % (time.perf_counter() - start))
 
 
 if __name__ == "__main__":
