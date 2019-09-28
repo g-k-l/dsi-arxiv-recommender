@@ -16,17 +16,17 @@ XMLNS = '{http://purl.org/dc/elements/1.1/}'
 def get_fields(body):
     """
     Args:
-        body (str): the body of the file
+        body (str or bytes): the body of the file
     Returns:
-        tuple: (title, authors, subject, abstract, last_submitted, arxiv_id)
+        (arxiv_id, title, authors, subjects, abstract, last_submitted)
     """
     root = ET.fromstring(body)
-    return (get_title(root),
+    return (get_arxivid(root),
+            get_title(root),
             get_authors(root),
-            get_subject(root),
+            get_subjects(root),
             get_abstract(root),
-            get_date(root),
-            get_arxivid(root))
+            get_date(root))
 
 
 '''
@@ -54,7 +54,7 @@ def get_authors(root):
         return [el.text for el in authors]
 
 
-def get_subject(root):
+def get_subjects(root):
     tag = XMLNS + "subject"
     subjects = root.findall(tag)
     if subjects:
