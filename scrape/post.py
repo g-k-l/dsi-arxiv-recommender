@@ -69,24 +69,18 @@ def raw_xml_from(tgz_path):
 
 def proc_metadata_batch(cur, tgz_path):
     metadata_iter = raw_xml_from(tgz_path)
-    try:
-        cur.insert_many_into_articles(metadata_iter)
-    except IntegrityError as ex:
-        # usually caused by duplicated arxiv_id in metadata
-        # retry using 1 row at a time, ignoring failed rows
-        print("failed to insert as batch: %s" % (tgz_path))
-        print("running INSERT one-by-one for: %s" % (tgz_path))
-        print(ex)
-        while metadata_iter:
-            for row in metadata_iter:
-                try:
-                    cur.insert_into_articles(row)
-                except IntegrityError as ex:
-                    print("failed to insert row: %s" % (row))
-                    print(ex)
-    finally:
-        # exhause iterator to ensure file is closed
-        deque(metadata_iter, maxlen=0)
+    for row in metadata_iter:
+        print("Inserting %s" % row)
+        try:
+            cur.insert_into_articles(row)
+        except IntegrityError as ex:
+            # usually caused by duplicated arxiv_id in metadata
+            # retry using 1 row at a time, ignoring failed rows
+            print("failed to insert row: %s" % (row))
+            print(ex)
+        finally:
+            # exhause iterator to ensure file is closed
+            deque(metadata_iter, maxlen=0)
 
 
 def main():
