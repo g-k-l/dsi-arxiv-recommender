@@ -7,7 +7,7 @@ Extact relevant fields from harvested XML metadata.
 """
 from collections import OrderedDict
 from datetime import datetime
-from xml.etree import ElementTree as ET
+from lxml import etree
 
 
 XMLNS = '{http://purl.org/dc/elements/1.1/}'
@@ -22,7 +22,7 @@ def get_fields(body, asdict=False):
     Returns:
 
     """
-    root = ET.fromstring(body)
+    root = etree.fromstring(body)
     data = (get_arxivid(root),
             get_title(root),
             get_authors(root),
@@ -31,8 +31,7 @@ def get_fields(body, asdict=False):
             get_date(root))
     if asdict:
         return OrderedDict(zip(FIELDS, data))
-    else:
-        return data
+    return data
 
 
 '''
@@ -104,4 +103,3 @@ def get_date(root):
         dates = [datetime.strptime(el.text, "%Y-%m-%d").date()
                  for el in date_list]
         return (max(dates))
-
