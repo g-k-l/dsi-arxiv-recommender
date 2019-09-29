@@ -1,1 +1,3 @@
 -r scrape/requirements.txt
+-r cleaning/requirements.txt
+awscli==1.16.248
