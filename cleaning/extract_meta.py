@@ -1,12 +1,34 @@
 # -*- coding: utf-8 -*-
+
+"""Parses the arXiv pdf files manifest to obtain
+information about each chunk of pdf files.
+"""
 from collections import OrderedDict
 import re
 
+from dateutil.parser import parse
 from lxml import etree
+from schema import Schema, Use, Or
 
 
 FIELDS = ('content_md5sum', 'filename', 'first_item', 'last_item',
           'md5sum', 'num_items', 'seq_num', 'size', 'timestamp', 'yymm')
+
+_schema_spec = {
+    'content_md5sum': str,
+    'filename': str,
+    'first_item': str,
+    'last_item': str,
+    'md5sum': str,
+    'num_items': Use(int),
+    'seq_num': Use(int),
+    'size': Use(int),
+    'timestamp': Use(parse),
+    'yymm': str
+}
+SCHEMA = Schema({
+    k: Or(None, v) for k, v in _schema_spec.items()
+})
 
 
 def pdf_metadata(file_path=None):
@@ -18,7 +40,7 @@ def pdf_metadata(file_path=None):
     root = xmltree.getroot()
     for chunk_metadata in root.getchildren():
         if chunk_metadata.tag == "file":
-            yield get_fields(chunk_metadata, asdict=True)
+            yield SCHEMA.validate(get_fields(chunk_metadata, asdict=True))
 
 
 def get_fields(root, asdict=False):
@@ -54,3 +76,18 @@ def arxivid_from(filename):
     if not subject:
         return ARXIV_ABS_URL + paper_id
     return ARXIV_ABS_URL + "%s/%s" % (subject, paper_id)
+
+
+CHUNK_META_TBL = """
+    CREATE TABLE IF NOT EXISTS pdf_chunks_meta (
+        content_md5sum VARCHAR(32),
+        filename TEXT,
+        first_item TEXT,
+        last_item TEXT,
+        md5_sum TEXT,
+        num_items INT,
+        seq_num INT,
+        size INT,
+        timestamp TIMESTAMP,
+        yymm VARCHAR(4)
+    );"""

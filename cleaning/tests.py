@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
+from datetime import datetime
 from unittest import TestCase
 
-from extract import (pdf_metadata, arxivid_from, ARXIV_ABS_URL)
+from extract_meta import (pdf_metadata, arxivid_from, ARXIV_ABS_URL)
 
 
 class TestExtract(TestCase):
@@ -14,6 +15,10 @@ class TestExtract(TestCase):
         self.assertTrue(all(output[0]), "Expect all fields "
                         "populated for the first metadatum.")
         self.assertEqual(output[0]["filename"], "pdf/arXiv_pdf_0001_001.tar")
+        self.assertEqual(output[0]["num_items"], 1797)
+        self.assertEqual(output[0]["size"], 524304163)
+        self.assertEqual(output[0]["timestamp"],
+                         datetime(year=2019, month=5, day=22, second=5))
         self.assertEqual(output[1]["filename"], "pdf/arXiv_pdf_0001_002.tar")
         self.assertEqual(output[1]["timestamp"], None)
 
