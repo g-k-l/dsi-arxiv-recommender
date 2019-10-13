@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+"""Unpacks the .tgz files pulled from harvest.py,
+Parse the XML contents, and store the data in postgres
+"""
 import asyncio
 
 from configparser import ConfigParser
