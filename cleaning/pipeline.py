@@ -17,12 +17,11 @@ import contextlib
 import logging
 import multiprocessing as mp
 import os
+from os.path import join, dirname
 import re
 import shutil
 import subprocess
 import tempfile
-import time
-import random
 import sys
 
 from nltk.corpus import stopwords
@@ -35,11 +34,17 @@ from .extract_meta import (remove_prefix, remove_suffix,
     arxivid_from, pdf_metadata_from_db)
 
 
-handler = logging.StreamHandler(sys.stdout)
-handler.setLevel(logging.DEBUG)
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+fh = logging.FileHandler(join(dirname(__file__), "logs/pipeline.log"))
+fh.setLevel(logging.DEBUG)
+fh.setFormatter(formatter)
+stdinh = logging.StreamHandler(sys.stdout)
+stdinh.setLevel(logging.DEBUG)
+stdinh.setFormatter(formatter)
 logger = logging.getLogger(__name__)
-logger.setLevel(logging.INFO)
-logger.addHandler(handler)
+logger.setLevel(logging.DEBUG)
+logger.addHandler(stdinh)
+logger.addHandler(fh)
 
 
 stopwords_set = set(stopwords.words())
@@ -93,18 +98,33 @@ def yield_pdfs_only(directory):
             yield dirpath, file
 
 
+def get_proc_logger(pdf_meta):
+    filename = remove_prefix(pdf_meta['filename'], "pdf/")
+    plogger = mp.get_logger()
+    plogger.setLevel(logging.DEBUG)
+    logname = "logs/proc_%s.log" % (filename)
+    logf_path = join(dirname(__file__), logname)
+    fh = logging.FileHandler(logf_path)
+    fh.setLevel(logging.DEBUG)
+    fh.setFormatter(formatter)
+    plogger.addHandler(fh)
+    return plogger
+
+
 def proc_chunk(pdf_meta, queue):
-    logger.info("Starting on chunk: %s" % pdf_meta['filename'])
+    plogger = get_proc_logger(pdf_meta)
+    plogger.info("Starting on chunk: %s" % pdf_meta['filename'])
     with mk_temp_dir() as tempdir:
         fetch_chunk(pdf_meta['filename'], tempdir)
-        logger.info("Fetched chunk: %s" % pdf_meta['filename'])
+        plogger.info("Fetched chunk: %s" % pdf_meta['filename'])
         for dirpath, file in yield_pdfs_only(tempdir):
             inpath = os.path.join(dirpath, file)
             tokens = to_tokens(pdf_to_text(inpath))
             # submit the paper's arxiv_id and text to postgres
             arxiv_id = arxivid_from(remove_suffix(file, ".pdf"))
             queue.put((arxiv_id, tokens))
-    logger.info("Completed chunk: %s" % pdf_meta['filename'])
+            plogger.info("Extracted arxiv_id=%s path=%s" % (arxiv_id, inpath))
+    plogger.info("Completed chunk: %s" % pdf_meta['filename'])
 
 
 BUFFER_SIZE = 5000
@@ -128,6 +148,7 @@ def consumer(queue):
     conn = pgconn()
     cur = conn.cursor()
     cur.execute(CONTENT_TBL_SQL)
+    conn.commit()
 
     buf = []
     while True:
@@ -139,9 +160,11 @@ def consumer(queue):
         if len(buf) >= BUFFER_SIZE:
             logger.info("*******Flushing Buffer********")
             execute_batch(cur, INSERT_STMT, buf[:BUFFER_SIZE])
+            conn.commit()
             del buf[:BUFFER_SIZE]
 
     execute_batch(cur, INSERT_STMT, buf)
+    conn.commit()
     logger.info("*******Flushed Final Buffer********")
     conn.close()
 
