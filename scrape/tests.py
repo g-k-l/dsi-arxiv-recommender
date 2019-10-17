@@ -1,13 +1,14 @@
 # -*- coding: utf-8 -*-
 from datetime import datetime
+from os.path import dirname, join
 from unittest import TestCase
 
-from extract import get_fields
+from .extract import get_fields
 
 
 class TestExtract(TestCase):
     def setUp(self):
-        self.f = open("test.xml", "r")
+        self.f = open(join(dirname(__file__), "test.xml"), "r")
         self.xmlstr = self.f.read()
 
     def tearDown(self):
