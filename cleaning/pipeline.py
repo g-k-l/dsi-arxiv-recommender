@@ -22,6 +22,7 @@ import re
 import shutil
 import subprocess
 import tempfile
+import time
 import sys
 
 from nltk.corpus import stopwords
@@ -111,6 +112,15 @@ def get_proc_logger(pdf_meta):
     return plogger
 
 
+def measure(func, log):
+    def inner(*args, **kwargs):
+        start = time.perf_counter()
+        ret = func(*args, **kwargs)
+        log.info("%s took %s seconds" % (func.__name__, time.perf_counter() - start))
+        return ret
+    return inner
+
+
 def proc_chunk(pdf_meta, queue):
     plogger = get_proc_logger(pdf_meta)
     plogger.info("Starting on chunk: %s" % pdf_meta['filename'])
@@ -119,11 +129,12 @@ def proc_chunk(pdf_meta, queue):
         plogger.info("Fetched chunk: %s" % pdf_meta['filename'])
         for dirpath, file in yield_pdfs_only(tempdir):
             inpath = os.path.join(dirpath, file)
-            tokens = to_tokens(pdf_to_text(inpath))
+            text = measure(pdf_to_text, plogger)(inpath)
+            tokens = measure(to_tokens, plogger)(text)
             # submit the paper's arxiv_id and text to postgres
             arxiv_id = arxivid_from(remove_suffix(file, ".pdf"))
             queue.put((arxiv_id, tokens))
-            plogger.info("Extracted arxiv_id=%s path=%s" % (arxiv_id, inpath))
+            plogger.info("Extracted arxiv_id=%s" % (arxiv_id))
     plogger.info("Completed chunk: %s" % pdf_meta['filename'])
 
 
@@ -176,7 +187,7 @@ def main():
     consumer_p = mp.Process(target=consumer, args=(queue,))
     consumer_p.start()
     conn = pgconn()
-    with mp.Pool(processes=4) as producers:
+    with mp.Pool(processes=1) as producers:
         results = []
         for pdf_meta in pdf_metadata_from_db(conn):
             result = producers.apply_async(proc_chunk, (pdf_meta, queue,))
