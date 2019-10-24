@@ -5,6 +5,7 @@ information about each chunk of pdf files.
 """
 import asyncio
 from collections import OrderedDict
+from itertools import dropwhile
 import logging
 from os.path import join, dirname
 import re
@@ -142,10 +143,14 @@ async def pdf_metadata_to_db(trunc=True):
 
 
 
-def pdf_metadata_from_db(conn):
+def pdf_metadata_from_db(conn, skip_to=None):
     """Fetches the metadata inserted in previous step"""
     cur = conn.cursor()
-    cur.execute("SELECT * FROM pdf_chunks_meta;")
+    if skip_to:
+        cur.execute("""SELECT * FROM pdf_chunks_meta WHERE filename > %s
+            ORDER BY filename;""" % (skip_to))
+    else:
+        cur.execute("SELECT * FROM pdf_chunks_meta ORDER BY filename;")
     for row in cur.fetchall():
         yield dict(zip(FIELDS, row))
 
