@@ -89,7 +89,8 @@ ENV/
 .ropeproject
 
 scrape/metadata/*
-scrape/source-metadata/*
+cleaning/src-sample/*
+cleaning/temp
 
 # sqlite3
 arxiv.db

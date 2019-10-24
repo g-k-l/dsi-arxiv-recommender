@@ -1,0 +1,28 @@
+<?xml version='1.0' standalone='yes'?>
+<arXivPDF>
+  <file>
+    <content_md5sum>07234b3a03a15391c5cf7ce4905c136f</content_md5sum>
+    <filename>pdf/arXiv_pdf_0001_001.tar</filename>
+    <first_item>astro-ph0001001</first_item>
+    <last_item>math0001014</last_item>
+    <md5sum>16857799a6b343586691b56eace826fb</md5sum>
+    <num_items>1797</num_items>
+    <seq_num>1</seq_num>
+    <size>524304163</size>
+    <timestamp>2019-05-22 00:00:05</timestamp>
+    <yymm>0001</yymm>
+  </file>
+  <file>
+    <!-- Has (many) missing fields -->
+    <content_md5sum>7afc83808b796d094d608f66ffed4ab2</content_md5sum>
+    <filename>pdf/arXiv_pdf_0001_002.tar</filename>
+    <first_item>math0001015</first_item>
+    <last_item>quant-ph0001119</last_item>
+    <md5sum>61bb68ffc93b0299be2dad57adc0f740</md5sum>
+    <num_items>548</num_items>
+    <seq_num>2</seq_num>
+    <size>130295764</size>
+    <yymm>0001</yymm>
+  </file>
+    <timestamp>Sat Sep  7 04:52:43 2019</timestamp>
+</arXivPDF>
