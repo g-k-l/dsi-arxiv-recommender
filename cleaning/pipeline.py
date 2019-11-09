@@ -180,16 +180,16 @@ def consumer(queue):
     conn.close()
 
 
-def main():
+def main(skip_to=None):
     manager = mp.Manager()
     queue = manager.Queue()
 
     consumer_p = mp.Process(target=consumer, args=(queue,))
     consumer_p.start()
     conn = pgconn()
-    with mp.Pool(processes=1) as producers:
+    with mp.Pool(processes=os.cpu_count()-1) as producers:
         results = []
-        for pdf_meta in pdf_metadata_from_db(conn):
+        for pdf_meta in pdf_metadata_from_db(conn, skip_to):
             result = producers.apply_async(proc_chunk, (pdf_meta, queue,))
             results.append(result)
         # block until producers finish all tasks
