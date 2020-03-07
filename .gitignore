@@ -97,3 +97,6 @@ arxiv.db
 
 # configs
 config.ini
+
+# ctags tag file
+tags
